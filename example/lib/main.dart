@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:iconify_flutter/iconify_flutter.dart';
-import 'package:iconify_flutter/icons/bi.dart';
+import 'package:iconify_flutter/icons/zondicons.dart'; // for Non Colorful Icons
 
 void main() {
   runApp(const MyApp());
@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: const Iconify(Bi.align_top, color: Colors.blue, size: 100),
+      body: const Iconify(Zondicons.airplane, color: Colors.blue, size: 100),
       appBar: AppBar(
         title: Text(widget.title),
       ),

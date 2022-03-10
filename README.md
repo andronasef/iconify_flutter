@@ -24,7 +24,7 @@ import 'package:colorful_iconify_flutter/icons/emojione.dart'; // for Colorful I
 ....
 
 :
-Iconify(Zondicons.fairplane)
+Iconify(Zondicons.airplane)
 Iconify(Emojione.baby)
 // as widgets
 ```
@@ -76,4 +76,4 @@ All icon sets are free but Some collections require attribution when used for co
 - [ ] Get first 100 stars on [github.com](https://github.com/andronasef/iconify_flutter/)
 - [ ] Add tests to package
 - [ ] Get Flutter Favourite Badge
-- [ ] Add colorful icons to iconify_flutter
+- [x] Add colorful icons to iconify_flutter
