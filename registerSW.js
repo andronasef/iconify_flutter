@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/iconify_flutter/sw.js', { scope: '/iconify_flutter/' })})}
