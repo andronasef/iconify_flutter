@@ -1,0 +1,29 @@
+name: Making Website
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: website
+
+jobs:
+  Deploying:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+
+      - name: Install dependencies
+        run: npm i
+
+      - name: Building Website
+        run: npm run build
+
+      - name: Publishing Website
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./website/dist
