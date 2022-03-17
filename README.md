@@ -3,11 +3,11 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 <h1 align="center">Iconify Flutter</h1>
 <a href="https://andronasef.ninja/iconify_flutter/"><img src="https://github.com/andronasef/iconify_flutter/raw/master/website/screenshots/1.png"/></a>
 
-<div align="center"> 
+<div align="center" style="margin-top:10px"> 
   
-[![likes](https://badges.bar/iconify_flutter/likes)](https://pub.dev/packages/sentry/score)
-[![GitHub stars](https://img.shields.io/github/stars/andronasef/iconify_flutter.svg?style=flat&label=Star&maxAge=2592000&logo=github&color=success)](https://github.com/andronasef/iconify_flutter/)
-[![HitCount](https://hits.dwyl.com/andronasef/iconify_flutter.svg?style=flat)](http://hits.dwyl.com/andronasef/iconify_flutter)
+[![likes](https://badges.bar/iconify_flutter/likes)](https://pub.dev/packages/iconify_flutter/score)
+[![GitHub stars](https://img.shields.io/github/stars/andronasef/iconify_flutter.svg?style=flat&label=Star&maxAge=36&logo=github&color=success)](https://github.com/andronasef/iconify_flutter/)
+[![HitCount](https://hits.dwyl.com/andronasef/iconify_flutter.svg?style=flat)](https://hits.dwyl.com/andronasef/iconify_flutter)
 
 </div>
 
@@ -23,7 +23,7 @@ import 'package:iconify_flutter/icons/zondicons.dart'; // for Non Colorful Icons
 import 'package:colorful_iconify_flutter/icons/emojione.dart'; // for Colorful Icons
 ....
 
-:
+
 Iconify(Zondicons.airplane)
 Iconify(Emojione.baby)
 // as widgets

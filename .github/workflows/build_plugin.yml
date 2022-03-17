@@ -14,8 +14,12 @@ jobs:
 
       - name: Install Dependencies
         run: npm i && flutter pub get
+
       - name: Building Icons
         run: node generator/gen.js
+
+      - name: Formating the Package
+        run: flutter format .
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
