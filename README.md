@@ -5,7 +5,7 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 
 <div align="center" style="margin-top:10px"> 
   
-[![likes](https://badges.bar/iconify_flutter/likes)](https://pub.dev/packages/iconify_flutter/score)
+[![likes](https://badges.bar/iconify_flutter/likes)](https://pub.dev/packages/iconify_flutter)
 [![GitHub stars](https://img.shields.io/github/stars/andronasef/iconify_flutter.svg?style=flat&label=Star&maxAge=36&logo=github&color=success)](https://github.com/andronasef/iconify_flutter/)
 [![HitCount](https://hits.dwyl.com/andronasef/iconify_flutter.svg?style=flat)](https://hits.dwyl.com/andronasef/iconify_flutter)
 
