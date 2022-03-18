@@ -17,7 +17,7 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 
 First of course you need to install it
 ```console
-$flutter pub add iconify_flutter
+$ flutter pub add iconify_flutter
 ```
 
 Then it as easy as this
