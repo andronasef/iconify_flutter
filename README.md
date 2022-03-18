@@ -6,7 +6,7 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 <div align="center" style="margin-top:10px"> 
   
 [![likes](https://badges.bar/iconify_flutter/likes)](https://pub.dev/packages/iconify_flutter)
-[![GitHub stars](https://img.shields.io/github/stars/andronasef/iconify_flutter.svg?style=flat&label=Star&maxAge=36&logo=github&color=success)](https://github.com/andronasef/iconify_flutter/)
+[![GitHub stars](https://img.shields.io/github/stars/andronasef/iconify_flutter.svg?style=flat&label=Star&maxAge=3600&logo=github&color=success)](https://github.com/andronasef/iconify_flutter/)
 [![HitCount](https://hits.dwyl.com/andronasef/iconify_flutter.svg?style=flat)](https://hits.dwyl.com/andronasef/iconify_flutter)
 
 </div>
@@ -15,10 +15,15 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 
 ## How to use? 🤔
 
-As easy as this
+First of course you need to install it
+```console
+$flutter pub add iconify_flutter
+```
+
+Then it as easy as this
 
 ```dart
-import 'package:iconify_flutter/iconify_flutter.dart';
+import 'package:iconify_flutter/iconify_flutter.dart'; // For Iconify Widget
 import 'package:iconify_flutter/icons/zondicons.dart'; // for Non Colorful Icons
 import 'package:colorful_iconify_flutter/icons/emojione.dart'; // for Colorful Icons
 ....

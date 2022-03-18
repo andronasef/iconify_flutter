@@ -8,10 +8,10 @@
     <div>
       <Icon class="p-4 text-8xl" :icon="icon" />
     </div>
-    <div class="rounded-md bg-gray-200 md:w-2/5 dark:(bg-transparent border-1) ">
+    <div class="rounded-md bg-gray-200 md:w-2/5 dark:(bg-transparent border-1)">
       <div class="relative">
         <button
-          class="rounded-md bg-[#329672] text-white py-2 px-2 transform transition top-2 right-2 absolute dark:(bg-transparent border-1) hover:scale-105 active:scale-95 "
+          class="rounded-md bg-[#329672] text-white py-2 px-2 transform transition top-2 right-2 absolute dark:(bg-transparent border-1) hover:scale-105 active:scale-95"
           @click="copy()"
         >
           <span class="iconify" data-icon="ion:copy" />
@@ -20,7 +20,7 @@
       <p class="p-3" id="code">
         import 'package:iconify_flutter/iconify_flutter.dart';
         <br />
-        import 'package:iconify_flutter/icons/{{ iconSetNameFile() }}.dart';
+        import 'package: {{ useCurrentCollection().value?.palette ? "colorful_iconify_flutter" : "iconify_flutter" }}/icons/{{ iconSetNameFile() }}.dart';
         <br />
         <br />
         Iconify({{ iconSetName() }}.{{ iconName() }}) // widget
@@ -37,7 +37,7 @@
 <script setup lang='ts'>
 import copyText from 'copy-text-to-clipboard'
 import { getTransformedId } from '../store'
-
+import { useCurrentCollection } from '../store'
 const reservedWords = ['assert', 'break', 'case', 'catch', 'class', 'const', 'continue', 'default', 'do', 'else', 'enum', 'extends', 'false', 'final', 'finally', 'for', 'if', 'in', 'is', 'new', 'null', 'rethrow', 'return', 'super', 'switch', 'this', 'throw', 'true', 'try', 'var', 'void', 'while', 'with', 'async', 'hide', 'on', 'show', 'sync', 'abstract', 'as', 'covariant', 'deferred', 'dynamic', 'export', 'extension', 'external', 'factory', 'function', 'get', 'implements', 'import', 'interface', 'library', 'mixin', 'operator', 'part', 'set', 'static', 'typedef', 'await', 'yield']
 
 const props = defineProps({
@@ -64,7 +64,7 @@ function iconSetName() {
 }
 
 function iconName() {
-  let newName = transformedId.value
+  let newName = transformedId.value.replace(/-/g, '_')
   newName = newName.split(':')[1]
   if (newName === iconSetName() || /^\W|^\d/gm.test(newName) || reservedWords.includes(newName))
     newName = `_${newName}`
@@ -72,7 +72,7 @@ function iconName() {
 }
 
 const copy = async () => {
-  const text = document.getElementById('code').innerText
+  const text = document.getElementById('code')?.innerText
   if (!text) return
 
   copied.value = copyText(text)
