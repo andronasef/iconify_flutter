@@ -20,7 +20,7 @@
       <p class="p-3" id="code">
         import 'package:iconify_flutter/iconify_flutter.dart';
         <br />
-        import 'package: {{ useCurrentCollection().value?.palette ? "colorful_iconify_flutter" : "iconify_flutter" }}/icons/{{ iconSetNameFile() }}.dart';
+        import 'package:{{ thisCollection?.palette ? "colorful_iconify_flutter" : "iconify_flutter" }}/icons/{{ iconSetNameFile() }}.dart';
         <br />
         <br />
         Iconify({{ iconSetName() }}.{{ iconName() }}) // widget
@@ -36,9 +36,12 @@
 
 <script setup lang='ts'>
 import copyText from 'copy-text-to-clipboard'
+import { CollectionMeta, getMeta } from '../data'
 import { getTransformedId } from '../store'
-import { useCurrentCollection } from '../store'
 const reservedWords = ['assert', 'break', 'case', 'catch', 'class', 'const', 'continue', 'default', 'do', 'else', 'enum', 'extends', 'false', 'final', 'finally', 'for', 'if', 'in', 'is', 'new', 'null', 'rethrow', 'return', 'super', 'switch', 'this', 'throw', 'true', 'try', 'var', 'void', 'while', 'with', 'async', 'hide', 'on', 'show', 'sync', 'abstract', 'as', 'covariant', 'deferred', 'dynamic', 'export', 'extension', 'external', 'factory', 'function', 'get', 'implements', 'import', 'interface', 'library', 'mixin', 'operator', 'part', 'set', 'static', 'typedef', 'await', 'yield']
+
+const thisCollection = ref<CollectionMeta | null>(null)
+
 
 const props = defineProps({
   icon: {
@@ -48,12 +51,16 @@ const props = defineProps({
   showCollection: {
     type: Boolean,
     required: true,
-  },
+  }
+
 })
 
 const copied = ref(false)
 
 const transformedId = computed(() => getTransformedId(props.icon))
+function iconsetid() {
+  return transformedId.value.split(":")[0]
+}
 
 function iconSetNameFile() {
   return transformedId.value.split(':')[0].replace(/-/g, '_')
@@ -80,5 +87,13 @@ const copy = async () => {
     copied.value = false
   }, 2000)
 }
+
+watch(transformedId, async () => {
+  thisCollection.value = (await getMeta(iconsetid()))
+  console.log(thisCollection.value?.palette)
+
+})
+
+
 
 </script>

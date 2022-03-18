@@ -61,9 +61,11 @@ import 'package:iconify_flutter/icons/zondicons.dart';
 Zondicons.iconsList // List of all icons of VS Code icon set
 ```
 
-## Important Note ❗
+## Important Notes ❗
 
-All icon sets are free but Some collections require attribution when used for commercial purposes. See [This List](https://github.com/iconify/icon-sets/blob/master/collections.md) of collections and their licenses.
+- There is two diffrent versions of icons packages(package:colorful_iconify_flutter/icons/) colorful icons sets and (package:iconify_flutter/icons/) for un colorful icons sets. so please use the right package name
+
+- All icon sets are free but Some collections require attribution when used for commercial purposes. See [This List](https://github.com/iconify/icon-sets/blob/master/collections.md) of collections and their licenses.
 
 ## Thanks to 🙏
 
