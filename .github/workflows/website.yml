@@ -20,7 +20,7 @@ jobs:
         run: npm run build
 
       - name: Make 404
-        run: cp ./website/dist/index.html ./website/dist/404.html
+        run: cp ./dist/index.html ./dist/404.html
 
       - name: Publishing Website
         uses: peaceiris/actions-gh-pages@v3
