@@ -16,6 +16,7 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 ## How to use? 🤔
 
 First of course you need to install it
+
 ```console
 $ flutter pub add iconify_flutter
 ```
@@ -81,6 +82,5 @@ Zondicons.iconsList // List of all icons of VS Code icon set
 
 - [ ] Get first 100 likes on [pub.dev](https://pub.dev/packages/iconify_flutter/)
 - [ ] Get first 100 stars on [github.com](https://github.com/andronasef/iconify_flutter/)
-- [ ] Add tests to package
 - [ ] Get Flutter Favourite Badge
 - [x] Add colorful icons to iconify_flutter

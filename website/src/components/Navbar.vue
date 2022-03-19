@@ -30,7 +30,7 @@
       <h1
         class="flex-auto font-light m-auto text-xl text-center py-1"
         style="letter-spacing: 2px"
-      >Iconify Flutter Explorer</h1>
+      >Iconify</h1>
       <router-link class="flex-none my-auto mx-3 text-xl non-dragging" to="/collection/all">
         <IconButton icon="carbon:search" style="padding-bottom: 3px" />
       </router-link>
