@@ -1,6 +1,6 @@
 name: iconify_flutter
 description: '100+ open source icon sets for flutter to make you app more beautiful'
-version: 0.0.2
+version: 0.0.3
 homepage: 'https://github.com/andronasef/iconify_flutter'
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^1.0.3
+  flutter_svg: ^1.0.0
   colorful_iconify_flutter: null
 
 dev_dependencies:
