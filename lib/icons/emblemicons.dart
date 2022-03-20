@@ -1,1 +1,3 @@
-class Emblemicons {List iconsList = [];}
+class Emblemicons {
+  List iconsList = [];
+}
