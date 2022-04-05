@@ -1,27 +1,28 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/carbon
 class Carbon {
-  static const String _3d_cursor =
+  static const String i_3d_cursor =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M13 4H4v9.01h2V6h7V4zm16.49 9.12-9-5a1 1 0 00-1 0l-9 5A1 1 0 0010 14v10a1 1 0 00.52.87l9 5A1 1 0 0020 30a1.05 1.05 0 00.49-.13l9-5A1 1 0 0030 24V14a1 1 0 00-.51-.88zM19 27.3l-7-3.89v-7.72l7 3.89zm1-9.45L13.06 14 20 10.14 26.94 14zm8 5.56-7 3.89v-7.72l7-3.89z"/></svg>';
-  static const String _3d_cursor_alt =
+  static const String i_3d_cursor_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 30a14 14 0 1114-14 14.016 14.016 0 01-14 14zm0-26a12 12 0 1012 12A12.014 12.014 0 0016 4z"/><path fill="currentColor" d="M15 7h2v7h-2zm-8 8h7v2H7zm8 3h2v7h-2zm3-3h7v2h-7z"/></svg>';
-  static const String _3d_curve_auto_colon =
+  static const String i_3d_curve_auto_colon =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M9.5 8h10.6a5 5 0 100-2H9.5a5.5 5.5 0 000 11h11a3.5 3.5 0 010 7h-8.6a5 5 0 100 2h8.6a5.5 5.5 0 000-11h-11a3.5 3.5 0 010-7zM25 4a3 3 0 11-3 3 3 3 0 013-3zM7 28a3 3 0 113-3 3 3 0 01-3 3z"/></svg>';
-  static const String _3d_curve_auto_vessels =
+  static const String i_3d_curve_auto_vessels =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M17 11a3 3 0 013-3h.1a5 5 0 100-2H20a5 5 0 00-5 5v1h-2a3 3 0 01-3-3V7a5 5 0 00-5-5H4v2h1a3 3 0 013 3v2a5 5 0 005 5h2v7a3 3 0 01-3 3h-.1a5 5 0 100 2h.1a5 5 0 005-5h2.5a2.5 2.5 0 012.5 2.5 4.51 4.51 0 004.5 4.5H28v-2h-1.5a2.5 2.5 0 01-2.5-2.5 4.51 4.51 0 00-4.5-4.5H17zm8-7a3 3 0 11-3 3 3 3 0 013-3zM7 28a3 3 0 113-3 3 3 0 01-3 3z"/></svg>';
-  static const String _3d_curve_manual =
+  static const String i_3d_curve_manual =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M15 21a3 3 0 01-3 3h-.1a5 5 0 100 2h.1a5 5 0 005-5zm-8 7a3 3 0 113-3 3 3 0 01-3 3zm8-15h2v6h-2zM25 2a5 5 0 00-4.9 4H20a5 5 0 00-5 5h2a3 3 0 013-3h.1A5 5 0 1025 2zm0 8a3 3 0 113-3 3 3 0 01-3 3z"/></svg>';
-  static const String _3d_ica =
+  static const String i_3d_ica =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M15 14h-5a2 2 0 01-2-2V4a2 2 0 01.59-1.42A3.57 3.57 0 0110 2h5v2h-5v8h5zM4 6h2v8H4zm0-4h2v2H4zm23.45 17.11-6-3a1 1 0 00-.9 0l-6 3A1 1 0 0014 20v7a1 1 0 00.55.89l6 3a1 1 0 00.9 0l6-3A1 1 0 0028 27v-7a1 1 0 00-.55-.89zm-6.45-1L24.76 20 21 21.88 17.24 20zm-5 3.5 4 2v4.76l-4-2zm6 6.76v-4.75l4-2v4.76zM23 2h-4a2 2 0 00-2 2v10h2v-4h4v4h2V4a2 2 0 00-2-2zm-4 6V4h4v4z"/></svg>';
-  static const String _3d_mpr_toggle =
+  static const String i_3d_mpr_toggle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M11 2H2v9h2V4h7V2zM2 21v9h9v-2H4v-7H2zm28-10V2h-9v2h7v7h2zm-9 19h9v-9h-2v7h-7v2zm4.49-19.87-9-5a1 1 0 00-1 0l-9 5A1 1 0 006 11v10a1 1 0 00.51.87l9 5a1 1 0 001 0l9-5A1 1 0 0026 21V11a1 1 0 00-.51-.87zM16 7.14 22.94 11 16 14.86 9.06 11zM8 12.7l7 3.89v7.71l-7-3.89zm9 11.6v-7.71l7-3.89v7.71z"/></svg>';
-  static const String _3d_print_mesh =
+  static const String i_3d_print_mesh =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m29.976 15.783-2-9a1 1 0 00-.421-.615l-6-4A1 1 0 0021 2H11a1 1 0 00-.555.168l-6 4a1 1 0 00-.421.615l-2 9a1.002 1.002 0 00.018.504l3 10a1 1 0 00.67.671l10 3h.006a.979.979 0 00.564 0h.005l10-3a1 1 0 00.671-.67l3-10a1.002 1.002 0 00.018-.505zm-19.05.833-3.91-7.819 7.282 2.648zM16 12.497 19.589 18H12.41zM19.382 20 16 26.764 12.618 20zm-1.68-8.555 7.281-2.648-3.91 7.82zm.488-2.305 3.096-4.747 3.515 2.343zM16 8.836 12.846 4h6.308zm-2.19.304L7.2 6.736l3.514-2.343zm-4.844 8.03-4.802-1.801 1.201-5.402zm5.104 10.207-6.502-1.95 3.128-4.798zm7.233-6.748 3.129 4.797-6.502 1.951zm5.332-10.662 1.2 5.402-4.802 1.8zM4.537 17.645l4.595 1.722-2.793 4.283zm21.124 6.005-2.793-4.283 4.595-1.722z"/></svg>';
-  static const String _3d_software =
+  static const String i_3d_software =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m21.49 13.115-9-5a1 1 0 00-1 0l-9 5A1.008 1.008 0 002 14v9.995a1 1 0 00.52.87l9 5A1.004 1.004 0 0012 30a1.056 1.056 0 00.49-.135l9-5A.992.992 0 0022 24V14a1.008 1.008 0 00-.51-.885zM11 27.295l-7-3.89v-7.72l7 3.89zm1-9.45L5.06 14 12 10.135l6.94 3.86zm8 5.56-7 3.89v-7.72l7-3.89zM30 6h-4V2h-2v4h-4v2h4v4h2V8h4V6z"/></svg>';
-  static const String _3rd_party_connected =
+  static const String i_3rd_party_connected =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26 22a3.86 3.86 0 00-2 .57l-3.09-3.1a6 6 0 000-6.94L24 9.43a3.86 3.86 0 002 .57 4 4 0 10-4-4 3.86 3.86 0 00.57 2l-3.1 3.09a6 6 0 00-6.94 0L9.43 8A3.86 3.86 0 0010 6a4 4 0 10-4 4 3.86 3.86 0 002-.57l3.09 3.1a6 6 0 000 6.94L8 22.57A3.86 3.86 0 006 22a4 4 0 104 4 3.86 3.86 0 00-.57-2l3.1-3.09a6 6 0 006.94 0l3.1 3.09a3.86 3.86 0 00-.57 2 4 4 0 104-4zm-10-2a4 4 0 114-4 4 4 0 01-4 4z"/></svg>';
-  static const String _4k =
+  static const String i_4k =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M12 11.03v4h-2v-4H8v6h4v4h2v-10h-2zm12.19 0H22l-3 4.39v-4.39h-2v10h2V18.3l.91-1.33L22 21.03h2.19l-2.99-5.62 2.99-4.38z"/><path fill="currentColor" d="M28 26H4a2 2 0 01-2-2V8a2 2 0 012-2h24a2 2 0 012 2v16a2 2 0 01-2 2ZM4 8v16h24V8Z"/></svg>';
-  static const String _4k_filled =
+  static const String i_4k_filled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M28 6H4a2 2 0 00-2 2v16a2 2 0 002 2h24a2 2 0 002-2V8a2 2 0 00-2-2ZM14 21h-2v-4H8v-6h2v4h2v-4h2Zm10.19 0H22l-2.09-4.06-.91 1.33V21h-2V11h2v4.39L22 11h2.19l-3 4.38Z"/></svg>';
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m29.55 26.11-3.05 1.52L23.66 21H15a2 2 0 01-2-2v-6a2 2 0 014 0v4h7v-2h-5v-2a4 4 0 00-8 0v1a9 9 0 108.77 11h-2.06A7 7 0 1111 16v3a4 4 0 004 4h7.34l3.16 7.37 4.95-2.48zM15.5 8A3.5 3.5 0 1119 4.5 3.5 3.5 0 0115.5 8zm0-5A1.5 1.5 0 1017 4.5 1.5 1.5 0 0015.5 3z"/></svg>';
@@ -151,8 +152,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M28 10h-6v14h2v-4h4a2.003 2.003 0 002-2v-6a2.002 2.002 0 00-2-2zm-4 8v-6h4v6zm-6-8h-6v14h2v-4h4a2.003 2.003 0 002-2v-6a2.002 2.002 0 00-2-2zm-4 8v-6h4v6zm-6-8H3v2h5v2H4a2 2 0 00-2 2v2a2 2 0 002 2h6v-8a2.002 2.002 0 00-2-2zm0 8H4v-2h4z"/></svg>';
   static const String app_connectivity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M20 14h8a2.002 2.002 0 002-2V4a2.002 2.002 0 00-2-2h-8a2.002 2.002 0 00-2 2H9a2.002 2.002 0 00-2 2v4H4a2.002 2.002 0 00-2 2v8a2.002 2.002 0 002 2h2v4a2.002 2.002 0 002 2h10a2.002 2.002 0 002 2h8a2.002 2.002 0 002-2v-8a2.002 2.002 0 00-2-2h-8a2.002 2.002 0 00-2 2v6H8v-4h4a2.002 2.002 0 002-2v-8a2.002 2.002 0 00-2-2H9V6h9v6a2.002 2.002 0 002 2Zm0 14v-4h8v4Zm8-8v2h-8v-2ZM4 20v-4h8v4Zm8-6H4v-2h8Zm8-2V8h8v4Zm8-8v2h-8V4Z"/></svg>';
-  static const String app_switcher =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M14 4h4v4h-4zM4 4h4v4H4zm20 0h4v4h-4zM14 14h4v4h-4zM4 14h4v4H4zm20 0h4v4h-4zM14 24h4v4h-4zM4 24h4v4H4zm20 0h4v4h-4z"/></svg>';
   static const String apple =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M21.779 8a11.484 11.484 0 00-3.055.534 14.566 14.566 0 01-1.822.413A6.005 6.005 0 0011 4v2a3.993 3.993 0 013.827 2.9 20.115 20.115 0 01-1.617-.365A12.89 12.89 0 0010.032 8C6.31 8 4 11.065 4 16c0 7.51 4.068 11.999 8 12h.002a7.158 7.158 0 002.49-.59A5.013 5.013 0 0116 27a5.027 5.027 0 011.511.41A7.15 7.15 0 0020 28c3.93-.001 8-4.49 8-12 0-3.69-1.63-8-6.221-8ZM20 26a5.504 5.504 0 01-1.79-.464A6.417 6.417 0 0016 25a6.404 6.404 0 00-2.206.536A5.534 5.534 0 0112 26h.002C9.052 25.999 6 22.259 6 16c0-1.804.393-6 4.032-6a11.236 11.236 0 012.68.473 12.982 12.982 0 003.05.527h.491a11.796 11.796 0 002.996-.536 9.848 9.848 0 012.53-.464C25.796 10 26 14.998 26 16c0 6.259-3.052 9.999-6 10Z"/><path fill="currentColor" d="M18 7h-1V6a2.002 2.002 0 012-2h1v1a2.002 2.002 0 01-2 2Z"/></svg>';
   static const String application =
@@ -193,8 +192,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M22 6v2H9.41L26 24.59 24.59 26 8 9.41V22H6V6h16z"/></svg>';
   static const String arrow_up_right =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M10 6v2h12.59L6 24.59 7.41 26 24 9.41V22h2V6H10z"/></svg>';
-  static const String arrows =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M27.6 20.6 24 24.2V4h-2v20.2l-3.6-3.6L17 22l6 6 6-6zM9 4l-6 6 1.4 1.4L8 7.8V28h2V7.8l3.6 3.6L15 10z"/></svg>';
   static const String arrows_horizontal =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M11.41 26.59 7.83 23H28v-2H7.83l3.58-3.59L10 16l-6 6 6 6 1.41-1.41zM28 10l-6-6-1.41 1.41L24.17 9H4v2h20.17l-3.58 3.59L22 16l6-6z"/></svg>';
   static const String arrows_vertical =
@@ -235,8 +232,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M22 28H12v-2h10V10H6v10H4V10a2.002 2.002 0 012-2h16a2.002 2.002 0 012 2v16a2.002 2.002 0 01-2 2Z"/><path fill="currentColor" d="M28 22h-2v-2h2V4H12v2h-2V4a2.002 2.002 0 012-2h16a2.002 2.002 0 012 2v16a2.002 2.002 0 01-2 2Z"/><path fill="currentColor" d="M10 14v2h4.586L3 27.586 4.414 29 16 17.414V22h2v-8h-8z"/></svg>';
   static const String awake =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M15 2h2v4.96h-2zm6.687 6.89 3.507-3.506 1.414 1.414-3.507 3.507zM25.04 15H30v2h-4.96zm-3.347 8.104 1.414-1.414 3.507 3.507L25.2 26.61zM15 25.04h2V30h-2zm-9.604.162 3.508-3.507 1.414 1.414-3.507 3.507zM2 15h4.96v2H2zm3.39-8.197 1.415-1.414 3.507 3.507-1.414 1.414zM16 12a4 4 0 11-4 4 4 4 0 014-4m0-2a6 6 0 106 6 6 6 0 00-6-6Z"/></svg>';
-  static const String back_to_top =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 14 6 24l1.4 1.4 8.6-8.6 8.6 8.6L26 24zM4 8h24v2H4z"/></svg>';
   static const String badge =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m23 2 1.593 3L28 5.414l-2.5 2.253L26 11l-3-1.875L20 11l.5-3.333L18 5.414 21.5 5 23 2z"/><path fill="currentColor" d="m22.717 13.249-1.938-.498a6.994 6.994 0 11-5.028-8.531l.499-1.937A8.99 8.99 0 008 17.69V30l6-4 6 4V17.708a8.963 8.963 0 002.717-4.459ZM18 26.263l-4-2.667-4 2.667V19.05a8.924 8.924 0 008 .006Z"/></svg>';
   static const String baggage_claim =
@@ -623,8 +618,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M10 14h12v4H10z"/><path fill="currentColor" d="M26 4H6a2 2 0 00-2 2v20a2 2 0 002 2h20a2 2 0 002-2V6a2 2 0 00-2-2ZM6 26V6h20v20Z"/></svg>';
   static const String checkbox_indeterminate_filled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26 4H6a2 2 0 00-2 2v20a2 2 0 002 2h20a2 2 0 002-2V6a2 2 0 00-2-2Zm-4 14H10v-4h12Z"/><path fill="currentColor" d="M22 18H10v-4h12Z"/></svg>';
-  static const String checkbox_undeterminate =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M10 14h12v4H10z"/><path fill="currentColor" d="M26 4H6a2 2 0 00-2 2v20a2 2 0 002 2h20a2 2 0 002-2V6a2 2 0 00-2-2ZM6 26V6h20v20Z"/></svg>';
   static const String checkbox_undeterminate_filled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26 4H6a2 2 0 00-2 2v20a2 2 0 002 2h20a2 2 0 002-2V6a2 2 0 00-2-2Zm-4 14H10v-4h12Z"/></svg>';
   static const String checkmark =
@@ -733,16 +726,12 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 7a7.66 7.66 0 011.51.15 8 8 0 016.35 6.34l.26 1.35 1.35.24a5.5 5.5 0 01-1 10.92H7.5a5.5 5.5 0 01-1-10.92l1.34-.24.26-1.35A8 8 0 0116 7m0-2a10 10 0 00-9.83 8.12A7.5 7.5 0 007.49 28h17a7.5 7.5 0 001.32-14.88 10 10 0 00-7.94-7.94A10.27 10.27 0 0016 5Z"/><path fill="currentColor" d="M14 24h-3a2 2 0 01-2-2v-3a2 2 0 012-2h3v2h-3v3h3zm7-9v-2h-2a2 2 0 00-2 2v2h-1v2h1v5h2v-5h2v-2h-2v-2z"/></svg>';
   static const String cloud_foundry_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M25 11V9h-8v14h2v-6h5v-2h-5v-4h6zM15 23H9a2 2 0 01-2-2V11a2 2 0 012-2h6v2H9v10h6z"/></svg>';
-  static const String cloud_lightning =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M11.61 29.92a1 1 0 01-.6-1.07L12.83 17H8a1 1 0 01-1-1.23l3-13A1 1 0 0111 2h10a1 1 0 01.78.37 1 1 0 01.2.85L20.25 11H25a1 1 0 01.9.56 1 1 0 01-.11 1l-13 17A1 1 0 0112 30a1.09 1.09 0 01-.39-.08ZM17.75 13l2-9H11.8L9.26 15h5.91l-1.59 10.28L23 13Z"/></svg>';
   static const String cloud_logging =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M28 16v6H4V6h11V4H4a2 2 0 00-2 2v16a2 2 0 002 2h8v4H8v2h16v-2h-4v-4h8a2 2 0 002-2v-6zM18 28h-4v-4h4zm0-24h12v2H18z"/><path fill="currentColor" d="M18 8h12v2H18zm0 4h6v2h-6z"/></svg>';
   static const String cloud_monitoring =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M28 16v6H4V6h7V4H4a2 2 0 00-2 2v16a2 2 0 002 2h8v4H8v2h16v-2h-4v-4h8a2 2 0 002-2v-6ZM18 28h-4v-4h4Z"/><path fill="currentColor" d="M18 18h-.01a1 1 0 01-.951-.725L15.246 11H11V9h5a1 1 0 01.962.725l1.074 3.76 3.009-9.78A1.014 1.014 0 0122 3a.98.98 0 01.949.684L24.72 9H30v2h-6a1 1 0 01-.949-.684l-1.013-3.04-3.082 10.018A1 1 0 0118 18Z"/></svg>';
   static const String cloud_offline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M24.8 12.136a8.87 8.87 0 00-.979-2.543L30 3.414 28.587 2 2 28.587 3.414 30l5-5H23.5a6.497 6.497 0 001.3-12.864zM23.5 23H10.414l11.928-11.928a6.905 6.905 0 01.6 2.071l.099.812.815.064A4.497 4.497 0 0123.5 23zm-19.204.449 1.432-1.431a4.477 4.477 0 012.416-7.999l.816-.064.099-.812a6.987 6.987 0 0110.63-5.086l1.443-1.443A8.986 8.986 0 007.2 12.136 6.49 6.49 0 004.296 23.45z"/></svg>';
-  static const String cloud_rain =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M23.5 22h-15A6.5 6.5 0 017.2 9.14a9 9 0 0117.6 0A6.5 6.5 0 0123.5 22zM16 4a7 7 0 00-6.94 6.14L9 11h-.86a4.5 4.5 0 00.36 9h15a4.5 4.5 0 00.36-9H23l-.1-.82A7 7 0 0016 4zm-2 26a.93.93 0 01-.45-.11 1 1 0 01-.44-1.34l2-4a1 1 0 111.78.9l-2 4A1 1 0 0114 30zm6 0a.93.93 0 01-.45-.11 1 1 0 01-.44-1.34l2-4a1 1 0 111.78.9l-2 4A1 1 0 0120 30zM8 30a.93.93 0 01-.45-.11 1 1 0 01-.44-1.34l2-4a1 1 0 111.78.9l-2 4A1 1 0 018 30z"/></svg>';
   static const String cloud_registry =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M28 30h-5a2.002 2.002 0 01-2-2v-5a2.002 2.002 0 012-2h5a2.002 2.002 0 012 2v5a2.002 2.002 0 01-2 2zm-5-7h-.001L23 28h5v-5zm-7 0h-5a2.002 2.002 0 01-2-2V11a2.002 2.002 0 012-2h10a2.002 2.002 0 012 2v5h-2v-5H11v10h5z"/><path fill="currentColor" d="M16 30H4a2.002 2.002 0 01-2-2V4a2.002 2.002 0 012-2h24a2.002 2.002 0 012 2v12h-2V4H4v24h12Z"/></svg>';
   static const String cloud_satellite =
@@ -757,8 +746,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M28 17v5H4V6h10V4H4a2 2 0 00-2 2v16a2 2 0 002 2h8v4H8v2h16v-2h-4v-4h8a2 2 0 002-2v-5ZM18 28h-4v-4h4Z"/><path fill="currentColor" d="M30 10V8h-2.101a4.968 4.968 0 00-.732-1.753l1.49-1.49-1.414-1.414-1.49 1.49A4.968 4.968 0 0024 4.101V2h-2v2.101a4.968 4.968 0 00-1.753.732l-1.49-1.49-1.414 1.414 1.49 1.49A4.968 4.968 0 0018.101 8H16v2h2.101a4.968 4.968 0 00.732 1.753l-1.49 1.49 1.414 1.414 1.49-1.49a4.968 4.968 0 001.753.732V16h2v-2.101a4.968 4.968 0 001.753-.732l1.49 1.49 1.414-1.414-1.49-1.49A4.968 4.968 0 0027.899 10Zm-7 2a3 3 0 113-3 3.003 3.003 0 01-3 3Z"/></svg>';
   static const String cloud_services =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M25.822 10.124a10 10 0 00-19.644 0A7.496 7.496 0 007.5 25H8v-2h-.5a5.496 5.496 0 01-.377-10.98l.836-.057.09-.833a7.998 7.998 0 0115.902 0l.09.833.836.058A5.496 5.496 0 0124.5 23H24v2h.5a7.496 7.496 0 001.322-14.876Z"/><path fill="currentColor" d="M23 22v-2h-2.101a4.968 4.968 0 00-.732-1.753l1.49-1.49-1.414-1.414-1.49 1.49A4.968 4.968 0 0017 16.101V14h-2v2.101a4.968 4.968 0 00-1.753.732l-1.49-1.49-1.414 1.414 1.49 1.49A4.968 4.968 0 0011.101 20H9v2h2.101a4.968 4.968 0 00.732 1.753l-1.49 1.49 1.414 1.414 1.49-1.49a4.968 4.968 0 001.753.732V28h2v-2.101a4.968 4.968 0 001.753-.732l1.49 1.49 1.414-1.414-1.49-1.49A4.968 4.968 0 0020.899 22Zm-7 2a3 3 0 113-3 3.003 3.003 0 01-3 3Z"/></svg>';
-  static const String cloud_snow =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M23.5 22h-15A6.5 6.5 0 017.2 9.14a9 9 0 0117.6 0A6.5 6.5 0 0123.5 22zM16 4a7 7 0 00-6.94 6.14L9 11h-.86a4.5 4.5 0 00.36 9h15a4.5 4.5 0 00.36-9H23l-.1-.82A7 7 0 0016 4zm-4 21.05L10.95 24 9.5 25.45 8.05 24 7 25.05l1.45 1.45L7 27.95 8.05 29l1.45-1.45L10.95 29 12 27.95l-1.45-1.45L12 25.05zm14 0L24.95 24l-1.45 1.45L22.05 24 21 25.05l1.45 1.45L21 27.95 22.05 29l1.45-1.45L24.95 29 26 27.95l-1.45-1.45L26 25.05zm-7 2L17.95 26l-1.45 1.45L15.05 26 14 27.05l1.45 1.45L14 29.95 15.05 31l1.45-1.45L17.95 31 19 29.95l-1.45-1.45L19 27.05z"/></svg>';
   static const String cloud_upload =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m11 18 1.41 1.41L15 16.83V29h2V16.83l2.59 2.58L21 18l-5-5-5 5z"/><path fill="currentColor" d="M23.5 22H23v-2h.5a4.5 4.5 0 00.36-9H23l-.1-.82a7 7 0 00-13.88 0L9 11h-.86a4.5 4.5 0 00.36 9H9v2h-.5A6.5 6.5 0 017.2 9.14a9 9 0 0117.6 0A6.5 6.5 0 0123.5 22Z"/></svg>';
   static const String cloudy =
@@ -839,7 +826,7 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><circle cx="21" cy="21" r="2" fill="currentColor"/><circle cx="7" cy="7" r="2" fill="currentColor"/><path fill="currentColor" d="M27 31a4 4 0 114-4 4.012 4.012 0 01-4 4Zm0-6a2 2 0 102 2 2.006 2.006 0 00-2-2Z"/><path fill="currentColor" d="M30 16A14.041 14.041 0 0016 2a13.043 13.043 0 00-6.8 1.8l1.1 1.7a24.425 24.425 0 012.4-1A25.135 25.135 0 0010 15H4a11.149 11.149 0 011.4-4.7L3.9 9A13.842 13.842 0 002 16a13.998 13.998 0 0014 14 13.366 13.366 0 005.2-1l-.6-1.9a11.442 11.442 0 01-5.2.9A21.071 21.071 0 0112 17h17.9a3.402 3.402 0 00.1-1ZM12.8 27.6a13.02 13.02 0 01-5.3-3.1A12.505 12.505 0 014 17h6a25.002 25.002 0 002.8 10.6ZM12 15a21.446 21.446 0 013.3-11h1.4A21.446 21.446 0 0120 15Zm10 0a23.278 23.278 0 00-2.8-10.6A12.092 12.092 0 0127.9 15Z"/></svg>';
   static const String content_view =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><circle cx="16" cy="19" r="2" fill="currentColor"/><path fill="currentColor" d="M23.777 18.479A8.64 8.64 0 0016 13a8.64 8.64 0 00-7.777 5.479L8 19l.223.521A8.64 8.64 0 0016 25a8.64 8.64 0 007.777-5.479L24 19ZM16 23a4 4 0 114-4 4.005 4.005 0 01-4 4Z"/><path fill="currentColor" d="M27 3H5a2 2 0 00-2 2v22a2 2 0 002 2h22a2 2 0 002-2V5a2 2 0 00-2-2ZM5 5h22v4H5Zm0 22V11h22v16Z"/></svg>';
-  static const String _continue =
+  static const String i_continue =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M10 28a1 1 0 01-1-1V5a1 1 0 011.501-.865l19 11a1 1 0 010 1.73l-19 11A.998.998 0 0110 28zm1-21.266v18.532L27 16zM4 4h2v24H4z"/></svg>';
   static const String continue_filled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M10 28a1 1 0 01-1-1V5a1 1 0 011.501-.865l19 11a1 1 0 010 1.73l-19 11A.998.998 0 0110 28zM4 4h2v24H4z"/></svg>';
@@ -1037,8 +1024,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m29.83 20 .34-2-5.17-.85v-4.38l5.06-1.36-.51-1.93-4.83 1.29A9 9 0 0020 5V2h-2v2.23a8.81 8.81 0 00-4 0V2h-2v3a9 9 0 00-4.71 5.82L2.46 9.48 2 11.41l5 1.36v4.38L1.84 18l.32 2L7 19.18a8.9 8.9 0 00.82 3.57l-4.53 4.54 1.42 1.42 4.19-4.2a9 9 0 0014.2 0l4.19 4.2 1.42-1.42-4.54-4.54a8.9 8.9 0 00.83-3.57ZM15 25.92A7 7 0 019 19v-6h6ZM9.29 11a7 7 0 0113.42 0ZM23 19a7 7 0 01-6 6.92V13h6Z"/></svg>';
   static const String decision_tree =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M30 12V4h-8v3h-4a2.002 2.002 0 00-2 2v6h-6v-3H2v8h8v-3h6v6a2.002 2.002 0 002 2h4v3h8v-8h-8v3h-4V9h4v3ZM8 18H4v-4h4Zm16 4h4v4h-4Zm0-16h4v4h-4Z"/></svg>';
-  static const String delete =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M12 12h2v12h-2zm6 0h2v12h-2z"/><path fill="currentColor" d="M4 6v2h2v20a2 2 0 002 2h16a2 2 0 002-2V8h2V6zm4 22V8h16v20zm4-26h8v2h-8z"/></svg>';
   static const String delivery =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M4 16h12v2H4zm-2-5h10v2H2z"/><path fill="currentColor" d="m29.919 16.606-3-7A.999.999 0 0026 9h-3V7a1 1 0 00-1-1H6v2h15v12.556A3.992 3.992 0 0019.142 23h-6.284a4 4 0 100 2h6.284a3.98 3.98 0 007.716 0H29a1 1 0 001-1v-7a.997.997 0 00-.081-.394ZM9 26a2 2 0 112-2 2.002 2.002 0 01-2 2Zm14-15h2.34l2.144 5H23Zm0 15a2 2 0 112-2 2.002 2.002 0 01-2 2Zm5-3h-1.142A3.995 3.995 0 0023 20v-2h5Z"/></svg>';
   static const String delivery_add =
@@ -1361,7 +1346,7 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M20 26h6v2h-6zm0-8h8v2h-8zm0-8h10v2H20zm-5-6h2v24h-2zm-4.414-.041L7 7.249 3.412 3.958 2 5.373 7 10l5-4.627-1.414-1.414z"/></svg>';
   static const String explore =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M22.707 9.293a1 1 0 00-1.023-.242l-9 3a1.001 1.001 0 00-.633.633l-3 9a1 1 0 001.265 1.265l9-3a1.001 1.001 0 00.633-.633l3-9a1 1 0 00-.242-1.023ZM11.581 20.42l2.21-6.628 4.419 4.419Z"/><path fill="currentColor" d="M16 30a14 14 0 1114-14 14.016 14.016 0 01-14 14Zm0-26a12 12 0 1012 12A12.014 12.014 0 0016 4Z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4l.008-.005A1.998 1.998 0 006 30h20a2 2 0 002-2v-4zM6 12l1.411 1.405L15 5.825V24h2V5.825l7.591 7.58L26 12 16 2 6 12z"/></svg>';
   static const String eyedropper =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M2 27h3v3H2zM29.71 7.29l-5-5a1 1 0 00-1.41 0L20 5.59l-1.29-1.3-1.42 1.42L18.59 7 8.29 17.29A1 1 0 008 18v1.59l-2.71 2.7a1 1 0 000 1.41l3 3a1 1 0 001.41 0l2.71-2.7H14a1 1 0 00.71-.29L25 13.41l1.29 1.3 1.42-1.42-1.3-1.29 3.3-3.29a1 1 0 000-1.41zM13.59 22h-2L9 24.59 7.41 23 10 20.41v-2l10-10L23.59 12zM25 10.59 21.41 7 24 4.41 27.59 8z"/></svg>';
@@ -1535,7 +1520,7 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M25 10H7a3.003 3.003 0 00-3 3v6a2.002 2.002 0 002 2v7a2.002 2.002 0 002 2h4a2.002 2.002 0 002-2V16h-2v12H8v-9H6v-6a1 1 0 011-1h18a1 1 0 011 1v6h-2v9h-4V16h-2v12a2.002 2.002 0 002 2h4a2.002 2.002 0 002-2v-7a2.002 2.002 0 002-2v-6a3.003 3.003 0 00-3-3zM10 9a4 4 0 114-4 4.004 4.004 0 01-4 4zm0-6a2 2 0 102 2 2.002 2.002 0 00-2-2zm12 6a4 4 0 114-4 4.004 4.004 0 01-4 4zm0-6a2 2 0 102 2 2.002 2.002 0 00-2-2z"/></svg>';
   static const String fruit_bowl =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26 15a6.003 6.003 0 00-3.107-5.253A3.98 3.98 0 0024 7h-2a2.002 2.002 0 01-2 2 6.004 6.004 0 00-5.995 5.892A7 7 0 0112 10a3.996 3.996 0 00-3-3.858V4H7v2.142A3.996 3.996 0 004 10v5H2v1a14 14 0 0028 0v-1Zm-6-4a4.005 4.005 0 014 4h-8a4.005 4.005 0 014-4ZM6 10a2 2 0 114 0 8.991 8.991 0 001.532 5H6Zm10 18A12.017 12.017 0 014.041 17H27.96A12.017 12.017 0 0116 28Z"/></svg>';
-  static const String _function =
+  static const String i_function =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m19.626 29.526-.516-1.933a12.004 12.004 0 006.121-19.26l1.538-1.28a14.003 14.003 0 01-7.143 22.473Z"/><path fill="currentColor" d="M10 29H8v-3.82l.804-.16C10.262 24.727 12 23.62 12 20v-1.382l-4-2v-2.236l4-2V12c0-5.467 3.925-9 10-9h2v3.82l-.804.16C21.738 7.273 20 8.38 20 12v.382l4 2v2.236l-4 2V20c0 5.467-3.925 9-10 9Zm0-2c4.935 0 8-2.682 8-7v-2.618l3.764-1.882L18 13.618V12c0-4.578 2.385-6.192 4-6.76V5c-4.935 0-8 2.682-8 7v1.618L10.236 15.5 14 17.382V20c0 4.578-2.385 6.192-4 6.76Z"/><path fill="currentColor" d="M5.231 24.947a14.003 14.003 0 017.147-22.474l.516 1.932a12.004 12.004 0 00-6.125 19.263Z"/></svg>';
   static const String function_math =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M26 18h-2l-2 3.897L20 18h-2l2.905 5L18 28h2l2-3.799L24 28h2l-2.902-5L26 18zM19 6V4h-5.087a1.99 1.99 0 00-1.992 1.819L11.27 13H7v2h4.087l-1 11H5v2h5.087a1.99 1.99 0 001.992-1.819L13.095 15H18v-2h-4.723l.636-7z"/></svg>';
@@ -1895,8 +1880,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 22h14v2H16z"/><rect width="6" height="6" x="4" y="20" fill="currentColor" rx="1"/><path fill="currentColor" d="M16 8h14v2H16zm-6.5 4h-5a.5.5 0 01-.447-.724l2.5-5.022a.52.52 0 01.894 0l2.5 5.023A.5.5 0 019.5 12z"/></svg>';
   static const String letter_aa =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M23 13h-5v2h5v2h-4a2 2 0 00-2 2v2a2 2 0 002 2h6v-8a2 2 0 00-2-2zm0 8h-4v-2h4zM13 9H9a2 2 0 00-2 2v12h2v-5h4v5h2V11a2 2 0 00-2-2zm-4 7v-5h4v5z"/></svg>';
-  static const String letter_aa_large =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M25 12h-5v2h5a1 1 0 011 1v2h-4a3.003 3.003 0 00-3 3v1a3.003 3.003 0 003 3h6v-9a3.003 3.003 0 00-3-3zm-3 10a1 1 0 01-1-1v-1a1 1 0 011-1h4v3zm-6 2h2L12 7h-2L4 24h2l1.694-5h6.613zm-7.629-7 2.497-7.371h.266L13.63 17z"/></svg>';
   static const String letter_bb =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M23 13h-4V9h-2v14h6a2 2 0 002-2v-6a2 2 0 00-2-2zm-4 8v-6h4v6zm-4-9a3 3 0 00-3-3H7v14h5a3 3 0 003-3v-2a3 3 0 00-.78-2 3 3 0 00.78-2zm-6-1h3a1 1 0 011 1v2a1 1 0 01-1 1H9zm4 9a1 1 0 01-1 1H9v-4h3a1 1 0 011 1z"/></svg>';
   static const String letter_cc =
@@ -3199,8 +3182,6 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M7.667 27.503 2 22.448l1.331-1.492 5.641 5.031 7.69-7.445a1.928 1.928 0 012.674-.008l3.624 3.464 5.58-5.973L30 17.39l-5.581 5.975a1.996 1.996 0 01-2.838.08l-3.577-3.419-7.666 7.42a1.963 1.963 0 01-2.671.056zM30 11h-4l2-3 2 3zm-8-7h-4v2h4v2h-3v2h3v2h-4v2h4a2.003 2.003 0 002-2V6a2.002 2.002 0 00-2-2zm-6 10h-6v-4a2.002 2.002 0 012-2h2V6h-4V4h4a2.002 2.002 0 012 2v2a2.002 2.002 0 01-2 2h-2v2h4zM6 12V4H4v1H2v2h2v5H2v2h6v-2H6z"/></svg>';
   static const String sun =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 12.005a4 4 0 11-4 4 4.005 4.005 0 014-4m0-2a6 6 0 106 6 6 6 0 00-6-6ZM5.394 6.813 6.81 5.399l3.505 3.506L8.9 10.319zM2 15.005h5v2H2zm3.394 10.193L8.9 21.692l1.414 1.414-3.505 3.506zM15 25.005h2v5h-2zm6.687-1.9 1.414-1.414 3.506 3.506-1.414 1.414zm3.313-8.1h5v2h-5zm-3.313-6.101 3.506-3.506 1.414 1.414-3.506 3.506zM15 2.005h2v5h-2z"/></svg>';
-  static const String sunny =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 12.005a4 4 0 11-4 4 4.005 4.005 0 014-4m0-2a6 6 0 106 6 6 6 0 00-6-6ZM5.394 6.813 6.81 5.399l3.505 3.506L8.9 10.319zM2 15.005h5v2H2zm3.394 10.193L8.9 21.692l1.414 1.414-3.505 3.506zM15 25.005h2v5h-2zm6.687-1.9 1.414-1.414 3.506 3.506-1.414 1.414zm3.313-8.1h5v2h-5zm-3.313-6.101 3.506-3.506 1.414 1.414-3.506 3.506zM15 2.005h2v5h-2z"/></svg>';
   static const String sunrise =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M2 27h27.998v2H2zm14-7a4.005 4.005 0 014 4h2a6 6 0 00-12 0h2a4.005 4.005 0 014-4zm9 2h5v2h-5zm-3.313-5.1 3.506-3.507 1.414 1.414-3.506 3.506zM16 4l-5 5 1.41 1.41L15 7.83V15h2V7.83l2.59 2.58L21 9l-5-5zM5.393 14.807l1.414-1.414 3.506 3.506L8.9 18.313zM2 22h5v2H2z"/></svg>';
   static const String sunset =
@@ -3867,19 +3848,39 @@ class Carbon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m27.01 12-1.41 1.41L28.18 16l-2.59 2.59L27.01 20l4-4-4-4zm-20.6 1.42L5 12l-4 4 4 4 1.42-1.41L3.83 16l2.58-2.58zM16 28.17l-2.59-2.59L12 27l4 4 4-4-1.41-1.41L16 28.17zm0-24.34 2.58 2.58L20 5l-4-4-4 4 1.41 1.42L16 3.83zM22 16a6 6 0 10-2.53 4.89l3.82 3.82 1.42-1.42-3.82-3.82A6 6 0 0022 16zm-6 4a4 4 0 114-4 4 4 0 01-4 4z"/></svg>';
   static const String zoom_reset =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M22.448 21A10.855 10.855 0 0025 14 10.99 10.99 0 006 6.466V2H4v8h8V8H7.332a8.977 8.977 0 11-2.1 8h-2.04A11.012 11.012 0 0014 25a10.855 10.855 0 007-2.552L28.586 30 30 28.586Z"/></svg>';
-  List iconsList = [
-    _3d_cursor,
-    _3d_cursor_alt,
-    _3d_curve_auto_colon,
-    _3d_curve_auto_vessels,
-    _3d_curve_manual,
-    _3d_ica,
-    _3d_mpr_toggle,
-    _3d_print_mesh,
-    _3d_software,
-    _3rd_party_connected,
-    _4k,
-    _4k_filled,
+  static const String app_switcher =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M14 4h4v4h-4zM4 4h4v4H4zm20 0h4v4h-4zM14 14h4v4h-4zM4 14h4v4H4zm20 0h4v4h-4zM14 24h4v4h-4zM4 24h4v4H4zm20 0h4v4h-4z"/></svg>';
+  static const String arrows =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M27.6 20.6 24 24.2V4h-2v20.2l-3.6-3.6L17 22l6 6 6-6zM9 4l-6 6 1.4 1.4L8 7.8V28h2V7.8l3.6 3.6L15 10z"/></svg>';
+  static const String back_to_top =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 14 6 24l1.4 1.4 8.6-8.6 8.6 8.6L26 24zM4 8h24v2H4z"/></svg>';
+  static const String checkbox_undeterminate =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M10 14h12v4H10z"/><path fill="currentColor" d="M26 4H6a2 2 0 00-2 2v20a2 2 0 002 2h20a2 2 0 002-2V6a2 2 0 00-2-2ZM6 26V6h20v20Z"/></svg>';
+  static const String cloud_lightning =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M11.61 29.92a1 1 0 01-.6-1.07L12.83 17H8a1 1 0 01-1-1.23l3-13A1 1 0 0111 2h10a1 1 0 01.78.37 1 1 0 01.2.85L20.25 11H25a1 1 0 01.9.56 1 1 0 01-.11 1l-13 17A1 1 0 0112 30a1.09 1.09 0 01-.39-.08ZM17.75 13l2-9H11.8L9.26 15h5.91l-1.59 10.28L23 13Z"/></svg>';
+  static const String cloud_rain =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M23.5 22h-15A6.5 6.5 0 017.2 9.14a9 9 0 0117.6 0A6.5 6.5 0 0123.5 22zM16 4a7 7 0 00-6.94 6.14L9 11h-.86a4.5 4.5 0 00.36 9h15a4.5 4.5 0 00.36-9H23l-.1-.82A7 7 0 0016 4zm-2 26a.93.93 0 01-.45-.11 1 1 0 01-.44-1.34l2-4a1 1 0 111.78.9l-2 4A1 1 0 0114 30zm6 0a.93.93 0 01-.45-.11 1 1 0 01-.44-1.34l2-4a1 1 0 111.78.9l-2 4A1 1 0 0120 30zM8 30a.93.93 0 01-.45-.11 1 1 0 01-.44-1.34l2-4a1 1 0 111.78.9l-2 4A1 1 0 018 30z"/></svg>';
+  static const String cloud_snow =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M23.5 22h-15A6.5 6.5 0 017.2 9.14a9 9 0 0117.6 0A6.5 6.5 0 0123.5 22zM16 4a7 7 0 00-6.94 6.14L9 11h-.86a4.5 4.5 0 00.36 9h15a4.5 4.5 0 00.36-9H23l-.1-.82A7 7 0 0016 4zm-4 21.05L10.95 24 9.5 25.45 8.05 24 7 25.05l1.45 1.45L7 27.95 8.05 29l1.45-1.45L10.95 29 12 27.95l-1.45-1.45L12 25.05zm14 0L24.95 24l-1.45 1.45L22.05 24 21 25.05l1.45 1.45L21 27.95 22.05 29l1.45-1.45L24.95 29 26 27.95l-1.45-1.45L26 25.05zm-7 2L17.95 26l-1.45 1.45L15.05 26 14 27.05l1.45 1.45L14 29.95 15.05 31l1.45-1.45L17.95 31 19 29.95l-1.45-1.45L19 27.05z"/></svg>';
+  static const String delete =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M12 12h2v12h-2zm6 0h2v12h-2z"/><path fill="currentColor" d="M4 6v2h2v20a2 2 0 002 2h16a2 2 0 002-2V8h2V6zm4 22V8h16v20zm4-26h8v2h-8z"/></svg>';
+  static const String letter_aa_large =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M25 12h-5v2h5a1 1 0 011 1v2h-4a3.003 3.003 0 00-3 3v1a3.003 3.003 0 003 3h6v-9a3.003 3.003 0 00-3-3zm-3 10a1 1 0 01-1-1v-1a1 1 0 011-1h4v3zm-6 2h2L12 7h-2L4 24h2l1.694-5h6.613zm-7.629-7 2.497-7.371h.266L13.63 17z"/></svg>';
+  static const String sunny =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M16 12.005a4 4 0 11-4 4 4.005 4.005 0 014-4m0-2a6 6 0 106 6 6 6 0 00-6-6ZM5.394 6.813 6.81 5.399l3.505 3.506L8.9 10.319zM2 15.005h5v2H2zm3.394 10.193L8.9 21.692l1.414 1.414-3.505 3.506zM15 25.005h2v5h-2zm6.687-1.9 1.414-1.414 3.506 3.506-1.414 1.414zm3.313-8.1h5v2h-5zm-3.313-6.101 3.506-3.506 1.414 1.414-3.506 3.506zM15 2.005h2v5h-2z"/></svg>';
+  static const List iconsList = [
+    i_3d_cursor,
+    i_3d_cursor_alt,
+    i_3d_curve_auto_colon,
+    i_3d_curve_auto_vessels,
+    i_3d_curve_manual,
+    i_3d_ica,
+    i_3d_mpr_toggle,
+    i_3d_print_mesh,
+    i_3d_software,
+    i_3rd_party_connected,
+    i_4k,
+    i_4k_filled,
     accessibility,
     accessibility_alt,
     accessibility_color,
@@ -3944,7 +3945,6 @@ class Carbon {
     api_1,
     app,
     app_connectivity,
-    app_switcher,
     apple,
     application,
     application_mobile,
@@ -3965,7 +3965,6 @@ class Carbon {
     arrow_up,
     arrow_up_left,
     arrow_up_right,
-    arrows,
     arrows_horizontal,
     arrows_vertical,
     asleep,
@@ -3986,7 +3985,6 @@ class Carbon {
     automatic,
     autoscaling,
     awake,
-    back_to_top,
     badge,
     baggage_claim,
     bar,
@@ -4180,7 +4178,6 @@ class Carbon {
     checkbox_checked_filled,
     checkbox_indeterminate,
     checkbox_indeterminate_filled,
-    checkbox_undeterminate,
     checkbox_undeterminate_filled,
     checkmark,
     checkmark_filled,
@@ -4235,11 +4232,9 @@ class Carbon {
     cloud_download,
     cloud_foundry_1,
     cloud_foundry_2,
-    cloud_lightning,
     cloud_logging,
     cloud_monitoring,
     cloud_offline,
-    cloud_rain,
     cloud_registry,
     cloud_satellite,
     cloud_satellite_config,
@@ -4247,7 +4242,6 @@ class Carbon {
     cloud_satellite_services,
     cloud_service_management,
     cloud_services,
-    cloud_snow,
     cloud_upload,
     cloudy,
     cobb_angle,
@@ -4288,7 +4282,7 @@ class Carbon {
     container_software,
     content_delivery_network,
     content_view,
-    _continue,
+    i_continue,
     continue_filled,
     contour_draw,
     contour_edit,
@@ -4387,7 +4381,6 @@ class Carbon {
     datastore,
     debug,
     decision_tree,
-    delete,
     delivery,
     delivery_add,
     delivery_parcel,
@@ -4549,7 +4542,7 @@ class Carbon {
     expand_all,
     expand_categories,
     explore,
-    _export,
+    i_export,
     eyedropper,
     face_activated,
     face_activated_add,
@@ -4636,7 +4629,7 @@ class Carbon {
     fragile,
     friendship,
     fruit_bowl,
-    _function,
+    i_function,
     function_math,
     fusion_blender,
     game_console,
@@ -4816,7 +4809,6 @@ class Carbon {
     layers,
     legend,
     letter_aa,
-    letter_aa_large,
     letter_bb,
     letter_cc,
     letter_dd,
@@ -5468,7 +5460,6 @@ class Carbon {
     subtract_alt,
     summary_kpi,
     sun,
-    sunny,
     sunrise,
     sunset,
     svg,
@@ -5802,5 +5793,15 @@ class Carbon {
     zoom_out_area,
     zoom_pan,
     zoom_reset,
+    app_switcher,
+    arrows,
+    back_to_top,
+    checkbox_undeterminate,
+    cloud_lightning,
+    cloud_rain,
+    cloud_snow,
+    delete,
+    letter_aa_large,
+    sunny,
   ];
 }

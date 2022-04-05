@@ -1,9 +1,10 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/zmdi
 class Zmdi {
-  static const String _3d_rotation =
+  static const String i_3d_rotation =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="m159 458 29-28 81 81-14 1q-100 0-173.5-68T0 277h32q6 60 40 108t87 73zm19-139q14 0 21-7t7-20q0-7-2-12t-6-8q-4-4-9.5-5.5T175 265h-16v-22h16q8 0 13-2t8-5q4-3 6-8t2-10q0-12-7-19-6-6-19-6-5 0-10 2-4 1-8 4-3 3-5 8-2 4-2 9h-28q0-10 4-18t11-14 17-10q9-3 21-3 11 0 22 3 10 3 16 9 7 6 11 15t4 20q0 5-2 10-1 5-4 10-4 5-8 9-5 4-11 7 7 3 13 7 5 4 8 9 3 4 5 11 2 5 2 12 0 11-5 20-4 9-11.5 15.5T200 338t-22 3q-11 0-21-3-9-3-17-9t-12-14.5-4-20.5h27q0 6 2 10.5t6 7.5q3 3 8 5t11 2zm182.5-126.5Q371 203 377 218q5 16 5 34v8q0 19-5 34-6 15-16 25-10 11-25 17-14 5-32 5h-49V171h50q18 0 31.5 5.5t24 16zM352 260v-8q0-28-12-43-12-14-35-14h-20v123h19q12 0 21-4t15-11q6-8 9-19t3-24zM255 0q100 0 173.5 68T510 234h-32q-6-59-40.5-107T351 54l-29 28-81-81z"/></svg>';
-  static const String _500px =
+  static const String i_500px =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="384" preserveAspectRatio="xMidYMid meet" viewBox="0 0 432 384"><path fill="currentColor" d="M281 247q-12 13-12 14-14 13-21 17-26 19-59 12-30-6-45-36-1-2-2-3-8 12-8 13-21 28-57 29-23 1-40-6-36-16-37-56h40l1 4q5 20 21 24 21 5 35-9 9-10 10.5-25t-6.5-26q-8-12-23-14.5T52 191q-4 3-6 5-3 5-11 5H6q9-53 20-110h111v33H58q-3 0-4 3-1 4-7 39v3q21-19 52-14 27 5 42 34 1-1 1-3 2-2 2-3 21-43 69-36 26 3 46 22 1 1 23 24l2-2q22-23 24-25 17-16 38-19 23-3 43 5.5t30 30.5q16 38-2 74-16 33-55 35-29 1-51-17-3-2-25-22 0-1-5-6zm-76 5q12 0 24-7 8-4 28-23 1-2 0-4-2-1-9.5-8T236 199q-9-8-21-12-14-4-25 2t-15 20q-1 4-1 8-1 16 8 25.5t23 9.5zm99-32q22 20 24 21 13 12 30 11 25 0 30-24 1-7 0-15-2-13-11.5-21t-22.5-6q-15 1-28 13-1 1-22 21z"/></svg>';
-  static const String _8tracks =
+  static const String i_8tracks =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="432" preserveAspectRatio="xMidYMid meet" viewBox="0 0 432 432"><path fill="currentColor" d="M117 195h193q31 0 53-22t22-53-22-53.5T309.5 44 256 66.5 234 120v33h-42v-33q0-49 34.5-83.5t83-34.5 83 34.5 34.5 83-34.5 83T310 237H117q-31 0-53 22t-22 53 22 53 53 22 53-22 22-53v-34h42v34q0 48-34 82.5T117.5 429t-83-34.5-34.5-83T34.5 229t82.5-34z"/></svg>';
   static const String account =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="344" height="384" preserveAspectRatio="xMidYMid meet" viewBox="0 0 344 384"><path fill="currentColor" d="M170.5 192q-35.5 0-60.5-25t-25-60.5T110 46t60.5-25T231 46t25 60.5-25 60.5-60.5 25zm0 43q31.5 0 69.5 9t69.5 29.5T341 320v43H0v-43q0-26 31.5-46.5T101 244t69.5-9z"/></svg>';
@@ -301,7 +302,7 @@ class Zmdi {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="384" preserveAspectRatio="xMidYMid meet" viewBox="0 0 216 384"><path fill="currentColor" d="M213 245H0l107-106z"/></svg>';
   static const String caret_up_circle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="432" preserveAspectRatio="xMidYMid meet" viewBox="0 0 432 432"><path fill="currentColor" d="M213.5 3q88.5 0 151 62.5T427 216t-62.5 150.5-151 62.5-151-62.5T0 216 62.5 65.5 213.5 3zm-.5 145L107 254h213z"/></svg>';
-  static const String _case =
+  static const String i_case =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="408" preserveAspectRatio="xMidYMid meet" viewBox="0 0 432 408"><path fill="currentColor" d="M384 88q18 0 30.5 12.5T427 131v234q0 18-12.5 30.5T384 408H43q-18 0-30.5-12.5T0 365V131q0-18 12.5-30.5T43 88h85V45q0-17 12.5-29.5T171 3h85q18 0 30.5 12.5T299 45v43h85zm-128 0V45h-85v43h85z"/></svg>';
   static const String case_check =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="416" preserveAspectRatio="xMidYMid meet" viewBox="0 0 432 416"><path fill="currentColor" d="M384 91q18 0 30.5 12.5T427 133v235q0 18-12.5 30.5T384 411H43q-18 0-30.5-12.5T0 368V133q0-17 12.5-29.5T43 91h85V48l43-43h85l43 43v43h85zM171 48v43h85V48h-85zm10 288 141-141-30-30-111 111-44-45-30 30z"/></svg>';
@@ -869,7 +870,7 @@ class Zmdi {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="384" preserveAspectRatio="xMidYMid meet" viewBox="0 0 384 384"><path fill="currentColor" d="M64 0q0 27-18.5 45.5T0 64V0h64zm171 0q0 97-69 166T0 235v-43q80 0 136-56T192 0h43zm-86 0q0 62-43.5 105.5T0 149v-42q44 0 75.5-31.5T107 0h42zm0 384q0-97 69-166t166-69v43q-80 0-136 56t-56 136h-43zm171 0q0-27 18.5-45.5T384 320v64h-64zm-85 0q0-62 43.5-105.5T384 235v42q-44 0-75.5 31.5T277 384h-42z"/></svg>';
   static const String leak_off =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="384" preserveAspectRatio="xMidYMid meet" viewBox="0 0 384 384"><path fill="currentColor" d="M149 0q0 30-11 57l-34-34q3-11 3-23h42zM0 27 27 0l357 357-27 27-61-61q-19 28-19 61h-42q0-51 31-91l-31-30q-43 52-43 121h-43q0-86 56-152l-53-53Q86 235 0 235v-43q68 0 122-43l-31-31q-40 31-91 31v-42q33 0 61-19zM235 0q0 64-34 120l-31-31q22-42 22-89h43zm126 280-34-34q28-11 57-11v42q-12 0-23 3zm-97-97q56-34 120-34v43q-47 0-89 22z"/></svg>';
-  static const String _library =
+  static const String i_library =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="448" preserveAspectRatio="xMidYMid meet" viewBox="0 0 384 448"><path fill="currentColor" d="M192 206q81-75 192-75v234q-110 0-192 76-81-76-192-76V131q111 0 192 75zm0-75q-27 0-45.5-19T128 66.5t18.5-45T192 3t45.5 18.5 18.5 45-18.5 45.5-45.5 19z"/></svg>';
   static const String link =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="384" preserveAspectRatio="xMidYMid meet" viewBox="0 0 432 384"><path fill="currentColor" d="M41 192q0 27 19 46.5t47 19.5h85v41h-85q-44 0-75.5-31.5T0 192t31.5-75.5T107 85h85v41h-85q-28 0-47 19.5T41 192zm87 21v-42h171v42H128zM320 85q44 0 75.5 31.5T427 192t-31.5 75.5T320 299h-85v-41h85q27 0 46.5-19.5T386 192t-19.5-46.5T320 126h-85V85h85z"/></svg>';
@@ -1769,10 +1770,10 @@ class Zmdi {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="384" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 384"><path fill="currentColor" d="M469 0q18 0 30.5 12.5T512 43v298q0 18-12.5 30.5T469 384H149q-21 0-34-19L0 192 115 19q13-19 34-19h320zm-64 269-76-77 76-77-30-30-76 77-77-77-30 30 77 77-77 77 30 30 77-77 76 77z"/></svg>';
   static const String wb_iridescent =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="368" height="472" preserveAspectRatio="xMidYMid meet" viewBox="0 0 368 472"><path fill="currentColor" d="M31 301V173h299v128H31zM159 4h43v63h-43V4zm171 53 31 30-39 38-30-30zM202 471h-43v-63h43v63zm159-83-31 30-38-39 30-30zM0 87l30-30 38 38-30 30zm30 331L0 387l38-38 30 30z"/></svg>';
-  List iconsList = [
-    _3d_rotation,
-    _500px,
-    _8tracks,
+  static const List iconsList = [
+    i_3d_rotation,
+    i_500px,
+    i_8tracks,
     account,
     account_add,
     account_box,
@@ -1921,7 +1922,7 @@ class Zmdi {
     caret_right_circle,
     caret_up,
     caret_up_circle,
-    _case,
+    i_case,
     case_check,
     case_download,
     case_play,
@@ -2205,7 +2206,7 @@ class Zmdi {
     layers_off,
     leak,
     leak_off,
-    _library,
+    i_library,
     link,
     linkedin,
     linkedin_box,

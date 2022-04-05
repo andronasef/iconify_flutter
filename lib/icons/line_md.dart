@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/line-md
 class LineMd {
   static const String account =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="2"><path d="M12 11a4 4 0 110-8 4 4 0 010 8Z" class="il-md-length-40 il-md-duration-3 il-md-delay-2"/><path d="M4 21v-1a6 6 0 016-6h4a6 6 0 016 6v1" class="il-md-length-25 il-md-duration-2 il-md-delay-0"/></g></svg>';
@@ -499,7 +500,7 @@ class LineMd {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g transform="rotate(180 12 12)"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="2"><path d="M21 15h-9a5 5 0 01-5-5V4" class="il-md-length-25 il-md-duration-4 il-md-delay-0"/><path stroke-linejoin="round" d="M7 3 3 7m4-4 4 4" class="il-md-length-15 il-md-duration-2 il-md-delay-4"/></g></g></svg>';
   static const String navigation_right_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g transform="translate(24 0) scale(-1 1)"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="2"><path d="M21 15h-9a5 5 0 01-5-5V4" class="il-md-length-25 il-md-duration-4 il-md-delay-0"/><path stroke-linejoin="round" d="M7 3 3 7m4-4 4 4" class="il-md-length-15 il-md-duration-2 il-md-delay-4"/></g></g></svg>';
-  List iconsList = [
+  static const List iconsList = [
     account,
     account_add,
     account_alert,

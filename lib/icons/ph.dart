@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/ph
 class Ph {
   static const String activity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M160 216h-.4a8.1 8.1 0 01-7.1-5.2l-57.2-150-32 70.5A8 8 0 0156 136H24a8 8 0 010-16h26.8l37.9-83.3a8.2 8.2 0 017.6-4.7 8 8 0 017.2 5.2L161 188.1l31.8-63.7a8.2 8.2 0 017.2-4.4h32a8 8 0 010 16h-27.1l-37.7 75.6a8.2 8.2 0 01-7.2 4.4Z"/></svg>';
@@ -4871,7 +4872,7 @@ class Ph {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M216 42H40a14 14 0 00-14 14v160a6.1 6.1 0 002.8 5.1 6.2 6.2 0 005.9.3L64 206.7l29.3 14.7a6.4 6.4 0 005.4 0l29.3-14.7 29.3 14.7a6.4 6.4 0 005.4 0l29.3-14.7 29.3 14.7a6.6 6.6 0 002.7.6 6.2 6.2 0 003.2-.9 6.1 6.1 0 002.8-5.1V56a14 14 0 00-14-14Zm2 164.3-23.3-11.7a6.4 6.4 0 00-5.4 0L160 209.3l-29.3-14.7a6.4 6.4 0 00-5.4 0L96 209.3l-29.3-14.7a6.4 6.4 0 00-5.4 0L38 206.3V56a2 2 0 012-2h176a2 2 0 012 2Zm-108.6-113a6.1 6.1 0 00-10.8 0l-32 64a6 6 0 0010.8 5.4l6.3-12.7h40.6l6.3 12.7a6.1 6.1 0 005.4 3.3 6.6 6.6 0 002.7-.6 6.2 6.2 0 002.7-8.1ZM89.7 138l14.3-28.6 14.3 28.6ZM198 128a6 6 0 01-6 6h-14v14a6 6 0 01-12 0v-14h-14a6 6 0 010-12h14v-14a6 6 0 0112 0v14h14a6 6 0 016 6Z"/></svg>';
   static const String exam_thin =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M216 44H40a12 12 0 00-12 12v160a3.9 3.9 0 001.9 3.4 4.1 4.1 0 003.9.2L64 204.5l30.2 15.1a4.5 4.5 0 003.6 0l30.2-15.1 30.2 15.1a4.5 4.5 0 003.6 0l30.2-15.1 30.2 15.1a4 4 0 005.8-3.6V56a12 12 0 00-12-12Zm4 165.5-26.2-13.1a4.5 4.5 0 00-3.6 0L160 211.5l-30.2-15.1a4.2 4.2 0 00-3.6 0L96 211.5l-30.2-15.1a4.5 4.5 0 00-3.6 0L36 209.5V56a4 4 0 014-4h176a4 4 0 014 4ZM107.6 94.2a4 4 0 00-7.2 0l-32 64a4 4 0 007.2 3.6l6.9-13.8h43l6.9 13.8a4 4 0 003.6 2.2 3.9 3.9 0 001.8-.4 4 4 0 001.8-5.4ZM86.5 140l17.5-35.1 17.5 35.1ZM196 128a4 4 0 01-4 4h-16v16a4 4 0 01-8 0v-16h-16a4 4 0 010-8h16v-16a4 4 0 018 0v16h16a4 4 0 014 4Z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M80.3 63.6a8 8 0 010-11.3l42-42a8.1 8.1 0 0111.4 0l42 42a8 8 0 010 11.3 8 8 0 01-11.4 0L136 35.3V128a8 8 0 01-16 0V35.3L91.7 63.6a8 8 0 01-11.4 0ZM200 88h-24a8 8 0 000 16h24v104H56V104h24a8 8 0 000-16H56a16 16 0 00-16 16v104a16 16 0 0016 16h144a16 16 0 0016-16V104a16 16 0 00-16-16Z"/></svg>';
   static const String export_bold =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M77.5 66.5a12 12 0 010-17l42-42a12 12 0 0117 0l42 42a12 12 0 010 17 12.1 12.1 0 01-17 0L140 45v83a12 12 0 01-24 0V45L94.5 66.5a12 12 0 01-17 0ZM200 88h-24a12 12 0 000 24h20v92H60v-92h20a12 12 0 000-24H56a20.1 20.1 0 00-20 20v100a20.1 20.1 0 0020 20h144a20.1 20.1 0 0020-20V108a20.1 20.1 0 00-20-20Z"/></svg>';
@@ -4979,7 +4980,7 @@ class Ph {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M230 128a102 102 0 10-102 102 102.1 102.1 0 00102-102Zm-96 89.8V150h26a6 6 0 000-12h-26v-26a18.1 18.1 0 0118-18h16a6 6 0 000-12h-16a30.1 30.1 0 00-30 30v26H96a6 6 0 000 12h26v67.8a90 90 0 1112 0Z"/></svg>';
   static const String facebook_logo_thin =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M228 128a100 100 0 10-100 100 100.2 100.2 0 00100-100Zm-96 91.9V148h28a4 4 0 000-8h-28v-28a20.1 20.1 0 0120-20h16a4 4 0 000-8h-16a28.1 28.1 0 00-28 28v28H96a4 4 0 000 8h28v71.9a92 92 0 118 0Z"/></svg>';
-  static const String _factory =
+  static const String i_factory =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M116 176a8 8 0 01-8 8H80a8 8 0 010-16h28a8 8 0 018 8Zm60-8h-28a8 8 0 000 16h28a8 8 0 000-16Zm72 48a8 8 0 01-8 8H16a8 8 0 010-16h16V88a8 8 0 0112.8-6.4L96 120V88a8 8 0 0112.8-6.4l38.7 29.1 11.6-81A16 16 0 01174.9 16h18.2a16 16 0 0115.8 13.7l15 105.2a.8.8 0 01.1.4v72.5h16a8 8 0 018 8.2Zm-85.9-94.4 8.6 6.4h36.1l-13.7-96h-18.2ZM48 208h160v-64h-40a8.4 8.4 0 01-4.8-1.6l-14.4-10.8L112 104v32a8 8 0 01-12.8 6.4L48 104Z"/></svg>';
   static const String factory_bold =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M120 176a12 12 0 01-12 12H80a12 12 0 010-24h28a12 12 0 0112 12Zm56-12h-28a12 12 0 000 24h28a12 12 0 000-24Zm76 52a12 12 0 01-12 12H16a12 12 0 010-24h12V88a12 12 0 0119.2-9.6L92 112V88a12 12 0 0119.2-9.6l33.3 25 10.6-74.2A20.2 20.2 0 01174.9 12h18.2a20.2 20.2 0 0119.8 17.2l15 105.1v.2a1.3 1.3 0 00.1.6V204h12a12 12 0 0112 12Zm-85.6-96.2 5.6 4.2h30.2l-12.6-88h-11.2ZM52 204h152v-56h-36a11.8 11.8 0 01-7.2-2.4l-14.4-10.8L116 112v24a12 12 0 01-19.2 9.6L52 112Z"/></svg>';
@@ -6011,7 +6012,7 @@ class Ph {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M128 242a6.2 6.2 0 01-4.1-1.6l-72-68A6.1 6.1 0 0150 168v-68a6 6 0 016-6h56.9l-61-57.6a6 6 0 01-1.5-6.6A6 6 0 0156 26h144a6 6 0 016 6v68a6 6 0 01-6 6h-56.9l61 57.6a6 6 0 011.5 6.6 6 6 0 01-5.6 3.8h-66v62a5.9 5.9 0 01-3.6 5.5 6.9 6.9 0 01-2.4.5Zm-66-76.6 60 56.7V168a6 6 0 016-6h56.9l-59.3-56H62ZM130.4 94H194V38H71.1Z"/></svg>';
   static const String framer_logo_thin =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M128 240a3.9 3.9 0 01-2.7-1.1l-72-68A3.9 3.9 0 0152 168v-68a4 4 0 014-4h61.9L53.3 34.9A4 4 0 0156 28h144a4 4 0 014 4v68a4 4 0 01-4 4h-61.9l64.6 61.1a4 4 0 01-2.7 6.9h-68v64a4 4 0 01-2.4 3.7 4.5 4.5 0 01-1.6.3Zm-68-73.7 64 60.4V168a4 4 0 014-4h61.9l-63.5-60H60ZM129.6 96H196V36H66.1Z"/></svg>';
-  static const String _function =
+  static const String i_function =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M208 40a8 8 0 01-8 8h-29.3a24 24 0 00-23.6 19.7l-9.5 52.3H184a8 8 0 010 16h-49.3l-10.1 55.2A39.9 39.9 0 0185.3 224H56a8 8 0 010-16h29.3a24 24 0 0023.6-19.7l9.5-52.3H72a8 8 0 010-16h49.3l10.1-55.2A39.9 39.9 0 01170.7 32H200a8 8 0 018 8Z"/></svg>';
   static const String function_bold =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M212 40a12 12 0 01-12 12h-29.3A20 20 0 00151 68.4l-8.6 47.6H184a12 12 0 010 24h-46l-9.4 51.9A44 44 0 0185.3 228H56a12 12 0 010-24h29.3a20 20 0 0019.7-16.4l8.6-47.6H72a12 12 0 010-24h46l9.4-51.9A44 44 0 01170.7 28H200a12 12 0 0112 12Z"/></svg>';
@@ -12623,7 +12624,7 @@ class Ph {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M214 56v32a6 6 0 01-12 0V62h-68v132h26a6 6 0 010 12H96a6 6 0 010-12h26V62H54v26a6 6 0 01-12 0V56a6 6 0 016-6h160a6 6 0 016 6Z"/></svg>';
   static const String text_thin =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M212 56v32a4 4 0 01-8 0V60h-72v136h28a4 4 0 010 8H96a4 4 0 010-8h28V60H52v28a4 4 0 01-8 0V56a4 4 0 014-4h160a4 4 0 014 4Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     activity,
     activity_bold,
     activity_duotone,
@@ -15060,7 +15061,7 @@ class Ph {
     exam_fill,
     exam_light,
     exam_thin,
-    _export,
+    i_export,
     export_bold,
     export_duotone,
     export_fill,
@@ -15114,7 +15115,7 @@ class Ph {
     facebook_logo_fill,
     facebook_logo_light,
     facebook_logo_thin,
-    _factory,
+    i_factory,
     factory_bold,
     factory_duotone,
     factory_fill,
@@ -15630,7 +15631,7 @@ class Ph {
     framer_logo_fill,
     framer_logo_light,
     framer_logo_thin,
-    _function,
+    i_function,
     function_bold,
     function_duotone,
     function_fill,

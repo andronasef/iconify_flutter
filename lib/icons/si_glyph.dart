@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/si-glyph
 class SiGlyph {
   static const String abacus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor" fill-rule="evenodd" transform="translate(0 1)"><path d="M14.194 13.958H1.765c-1.449 0-1.729-1.15-1.729-2.564V2.607C.036 1.193.315.043 1.765.043h12.429c1.448 0 1.728 1.15 1.728 2.564v8.787c0 1.414-.279 2.564-1.728 2.564zM1.923 1A.937.937 0 001 1.948v10.104c0 .522.414.948.923.948h12.154a.937.937 0 00.923-.948V1.948A.937.937 0 0014.077 1H1.923z"/><path d="M3 0h.948v13.068H3zm5 0h.948v13.068H8zm4 0h.948v13.068H12z"/><ellipse cx="3.438" cy="4.976" rx="1.438" ry=".976"/><ellipse cx="3.438" cy="7.976" rx="1.438" ry=".976"/><ellipse cx="3.438" cy="10.976" rx="1.438" ry=".976"/><ellipse cx="8.477" cy="2.976" rx="1.477" ry=".976"/><ellipse cx="8.477" cy="5.976" rx="1.477" ry=".976"/><ellipse cx="8.477" cy="10.976" rx="1.477" ry=".976"/><ellipse cx="12.435" cy="7.977" rx="1.435" ry=".977"/><ellipse cx="12.435" cy="10.977" rx="1.435" ry=".977"/></g></svg>';
@@ -733,7 +734,7 @@ class SiGlyph {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 17 16"><path fill="currentColor" fill-rule="evenodd" d="M7.661 4.051c.234-1.077-.051-2.229-.86-3.046-1.29-1.299-3.422-1.26-4.76.089C.704 2.443.663 4.589 1.954 5.889c.81.816 1.951 1.103 3.023.868l.602.586-.58.583.502.506.546-.552 5.062 5.073h2.875v-2.766L8.777 5.129l.528-.533-.5-.505-.555.559-.589-.599zm5.355 6.371.005 1.623-1.804.009-4.545-4.71 1.547-1.625 4.797 4.703zm2.969 4.418c0 .619-.44 1.122-.986 1.122-.545 0-.985-.503-.985-1.122 0-.62.985-1.777.985-1.777s.986 1.157.986 1.777z"/></svg>';
   static const String eye_glass =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 17 16"><g fill="currentColor" fill-rule="evenodd"><path d="M1.376 8.967a.387.387 0 01-.095-.012.353.353 0 01-.258-.432l2.282-2.842a.358.358 0 01.088-.152l2.749-1.381a.372.372 0 01.514-.014.346.346 0 01.016.498L3.984 5.946 1.726 8.704a.362.362 0 01-.35.263zm15.189 0a.354.354 0 00.35-.444l-2.282-2.842a.358.358 0 00-.088-.152l-2.749-1.381a.372.372 0 00-.514-.014.347.347 0 00-.016.498l2.688 1.314 2.258 2.758c.043.159.19.263.353.263z"/><path d="M4.986 12.832c.728 0 2.963-.758 3.274-2.938.237-.017.473-.034.718-.034.249 0 .482.024.721.042.318 2.192 2.497 2.944 3.227 2.944.786 0 4.043-.77 4.043-3.451 0-2.369-1.636-2.361-3.654-2.361-1.725 0-3.168.113-3.552 1.523a7.496 7.496 0 00-.771-.045 7.26 7.26 0 00-.801.056c-.388-1.391-1.816-1.503-3.525-1.503-2.008 0-3.635-.039-3.635 2.349 0 2.662 3.172 3.418 3.955 3.418z"/></g></svg>';
-  static const String _factory =
+  static const String i_factory =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M13 2v7L9 6v3L5 6v3L0 6v9h15V2h-2zM3 12H1v-2h2v2zm4 0H5v-2h2v2zm4 0H9v-2h2v2z"/></svg>';
   static const String faucet =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M15.957 14.119c0 1.022-.66 1.851-1.475 1.851-.814 0-1.475-.828-1.475-1.851 0-1.021 1.475-3.119 1.475-3.119s1.475 2.098 1.475 3.119zm-1.325-7.674c-1.205-1.208-2.851-1.362-4.633-1.382v-.014c0-.533-.373-.967-.834-.967H7.979V2.954c.708-.099 1.278-.47 1.514-.958.262.116.62.189 1.016.189.801 0 1.449-.294 1.449-.659 0-.364-.648-.659-1.449-.659a2.57 2.57 0 00-1.004.185C9.239.466 8.49.041 7.598.041c-.87 0-1.604.402-1.888.964-.283-.12-.667-.194-1.093-.194-.871 0-1.575.309-1.575.688 0 .38.704.687 1.575.687.421 0 .801-.073 1.084-.19.21.437.69.775 1.299.914v1.173H5.832c-.459 0-.832.434-.832.967v.01H1.436C.702 5.06.02 5.761.02 6.499c0 .737.596 1.464 1.33 1.464h3.653c.007.527.375.953.83.953h3.333c.451 0 .812-.417.828-.934 1.197.049 2.184.218 2.675.709.277.278.497.648.617 1.268h2.613c-.157-1.405-.518-2.762-1.267-3.514z"/></svg>';
@@ -1605,7 +1606,7 @@ class SiGlyph {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 17 16"><g fill="currentColor" fill-rule="evenodd"><path d="M17 6.01C17 2.725 14.33.063 11.035.063c-3.294 0-5.964 2.662-5.964 5.947 0 3.284 2.67 5.948 5.964 5.948C14.33 11.958 17 9.294 17 6.01zM5.889 6c0-2.807 2.289-5.079 5.116-5.079 2.825 0 5.114 2.272 5.114 5.079 0 2.806-2.289 5.078-5.114 5.078-2.827 0-5.116-2.272-5.116-5.078zm-2.98 9.938-1.823-1.823 4.148-4.148s.088.773.571 1.256c.483.484 1.252.566 1.252.566l-4.148 4.149z"/><path d="M13.938 5.996c0 .523-.326.948-.729.948H8.771c-.402 0-.729-.425-.729-.948 0-.525.326-.95.729-.95h4.438c.403 0 .729.425.729.95z"/></g></svg>';
   static const String control_pad_ =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 17 16"><g fill="currentColor" fill-rule="evenodd"><path d="M4.277 7.048c-2.344 0-3.242 1.958-3.242 4.372v.166c0 2.416.898 4.373 3.242 4.373h9.475c2.344 0 3.242-1.957 3.242-4.373v-.166c0-2.414-.898-4.372-3.242-4.372H4.277zM8 12H6v2.016H5V12H3v-1h2V8.984h1V11h2v1zm4-1h-1v-1h1v1zm2 2h-1v-1h1v1z"/><path d="M9 7.104H8V4l2.031.041L10 1.047h1V5H9v2.104z"/></g></svg>';
-  List iconsList = [
+  static const List iconsList = [
     abacus,
     adjustment_horizon,
     adjustment_vertical,
@@ -1973,7 +1974,7 @@ class SiGlyph {
     extinguisher,
     eye_drop,
     eye_glass,
-    _factory,
+    i_factory,
     faucet,
     feather,
     female,

@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/fe
 class Fe {
   static const String activity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M11 19a1 1 0 01-2 0V8a1 1 0 112 0v11Zm-4 0a1 1 0 01-2 0v-7a1 1 0 012 0v7Zm6 0v-9a1 1 0 012 0v9a1 1 0 01-2 0Zm4-14a1 1 0 012 0v14a1 1 0 01-2 0V5Z"/></svg>';
@@ -163,7 +164,7 @@ class Fe {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M18 4v16a2 2 0 01-2 2H8a2 2 0 01-2-2V4a2 2 0 012-2h8a2 2 0 012 2ZM8 4v4h8V4H8Z"/></svg>';
   static const String expand =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M14 4h6v6l-2-2-4 4-2-2 4-4-2-2Zm-4 16H4v-6l2 2 4-4 2 2-4 4 2 2Z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M13 5.828V17h-2V5.828L7.757 9.071 6.343 7.657 12 2l5.657 5.657-1.414 1.414L13 5.828ZM4 16h2v4h12v-4h2v4c0 1.1-.9 2-2 2H6c-1.1 0-2-.963-2-2v-4Z"/></svg>';
   static const String eye =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M2 12c.945-4.564 5.063-8 10-8s9.055 3.436 10 8c-.945 4.564-5.063 8-10 8s-9.055-3.436-10-8Zm10 5a5 5 0 100-10 5 5 0 000 10Zm0-2a3 3 0 100-6 3 3 0 000 6Z"/></svg>';
@@ -237,7 +238,7 @@ class Fe {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12 20c-2.205-.48-9-4.24-9-11a5 5 0 019-3 5 5 0 019 3c0 6.76-6.795 10.52-9 11Zm0-2c3.12-.93 7-4.805 7-9a3 3 0 00-3-3c-1.305 0-2.638.833-4 2.5C10.638 6.833 9.305 6 8 6a3 3 0 00-3 3c0 4.195 3.88 8.07 7 9Z"/></svg>';
   static const String home =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m12 5.561-7 5.6V19h5v-4h4v4h5v-7.358a1 1 0 00-.375-.781L12 5.561ZM12 3l7.874 6.3A3 3 0 0121 11.641V19a2 2 0 01-2 2H5a2 2 0 01-2-2v-7.839A2 2 0 013.75 9.6L12 3Z"/></svg>';
-  static const String _import =
+  static const String i_import =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="m13 13.175 3.243-3.242 1.414 1.414L12 17.004l-5.657-5.657 1.414-1.414L11 13.175V2h2v11.175ZM4 16h2v4h12v-4h2v4c0 1.1-.9 2-2 2H6c-1.1 0-2-.963-2-2v-4Z"/></svg>';
   static const String info =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 20a8 8 0 100-16 8 8 0 000 16Zm0 2C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10Zm-1-11v6h2v-6h-2Zm0-4h2v2h-2V7Z"/></svg>';
@@ -419,7 +420,7 @@ class Fe {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 18a6 6 0 110-12 6 6 0 010 12Zm0-2a4 4 0 100-8 4 4 0 000 8ZM11 2h2v3h-2V2Zm-9 9h3v2H2v-2Zm17 0h3v2h-3v-2Zm-8 8h2v3h-2v-3Zm7.621-15 1.415 1.414-2.122 2.122L16.5 6.12 18.621 4ZM16.5 17.414 17.914 16l2.122 2.121-1.415 1.415-2.121-2.122ZM6.121 16l1.415 1.414-2.122 2.122L4 18.12 6.121 16ZM4 5.414 5.414 4l2.122 2.121L6.12 7.536 4 5.414Z"/></svg>';
   static const String sunrise =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21 15H3a1 1 0 010-2h1a8 8 0 1116 0h1a1 1 0 010 2Zm-3 4H6a1 1 0 010-2h12a1 1 0 010 2ZM6 13h12a6 6 0 10-12 0Z"/></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M6.876 15.124A6.002 6.002 0 0017.658 14h2.09a8.003 8.003 0 01-14.316 2.568L3 19v-6h6l-2.124 2.124Zm10.249-6.249A6.004 6.004 0 006.34 10H4.25a8.005 8.005 0 0114.32-2.57L21 5v6h-6l2.125-2.125Z"/></svg>';
   static const String table =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M4 4h16a2 2 0 012 2v12a2 2 0 01-2 2H4a2 2 0 01-2-2V6a2 2 0 012-2Zm9 10v4h7v-4h-7Zm-9 0v4h7v-4H4Zm9-6v4h7V8h-7ZM4 8v4h7V8H4Z"/></svg>';
@@ -509,7 +510,7 @@ class Fe {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13 17.83V21a1 1 0 01-2 0v-3.17a3.001 3.001 0 01-.659-5.33A2.997 2.997 0 019 10c0-1.043.533-1.963 1.341-2.5a3 3 0 113.318 0A2.997 2.997 0 0115 10a2.997 2.997 0 01-1.341 2.5A3.001 3.001 0 0113 17.83ZM12 6a1 1 0 100-2 1 1 0 000 2Zm0 5a1 1 0 100-2 1 1 0 000 2Zm0 5a1 1 0 100-2 1 1 0 000 2Z"/></svg>';
   static const String youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M9.935 14.628v-5.62l5.403 2.82-5.403 2.8ZM21.8 8.035s-.195-1.379-.795-1.986c-.76-.796-1.613-.8-2.004-.847C16.203 5 12.004 5 12.004 5h-.008s-4.198 0-6.997.202c-.391.047-1.243.05-2.004.847-.6.607-.795 1.986-.795 1.986S2 9.653 2 11.272v1.517c0 1.618.2 3.237.2 3.237s.195 1.378.795 1.985c.76.797 1.76.771 2.205.855 1.6.153 6.8.2 6.8.2s4.203-.006 7.001-.208c.391-.047 1.244-.05 2.004-.847.6-.607.795-1.985.795-1.985s.2-1.619.2-3.237v-1.517c0-1.619-.2-3.237-.2-3.237Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     activity,
     add_cart,
     align_bottom,
@@ -592,7 +593,7 @@ class Fe {
     equalizer,
     eraser,
     expand,
-    _export,
+    i_export,
     eye,
     facebook,
     fast_backward,
@@ -629,7 +630,7 @@ class Fe {
     heart,
     heart_o,
     home,
-    _import,
+    i_import,
     info,
     insert_link,
     instagram,
@@ -720,7 +721,7 @@ class Fe {
     subtract,
     sunny_o,
     sunrise,
-    _sync,
+    i_sync,
     table,
     tablet,
     tag,

@@ -1,23 +1,24 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/vs
 class Vs {
-  static const String _0_square =
+  static const String i_0_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M336 0h1120q139 0 237.5 98.5T1792 336v1120q0 139-98.5 237.5T1456 1792H336q-139 0-237.5-98.5T0 1456V336Q0 197 98.5 98.5T336 0zm560 1493q150 0 276.5-80t200.5-217.5 74-299.5-74-299.5T1172.5 379 896 299t-276.5 80T419 596.5 345 896t74 299.5T619.5 1413t276.5 80zm-77-271q40 10 75 10 127 0 216.5-97t89.5-239q0-107-56-195zm154-652q-40-10-75-10-128 1-217 97.5T592 896q0 107 56 195z"/></svg>';
-  static const String _1_square =
+  static const String i_1_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M336 0h1120q139 0 237.5 98.5T1792 336v1120q0 139-98.5 237.5T1456 1792H336q-139 0-237.5-98.5T0 1456V336Q0 197 98.5 98.5T336 0zm709 387q0-48-17-68t-62-20H747q-19 48-76.5 110.5T568 488q-18 6-33.5 30T519 563v98q0 30 22 52t53 22q20 0 38.5-5t30.5-10.5 27-19 20.5-19 20-23.5 16.5-20v557H591q-30 0-52 21.5t-22 52.5v149q0 31 22 53t52 22h609q31 0 53-22t22-53v-149q0-31-22-52.5t-53-21.5h-155V387z"/></svg>';
-  static const String _2_square =
+  static const String i_2_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1455 0H336Q197 0 98.5 98.5T0 336v1119q0 139 98 237.5t238 98.5h1119q139 0 237.5-98.5T1791 1455V336q0-139-98.5-237.5T1455 0zM346 1437v-11q0-70 59.5-155.5T557 1108t200.5-144T967 857q86-35 126.5-71t41.5-80q1-67-77-119t-157-52q-46 0-104 25t-107 66.5-68 84.5q-3 6-6.5 14.5T611 736t-3.5 6-3.5 4-5 1-7 0-10.5-1H404q-30 0-48-26t-10-51q55-168 212-269t354-101q87 0 173.5 26t156.5 73 113.5 119.5T1399 674q0 81-24 145t-65.5 106.5-92 75.5-109 60-112 52.5-106.5 61-86 76.5h595q19 0 33.5 16.5t14.5 39.5v130q0 23-14.5 39.5T1399 1493H394q-19 0-33.5-16.5T346 1437z"/></svg>';
-  static const String _3_square =
+  static const String i_3_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1456 0H336Q197 0 98.5 99T0 337v1119q0 139 98.5 237.5T336 1792h1120q139 0 237.5-98.5T1792 1456V337q0-139-98.5-238T1456 0zM906 514q0-1-12.5-1.5t-32.5 1-43.5 5-47.5 13-44 23-32.5 36T681 642q0 12-8.5 18t-15.5 6H434q-11 0-17.5-16t-6.5-28q3-71 32.5-127t75-92 107-60 126-34T885 299q77 0 157.5 16.5T1202 366t129.5 97.5T1382 611q0 182-195 285 195 103 195 285 0 84-50.5 147.5T1202 1426t-159.5 50.5T885 1493q-70 0-134.5-10t-126-34-107-60-75-92-32.5-127q0-12 6.5-27.5T434 1127h223q8 0 16 6t8 18q0 29 12.5 51.5T726 1238t44 22.5 47.5 13 43.5 5 32.5 1.5 12.5-1q51-2 96-17t79-48.5 34-81.5q0-130-184-130H823q-34 0-42.5-8.5T771 953V839q1-32 10-40.5t42-8.5h108q184 0 184-130-1-70-64-106.5T906 514z"/></svg>';
-  static const String _4_square =
+  static const String i_4_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1456 1q139 0 237.5 98t98.5 237v1120q0 139-98.5 237.5T1456 1792H336q-139 0-237.5-98.5T0 1456V336Q0 197 98.5 99T336 1h1120zM384 926q-15 17-24.5 37.5t-15 34.5-8 41-3 37.5 0 45.5.5 44q0 31 20.5 53t49.5 22h576v178q0 30 22.5 52t52.5 22h127q31 0 53-21.5t22-52.5v-178h132q29 0 49.5-22t20.5-53v-105q0-31-20.5-53t-49.5-22h-132V373q0-30-22-52t-53-22h-127q-149 0-171 25zm256 60q106-123 340-401v401H640z"/></svg>';
-  static const String _5_square =
+  static const String i_5_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1456 1H336Q197 1 98.5 99T0 336v1120q0 139 98.5 237.5T336 1792h1120q139 0 237.5-98.5T1792 1456V336q0-139-98.5-237T1456 1zM400 1208q-7-19-9.5-30t-1-24.5 14.5-20 38-6.5h143q15 0 21 1.5t15.5 11.5 24.5 34q32 53 98.5 85t147.5 32q111 0 190-57.5t79-139.5q0-81-79-138.5T892 898q-95 0-168 43-9 5-16.5 10.5T697 959t-10 3-21 1H507q-38 0-66-35.5T413 847l30-479q0-29 22-49t52-20h766q29 0 50.5 21t21.5 50v77q0 29-21.5 50t-50.5 21H683l-14 217q107-40 223-40 139 0 256.5 53.5t186 145.5 68.5 200q0 109-68.5 201t-186 145-256.5 53q-97 0-194.5-30.5t-181-97.5T400 1208z"/></svg>';
-  static const String _6_square =
+  static const String i_6_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1456 1H336Q197 1 98.5 99T0 336v1120q0 139 98.5 237.5T336 1792h1120q139 0 237.5-98.5T1792 1456V336q0-139-98.5-237T1456 1zM896 299q89 0 166.5 19.5t128 50.5 82.5 62.5 44 61.5q21 47 12.5 81t-49.5 34h-161q-34-1-46.5-12.5T1056 562q-8-37-39.5-58.5t-66.5-27-76-3.5q-50 2-91 35.5T718.5 591 683 693t-10 100q8-3 51-19.5t59-21.5 48.5-12 61.5-7q203 0 344 108t141 267q0 105-65 193.5t-176.5 140T893 1493q-105 0-190.5-32.5t-144-88.5-98.5-132.5-58-162T384 898q0-119 33-225.5T512 482t161.5-133.5T896 299zm4 628q-86 0-146.5 56.5T693 1120t60.5 136.5T900 1313t146.5-56.5T1107 1120t-60.5-136.5T900 927z"/></svg>';
-  static const String _7_square =
+  static const String i_7_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1456 1q139 0 237.5 98t98.5 237v1120q0 139-98.5 237.5T1456 1792H336q-139 0-237.5-98.5T0 1456V336Q0 197 98.5 99T336 1h1120zM971 1419l-1-98q0-59 8-114t20-99 35-92.5 43.5-83.5 54.5-82.5 58.5-79 66-84T1323 600q3-3 24.5-28t37.5-45 30.5-50 14.5-54v-50q0-30-22-52t-53-22H437q-31 0-53 22t-22 52v111q0 31 22 53t53 22h582Q898 671 771.5 887.5T645 1249v170q0 31 22 52.5t53 21.5h177q30 0 52.5-22t21.5-52z"/></svg>';
-  static const String _8_square =
+  static const String i_8_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1456 1H336Q197 1 98.5 99T0 336v1120q0 139 98.5 237.5T336 1792h1120q139 0 237.5-98.5T1792 1456V336q0-139-98.5-237T1456 1zM896 299q100 0 187.5 29.5T1229 405t91 104 33 112q0 107-30.5 157T1201 874q99 50 147.5 111.5T1397 1149q0 111-68.5 190T1149 1455.5 896 1493t-253-37.5T463.5 1339 395 1149q0-102 48.5-163.5T591 874q-91-46-121.5-96T439 621q0-55 33-112t91-104 145.5-76.5T896 299zm0 979q-95 0-162.5-42T666 1135q0-60 68-107t162-47 162 47 68 107q0 59-67.5 101T896 1278zm0-775q-93 0-150.5 41T688 646q0 59 56.5 95T896 777t151.5-36 56.5-95q0-61-57.5-102T896 503z"/></svg>';
-  static const String _9_square =
+  static const String i_9_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M1456 1H336Q197 1 98.5 99T0 336v1120q0 139 98.5 237.5T336 1792h1120q139 0 237.5-98.5T1792 1456V336q0-139-98.5-237T1456 1zM867 1493q-170 0-281.5-62.5T446 1299q-21-47-12.5-80.5T483 1185h161q34 1 46 12t17 33q7 36 38.5 58t67 27.5 75.5 3.5q50-2 91.5-35.5t65-82.5 35.5-102 10-100q-11 4-41.5 16.5T1003 1033t-40 13-47 11-45 3q-133 0-244.5-49t-177-135.5T384 685q0-105 65-194t177.5-140.5T871 299q129 0 229 49.5T1259.5 483t89 189 29.5 222q0 119-33 225.5t-95 190.5-161 133.5-222 49.5zm-4-627q85 0 146-56.5t61-136.5-60.5-137T863 479t-146.5 57T656 673t61 136.5T863 866z"/></svg>';
   static const String a_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M336 0h1120q139 0 237.5 98.5T1792 336v1120q0 139-98.5 237.5T1456 1792H336q-139 0-237.5-98.5T0 1456V336Q0 197 98.5 98.5T336 0zm331 1188h458l85 251q11 36 24 45t44 9h157q53 0 35-69l-333-964q-17-64-57.5-112.5T982 299H810q-57 0-97.5 48.5T655 460l-333 964q-18 69 35 69h157q31 0 44-9t24-45zm391-225H734l130-385q8-26 32-26t32 26z"/></svg>';
@@ -343,17 +344,17 @@ class Vs {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1664" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1664 1792"><path fill="currentColor" d="M1664 256v637q0 110-.5 153t-1.5 130-3 122.5-6.5 102-11 97.5-16 80.5-22 80-29.5 66-38 67.5H0q79-242 103.5-447.5T128 768V256h256v-54q0-88 68-147Q517 0 617 0q91 0 151.5 39t80.5 88q13 33 13 89H734q-5-58-35-82.5T609 109q-52 0-82 50-6 11-9.5 25t-4.5 21-1 27v24h1152zM512 384v448q-1 32 15 46.5t49 17.5q40 0 52-12.5t12-51.5V512h128v320q0 71-12 99-41 93-180 93-86 0-139-53t-53-139V384H256v384q0 326-17.5 515T167 1664h1275q28-57 46-122.5t27.5-118.5 14-155 5.5-163.5 1-211.5V384H512z"/></svg>';
   static const String tablecheck =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="m0 1248 320-320q5 105 48 202t120 174 174 120 202 48l-320 320q-188-74-328-216Q74 1436 0 1248zm1792 0-320-320q-5 105-48 202t-120 174-174 120-202 48l320 320q188-74 328-216 142-140 216-328zM1248 0 980 268l-52 52q105 5 202 48t174 120 120 174 48 202l320-320q-74-188-216-328Q1436 74 1248 0zM544 0l320 320q-105 5-202 48T488 488 368 662t-48 202l-52-52L0 544q74-188 216-328Q356 74 544 0z"/></svg>';
-  List iconsList = [
-    _0_square,
-    _1_square,
-    _2_square,
-    _3_square,
-    _4_square,
-    _5_square,
-    _6_square,
-    _7_square,
-    _8_square,
-    _9_square,
+  static const List iconsList = [
+    i_0_square,
+    i_1_square,
+    i_2_square,
+    i_3_square,
+    i_4_square,
+    i_5_square,
+    i_6_square,
+    i_7_square,
+    i_8_square,
+    i_9_square,
     a_square,
     b_square,
     baby,

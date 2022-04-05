@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/mdi-light
 class MdiLight {
   static const String account =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11.5 14c4.142 0 7.5 1.567 7.5 3.5V20H4v-2.5c0-1.933 3.358-3.5 7.5-3.5Zm6.5 3.5c0-1.38-2.91-2.5-6.5-2.5S5 16.12 5 17.5V19h13v-1.5ZM11.5 5a3.5 3.5 0 110 7 3.5 3.5 0 010-7Zm0 1a2.5 2.5 0 100 5 2.5 2.5 0 000-5Z"/></svg>';
@@ -193,7 +194,7 @@ class MdiLight {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11.5 18c3.989 0 7.458-2.224 9.235-5.5A10.498 10.498 0 0011.5 7a10.498 10.498 0 00-9.235 5.5A10.498 10.498 0 0011.5 18Zm0-12a11.5 11.5 0 0110.36 6.5A11.5 11.5 0 0111.5 19a11.5 11.5 0 01-10.36-6.5A11.5 11.5 0 0111.5 6Zm0 2a4.5 4.5 0 110 9 4.5 4.5 0 010-9Zm0 1a3.5 3.5 0 100 7 3.5 3.5 0 000-7Z"/></svg>';
   static const String eye_off =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2.543 4.707 3.25 4 20 20.75l-.707.707-3.348-3.348c-1.367.574-2.87.891-4.445.891a11.5 11.5 0 01-10.36-6.5 11.55 11.55 0 014.374-4.821L2.543 4.707ZM11.5 18c1.293 0 2.531-.234 3.675-.661l-1.129-1.128A4.5 4.5 0 017.79 9.954L6.244 8.408a10.55 10.55 0 00-3.98 4.092A10.498 10.498 0 0011.5 18Zm9.235-5.5A10.498 10.498 0 0011.5 7a10.49 10.49 0 00-3.305.53l-.783-.782A11.474 11.474 0 0111.5 6a11.5 11.5 0 0110.36 6.5 11.55 11.55 0 01-4.068 4.628l-.724-.724a10.552 10.552 0 003.667-3.904ZM11.5 8a4.5 4.5 0 013.904 6.74l-.74-.74A3.5 3.5 0 0010 9.336l-.74-.74A4.48 4.48 0 0111.5 8ZM8 12.5a3.5 3.5 0 005.324 2.988l-4.812-4.812A3.484 3.484 0 008 12.5Z"/></svg>';
-  static const String _factory =
+  static const String i_factory =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m2 8 7 4.041V8l7 4V3h5l.002 9H21v10H2V8Zm15 6-7-4.268v4.042L3 9.732V21h17v-9h.002L20 4h-3v10ZM5 15h3v1H5v-1Zm0 3h5v1H5v-1Zm7-3h3v1h-3v-1Zm0 3h6v1h-6v-1Z"/></svg>';
   static const String fast_forward =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21.402 12.5 12 18.375 11 19v-5.624l-8 5L2 19V6l9 5.624V6l10.402 6.5Zm-1.887 0L12 7.804v9.392l7.515-4.696Zm-9 0L3 7.804v9.392l7.515-4.696Z"/></svg>';
@@ -533,7 +534,7 @@ class MdiLight {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m11.5 20.5-4.514-5.99A7.467 7.467 0 0111.5 13c1.695 0 3.258.562 4.514 1.51L11.5 20.5Zm0-1.662 3.067-4.07A6.472 6.472 0 0011.5 14c-1.11 0-2.154.278-3.067.768l3.067 4.07ZM11.5 4a16.42 16.42 0 019.93 3.322l-.601.798A15.432 15.432 0 0011.5 5a15.432 15.432 0 00-9.329 3.12l-.602-.798A16.427 16.427 0 0111.5 4Zm0 6c2.372 0 4.561.787 6.32 2.114l-.602.798A9.458 9.458 0 0011.5 11a9.458 9.458 0 00-5.718 1.912l-.601-.798A10.454 10.454 0 0111.5 10Zm0-3a13.44 13.44 0 018.125 2.718l-.602.798A12.445 12.445 0 0011.5 8c-2.824 0-5.43.937-7.523 2.517l-.602-.8A13.44 13.44 0 0111.5 7Z"/></svg>';
   static const String xml =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m16.172 17.743-.708-.707L20 12.5l-4.536-4.536.708-.707 5.242 5.243-5.242 5.243Zm-9.344 0L1.586 12.5l5.242-5.243.708.707L3 12.5l4.536 4.535-.708.708ZM12.732 5h1l-3.463 15h-1l3.463-15Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     account,
     account_alert,
     alarm,
@@ -631,7 +632,7 @@ class MdiLight {
     ereader,
     eye,
     eye_off,
-    _factory,
+    i_factory,
     fast_forward,
     file,
     file_alert,

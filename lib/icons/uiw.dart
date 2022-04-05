@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/uiw
 class Uiw {
   static const String adobe =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M20 1v18.001L12.607 1H20ZM7.399 1 0 19.001V1h7.399Zm2.604 6.265L14.713 19h-3.086l-1.41-3.419H6.77l3.233-8.316Z"/></svg>';
@@ -427,7 +428,7 @@ class Uiw {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M8.195 0c4.527 0 8.196 3.62 8.196 8.084a7.989 7.989 0 01-1.977 5.267l5.388 5.473a.686.686 0 01-.015.98.71.71 0 01-.993-.014l-5.383-5.47a8.23 8.23 0 01-5.216 1.849C3.67 16.169 0 12.549 0 8.084 0 3.62 3.67 0 8.195 0Zm0 1.386c-3.75 0-6.79 2.999-6.79 6.698 0 3.7 3.04 6.699 6.79 6.699s6.791-3 6.791-6.699c0-3.7-3.04-6.698-6.79-6.698Zm.11 2.19c.383 0 .693.314.693.702v2.976h2.976c.388 0 .703.31.703.693a.698.698 0 01-.703.693l-2.976-.001v2.977c0 .388-.31.703-.693.703a.698.698 0 01-.693-.703V8.64H4.636a.698.698 0 01-.702-.692c0-.383.314-.693.702-.693h2.976V4.278c0-.388.31-.703.693-.703Z"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M8.195 0c4.527 0 8.196 3.62 8.196 8.084a7.989 7.989 0 01-1.977 5.267l5.388 5.473a.686.686 0 01-.015.98.71.71 0 01-.993-.014l-5.383-5.47a8.23 8.23 0 01-5.216 1.849C3.67 16.169 0 12.549 0 8.084 0 3.62 3.67 0 8.195 0Zm0 1.386c-3.75 0-6.79 2.999-6.79 6.698 0 3.7 3.04 6.699 6.79 6.699s6.791-3 6.791-6.699c0-3.7-3.04-6.698-6.79-6.698Zm3.78 5.868c.387 0 .702.31.702.693a.698.698 0 01-.703.693H4.636a.698.698 0 01-.702-.693c0-.383.314-.693.702-.693h7.338Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     adobe,
     alipay,
     aliwangwang,

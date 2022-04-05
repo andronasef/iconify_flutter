@@ -1,25 +1,26 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/uil
 class Uil {
-  static const String _0_plus =
+  static const String i_0_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 5h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2Zm-5.5 1h-1a3 3 0 00-3 3v6a3 3 0 003 3h1a3 3 0 003-3V9a3 3 0 00-3-3Zm1 9a1 1 0 01-1 1h-1a1 1 0 01-1-1V9a1 1 0 011-1h1a1 1 0 011 1Zm8.1-6a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9Z"/></svg>';
-  static const String _10_plus =
+  static const String i_10_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 5h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2Zm-7 4v6a3 3 0 003 3h1a3 3 0 003-3V9a3 3 0 00-3-3h-1a3 3 0 00-3 3Zm5 0v6a1 1 0 01-1 1h-1a1 1 0 01-1-1V9a1 1 0 011-1h1a1 1 0 011 1Zm5.6 0a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9ZM7 7v10a1 1 0 002 0V7a1 1 0 00-2 0Z"/></svg>';
-  static const String _12_plus =
+  static const String i_12_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11 9a1 1 0 002 0 1 1 0 011-1h1a1 1 0 011 1v1a1 1 0 01-1 1h-1a3 3 0 00-3 3v3a1 1 0 001 1h5a1 1 0 000-2h-4v-2a1 1 0 011-1h1a3 3 0 003-3V9a3 3 0 00-3-3h-1a3 3 0 00-3 3Zm7-4h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2ZM7 7v10a1 1 0 002 0V7a1 1 0 00-2 0Zm14.6 2a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9Z"/></svg>';
-  static const String _13_plus =
+  static const String i_13_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 5h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2Zm-7 4a1 1 0 002 0 1 1 0 011-1h1a1 1 0 011 1v1a1 1 0 01-1 1h-.5a1 1 0 000 2h.5a1 1 0 011 1v1a1 1 0 01-1 1h-1a1 1 0 01-1-1 1 1 0 00-2 0 3 3 0 003 3h1a3 3 0 003-3v-1a3 3 0 00-.78-2 3 3 0 00.78-2V9a3 3 0 00-3-3h-1a3 3 0 00-3 3ZM7 7v10a1 1 0 002 0V7a1 1 0 00-2 0Zm14.6 2a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9Z"/></svg>';
-  static const String _16_plus =
+  static const String i_16_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 5h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2Zm3.6 4a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9ZM7 7v10a1 1 0 002 0V7a1 1 0 00-2 0Zm4 2v6a3 3 0 003 3h1a3 3 0 003-3v-1a3 3 0 00-3-3h-2V9a1 1 0 011-1h1a1 1 0 011 1 1 1 0 002 0 3 3 0 00-3-3h-1a3 3 0 00-3 3Zm4 4a1 1 0 011 1v1a1 1 0 01-1 1h-1a1 1 0 01-1-1v-2Z"/></svg>';
-  static const String _17_plus =
+  static const String i_17_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11 7v2a1 1 0 002 0V8h2.78L14 16.8a1 1 0 00.8 1.2h.2a1 1 0 001-.8l2-10a1 1 0 00-.21-.83A1 1 0 0017 6h-5a1 1 0 00-1 1Zm7-2h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2ZM7 7v10a1 1 0 002 0V7a1 1 0 00-2 0Zm14.6 2a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9Z"/></svg>';
-  static const String _18_plus =
+  static const String i_18_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 5h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2ZM7 7v10a1 1 0 002 0V7a1 1 0 00-2 0Zm14.6 2a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9ZM11 9v1a3 3 0 00.78 2 3 3 0 00-.78 2v1a3 3 0 003 3h1a3 3 0 003-3v-1a3 3 0 00-.78-2 3 3 0 00.78-2V9a3 3 0 00-3-3h-1a3 3 0 00-3 3Zm5 6a1 1 0 01-1 1h-1a1 1 0 01-1-1v-1a1 1 0 011-1h1a1 1 0 011 1Zm0-6v1a1 1 0 01-1 1h-1a1 1 0 01-1-1V9a1 1 0 011-1h1a1 1 0 011 1Z"/></svg>';
-  static const String _21_plus =
+  static const String i_21_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17 18a1 1 0 001-1V7a1 1 0 00-2 0v10a1 1 0 001 1Zm1-13h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2Zm3.6 4a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9ZM10 13h1a3 3 0 003-3V9a3 3 0 00-3-3h-1a3 3 0 00-3 3 1 1 0 002 0 1 1 0 011-1h1a1 1 0 011 1v1a1 1 0 01-1 1h-1a3 3 0 00-3 3v3a1 1 0 001 1h5a1 1 0 000-2H9v-2a1 1 0 011-1Z"/></svg>';
-  static const String _3_plus =
+  static const String i_3_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 5h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2Zm-2.5 4a3 3 0 00-3-3h-1a3 3 0 00-3 3 1 1 0 002 0 1 1 0 011-1h1a1 1 0 011 1v1a1 1 0 01-1 1H12a1 1 0 000 2h.5a1 1 0 011 1v1a1 1 0 01-1 1h-1a1 1 0 01-1-1 1 1 0 00-2 0 3 3 0 003 3h1a3 3 0 003-3v-1a3 3 0 00-.78-2 3 3 0 00.78-2Zm6.1 0a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9Z"/></svg>';
-  static const String _500px =
+  static const String i_500px =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M7 15.14a1.41 1.41 0 00.17.44 6.28 6.28 0 001.39 2.08 6.67 6.67 0 002.09 1.4 6.21 6.21 0 002.54.52 6.29 6.29 0 002.55-.52 6.63 6.63 0 002.08-1.4 6.39 6.39 0 001.41-2.08 6.55 6.55 0 00.46-2.58 6.76 6.76 0 00-.51-2.56 6.35 6.35 0 00-1.41-2.07 6.46 6.46 0 00-4.63-1.92 6.63 6.63 0 00-2.58.55 7.09 7.09 0 00-1.2.68 7.14 7.14 0 00-1.14.94V3.23h9.05c.22 0 .34-.21.34-.62S17.48 2 17.26 2H7.47a.37.37 0 00-.3.13.4.4 0 00-.12.29V10a.39.39 0 00.17.3 1.09 1.09 0 00.41.18.73.73 0 00.43 0 .92.92 0 00.24-.11 1 1 0 00.14-.17 6.9 6.9 0 01.86-1 5.15 5.15 0 013.79-1.56 5.15 5.15 0 013.81 1.61A5.17 5.17 0 0118.48 13a5.31 5.31 0 01-.41 2 5.36 5.36 0 01-2.9 3 5.4 5.4 0 01-2.06.4 5.09 5.09 0 01-2.7-.75V13a2.66 2.66 0 01.71-1.79 2.53 2.53 0 012-.89 2.65 2.65 0 012 .79 2.55 2.55 0 01.75 1.89 2.73 2.73 0 01-2.77 2.74h-.34l-.37-.07h-.15c-.21-.06-.37.1-.49.48s-.07.6.14.68a4.34 4.34 0 001.25.18 3.84 3.84 0 002.8-1.16A3.81 3.81 0 0017.1 13a3.73 3.73 0 00-1.16-2.78 3.8 3.8 0 00-2.8-1.15 3.86 3.86 0 00-2.82 1.15 3.57 3.57 0 00-1.14 2.59v3.8a5.63 5.63 0 01-1.08-1.86c-.08-.21-.3-.25-.67-.13s-.55.29-.48.49Zm6.25-11a8.16 8.16 0 00-3.34.64.25.25 0 00-.23.22 1.26 1.26 0 00.09.43c.14.35.3.48.5.41a8.09 8.09 0 012.93-.55 7.54 7.54 0 013.08.63 8.67 8.67 0 012.31 1.48.25.25 0 00.18.08c.09 0 .24-.1.43-.29l.19-.19a.37.37 0 00.06-.21.3.3 0 00-.1-.2 8.62 8.62 0 00-2.62-1.69 9 9 0 00-3.53-.76Zm-1.61 9.91a.46.46 0 00.2.33.52.52 0 00.35.18.24.24 0 00.17-.06l.73-.73.7.68a.28.28 0 00.21.11.58.58 0 00.36-.19c.2-.21.23-.39.07-.55l-.7-.7.74-.74c.12-.12.08-.29-.13-.49s-.4-.27-.53-.14l-.73.72-.72-.74a.3.3 0 00-.15-.05.56.56 0 00-.34.2c-.23.22-.28.38-.16.5l.74.74-.74.72a.35.35 0 00-.12.21Zm7.93 4.57a1.24 1.24 0 00-.37-.25.28.28 0 00-.28.07l-.07.07a8 8 0 01-2.51 1.69 7.94 7.94 0 01-8.68-1.69A7.48 7.48 0 015.91 16a9.33 9.33 0 01-.51-1.77c0-.21-.25-.29-.63-.23s-.56.2-.53.4a8.52 8.52 0 00.6 2.11 8.84 8.84 0 002 2.88 9 9 0 002.89 2 9.13 9.13 0 003.54.71 9.28 9.28 0 003.54-.71 9 9 0 002.89-2l.06-.06c.09-.22.02-.44-.24-.71Z"/></svg>';
-  static const String _6_plus =
+  static const String i_6_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 5h1v1a1 1 0 002 0V5h1a1 1 0 000-2h-1V2a1 1 0 00-2 0v1h-1a1 1 0 000 2Zm-6.5 3h1a1 1 0 011 1 1 1 0 002 0 3 3 0 00-3-3h-1a3 3 0 00-3 3v6a3 3 0 003 3h1a3 3 0 003-3v-1a3 3 0 00-3-3h-2V9a1 1 0 011-1Zm1 5a1 1 0 011 1v1a1 1 0 01-1 1h-1a1 1 0 01-1-1v-2Zm9.1-4a1 1 0 00-.78 1.18 9 9 0 11-7-7 1 1 0 10.4-2A10.8 10.8 0 0012 1a11 11 0 1011 11 10.8 10.8 0 00-.22-2.2A1 1 0 0021.6 9Z"/></svg>';
   static const String abacus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21 2a1 1 0 00-1 1v3h-4V5a1 1 0 00-2 0v1h-2V5a1 1 0 00-2 0v1H8V5a1 1 0 00-2 0v1H4V3a1 1 0 00-2 0v16a3 3 0 003 3h14a3 3 0 003-3V3a1 1 0 00-1-1Zm-1 17a1 1 0 01-1 1H5a1 1 0 01-1-1v-3h2v1a1 1 0 002 0v-1h2v1a1 1 0 002 0v-1h4v1a1 1 0 002 0v-1h2Zm0-5h-2v-1a1 1 0 00-2 0v1h-4v-1a1 1 0 00-2 0v1H8v-1a1 1 0 00-2 0v1H4V8h2v1a1 1 0 002 0V8h2v1a1 1 0 002 0V8h2v1a1 1 0 002 0V8h4Z"/></svg>';
@@ -951,7 +952,7 @@ class Uil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9.17 10.17a1 1 0 00.71-.29 1 1 0 000-1.42L5.41 4H7a1 1 0 000-2H3a1 1 0 00-.38.08 1 1 0 00-.54.54A1 1 0 002 3v4a1 1 0 002 0V5.41l4.46 4.47a1 1 0 00.71.29Zm6.37-1.71a1 1 0 00-1.42 0l-5.66 5.66a1 1 0 000 1.42 1 1 0 00.71.29 1 1 0 00.71-.29l5.66-5.66a1 1 0 000-1.42ZM21 16a1 1 0 00-1 1v1.59l-4.46-4.47a1 1 0 10-1.42 1.42L18.59 20H17a1 1 0 000 2h4a1 1 0 00.38-.08 1 1 0 00.54-.54A1 1 0 0022 21v-4a1 1 0 00-1-1Z"/></svg>';
   static const String expand_right =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M8.5 14.1 4 18.6V17c0-.6-.4-1-1-1s-1 .4-1 1v4c0 .1 0 .3.1.4.1.2.3.4.5.5.1.1.3.1.4.1h4c.6 0 1-.4 1-1s-.4-1-1-1H5.4l4.5-4.5c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0zM21.7 2.3c-.2-.2-.5-.3-.7-.3h-4c-.6 0-1 .4-1 1s.4 1 1 1h1.6l-4.5 4.5c-.4.4-.4 1 0 1.4.2.2.4.3.7.3.3 0 .5-.1.7-.3L20 5.4V7c0 .6.4 1 1 1s1-.4 1-1V3c0-.2-.1-.5-.3-.7zm-6.2 11.8L9.9 8.5c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4l5.7 5.7c.2.2.4.3.7.3.3 0 .5-.1.7-.3.3-.4.3-1.1-.1-1.5z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M8.71 7.71 11 5.41V15a1 1 0 002 0V5.41l2.29 2.3a1 1 0 001.42 0 1 1 0 000-1.42l-4-4a1 1 0 00-.33-.21 1 1 0 00-.76 0 1 1 0 00-.33.21l-4 4a1 1 0 101.42 1.42ZM21 14a1 1 0 00-1 1v4a1 1 0 01-1 1H5a1 1 0 01-1-1v-4a1 1 0 00-2 0v4a3 3 0 003 3h14a3 3 0 003-3v-4a1 1 0 00-1-1Z"/></svg>';
   static const String exposure_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11 6H7a1 1 0 000 2h4a1 1 0 000-2Zm8-4H5a3 3 0 00-3 3v14a3 3 0 003 3h14a3 3 0 003-3V5a3 3 0 00-3-3ZM4 18.59V5a1 1 0 011-1h13.59ZM20 19a1 1 0 01-1 1H5.41L20 5.41Zm-7-2h1v1a1 1 0 002 0v-1h1a1 1 0 000-2h-1v-1a1 1 0 00-2 0v1h-1a1 1 0 000 2Z"/></svg>';
@@ -1323,7 +1324,7 @@ class Uil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19 2H5a3 3 0 00-3 3v14a3 3 0 003 3h14a2.81 2.81 0 00.49-.05l.3-.07h.12l.37-.14.13-.07c.1-.06.21-.11.31-.18a3.79 3.79 0 00.38-.32l.07-.09a2.69 2.69 0 00.27-.32l.09-.13a2.31 2.31 0 00.18-.35 1 1 0 00.07-.15c.05-.12.08-.25.12-.38v-.15a2.6 2.6 0 00.1-.6V5a3 3 0 00-3-3ZM5 20a1 1 0 01-1-1v-4.31l3.29-3.3a1 1 0 011.42 0l8.6 8.61Zm15-1a1 1 0 01-.07.36 1 1 0 01-.08.14.94.94 0 01-.09.12l-5.35-5.35.88-.88a1 1 0 011.42 0l3.29 3.3Zm0-5.14L18.12 12a3.08 3.08 0 00-4.24 0l-.88.88L10.12 10a3.08 3.08 0 00-4.24 0L4 11.86V5a1 1 0 011-1h14a1 1 0 011 1Z"/></svg>';
   static const String images =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 15V5a3 3 0 00-3-3H5a3 3 0 00-3 3v10a3 3 0 003 3h10a3 3 0 003-3ZM4 5a1 1 0 011-1h10a1 1 0 011 1v4.36l-1.08-1.09a2.56 2.56 0 00-1.81-.75 2.58 2.58 0 00-1.81.75l-.91.91-.81-.81a2.93 2.93 0 00-4.11 0L4 9.85Zm.12 10.45A.94.94 0 014 15v-2.33l2.88-2.88a.91.91 0 011.29 0l.83.81Zm8.6-5.76a.52.52 0 01.39-.17.52.52 0 01.39.17l2.5 2.49V15a1 1 0 01-1 1H6.4ZM21 6a1 1 0 00-1 1v10a3 3 0 01-3 3H7a1 1 0 000 2h10a5 5 0 005-5V7a1 1 0 00-1-1Z"/></svg>';
-  static const String _import =
+  static const String i_import =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21 14a1 1 0 00-1 1v4a1 1 0 01-1 1H5a1 1 0 01-1-1v-4a1 1 0 00-2 0v4a3 3 0 003 3h14a3 3 0 003-3v-4a1 1 0 00-1-1Zm-9.71 1.71a1 1 0 00.33.21.94.94 0 00.76 0 1 1 0 00.33-.21l4-4a1 1 0 00-1.42-1.42L13 12.59V3a1 1 0 00-2 0v9.59l-2.29-2.3a1 1 0 10-1.42 1.42Z"/></svg>';
   static const String inbox =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19.056 2h-14a3.003 3.003 0 00-3 3v14a3.003 3.003 0 003 3h14a3.003 3.003 0 003-3V5a3.003 3.003 0 00-3-3Zm-14 2h14a1.001 1.001 0 011 1v8H17.59a1.997 1.997 0 00-1.664.89L14.52 16H9.59l-1.406-2.11A1.997 1.997 0 006.52 13H4.056V5a1.001 1.001 0 011-1Zm14 16h-14a1.001 1.001 0 01-1-1v-4H6.52l1.406 2.11A1.997 1.997 0 009.59 18h4.93a1.997 1.997 0 001.664-.89L17.59 15h2.465v4a1.001 1.001 0 01-1 1Z"/></svg>';
@@ -2089,7 +2090,7 @@ class Uil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12.878 5.928a.297.297 0 01.314.335l.003.276c.001.593-.002 1.185.002 1.777.004.434.08.517.5.57a14.832 14.832 0 003.148-.046 4.948 4.948 0 001.573-.374.507.507 0 00.344-.603 6.831 6.831 0 00-5.343-5.71 6.608 6.608 0 00-3.648.242 6.718 6.718 0 00-2.694 1.752A6.272 6.272 0 005.23 8.432a11.188 11.188 0 001.526 5.517 1.342 1.342 0 001.33.748c.653-.016 1.307-.004 1.96-.004v-.003h2.084c.25 0 .447.06.445.372-.005.726 0 1.45-.003 2.176-.002.22-.064.432-.326.434-.264.002-.327-.209-.33-.43-.005-.347 0-.694 0-1.041 0-.451-.073-.557-.523-.64a7.702 7.702 0 00-2.348-.02 2.596 2.596 0 00-.8.196c-.212.1-.296.245-.193.467.107.231.206.467.333.688a43.875 43.875 0 003.426 4.956c.154.199.273.203.431.01.349-.426.715-.839 1.06-1.268a34.226 34.226 0 003.577-5.26 14.171 14.171 0 001.494-3.871 1.203 1.203 0 00-1.012-1.635 6.943 6.943 0 00-1.67-.162c-.909-.006-1.818-.003-2.727-.002-.245 0-.427-.07-.427-.358 0-1.01-.002-2.022.002-3.033 0-.216.104-.349.339-.34Z"/></svg>';
   static const String swimmer =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17 9.28a2 2 0 10-2-2 2 2 0 002 2ZM2.71 13.92a3 3 0 01.57.25 4.06 4.06 0 004.1 0 2.62 2.62 0 012.56 0l.21.1a4.14 4.14 0 003.87-.13 2.62 2.62 0 012.56 0 4.25 4.25 0 002.08.56 4 4 0 002-.56 3 3 0 01.57-.25 1 1 0 10-.52-1.89 4.82 4.82 0 00-1 .44 2.1 2.1 0 01-2.1 0 4.62 4.62 0 00-4.54 0 2.52 2.52 0 01-.29.12L14.34 11a.75.75 0 00.09-.15 1 1 0 00.12-.16 1.29 1.29 0 000-.19 1.06 1.06 0 000-.19 1.13 1.13 0 000-.18 1.06 1.06 0 000-.19 1.51 1.51 0 00-.1-.17.7.7 0 00-.1-.16l-3.07-3.33a1.1 1.1 0 00-.28-.22.8.8 0 00-.21 0 .53.53 0 00-.17 0A.89.89 0 0010.2 6L6.66 7.32a1 1 0 00-.6 1.28 1 1 0 001.28.6l2.93-1.07 2 2.12-1.9 1.9a4.62 4.62 0 00-3.94.28 2.1 2.1 0 01-2.1 0 4.82 4.82 0 00-1-.44 1 1 0 10-.58 1.91Zm18 3.09a4.82 4.82 0 00-1 .44 2.1 2.1 0 01-2.1 0 4.62 4.62 0 00-4.54 0 2.11 2.11 0 01-2.12 0 4.62 4.62 0 00-4.54 0 2.1 2.1 0 01-2.1 0 4.82 4.82 0 00-1-.44 1 1 0 10-.58 1.91 3 3 0 01.57.25 4.06 4.06 0 004.1 0 2.62 2.62 0 012.56 0 4.15 4.15 0 004.12 0 2.62 2.62 0 012.56 0 4.25 4.25 0 002.08.56 4 4 0 002-.56 3 3 0 01.57-.25 1 1 0 10-.58-1.92Z"/></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19.91 15.51h-4.53a1 1 0 000 2h2.4A8 8 0 014 12a1 1 0 00-2 0 10 10 0 0016.88 7.23V21a1 1 0 002 0v-4.5a1 1 0 00-.97-.99ZM12 2a10 10 0 00-6.88 2.77V3a1 1 0 00-2 0v4.5a1 1 0 001 1h4.5a1 1 0 000-2h-2.4A8 8 0 0120 12a1 1 0 002 0A10 10 0 0012 2Z"/></svg>';
   static const String sync_exclamation =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11.29 15.71A1 1 0 0013 15a1.05 1.05 0 00-.29-.71 1 1 0 00-1.09-.21 1 1 0 00-.33.21A1.05 1.05 0 0011 15a1 1 0 00.29.71Zm8.62-.2h-4.53a1 1 0 000 2h2.4A8 8 0 014 12a1 1 0 00-2 0 10 10 0 0016.88 7.23V21a1 1 0 002 0v-4.5a1 1 0 00-.97-.99ZM12 2a10 10 0 00-6.88 2.77V3a1 1 0 00-2 0v4.5a1 1 0 001 1h4.5a1 1 0 000-2h-2.4A8 8 0 0120 12a1 1 0 002 0A10 10 0 0012 2Zm0 11a1 1 0 001-1V9a1 1 0 00-2 0v3a1 1 0 001 1Z"/></svg>';
@@ -2471,18 +2472,18 @@ class Uil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19 2H9a3 3 0 00-3 3v1H5a3 3 0 00-3 3v10a3 3 0 003 3h10a3 3 0 003-3v-1h1a3 3 0 003-3V5a3 3 0 00-3-3Zm-3 17a1 1 0 01-1 1H5a1 1 0 01-1-1v-7h12Zm0-9H4V9a1 1 0 011-1h10a1 1 0 011 1Zm4 5a1 1 0 01-1 1h-1V9a3 3 0 00-.18-1H20Zm0-9H8V5a1 1 0 011-1h10a1 1 0 011 1Z"/></svg>';
   static const String yellow =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 5.5A1.5 1.5 0 1013.5 7 1.5 1.5 0 0012 5.5Zm10 3h-.54a6 6 0 001.54-4 1 1 0 00-1-1h-4.18a3 3 0 00-2.82-2H9a3 3 0 00-2.82 2H2a1 1 0 00-1 1 6 6 0 001.54 4H2a1 1 0 00-1 1 6 6 0 001.54 4H2a1 1 0 00-1 1 6 6 0 005.16 5.93A3 3 0 009 22.5h6a3 3 0 002.84-2.07A6 6 0 0023 14.5a1 1 0 00-1-1h-.54a6 6 0 001.54-4 1 1 0 00-1-1ZM6 18.37a4 4 0 01-2.87-2.87H6Zm0-5a4 4 0 01-2.87-2.87H6Zm0-5a4.09 4.09 0 01-1.83-1 4.09 4.09 0 01-1-1.83H6ZM16 19.5a1 1 0 01-1 1H9a1 1 0 01-1-1v-15a1 1 0 011-1h6a1 1 0 011 1Zm3.83-2.17a4.09 4.09 0 01-1.83 1V15.5h2.87a4.09 4.09 0 01-1.04 1.83Zm0-5a4.09 4.09 0 01-1.83 1V10.5h2.87a4.09 4.09 0 01-1.04 1.83Zm0-5a4.09 4.09 0 01-1.83 1V5.5h2.87a4.09 4.09 0 01-1.04 1.83ZM12 15.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5Zm0-5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5Z"/></svg>';
-  List iconsList = [
-    _0_plus,
-    _10_plus,
-    _12_plus,
-    _13_plus,
-    _16_plus,
-    _17_plus,
-    _18_plus,
-    _21_plus,
-    _3_plus,
-    _500px,
-    _6_plus,
+  static const List iconsList = [
+    i_0_plus,
+    i_10_plus,
+    i_12_plus,
+    i_13_plus,
+    i_16_plus,
+    i_17_plus,
+    i_18_plus,
+    i_21_plus,
+    i_3_plus,
+    i_500px,
+    i_6_plus,
     abacus,
     accessible_icon_alt,
     adjust,
@@ -2948,7 +2949,7 @@ class Uil {
     expand_from_corner,
     expand_left,
     expand_right,
-    _export,
+    i_export,
     exposure_alt,
     exposure_increase,
     external_link_alt,
@@ -3134,7 +3135,7 @@ class Uil {
     image_upload,
     image_v,
     images,
-    _import,
+    i_import,
     inbox,
     incoming_call,
     info,
@@ -3517,7 +3518,7 @@ class Uil {
     swatchbook,
     swiggy,
     swimmer,
-    _sync,
+    i_sync,
     sync_exclamation,
     sync_slash,
     syringe,

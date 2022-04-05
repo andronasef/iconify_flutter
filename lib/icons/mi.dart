@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/mi
 class Mi {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 4a1 1 0 011 1v6h6a1 1 0 110 2h-6v6a1 1 0 11-2 0v-6H5a1 1 0 110-2h6V5a1 1 0 011-1z"/></svg>';
@@ -155,7 +156,7 @@ class Mi {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M3 14a1 1 0 011-1h12a3 3 0 003-3V6a1 1 0 112 0v4a5 5 0 01-5 5H4a1 1 0 01-1-1z"/><path d="M3.293 14.707a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 14l3.293 3.293a1 1 0 11-1.414 1.414l-4-4z"/></g></svg>';
   static const String expand =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17 2a1 1 0 100 2h1.586l-4.293 4.293a1 1 0 001.414 1.414L20 5.414V7a1 1 0 102 0V3a1 1 0 00-1-1h-4zM4 18.586V17a1 1 0 10-2 0v4a1 1 0 001 1h4a1 1 0 100-2H5.414l4.293-4.293a1 1 0 00-1.414-1.414L4 18.586z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11.293 2.293a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L13 5.414V16a1 1 0 11-2 0V5.414L8.707 7.707a1 1 0 01-1.414-1.414l4-4zM5 17a1 1 0 011 1v2h12v-2a1 1 0 112 0v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2a1 1 0 011-1z"/></svg>';
   static const String external_link =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14 5a1 1 0 110-2h6a1 1 0 011 1v6a1 1 0 11-2 0V6.414l-9.293 9.293a1 1 0 01-1.414-1.414L17.586 5H14zM3 7a2 2 0 012-2h5a1 1 0 110 2H5v12h12v-5a1 1 0 112 0v5a2 2 0 01-2 2H5a2 2 0 01-2-2V7z"/></svg>';
@@ -309,7 +310,7 @@ class Mi {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="M13 5a1 1 0 10-2 0v1a1 1 0 102 0V5zM9.028 19H3a1 1 0 110-2h3.803a6 6 0 1110.394 0H21a1 1 0 110 2H9.028zM12 10a4 4 0 00-2.646 7h5.292A4 4 0 0012 10zm7.071-1.657-.707.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 111.414 1.414z"/><path d="M4 15a1 1 0 100-2H3a1 1 0 100 2h1zm18-1a1 1 0 01-1 1h-1a1 1 0 110-2h1a1 1 0 011 1zM5.636 9.05A1 1 0 007.05 7.636l-.707-.707A1 1 0 104.93 8.343l.707.707z"/></g></svg>';
   static const String sunset =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M8 16a4 4 0 116.646 3H9.354A3.988 3.988 0 018 16zm.97 5H21a1 1 0 100-2h-3.803a6 6 0 10-10.394 0H3a1 1 0 100 2h5.97zM19.071 8.929a1 1 0 010 1.414l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 0zM4 17a1 1 0 100-2H3a1 1 0 100 2h1zm18-1a1 1 0 01-1 1h-1a1 1 0 110-2h1a1 1 0 011 1zM5.636 11.05A1 1 0 007.05 9.636l-.707-.707a1 1 0 10-1.414 1.414l.707.707zM13 5.586V3a1 1 0 10-2 0v2.586l-.293-.293a1 1 0 00-1.414 1.414l1.999 1.999.01.01a.997.997 0 001.406-.01l2-1.999a1 1 0 00-1.415-1.414L13 5.586z" clip-rule="evenodd"/></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14.293 2.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L16.586 8H5a1 1 0 010-2h11.586l-2.293-2.293a1 1 0 010-1.414zm-4.586 10a1 1 0 010 1.414L7.414 16H19a1 1 0 110 2H7.414l2.293 2.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"/></svg>';
   static const String table =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 5.5a2 2 0 012-2h16a2 2 0 012 2v13a2 2 0 01-2 2H4a2 2 0 01-2-2v-13zm9 0H4v3h7v-3zm2 0v3h7v-3h-7zm7 5h-7v3h7v-3zm0 5h-7v3h7v-3zm-9 3v-3H4v3h7zm-7-5h7v-3H4v3z"/></svg>';
@@ -359,7 +360,7 @@ class Mi {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M10 4a6 6 0 100 12 6 6 0 000-12zm-8 6a8 8 0 1114.32 4.906l5.387 5.387a1 1 0 01-1.414 1.414l-5.387-5.387A8 8 0 012 10zm8-3a1 1 0 011 1v1h1a1 1 0 110 2h-1v1a1 1 0 11-2 0v-1H8a1 1 0 110-2h1V8a1 1 0 011-1z"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M10 4a6 6 0 100 12 6 6 0 000-12zm-8 6a8 8 0 1114.32 4.906l5.387 5.387a1 1 0 01-1.414 1.414l-5.387-5.387A8 8 0 012 10zm5 0a1 1 0 011-1h4a1 1 0 110 2H8a1 1 0 01-1-1z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     add,
     archive,
     arrow_down,
@@ -438,7 +439,7 @@ class Mi {
     email,
     enter,
     expand,
-    _export,
+    i_export,
     external_link,
     eye,
     eye_off,
@@ -515,7 +516,7 @@ class Mi {
     sunrise,
     sunrise_alt,
     sunset,
-    _switch,
+    i_switch,
     table,
     tablet,
     tag,

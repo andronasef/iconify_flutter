@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/subway
 class Subway {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm149.3 277.3c0 11.8-9.5 21.3-21.3 21.3h-85.3V384c0 11.8-9.5 21.3-21.3 21.3h-42.7c-11.8 0-21.3-9.6-21.3-21.3v-85.3H128c-11.8 0-21.3-9.6-21.3-21.3v-42.7c0-11.8 9.5-21.3 21.3-21.3h85.3V128c0-11.8 9.5-21.3 21.3-21.3h42.7c11.8 0 21.3 9.6 21.3 21.3v85.3H384c11.8 0 21.3 9.6 21.3 21.3v42.7z"/></svg>';
@@ -531,7 +532,7 @@ class Subway {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm149.3 277.3c0 11.8-9.5 21.3-21.3 21.3H128c-11.8 0-21.3-9.6-21.3-21.3v-42.7c0-11.8 9.5-21.3 21.3-21.3h256c11.8 0 21.3 9.6 21.3 21.3v42.7z"/></svg>';
   static const String subtraction_1 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M1 229.3h512v85.3H1z"/></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M469.3 362.7H42.7C19.1 362.7 0 381.8 0 405.3V448c0 23.5 19.1 42.7 42.7 42.7h426.7c23.5 0 42.7-19.1 42.7-42.7v-42.7c-.1-23.5-19.2-42.6-42.8-42.6zM85.3 448H42.7v-42.7h42.7V448zm298.7 0h-21.3v-42.7H384V448zm42.7 0h-21.3v-42.7h21.3V448zm42.6 0H448v-42.7h21.3V448zm0-256H42.7C19.1 192 0 211.1 0 234.7v42.7C0 300.9 19.1 320 42.7 320h426.7c23.5 0 42.7-19.1 42.7-42.7v-42.7c-.1-23.5-19.2-42.6-42.8-42.6zm-384 85.3H42.7v-42.7h42.7v42.7zm298.7 0h-21.3v-42.7H384v42.7zm42.7 0h-21.3v-42.7h21.3v42.7zm42.6 0H448v-42.7h21.3v42.7zm0-256H42.7C19.1 21.3 0 40.5 0 64v42.7c0 23.5 19.1 42.7 42.7 42.7h426.7c23.5 0 42.7-19.1 42.7-42.7V64c-.1-23.5-19.2-42.7-42.8-42.7zm-384 85.4H42.7V64h42.7v42.7zm298.7 0h-21.3V64H384v42.7zm42.7 0h-21.3V64h21.3v42.7zm42.6 0H448V64h21.3v42.7z"/></svg>';
   static const String symbol =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M387.1 64.2c-7.8-14.1-18.5-25.9-32-35.4-13.6-9.5-29.4-16.6-47.5-21.5C289.4 2.4 270.2 0 249.8 0c-44.2 0-87.3 9.5-128.5 31.7v85.4c33.9-30.7 70-49.8 107.4-49.8 11.6 0 22.4 1.3 32.6 3.8 10.2 2.5 19.2 6.4 27.1 11.6 7.9 5.2 14.2 11.7 18.7 19.4s6.2 15.2 6.2 25.6c0 11.6-2.5 23.8-8.7 33.6-6.2 9.7-13.8 19-23 27.7-9.2 8.8-19 17.8-29.6 27.1-10.8 9.3-20.8 18.9-30 28.8-9.2 9.9-16.8 20.6-23 32.1s-9.2 24.2-9.2 38.3c0 9 .9 18.2 2.6 27.4 1.8 9.2 1.2 14.1 3.5 19.8h85.4c-7.5-15.1-10.7-24.8-10.7-42.7 0-11.8 4.1-33 10.7-42.7 6.5-9.7 8.9-10.8 18.8-19.8s20.7-18 32.2-27.1c11.3-9 21.9-19.3 31.8-31 9.9-11.7 18.2-24.5 24.7-38.3 6.5-13.8 9.8-26.1 9.8-43.9.2-18.6-3.8-38.7-11.5-52.8zM238.7 405.3c-29.5 0-53.4 23.9-53.4 53.4s23.9 53.4 53.4 53.4 53.4-23.9 53.4-53.4c-.1-29.5-24-53.4-53.4-53.4z"/></svg>';
@@ -615,7 +616,7 @@ class Subway {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M325.8 0C223 0 139.6 83.4 139.6 186.2c0 33.5 9 64.8 24.4 92L0 442.2l23.3 46.5L69.8 512l164-164c27.2 15.5 58.5 24.4 92 24.4C428.6 372.4 512 289 512 186.2S428.6 0 325.8 0zm0 314.2c-70.7 0-128-57.3-128-128s57.3-128 128-128 128 57.3 128 128-57.3 128-128 128zm23.3-197.8h-46.5v46.5H256v46.5h46.5V256H349v-46.5h46.5V163H349v-46.6z"/></svg>';
   static const String zoom_ =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M325.8 0C223 0 139.6 83.4 139.6 186.2c0 33.5 9 64.8 24.4 92L0 442.2l23.3 46.5L69.8 512l164-164c27.1 15.5 58.5 24.4 92 24.4C428.6 372.4 512 289 512 186.2S428.6 0 325.8 0zm0 314.2c-70.7 0-128-57.3-128-128s57.3-128 128-128 128 57.3 128 128-57.3 128-128 128zM256 209.5h139.6V163H256v46.5z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     add,
     add_1,
     add_playlist,
@@ -882,7 +883,7 @@ class Subway {
     stop_1,
     subtraction,
     subtraction_1,
-    _switch,
+    i_switch,
     symbol,
     symbol_1,
     symbol_2,

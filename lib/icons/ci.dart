@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/ci
 class Ci {
   static const String add_column =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14 4v8.101a7.018 7.018 0 00-2-1.427V4a2 2 0 012-2h4a2 2 0 012 2v16a2 2 0 01-2 2h-4c-.033 0-.066 0-.099-.002A7.017 7.017 0 0015.326 20H18V4h-4Z"/><path fill="currentColor" d="M14 17a5 5 0 11-10 0 5 5 0 0110 0Zm-4 3v-2h2v-2h-2v-2H8v2H6v2h2v2h2Z"/></svg>';
@@ -351,7 +352,7 @@ class Ci {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 22c-5.52-.006-9.994-4.48-10-10v-.2C2.11 6.305 6.635 1.928 12.13 2c5.497.074 9.904 4.569 9.868 10.065C21.962 17.562 17.497 22 12 22Zm-.016-2H12a8 8 0 10-.016 0ZM13 18h-2v-2h2v2Zm0-3h-2a3.583 3.583 0 011.77-3.178C13.43 11.316 14 10.88 14 10a2 2 0 10-4 0H8v-.09a4 4 0 118 .09 3.413 3.413 0 01-1.56 2.645A3.1 3.1 0 0013 15Z"/></svg>';
   static const String help_questionmark =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13 22h-3v-3h3v3Zm0-5h-3v-.007c0-1.65 0-3.075.672-4.073a6.304 6.304 0 011.913-1.62c.334-.214.649-.417.914-.628a3.712 3.712 0 001.332-3.824A3.033 3.033 0 009 8H6a6 6 0 016-6 6.04 6.04 0 015.434 3.366 6.017 6.017 0 01-.934 6.3c-.453.502-.96.95-1.514 1.337a7.248 7.248 0 00-1.316 1.167A4.23 4.23 0 0013 17Z"/></svg>';
-  static const String _hide =
+  static const String i_hide =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m19.97 21.385-3.356-3.356c-1.448.66-3.023.991-4.614.973-1.64.02-3.263-.334-4.746-1.035a10.073 10.073 0 01-3.041-2.282A10.499 10.499 0 012.1 12.316l-.1-.314.105-.316a10.786 10.786 0 013.516-4.651L3 4.414l1.413-1.412 16.969 16.969-1.41 1.414h-.002ZM7.036 8.451a8.574 8.574 0 00-2.919 3.551 8.308 8.308 0 007.883 5 9.308 9.308 0 003.087-.5l-1.8-1.8c-.4.196-.84.299-1.287.3a3.019 3.019 0 01-3-3c0-.447.103-.888.3-1.29L7.036 8.451Zm12.816 7.161-1.392-1.391a8.594 8.594 0 001.423-2.219 8.3 8.3 0 00-7.883-5c-.247 0-.495.009-.735.026L9.5 5.261c.822-.176 1.66-.263 2.5-.259 1.64-.02 3.263.334 4.746 1.035 1.15.56 2.181 1.335 3.041 2.282a10.5 10.5 0 012.113 3.365l.1.318-.105.316a10.427 10.427 0 01-2.042 3.3l-.001-.006Z"/></svg>';
   static const String home_alt_check =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19 22H5a1 1 0 01-1-1v-9.643a1.01 1.01 0 01.293-.65l7-7a1 1 0 011.415 0l7 7a.994.994 0 01.292.707V21a1 1 0 01-1 1ZM12 5.828l-6 6V20h12v-8.172l-6-6Zm-1.5 12.731-2.706-2.7L9.2 14.441l1.3 1.292 4.3-4.292 1.412 1.416-5.712 5.701v.001Z"/></svg>';
@@ -659,7 +660,7 @@ class Ci {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m16.17 13-3.58 3.59L14 18l6-6-6-6-1.41 1.41L16.17 11H4v2h12.17Z"/></svg>';
   static const String short_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m13 7.83 3.59 3.58L18 10l-6-6-6 6 1.41 1.41L11 7.83V20h2V7.83Z"/></svg>';
-  static const String _show =
+  static const String i_show =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 19c-1.64.02-3.263-.334-4.746-1.035a10.076 10.076 0 01-3.041-2.282A10.59 10.59 0 012.1 12.316L2 12l.105-.316a10.66 10.66 0 012.109-3.367 10.074 10.074 0 013.04-2.282A10.785 10.785 0 0112 5c1.64-.02 3.263.334 4.746 1.035 1.15.56 2.181 1.335 3.041 2.282.912.978 1.63 2.12 2.113 3.367L22 12l-.105.316A10.423 10.423 0 0112 19Zm0-12a8.308 8.308 0 00-7.883 5A8.307 8.307 0 0012 17a8.309 8.309 0 007.883-5A8.3 8.3 0 0012 7Zm0 8a3.02 3.02 0 112.115-.884A2.976 2.976 0 0112 15Z"/></svg>';
   static const String shrink =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M10.992 20H9v-5H4v-2h7l-.008 7ZM20 11h-7l.007-7H15v5h5v2Z"/></svg>';
@@ -825,7 +826,7 @@ class Ci {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20 21H4a2 2 0 01-2-2V5a2 2 0 012-2h16a2 2 0 012 2v14a2 2 0 01-2 2ZM4 7v12h16V7H4Zm14 10h-6v-2h6v2ZM7.414 17 6 15.586l2.293-2.292L6 11l1.414-1.414 3.706 3.707L7.415 17h-.001Z"/></svg>';
   static const String youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12.006 19.012h-.02c-.062 0-6.265-.012-7.83-.437a2.5 2.5 0 01-1.764-1.765A26.494 26.494 0 011.986 12a26.646 26.646 0 01.417-4.817A2.564 2.564 0 014.169 5.4c1.522-.4 7.554-.4 7.81-.4H12c.063 0 6.282.012 7.831.437.859.233 1.53.904 1.762 1.763.29 1.594.427 3.211.407 4.831a26.568 26.568 0 01-.418 4.811 2.51 2.51 0 01-1.767 1.763c-1.52.403-7.553.407-7.809.407Zm-2-10.007-.005 6 5.212-3-5.207-3Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     add_column,
     add_row,
     add_to_queue,
@@ -1002,7 +1003,7 @@ class Ci {
     help_circle,
     help_circle_outline,
     help_questionmark,
-    _hide,
+    i_hide,
     home_alt_check,
     home_alt_fill,
     home_alt_minus,
@@ -1156,7 +1157,7 @@ class Ci {
     short_left,
     short_right,
     short_up,
-    _show,
+    i_show,
     shrink,
     shuffle,
     single_quotes_l,

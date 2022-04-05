@@ -1,7 +1,8 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/cil
 class Cil {
-  static const String _3d =
+  static const String i_3d =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="m68.983 382.642 171.35 98.928a32.082 32.082 0 0032 0l171.352-98.929a32.093 32.093 0 0016-27.713V157.071a32.092 32.092 0 00-16-27.713L272.334 30.429a32.086 32.086 0 00-32 0L68.983 129.358a32.09 32.09 0 00-16 27.713v197.858a32.09 32.09 0 0016 27.713ZM272.333 67.38l155.351 89.691v177.378l-155.351-87.807Zm-16.051 206.947 157.155 88.828-157.1 90.7-157.158-90.73ZM84.983 157.071l155.35-89.691v179.2l-155.35 87.81Z"/></svg>';
-  static const String _4k =
+  static const String i_4k =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M208 184h-32v88h-62.32l13.6-136H95.12l-16.8 168H176v72h32v-72h32v-32h-32v-88zm178.111-48-52 104H304V136h-32v240h32V272h30.111l52 104h35.778l-60-120 60-120h-35.778z"/><path fill="currentColor" d="M464 16H48a32.036 32.036 0 00-32 32v416a32.036 32.036 0 0032 32h416a32.036 32.036 0 0032-32V48a32.036 32.036 0 00-32-32Zm0 448H48V48h416l.02 416Z"/></svg>';
   static const String account_logout =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M77.155 272.034H351.75v-32.001H77.155l75.053-75.053v-.001l-22.628-22.626-113.681 113.68.001.001h-.001L129.58 369.715l22.628-22.627v-.001l-75.053-75.053z"/><path fill="currentColor" d="M160 16v32h304v416H160v32h336V16H160z"/></svg>';
@@ -451,7 +452,7 @@ class Cil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M256 16C123.452 16 16 123.452 16 256s107.452 240 240 240 240-107.452 240-240S388.548 16 256 16Zm147.078 387.078a207.253 207.253 0 1144.589-66.125 207.332 207.332 0 01-44.589 66.125Z"/><path fill="currentColor" d="M128 192h40v40h-40zm208 0h40v40h-40zM232 306.948a5.049 5.049 0 01.194-1.387L264 194.241V168h-32v21.759l-30.574 107.009A37.052 37.052 0 00237.052 344H296v-32h-58.948a5.057 5.057 0 01-5.052-5.052Z"/></svg>';
   static const String face_dead =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M256 16C123.452 16 16 123.452 16 256s107.452 240 240 240 240-107.452 240-240S388.548 16 256 16Zm147.078 387.078a207.253 207.253 0 1144.589-66.125 207.332 207.332 0 01-44.589 66.125Z"/><path fill="currentColor" d="M168 320h176v32H168zm42.63-91.958-24.042-21.371 21.37-24.041-23.916-21.26-21.371 24.042-24.041-21.37-21.26 23.916 24.042 21.371-21.37 24.041 23.916 21.26 21.371-24.042 24.041 21.37 21.26-23.916zm173.328-45.412-23.916-21.26-21.371 24.042-24.041-21.37-21.26 23.916 24.042 21.371-21.37 24.041 23.916 21.26 21.371-24.042 24.041 21.37 21.26-23.916-24.042-21.371 21.37-24.041z"/></svg>';
-  static const String _factory =
+  static const String i_factory =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M459.26 96 328 225.7V96h-34.525L168 223.267V16H16v480h480V96ZM464 464H48V48h88v216h36.778L296 139.018V264h38.764L464 136.3Z"/><path fill="currentColor" d="M136 328v8h32v-32h-32v24zm0 48h32v32h-32zm80-48v8h32v-32h-32v24zm0 48h32v32h-32zm80-48v8h32v-32h-32v24zm0 48h32v32h-32zm80-72h32v32h-32zm0 72h32v32h-32z"/></svg>';
   static const String factory_slash =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M459.26 96 328 225.697V96h-34.55l-64.44 65.128 22.628 22.628L296 138.92v89.198l37.314 37.315L464 136.303v259.815l32 32V96h-36.74zM168 16H83.882L168 100.118V16zm-32 288h32v32h-32zm0 72h32v32h-32zm80-72h32v32h-32zm0 72h32v32h-32zm80 0h32v32h-32z"/><path fill="currentColor" d="M38.627 16H16v480h480v-22.627ZM48 464V70.627l88 88V248h32v-57.373L441.373 464Z"/></svg>';
@@ -639,7 +640,7 @@ class Cil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="m171.313 348.686-22.626 22.628L272 494.627l123.313-123.313-22.626-22.628L288 433.373V96H72v32h184v305.373l-84.687-84.687z"/></svg>';
   static const String level_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M80 384v32h216V78.627l84.687 84.687 22.626-22.628L280 17.373 156.687 140.686l22.626 22.628L264 78.627V384H80z"/></svg>';
-  static const String _library =
+  static const String i_library =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M472 16H168a24 24 0 00-24 24v304a24 24 0 0024 24h304a24 24 0 0024-24V40a24 24 0 00-24-24Zm-8 320H176V48h288Z"/><path fill="currentColor" d="M112 400V80H80v328a24 24 0 0024 24h328v-32Z"/><path fill="currentColor" d="M48 464V144H16v328a24 24 0 0024 24h328v-32Z"/></svg>';
   static const String library_add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M48 464V144H16v328a24.027 24.027 0 0024 24h328v-32H48Z"/><path fill="currentColor" d="M144 400h-32V80H80v328a24.027 24.027 0 0024 24h328v-32H144Z"/><path fill="currentColor" d="M472 16H168a24.027 24.027 0 00-24 24v304a24.027 24.027 0 0024 24h304a24.027 24.027 0 0024-24V40a24.027 24.027 0 00-24-24Zm-8 320H176V48h288Z"/><path fill="currentColor" d="M304 288h32v-84h84v-32h-84V88h-32v84h-84v32h84v84z"/></svg>';
@@ -967,7 +968,7 @@ class Cil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M384 433.373V160h-32v274.51l-69.823-69.823-22.627 22.626 107.882 107.883 107.881-107.883-22.626-22.626L384 433.373zM159.432 17.372 51.55 125.255l22.627 22.627L144 78.059V352h32V79.195l68.687 68.687 22.626-22.627L159.432 17.372z"/></svg>';
   static const String swimming =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M223.308 137.5a16.051 16.051 0 0117.922 3.029l32.883 35.171-102.055 90.043c9.554 1.9 16.308 5.041 22.132 7.758 7.78 3.631 13.925 6.5 27.517 6.5s19.738-2.868 27.519-6.5l.154-.072a173.415 173.415 0 0041.417-27.1l27.048-23.866 52.9 56.573c6.179-1.137 10.561-3.17 15.624-5.532a99.961 99.961 0 0116.907-6.533L264.388 118.444l-.373-.385a48.151 48.151 0 00-54.239-9.555l-64.542 30.12 13.532 29Z"/><circle cx="372" cy="132" r="36" fill="currentColor"/><path fill="currentColor" d="M427.425 376c-20.693 0-31.983 5.268-41.053 9.5-7.782 3.631-13.928 6.5-27.523 6.5s-19.739-2.868-27.52-6.5c-9.071-4.232-20.359-9.5-41.052-9.5s-31.981 5.269-41.051 9.5c-7.781 3.631-13.926 6.5-27.519 6.5s-19.737-2.868-27.517-6.5c-9.07-4.232-20.358-9.5-41.05-9.5s-31.981 5.269-41.051 9.5c-7.781 3.631-13.926 6.5-27.519 6.5s-19.738-2.868-27.519-6.5C47.981 381.269 36.692 376 16 376v32c13.593 0 19.738 2.868 27.519 6.5 9.07 4.232 20.359 9.5 41.051 9.5s31.981-5.269 41.051-9.5c7.781-3.631 13.926-6.5 27.519-6.5s19.737 2.868 27.517 6.5c9.07 4.232 20.358 9.5 41.05 9.5s31.981-5.269 41.051-9.5c7.781-3.631 13.927-6.5 27.519-6.5s19.739 2.868 27.52 6.5c9.071 4.232 20.359 9.5 41.052 9.5s31.983-5.268 41.054-9.5c7.781-3.631 13.928-6.5 27.522-6.5s19.741 2.868 27.521 6.5c9.072 4.233 20.361 9.5 41.054 9.5v-32c-13.594 0-19.741-2.868-27.521-6.5-9.072-4.232-20.361-9.5-41.054-9.5Zm65.875-64.043c-11.741-.359-17.576-3.075-24.82-6.456-8.666-4.044-19.376-9.02-38.353-9.458-.889-.02-1.775-.043-2.7-.043s-1.812.023-2.7.043c-18.977.438-29.688 5.414-38.352 9.458-7.246 3.381-13.08 6.1-24.822 6.456-.869.026-1.764.043-2.7.043s-1.832-.017-2.7-.043c-11.741-.359-17.575-3.075-24.819-6.456-8.665-4.043-19.375-9.019-38.351-9.458-.889-.02-1.774-.043-2.7-.043s-1.811.023-2.7.043c-18.976.438-29.687 5.415-38.351 9.458-7.244 3.381-13.078 6.1-24.818 6.456-.869.026-1.764.043-2.7.043s-1.831-.017-2.7-.043c-11.739-.359-17.573-3.075-24.816-6.456-8.664-4.043-19.374-9.02-38.349-9.458a93.277 93.277 0 00-1.95-.033c-.255 0-.5-.012-.753-.012-.926 0-1.812.023-2.7.043-18.975.438-29.686 5.415-38.35 9.458-7.245 3.381-13.078 6.1-24.818 6.456-.869.026-1.764.043-2.7.043s-1.831-.017-2.7-.043C70.13 311.6 64.3 308.882 57.051 305.5c-8.664-4.043-19.374-9.02-38.35-9.458-.889-.02-1.775-.043-2.7-.043v32c13.593 0 19.738 2.868 27.519 6.5 9.07 4.232 20.359 9.5 41.051 9.5s31.981-5.269 41.051-9.5c7.781-3.631 13.926-6.5 27.519-6.5s19.737 2.868 27.517 6.5c9.07 4.232 20.358 9.5 41.05 9.5s31.981-5.269 41.051-9.5c7.781-3.631 13.927-6.5 27.519-6.5s19.739 2.868 27.52 6.5c9.071 4.232 20.359 9.5 41.052 9.5s31.983-5.268 41.054-9.5c7.781-3.631 13.928-6.5 27.522-6.5s19.741 2.868 27.521 6.5c9.072 4.233 20.361 9.5 41.054 9.5V312c-.938 0-1.833-.017-2.701-.043Z"/></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="m410.168 133.046-28.958-28.958 82.807-.088-.034-32L328 72.144V208h32v-79.868l27.541 27.541A152.5 152.5 0 01279.972 416l.056 32a184.5 184.5 0 00130.14-314.954ZM232.028 104l-.056-32a184.5 184.5 0 00-130.14 314.954L130.878 416H48v32h136V312h-32v79.868l-27.541-27.541A152.5 152.5 0 01232.028 104Z"/></svg>';
   static const String tablet =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M440 16H80a24.028 24.028 0 00-24 24v432a24.028 24.028 0 0024 24h360a24.028 24.028 0 0024-24V40a24.028 24.028 0 00-24-24Zm-8 448H88v-96h344Zm0-128H88V48h344Z"/><path fill="currentColor" d="M232 400h32v32h-32z"/></svg>';
@@ -1123,9 +1124,9 @@ class Cil {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M208 96h-32v80H96v32h80v80h32v-80h80v-32h-80V96z"/><path fill="currentColor" d="m479.6 400.4-81.084-81.084-62.368-25.767A175.008 175.008 0 00368 192.687c0-97.047-78.953-176-176-176s-176 78.953-176 176 78.953 176 176 176a175.028 175.028 0 00101.619-32.378l25.7 62.2L400.4 479.6a56 56 0 0079.2-79.2ZM48 192.687c0-79.4 64.6-144 144-144s144 64.6 144 144-64.6 144-144 144-144-64.599-144-144Zm408.971 264.284a24.029 24.029 0 01-33.942 0L346.457 380.4l-23.894-57.835 57.837 23.892 76.573 76.572a24.029 24.029 0 01-.002 33.942Z"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M96.344 175.313h192v32h-192z"/><path fill="currentColor" d="m479.6 399.716-81.084-81.084-62.368-25.767A175.014 175.014 0 00368 192c0-97.047-78.953-176-176-176S16 94.953 16 192s78.953 176 176 176a175.034 175.034 0 00101.619-32.377l25.7 62.2 81.081 81.088a56 56 0 1079.2-79.195ZM48 192c0-79.4 64.6-144 144-144s144 64.6 144 144-64.6 144-144 144S48 271.4 48 192Zm408.971 264.284a24.028 24.028 0 01-33.942 0l-76.572-76.572-23.894-57.835 57.837 23.894 76.573 76.572a24.028 24.028 0 01-.002 33.941Z"/></svg>';
-  List iconsList = [
-    _3d,
-    _4k,
+  static const List iconsList = [
+    i_3d,
+    i_4k,
     account_logout,
     action_redo,
     action_undo,
@@ -1350,7 +1351,7 @@ class Cil {
     eyedropper,
     face,
     face_dead,
-    _factory,
+    i_factory,
     factory_slash,
     fastfood,
     fax,
@@ -1444,7 +1445,7 @@ class Cil {
     lemon,
     level_down,
     level_up,
-    _library,
+    i_library,
     library_add,
     library_building,
     life_ring,
@@ -1608,7 +1609,7 @@ class Cil {
     swap_horizontal,
     swap_vertical,
     swimming,
-    _sync,
+    i_sync,
     tablet,
     tag,
     tags,

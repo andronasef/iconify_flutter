@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/grommet-icons
 class GrommetIcons {
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h7v6l-4 7M20 8h-7v6l4 7M12 5a1 1 0 100-2 1 1 0 000 2Zm-1 3h2v5h-2V8Z"/></svg>';
@@ -547,7 +548,7 @@ class GrommetIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M2 7a5 5 0 015-5h10a5 5 0 015 5v10a5 5 0 01-5 5H7a5 5 0 01-5-5V7Zm5-3a3 3 0 00-3 3v10a3 3 0 003 3h10a3 3 0 003-3V7a3 3 0 00-3-3H7Zm5 3.5c-1.448 0-2 1.052-2 1.5a1 1 0 11-2 0c0-1.552 1.448-3.5 4-3.5 1.156 0 2.17.289 2.909.935C15.664 7.096 16 8.017 16 9c0 1.188-.306 2.028-.882 2.668a4.313 4.313 0 01-.828.693 14.92 14.92 0 01-.368.235l-.018.011c-.124.078-.236.15-.347.223-.35.236-.493.412-.55.526-.046.088-.077.205-.028.438a1 1 0 01-1.958.412c-.126-.6-.083-1.197.204-1.759.273-.535.718-.942 1.218-1.277.14-.094.277-.18.399-.257l.009-.006c.122-.076.228-.142.328-.21.205-.136.346-.25.453-.368.174-.193.368-.516.368-1.329 0-.517-.164-.846-.409-1.06-.261-.229-.747-.44-1.591-.44Zm0 8.281a1 1 0 100 2 1 1 0 000-2Z" clip-rule="evenodd"/></svg>';
   static const String heroku =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M20.443 0H3.162A2.162 2.162 0 001 2.162V21.84C1 23.034 1.97 24 3.162 24h17.28a2.159 2.159 0 002.16-2.16V2.162A2.16 2.16 0 0020.442 0Zm.958 21.84a.96.96 0 01-.958.96H3.162a.961.961 0 01-.962-.96V2.162c0-.532.432-.962.962-.962h17.28c.53 0 .96.43.96.962V21.84Zm-15-1.439 2.701-2.4L6.4 15.6v4.8Zm9.757-9.729c-.486-.488-1.373-1.071-2.856-1.071-1.627 0-3.303.424-4.5.812V3.6H6.4v10.41l1.697-.769c.028-.013 2.763-1.239 5.205-1.239 1.218 0 1.488.67 1.501 1.231v7.17h2.398v-7.2c.003-.155-.012-1.486-1.043-2.53M13 7.5h2.401c1.085-1.228 1.637-2.536 1.8-3.899h-2.399c-.267 1.36-.858 2.66-1.802 3.9"/></svg>';
-  static const String _hide =
+  static const String i_hide =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M12 17c-2.727 0-6-2.778-6-5s3.273-5 6-5 6 2.778 6 5-3.273 5-6 5Zm-1-5a1 1 0 102 0 1 1 0 00-2 0Zm9-7L4 19"/></svg>';
   static const String history =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M1 12c0 6.075 4.925 11 11 11s11-4.925 11-11S18.075 1 12 1C7.563 1 4 4 2 7.5M1 1v7h7m8 9-4-4V6"/></svg>';
@@ -717,7 +718,7 @@ class GrommetIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M7.5 7v8.514c0 4.243 5.5 2.829 5.5 6.6V24m-2-14L7.5 7 4 10m12.5-8v8.44c0 4.068-3.5 2.712-3.5 6.328V24m0-19 3.5-3L20 5"/></svg>';
   static const String network_drive =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M12 14v4M22 6v6a1 1 0 01-1 1H3a1 1 0 01-1-1V6a1 1 0 011-1h18a1 1 0 011 1zM12 21a2 2 0 100-4 2 2 0 000 4zM6 10a1 1 0 100-2 1 1 0 000 2z"/></svg>';
-  static const String _new =
+  static const String i_new =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M12 1v22M2 6l20 12m0-12L2 18"/></svg>';
   static const String new_window =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M11 9h8m-4 4V5m2 12v6H1V7h6m0-6h16v16H7V1Z"/></svg>';
@@ -847,7 +848,7 @@ class GrommetIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 13.5 11 8l1 13m5-7.5L13 8l-1 13m0-16a1 1 0 100-2 1 1 0 000 2Zm-1 3h2l1.5 8.5h-5L11 8Z"/></svg>';
   static const String resume =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M1 20h5V4H1v16Zm10-1 11-7-11-7v14Z"/></svg>';
-  static const String _return =
+  static const String i_return =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="m9 19-5-5 5-5m9-5v10H5"/></svg>';
   static const String revert =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M8 3 3 8l5 5m4 7h3a6 6 0 100-12H4"/></svg>';
@@ -1029,9 +1030,9 @@ class GrommetIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M18.103 21.018c-2.827 1.633-6.714 1.801-10.625.125-3.166-1.347-5.794-3.705-7.478-6.4.808.674 1.752 1.213 2.762 1.684 4.039 1.893 8.077 1.764 10.918.005l-.004-.005C9.634 13.328 6.198 9.286 3.638 5.985c-.54-.539-.943-1.212-1.348-1.819 3.1 2.83 8.018 6.4 9.769 7.411C8.354 7.67 5.053 2.82 5.187 2.954c5.861 5.928 11.319 9.297 11.319 9.297.18.101.32.186.432.262.118-.3.221-.612.308-.936.944-3.436-.134-7.343-2.492-10.577 5.456 3.301 8.69 9.499 7.343 14.686-.035.14-.074.279-.115.414l.048.058c2.694 3.369 1.953 6.94 1.616 6.266-1.461-2.86-4.167-1.986-5.543-1.406Z"/></svg>';
   static const String swim =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 13c.5.5 2.13-.112 3.262-.5 1.46-.5 3.238 0 2.738-.5l-2-2s-4.5 2.5-4 3Zm-9 7c2 0 3-1 5-1s3 1 5 1 3-1 5-1 3 1 5 1M2 16c2 0 3-1 5-1s3 1 5 1 3-1 5-1 3 1 5 1M17.5 4l-5.278 3 3.278 3.5L12 12m7.222-2a1 1 0 100-2 1 1 0 000 2Z"/></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M5 1h14v22H5V1Zm2.5 10H17v10H7V11h.5ZM15 6a3 3 0 11-6 0 3 3 0 016 0Zm-4 13v-5h2v5h-2Zm1-13.998a1 1 0 100 2 1 1 0 000-2Z" clip-rule="evenodd"/></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M5 19h11a7 7 0 007-7V9M8 15l-4 4 4 4M19 5H8a7 7 0 00-7 7v3M16 1l4 4-4 4"/></svg>';
   static const String system =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="M1 19h22V1H1v18Zm4 4h14H5Zm3 0h8v-4H8v4ZM7.757 5.757l2.122 2.122-2.122-2.122ZM9 10H6h3Zm.879 2.121-2.122 2.122 2.122-2.122ZM12 13v3-3Zm2.121-.879 2.122 2.122-2.122-2.122ZM18 10h-3 3Zm-1.757-4.243-2.122 2.122 2.122-2.122ZM12 7V4v3Zm0 0a3 3 0 100 6 3 3 0 000-6Z"/></svg>';
@@ -1227,7 +1228,7 @@ class GrommetIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="m16 16 7 7-7-7Zm-6 2a8 8 0 100-16 8 8 0 000 16Zm0-3V5m-5 5h10"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="2" d="m16 16 7 7-7-7Zm-6 2a8 8 0 100-16 8 8 0 000 16Zm-5-8h10"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     accessibility,
     achievement,
     action,
@@ -1502,7 +1503,7 @@ class GrommetIcons {
     help,
     help_option,
     heroku,
-    _hide,
+    i_hide,
     history,
     home,
     home_option,
@@ -1587,7 +1588,7 @@ class GrommetIcons {
     navigate,
     network,
     network_drive,
-    _new,
+    i_new,
     new_window,
     next,
     node,
@@ -1652,7 +1653,7 @@ class GrommetIcons {
     restroom_men,
     restroom_women,
     resume,
-    _return,
+    i_return,
     revert,
     rewind,
     risk,
@@ -1743,8 +1744,8 @@ class GrommetIcons {
     suse,
     swift,
     swim,
-    _switch,
-    _sync,
+    i_switch,
+    i_sync,
     system,
     table,
     table_add,

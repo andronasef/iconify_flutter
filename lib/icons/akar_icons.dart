@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/akar-icons
 class AkarIcons {
   static const String air =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8h7a3 3 0 10-3-3M4 16h11a3 3 0 11-3 3M2 12h17a3 3 0 10-3-3"/></svg>';
@@ -805,7 +806,7 @@ class AkarIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M13.544 10.456a4.368 4.368 0 00-6.176 0l-3.089 3.088a4.367 4.367 0 106.177 6.177L12 18.177"/><path d="M10.456 13.544a4.368 4.368 0 006.176 0l3.089-3.088a4.367 4.367 0 10-6.177-6.177L12 5.823"/></g></svg>';
   static const String youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><g clip-path="url(#svgIDa)"><path d="M23.5 6.507a2.786 2.786 0 00-.766-1.27 3.05 3.05 0 00-1.338-.742C19.518 4 11.994 4 11.994 4a76.624 76.624 0 00-9.39.47 3.16 3.16 0 00-1.338.76c-.37.356-.638.795-.778 1.276A29.09 29.09 0 000 12c-.012 1.841.151 3.68.488 5.494.137.479.404.916.775 1.269.371.353.833.608 1.341.743 1.903.494 9.39.494 9.39.494a76.8 76.8 0 009.402-.47 3.05 3.05 0 001.338-.742 2.78 2.78 0 00.765-1.27A28.38 28.38 0 0024 12.023a26.579 26.579 0 00-.5-5.517ZM9.602 15.424V8.577l6.26 3.424-6.26 3.423Z"/></g><defs><clipPath id="svgIDa"><path fill="#fff" d="M0 0h24v24H0z"/></clipPath></defs></g></svg>';
-  List iconsList = [
+  static const List iconsList = [
     air,
     airplay_audio,
     airplay_video,

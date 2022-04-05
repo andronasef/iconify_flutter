@@ -1,7 +1,8 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/eos-icons
 class EosIcons {
-  static const String _3d_print =
+  static const String i_3d_print =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M22 2v20H2V2h20Zm0-2H2a2 2 0 00-2 2v20a2 2 0 002 2h20a2 2 0 002-2V2a2 2 0 00-2-2Z"/><path fill="currentColor" d="M18 17H6v2h12v-2Zm-5 2h-2v3h2v-3Z"/><path fill="currentColor" fill-rule="evenodd" d="M9.327 7.089A1.99 1.99 0 019.272 7H2V5h7.266A1.995 1.995 0 0111 4h2a2.002 2.002 0 011.731 1H23v2h-8.272a1.997 1.997 0 01-1.186.916L12 11l-1.542-3.084a1.995 1.995 0 01-1.131-.827ZM12 7h-1.004 2.008H12Zm1-1a1 1 0 11-2 0 1 1 0 012 0Z" clip-rule="evenodd"/></svg>';
-  static const String _abstract =
+  static const String i_abstract =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M16 3H8a2 2 0 00-1.71 1l-4 7a2 2 0 000 2l4 7A2 2 0 008 21h8a2 2 0 001.74-1l4-7a2 2 0 000-2l-4-7A2 2 0 0016 3Z"/></svg>';
   static const String abstract_incomplete =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m21.72 11.01-4.01-7A1.968 1.968 0 0015.98 3H8a1.968 1.968 0 00-1.73 1.01L4.74 6.68l-.8 1.39-1.68 2.94A2.033 2.033 0 002 12a2.004 2.004 0 00.26.99l1.68 2.94.8 1.39 1.53 2.67A1.968 1.968 0 008 21h7.98a1.968 1.968 0 001.73-1.01l4.01-7a2.004 2.004 0 00.26-.99 1.956 1.956 0 00-.26-.99Zm-4.384 5.974.006-.004-.004.007ZM20.28 12l-2.935 4.974c-.118.01-.234.026-.355.026A4.994 4.994 0 0112 12.098v-.118A5.004 5.004 0 007 7a2.96 2.96 0 00-.31.03L7.89 5h8.26l4.14 7Z"/></svg>';
@@ -505,9 +506,9 @@ class EosIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19 22H5V2h14Zm0-22H5a2 2 0 00-2 2v20a2 2 0 002 2h14a2 2 0 002-2V2a2 2 0 00-2-2Z"/><path fill="currentColor" d="M8 4a1 1 0 11-1-1 1 1 0 011 1Zm10 0a1 1 0 11-1-1 1 1 0 011 1ZM8 20a1 1 0 11-1-1 1 1 0 011 1Zm10 0a1 1 0 11-1-1 1 1 0 011 1ZM12 6a5 5 0 00-5 5 4.936 4.936 0 001 3h3v1.9a5.001 5.001 0 006-4.9c0-5-5-5-5-5Zm0 7a2 2 0 112-2 2 2 0 01-2 2Z"/></svg>';
   static const String workload =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M4 6H2v14a2 2 0 002 2h14v-2H4Z"/><path fill="currentColor" d="M10 10h8v2h-8zm0 3h8v2h-8zm3.47-8.01h-2.31L10 7l1.16 2h2.31l1.16-2-1.16-2.01z"/><path fill="currentColor" d="M20 2H8a2 2 0 00-2 2v12a2 2 0 002 2h12a2 2 0 002-2V4a2 2 0 00-2-2Zm0 14H8V4h12Z"/></svg>';
-  List iconsList = [
-    _3d_print,
-    _abstract,
+  static const List iconsList = [
+    i_3d_print,
+    i_abstract,
     abstract_incomplete,
     abstract_instance,
     abstract_instance_outlined,

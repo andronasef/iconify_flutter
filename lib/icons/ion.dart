@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/ion
 class Ion {
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M256 112a56 56 0 1156-56 56.06 56.06 0 01-56 56Z"/><path fill="currentColor" d="m432 112.8-.45.12-.42.13c-1 .28-2 .58-3 .89-18.61 5.46-108.93 30.92-172.56 30.92-59.13 0-141.28-22-167.56-29.47a73.79 73.79 0 00-8-2.58c-19-5-32 14.3-32 31.94 0 17.47 15.7 25.79 31.55 31.76v.28l95.22 29.74c9.73 3.73 12.33 7.54 13.6 10.84 4.13 10.59.83 31.56-.34 38.88l-5.8 45-32.19 176.19q-.15.72-.27 1.47l-.23 1.27c-2.32 16.15 9.54 31.82 32 31.82 19.6 0 28.25-13.53 32-31.94s28-157.57 42-157.57 42.84 157.57 42.84 157.57c3.75 18.41 12.4 31.94 32 31.94 22.52 0 34.38-15.74 32-31.94a57.17 57.17 0 00-.76-4.06L329 301.27l-5.79-45c-4.19-26.21-.82-34.87.32-36.9a1.09 1.09 0 00.08-.15c1.08-2 6-6.48 17.48-10.79l89.28-31.21a16.9 16.9 0 001.62-.52c16-6 32-14.3 32-31.93S451 107.81 432 112.8Z"/></svg>';
@@ -2499,7 +2500,7 @@ class Ion {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="m150.38 253.68 21.94-23.3 11.65 11c73.63 69.36 147.51 111.56 234.45 133.07 11.73-32 12.77-67.22 2.64-101.58-13.44-45.59-44.74-85.31-90.49-114.86-40.25-26-76.6-32.09-115.09-38.54-21.12-3.54-43-7.2-66.85-14.43-43.78-13.28-89.69-52.74-90.15-53.13L33.4 30.15 32 63.33c-.1 2.56-2.42 63.57 14.22 147.77 17.58 89 50.24 155.85 97.07 198.63 38 34.69 87.62 53.9 136.93 53.9a185.88 185.88 0 0027.78-2.07c41.72-6.32 76.43-27.27 96-57.75-89.5-23.28-165.95-67.55-242-139.16Z"/><path fill="currentColor" d="M467.43 384.19c-16.83-2.59-33.13-5.84-49-9.77a158.49 158.49 0 01-12.13 25.68c-.74 1.25-1.51 2.49-2.29 3.71a583.43 583.43 0 0058.55 12l15.82 2.44 4.86-31.63Z"/></svg>';
   static const String levels =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M127 99.2V80c0-8.8-7.2-16-16-16s-16 7.2-16 16v21.5c-8.5 5.8-14 15.5-14 26.5s5.5 20.7 14 26.5V432c0 8.8 7.2 16 16 16s16-7.2 16-16V156.8c10.7-5.2 18-16.1 18-28.8s-7.3-23.6-18-28.8zm96 193.7V80c0-8.8-7.2-16-16-16s-16 7.2-16 16v211.7c-10.1 5.4-17 16-17 28.3s6.9 22.9 17 28.3V432c0 8.8 7.2 16 16 16s16-7.2 16-16v-84.9c9-5.7 15-15.7 15-27.1s-6-21.4-15-27.1zm96-129.6V80c0-8.8-7.2-16-16-16s-16 7.2-16 16v83.3c-9.6 5.5-16 15.9-16 27.7s6.4 22.2 16 27.7V432c0 8.8 7.2 16 16 16s16-7.2 16-16V218.7c9.6-5.5 16-15.9 16-27.7s-6.4-22.2-16-27.7zM431 383c0-11.8-6.4-22.2-16-27.7V80c0-8.8-7.2-16-16-16s-16 7.2-16 16v275.3c-9.6 5.5-16 15.9-16 27.7s6.4 22.2 16 27.7V432c0 8.8 7.2 16 16 16s16-7.2 16-16v-21.3c9.6-5.5 16-15.9 16-27.7z"/></svg>';
-  static const String _library =
+  static const String i_library =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M64 480H48a32 32 0 01-32-32V112a32 32 0 0132-32h16a32 32 0 0132 32v336a32 32 0 01-32 32Zm176-304a32 32 0 00-32-32h-64a32 32 0 00-32 32v28a4 4 0 004 4h120a4 4 0 004-4ZM112 448a32 32 0 0032 32h64a32 32 0 0032-32v-30a2 2 0 00-2-2H114a2 2 0 00-2 2Z"/><rect width="128" height="144" x="112" y="240" fill="currentColor" rx="2" ry="2"/><path fill="currentColor" d="M320 480h-32a32 32 0 01-32-32V64a32 32 0 0132-32h32a32 32 0 0132 32v384a32 32 0 01-32 32Zm175.89-34.55-32.23-340c-1.48-15.65-16.94-27-34.53-25.31l-31.85 3c-17.59 1.67-30.65 15.71-29.17 31.36l32.23 340c1.48 15.65 16.94 27 34.53 25.31l31.85-3c17.59-1.67 30.65-15.71 29.17-31.36Z"/></svg>';
   static const String library_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><rect width="64" height="368" x="32" y="96" fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="32" rx="16" ry="16"/><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M112 224h128M112 400h128"/><rect width="128" height="304" x="112" y="160" fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="32" rx="16" ry="16"/><rect width="96" height="416" x="256" y="48" fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="32" rx="16" ry="16"/><path fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="32" d="m422.46 96.11-40.4 4.25c-11.12 1.17-19.18 11.57-17.93 23.1l34.92 321.59c1.26 11.53 11.37 20 22.49 18.84l40.4-4.25c11.12-1.17 19.18-11.57 17.93-23.1L445 115c-1.31-11.58-11.42-20.06-22.54-18.89Z"/></svg>';
@@ -4373,7 +4374,7 @@ class Ion {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M464 208 352 96 240 208m112-94.87V416M48 304l112 112 112-112m-112 94V96"/></svg>';
   static const String swap_vertical_sharp =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10" stroke-width="32" d="M464 208 352 96 240 208m112-94.87V416M48 304l112 112 112-112m-112 94V96"/></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M434.67 285.59v-29.8c0-98.73-80.24-178.79-179.2-178.79a179 179 0 00-140.14 67.36m-38.53 82v29.8C76.8 355 157 435 256 435a180.45 180.45 0 00140-66.92"/><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="m32 256 44-44 46 44m358 0-44 44-46-44"/></svg>';
   static const String sync_circle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M256 48C141.13 48 48 141.13 48 256s93.13 208 208 208 208-93.13 208-208S370.87 48 256 48Zm83.69 282.65a112.24 112.24 0 01-195-61.29 16 16 0 01-20.13-24.67l23.6-23.6a16 16 0 0122.37-.25l24.67 23.6a16 16 0 01-18 26 80.25 80.25 0 00138.72 38.83 16 16 0 0123.77 21.41Zm47.76-63.34-23.6 23.6a16 16 0 01-22.37.25l-24.67-23.6a16 16 0 0117.68-26.11A80.17 80.17 0 00196 202.64a16 16 0 11-23.82-21.37 112.17 112.17 0 01194.88 61.57 16 16 0 0120.39 24.47Z"/></svg>';
@@ -5157,13 +5158,13 @@ class Ion {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M448 32h-80L256 253.13 144 32H64l112.37 208H128v48h73.56L216 319v17h-88v48h88v96h80v-96h88v-48h-88v-17l14.89-31H384v-48h-48.29Z"/></svg>';
   static const String social_youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M508.64 148.79c0-45-33.1-81.2-74-81.2C379.24 65 322.74 64 265 64h-18c-57.6 0-114.2 1-169.6 3.6C36.6 67.6 3.5 104 3.5 149 1 184.59-.06 220.19 0 255.79q-.15 53.4 3.4 106.9c0 45 33.1 81.5 73.9 81.5 58.2 2.7 117.9 3.9 178.6 3.8q91.2.3 178.6-3.8c40.9 0 74-36.5 74-81.5 2.4-35.7 3.5-71.3 3.4-107q.34-53.4-3.26-106.9ZM207 353.89v-196.5l145 98.2Z"/></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M368 112H144C64.6 112 0 176.6 0 256s64.6 144 144 144h224c79.4 0 144-64.6 144-144s-64.6-144-144-144Zm0 256a112 112 0 11112-112 112.12 112.12 0 01-112 112Z"/></svg>';
   static const String switch_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><circle cx="368" cy="256" r="128" fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="32"/><rect width="480" height="256" x="16" y="128" fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="32" rx="128" ry="128"/></svg>';
   static const String switch_sharp =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M368 112H144a144 144 0 000 288h224a144 144 0 000-288Zm0 230a86 86 0 1186-86 85.88 85.88 0 01-86 86Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     accessibility,
     accessibility_outline,
     accessibility_sharp,
@@ -6414,7 +6415,7 @@ class Ion {
     leaf_outline,
     leaf_sharp,
     levels,
-    _library,
+    i_library,
     library_outline,
     library_sharp,
     lightbulb,
@@ -7351,7 +7352,7 @@ class Ion {
     swap_vertical,
     swap_vertical_outline,
     swap_vertical_sharp,
-    _sync,
+    i_sync,
     sync_circle,
     sync_circle_outline,
     sync_circle_sharp,
@@ -7743,7 +7744,7 @@ class Ion {
     social_yahoo,
     social_yen,
     social_youtube,
-    _switch,
+    i_switch,
     switch_outline,
     switch_sharp,
   ];

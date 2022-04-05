@@ -1,19 +1,20 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/iconoir
 class Iconoir {
-  static const String _1st_medal =
+  static const String i_1st_medal =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M14.272 10.445 18 2m-8.684 8.632L5 2m7.761 8.048L8.835 2m5.525 0-1.04 2.5M6 16a6 6 0 1012 0 6 6 0 00-12 0Z"/><path d="m10.5 15 2-1.5v5"/></g></svg>';
-  static const String _2x2_cell =
+  static const String i_2x2_cell =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="1.5" d="M21 3.6V12h-9V3h8.4a.6.6 0 01.6.6Zm0 16.8V12h-9v9h8.4a.6.6 0 00.6-.6ZM3 12V3.6a.6.6 0 01.6-.6H12v9H3Zm0 0v8.4a.6.6 0 00.6.6H12v-9H3Z"/></svg>';
-  static const String _360_view =
+  static const String i_360_view =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 8.5h1.75m0 0a1.75 1.75 0 110 3.5H3m2.75-3.5a1.75 1.75 0 100-3.5H3m18 10c0 3.314-4.03 6-9 6s-9-2.686-9-6M14 5h-1a3 3 0 00-3 3v2m4.5-.5v.5a2 2 0 01-2 2H12a2 2 0 01-2-2v-.5a2 2 0 012-2h.5a2 2 0 012 2Zm2.5-1V7a2 2 0 012-2h.5a2 2 0 012 2v3a2 2 0 01-2 2H19a2 2 0 01-2-2V8.5Z"/></svg>';
-  static const String _3d_select_edge =
+  static const String i_3d_select_edge =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M21 7.353v9.294a.6.6 0 01-.309.525l-8.4 4.666a.6.6 0 01-.582 0l-8.4-4.666A.6.6 0 013 16.647V7.353a.6.6 0 01.309-.524l8.4-4.667a.6.6 0 01.582 0l8.4 4.667a.6.6 0 01.309.524ZM12 21v-9"/><path d="M12.5 11v10a.5.5 0 01-1 0V11a.5.5 0 011 0Z"/></g></svg>';
-  static const String _3d_select_face =
+  static const String i_3d_select_face =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="1.5"><path stroke-linecap="round" d="M21 7.353v9.294a.6.6 0 01-.309.525l-8.4 4.666a.6.6 0 01-.582 0l-8.4-4.666A.6.6 0 013 16.647V7.353a.6.6 0 01.309-.524l8.4-4.667a.6.6 0 01.582 0l8.4 4.667a.6.6 0 01.309.524Z"/><path stroke-linecap="round" d="m3.528 7.294 8.18 4.544a.6.6 0 00.583 0l8.209-4.56M12 21v-9"/><path d="m11.691 11.829-7.8-4.334A.6.6 0 003 8.02v8.627a.6.6 0 00.309.525l7.8 4.333A.6.6 0 0012 20.98v-8.627a.6.6 0 00-.309-.524Z"/></g></svg>';
-  static const String _3d_select_point =
+  static const String i_3d_select_point =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 13a1 1 0 100-2 1 1 0 000 2Z"/><path d="M21 7.353v9.294a.6.6 0 01-.309.525l-8.4 4.666a.6.6 0 01-.582 0l-8.4-4.666A.6.6 0 013 16.647V7.353a.6.6 0 01.309-.524l8.4-4.667a.6.6 0 01.582 0l8.4 4.667a.6.6 0 01.309.524Z"/></g></svg>';
-  static const String _3d_select_solid =
+  static const String i_3d_select_solid =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M21 7.353v9.294a.6.6 0 01-.309.525l-8.4 4.666a.6.6 0 01-.582 0l-8.4-4.666A.6.6 0 013 16.647V7.353a.6.6 0 01.309-.524l8.4-4.667a.6.6 0 01.582 0l8.4 4.667a.6.6 0 01.309.524Z"/><path d="m3.528 7.294 8.18 4.544a.6.6 0 00.583 0l8.209-4.56M12 21v-9"/></g></svg>';
-  static const String _4k_display =
+  static const String i_4k_display =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 9v4m0 2v-2m0 0 1.37-1.566M17 9l-2.13 2.434m0 0L17 15M9.5 9l-3 4.5H10V15"/><path d="M2 18.4V5.6a.6.6 0 01.6-.6h18.8a.6.6 0 01.6.6v12.8a.6.6 0 01-.6.6H2.6a.6.6 0 01-.6-.6Z"/></g></svg>';
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10ZM7 9l5 1m5-1-5 1m0 0v3m0 0-2 5m2-5 2 5"/><path d="M12 7a.5.5 0 110-1 .5.5 0 010 1Z"/></g></svg>';
@@ -125,6 +126,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M19 21H5a2 2 0 01-2-2V5a2 2 0 012-2h14a2 2 0 012 2v14a2 2 0 01-2 2Z"/><path d="M3 15h6.4c.331 0 .605.278.75.576.206.423.694.924 1.85.924 1.156 0 1.644-.5 1.85-.924.145-.298.419-.576.75-.576H21M3 7h18M3 11h18"/></g></svg>';
   static const String ar_symbol =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M2 15V9a6 6 0 016-6h8a6 6 0 016 6v6a6 6 0 01-6 6H8a6 6 0 01-6-6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M13 15.5v-2.8m2.857 0c.714 0 2.143 0 2.143-2.1s-1.429-2.1-2.143-2.1H13v4.2m2.857 0H13m2.857 0L18 15.5m-7 0L9.929 13M5 15.5 6.071 13m0 0L8 8.5 9.929 13M6.07 13h3.86"/></g></svg>';
+  static const String arcade =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M11 8.5 9.8 9l-7.448 3.386a.6.6 0 00-.352.546v.136a.6.6 0 00.352.546l8.82 4.01a2 2 0 001.656 0l8.82-4.01a.6.6 0 00.352-.546v-.136a.6.6 0 00-.352-.546L14.2 9 13 8.5"/><path d="M22 13v4.112a.6.6 0 01-.354.547l-8.825 3.972a2 2 0 01-1.642 0l-8.825-3.972A.6.6 0 012 17.112V13"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 8a3 3 0 110-6 3 3 0 010 6Z"/><path d="M11 8v5a1 1 0 102 0V8"/><path stroke-linecap="round" stroke-linejoin="round" d="M16 13h1"/></g></svg>';
   static const String archery =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 12h11M7 12l-2-2H1l2 2-2 2h4l2-2Zm11 0-2-2m2 2-2 2m1.5 8c3.038 0 5.5-4.477 5.5-10S20.538 2 17.5 2 12 6.477 12 12s2.462 10 5.5 10Z"/></svg>';
   static const String archive =
@@ -203,6 +206,10 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="m2.77 13-.633-3.287A.6.6 0 012.727 9h18.547a.6.6 0 01.589.713L21.23 13M2.769 13h18.462M2.769 13l.616 4m17.846-4-.616 4m0 0-.537 3.491a.6.6 0 01-.593.509H4.515a.6.6 0 01-.593-.509L3.385 17m17.23 0H3.385"/><path d="M8 9V5a2 2 0 012-2h4a2 2 0 012 2v4"/></g></svg>';
   static const String beach_bag_big =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="1.5" d="m2.77 12-.633-3.287A.6.6 0 012.727 8h18.547a.6.6 0 01.589.713L21.23 12M2.769 12h18.462M2.769 12l.616 4m17.846-4-.616 4m0 0-.537 3.491a.6.6 0 01-.593.509H4.515a.6.6 0 01-.593-.509L3.385 16m17.23 0H3.385M5 8V6a2 2 0 012-2h10a2 2 0 012 2v2"/></svg>';
+  static const String behance =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.197 11.217c5.07 0 5.07 6.783 0 6.783H2v-6.783m6.197 0H2m6.197 0c5.07 0 5.07-6.217 0-6.217H2v6.217M18 9c-2.21 0-4 2.015-4 4.5h8c0-2.485-1.79-4.5-4-4.5Zm-4 4.5c0 2.485 1.79 4.5 4 4.5 2.755 0 3.5-2 3.5-2m-1-10h-5"/></svg>';
+  static const String behance_squared =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M21 8v8a5 5 0 01-5 5H8a5 5 0 01-5-5V8a5 5 0 015-5h8a5 5 0 015 5Z"/><path d="M9.099 11.826c2.535 0 2.535 4.174 0 4.174H6v-4.174m3.099 0H6m3.099 0c2.535 0 2.535-3.826 0-3.826H6v3.826M15.5 11a2.5 2.5 0 00-2.5 2.5h5a2.5 2.5 0 00-2.5-2.5ZM13 13.5a2.5 2.5 0 002.5 2.5c.928 0 1.49-.322 1.813-.62M17 8.5h-3"/></g></svg>';
   static const String bell =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18 8.4c0-1.697-.632-3.325-1.757-4.525C15.117 2.675 13.59 2 12 2c-1.591 0-3.117.674-4.243 1.875C6.632 5.075 6 6.703 6 8.4 6 15.867 3 18 3 18h18s-3-2.133-3-9.6ZM13.73 21a1.999 1.999 0 01-3.46 0"/></svg>';
   static const String bell_notification =
@@ -361,6 +368,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/></svg>';
   static const String city =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m7 9.01.01-.011M11 9.01l.01-.011M7 13.01l.01-.011m3.99.011.01-.011M7 17.01l.01-.011m3.99.011.01-.011M15 21H3.6a.6.6 0 01-.6-.6V5.6a.6.6 0 01.6-.6H9V3.6a.6.6 0 01.6-.6h4.8a.6.6 0 01.6.6V9m0 12h5.4a.6.6 0 00.6-.6V9.6a.6.6 0 00-.6-.6H15m0 12v-4m0-8v4m0 0h2m-2 0v4m0 0h2"/></svg>';
+  static const String clipboard_check =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"><path d="M8.5 4H6a2 2 0 00-2 2v14a2 2 0 002 2h6m3.5-18H18a2 2 0 012 2v9"/><path d="M8 6.4V4.5a.5.5 0 01.5-.5c.276 0 .504-.224.552-.496C9.2 2.652 9.774 1 12 1s2.8 1.652 2.948 2.504c.048.272.276.496.552.496a.5.5 0 01.5.5v1.9a.6.6 0 01-.6.6H8.6a.6.6 0 01-.6-.6Z"/><path stroke-linejoin="round" d="m15.5 20.5 2 2 5-5"/></g></svg>';
   static const String clock_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 6v6h6"/><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/></g></svg>';
   static const String closet =
@@ -407,6 +416,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M21 9.6v10.8a.6.6 0 01-.6.6H9.6a.6.6 0 01-.6-.6V9.6a.6.6 0 01.6-.6h10.8a.6.6 0 01.6.6Z"/><path d="M15 3.6v10.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6V3.6a.6.6 0 01.6-.6h10.8a.6.6 0 01.6.6Z"/></g></svg>';
   static const String compact_disc =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/><path d="M12 15a3 3 0 100-6 3 3 0 000 6Z"/></g></svg>';
+  static const String compass =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M10.586 10.586 16.95 7.05l-3.536 6.364L7.05 16.95l3.536-6.364Z"/><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/></g></svg>';
   static const String compress =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18 12H6m6 10v-6m0 0 3 3m-3-3-3 3m3-17v6m0 0 3-3m-3 3L9 5"/></svg>';
   static const String compress_lines =
@@ -522,7 +533,21 @@ class Iconoir {
   static const String design_pencil =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2Z"/><path d="M8 21.168V14l4-7 4 7v7.168"/><path d="M8 14s1.127 1 2 1 2-1 2-1 1.127 1 2 1 2-1 2-1"/></g></svg>';
   static const String dialpad =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 7a1 1 0 110-2 1 1 0 010 2Zm6 0a1 1 0 110-2 1 1 0 010 2Zm6 0a1 1 0 110-2 1 1 0 010 2ZM6 13a1 1 0 110-2 1 1 0 010 2Zm6 0a1 1 0 110-2 1 1 0 010 2Zm6 0a1 1 0 110-2 1 1 0 010 2Zm-6 6a1 1 0 110-2 1 1 0 010 2Z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.5 5a.5.5 0 110-1 .5.5 0 010 1Zm0 5a.5.5 0 110-1 .5.5 0 010 1Zm0 5a.5.5 0 110-1 .5.5 0 010 1ZM12 5a.5.5 0 110-1 .5.5 0 010 1Zm0 5a.5.5 0 110-1 .5.5 0 010 1Zm0 5a.5.5 0 110-1 .5.5 0 010 1Zm0 5a.5.5 0 110-1 .5.5 0 010 1Zm6.5-15a.5.5 0 110-1 .5.5 0 010 1Zm0 5a.5.5 0 110-1 .5.5 0 010 1Zm0 5a.5.5 0 110-1 .5.5 0 010 1Z"/></svg>';
+  static const String dice_five =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M3 20.4V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8a.5.5 0 110-1 .5.5 0 010 1Zm9 0a.5.5 0 110-1 .5.5 0 010 1ZM12 12.5a.5.5 0 110-1 .5.5 0 010 1ZM7.5 17a.5.5 0 110-1 .5.5 0 010 1Zm9 0a.5.5 0 110-1 .5.5 0 010 1Z"/></g></svg>';
+  static const String dice_four =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M3 20.4V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8a.5.5 0 110-1 .5.5 0 010 1Zm9 0a.5.5 0 110-1 .5.5 0 010 1Zm-9 9a.5.5 0 110-1 .5.5 0 010 1Zm9 0a.5.5 0 110-1 .5.5 0 010 1Z"/></g></svg>';
+  static const String dice_one =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M3 20.4V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 12.5a.5.5 0 110-1 .5.5 0 010 1Z"/></g></svg>';
+  static const String dice_six =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M3 20.4V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8a.5.5 0 110-1 .5.5 0 010 1Zm9 0a.5.5 0 110-1 .5.5 0 010 1Zm-9 4.5a.5.5 0 110-1 .5.5 0 010 1Zm9 0a.5.5 0 110-1 .5.5 0 010 1Zm-9 4.5a.5.5 0 110-1 .5.5 0 010 1Zm9 0a.5.5 0 110-1 .5.5 0 010 1Z"/></g></svg>';
+  static const String dice_three =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M3 20.4V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8a.5.5 0 110-1 .5.5 0 010 1Zm4.5 4.5a.5.5 0 110-1 .5.5 0 010 1Zm4.5 4.5a.5.5 0 110-1 .5.5 0 010 1Z"/></g></svg>';
+  static const String dice_two =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M3 20.4V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8a.5.5 0 110-1 .5.5 0 010 1Zm9 9a.5.5 0 110-1 .5.5 0 010 1Z"/></g></svg>';
+  static const String discord =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M5.5 16c5 2.5 8 2.5 13 0"/><path d="m15.5 17.5 1 2s4.171-1.328 5.5-3.5c0-1 .53-8.147-3-10.5-1.5-1-4-1.5-4-1.5l-1 2h-2"/><path d="m8.528 17.5-1 2s-4.171-1.328-5.5-3.5c0-1-.53-8.147 3-10.5 1.5-1 4-1.5 4-1.5l1 2h2"/><path d="M8.5 14c-.828 0-1.5-.895-1.5-2s.672-2 1.5-2 1.5.895 1.5 2-.672 2-1.5 2Zm7 0c-.828 0-1.5-.895-1.5-2s.672-2 1.5-2 1.5.895 1.5 2-.672 2-1.5 2Z"/></g></svg>';
   static const String dishwasher =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M7.5 21H5a2 2 0 01-2-2V5a2 2 0 012-2h14a2 2 0 012 2v14a2 2 0 01-2 2h-2.5M21 7H3m9 9v5m0 0h-2m2 0h2"/><path d="M12 16c1.657 0 3-1.492 3-3.333V10H9v2.667C9 14.507 10.343 16 12 16Zm6-10.99.01-.011M15 5.01l.01-.011"/></g></svg>';
   static const String divide_selection_1 =
@@ -639,6 +664,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m15 9 5-5m0 0v4m0-4h-4M9 15l-5 5m0 0v-4m0 4h4"/></svg>';
   static const String enlarge_round_arrow =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M8.5 9.5 6 12l2.5 2.5m7-5L18 12l-2.5 2.5"/><path d="M2 15V9a4 4 0 014-4h12a4 4 0 014 4v6a4 4 0 01-4 4H6a4 4 0 01-4-4Z"/></g></svg>';
+  static const String erase =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21H9m6.889-6.11L8.464 7.463m-5.571 5.144 9.193-9.193a2 2 0 012.828 0l4.95 4.95a2 2 0 010 2.828l-9.243 9.243a1.929 1.929 0 01-2.728 0l-5-5a2 2 0 010-2.828Z"/></svg>';
   static const String euro =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.5 4.804a8 8 0 100 14.392M5 10h11M5 14h11"/></svg>';
   static const String euro_square =
@@ -789,6 +816,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 17V7h7m-7 5h5m5 5 4-5m0 0 4-5m-4 5-4-5m4 5 4 5"/></svg>';
   static const String fx_rounded =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M2 15V9a6 6 0 016-6h8a6 6 0 016 6v6a6 6 0 01-6 6H8a6 6 0 01-6-6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M6 15V9h5m-5 3h3.571M13 15l2.5-3m0 0L18 9m-2.5 3L13 9m2.5 3 2.5 3"/></g></svg>';
+  static const String gamepad =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M17.5 17.5c2.5 3.5 6.449.915 5.5-2.5-1.425-5.129-2.2-7.984-2.603-9.492A2.032 2.032 0 0018.438 4H5.562c-.918 0-1.718.625-1.941 1.515C2.78 8.863 2.033 11.802 1.144 15c-.948 3.415 3 6 5.5 2.5M18 8.5l.011.01M16.49 7l.011.01M16.49 10l.011.01M15 8.5l.011.01M7 7v3M5.5 8.5h3"/><path d="M8 16a2 2 0 100-4 2 2 0 000 4Zm8 0a2 2 0 100-4 2 2 0 000 4Z"/></g></svg>';
   static const String garage =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 20H3V6l9-2 9 2v14h-3M6 20h12M6 20v-4m12 4v-4M6 12V8h12v4M6 12h12M6 12v4m12-4v4M6 16h12"/></svg>';
   static const String gas =
@@ -901,6 +930,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.7 1.173a.6.6 0 01.6 0l8.926 5.154a.6.6 0 01.3.52v10.307a.6.6 0 01-.3.52L12.3 22.826a.6.6 0 01-.6 0l-8.926-5.154a.6.6 0 01-.3-.52V6.847a.6.6 0 01.3-.52L11.7 1.174Z"/></svg>';
   static const String hexagon_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke-width="1.5"><g clip-path="url(#svgIDa)"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M6.327 2.774a.6.6 0 01.52-.3h10.307a.6.6 0 01.52.3l5.153 8.926a.6.6 0 010 .6l-5.154 8.926a.6.6 0 01-.52.3H6.847a.6.6 0 01-.52-.3L1.174 12.3a.6.6 0 010-.6l5.154-8.926Z"/></g><defs><clipPath id="svgIDa"><path fill="#fff" d="M0 0h24v24H0z"/></clipPath></defs></g></svg>';
+  static const String hexagon_dice =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="1.5"><path stroke-linecap="round" d="M11.7 1.173a.6.6 0 01.6 0l8.926 5.154a.6.6 0 01.3.52v10.307a.6.6 0 01-.3.52L12.3 22.826a.6.6 0 01-.6 0l-8.926-5.154a.6.6 0 01-.3-.52V6.847a.6.6 0 01.3-.52L11.7 1.174Z"/><path stroke-linecap="round" d="M17 15H7l5-8 5 8Z"/><path d="M2.5 6.5 12 7m-9.5-.5L7 15m14.5-8.5L17 15m4.5-8.5L12 7V1m9.5 16.5L17 15M2.5 17.5 7 15m0 0 5 8 5-8"/></g></svg>';
   static const String high_priority =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.576 1.424a.6.6 0 01.848 0l10.152 10.152a.6.6 0 010 .848L12.424 22.576a.6.6 0 01-.848 0L1.424 12.424a.6.6 0 010-.848L11.576 1.424ZM12 8v4m0 4.01.01-.011"/></svg>';
   static const String historic_shield =
@@ -939,7 +970,7 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 3.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6ZM10 8v4m0 4v-4m0 0h4m0 0V8m0 4v4"/></svg>';
   static const String iconoir =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 16a4 4 0 100-8 4 4 0 000 8Z"/><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2Z"/></g></svg>';
-  static const String _import =
+  static const String i_import =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 13v6a2 2 0 002 2h12a2 2 0 002-2v-6M12 3v12m0 0-3.5-3.5M12 15l3.5-3.5"/></svg>';
   static const String industry =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18 10c0-1-1-2-3-2h-1a3 3 0 01-3-3V2m7 19h3v-9h-3v4.5m0 4.5v-4.5m0 4.5H3v-4l3.5-3 4 2.5 4-2.5 3.5 2.5m3-6.5c0-6-4-6-4-6s4 .5 4-2"/></svg>';
@@ -1193,6 +1224,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 12.5a.5.5 0 100-1 .5.5 0 000 1Zm0 6a.5.5 0 100-1 .5.5 0 000 1Zm0-12a.5.5 0 100-1 .5.5 0 000 1Z"/></svg>';
   static const String more_vert_circled_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 7.5a.5.5 0 100-1 .5.5 0 000 1Zm0 10a.5.5 0 100-1 .5.5 0 000 1Zm0-5a.5.5 0 100-1 .5.5 0 000 1Z"/><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/></g></svg>';
+  static const String motorcycle =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M5 19a4 4 0 100-8 4 4 0 000 8Zm14-4-3-9 1-1"/><path d="M16 8.5h-4.5l-4.5 3m-1.5 4H12l1-2.5 3.5-4.5m-8 1.5c-2-1.5-5-1.5-7 0M19 19a4 4 0 100-8 4 4 0 000 8Z"/></g></svg>';
   static const String mouse_button_left =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"><path d="M20 10v4a8 8 0 11-16 0V9a7 7 0 017-7h1a8 8 0 018 8Z"/><path d="M12 2v6.4a.6.6 0 01-.6.6H4"/></g></svg>';
   static const String mouse_button_right =
@@ -1269,6 +1302,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.5 12H6.6a.6.6 0 00-.6.6v6.8a.6.6 0 00.6.6h10.8a.6.6 0 00.6-.6v-.9M16 12V8c0-1.333-.8-4-4-4-.747 0-1.363.145-1.869.385M16 12h1.4a.6.6 0 01.6.6v.4M8 8v4M3 3l18 18"/></svg>';
   static const String no_smoking =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M18 15v3m0-7c0-1-1-2-3-2h-1a3 3 0 01-3-3V2m11 9c0-6-4-6-4-6s4 1 4-3m0 13v3"/><path d="M2.6 18H18l-3-3H2.6a.6.6 0 00-.6.6v1.8a.6.6 0 00.6.6Z"/><path stroke-linecap="round" stroke-linejoin="round" d="m3 3 18 18"/></g></svg>';
+  static const String no_smoking_circled =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 12v3m0-6c0-1-.714-2-2.143-2v0A2.857 2.857 0 0110 4.143V3m8 6V4m0 8v3"/><path d="M15 15H6.6a.6.6 0 01-.6-.6v-1.8a.6.6 0 01.6-.6H12"/><path stroke-linecap="round" stroke-linejoin="round" d="m5 5 14 14m-7 3c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/></g></svg>';
   static const String notes =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 14h8m-8-4h2m-2 8h4M10 3H6a2 2 0 00-2 2v15a2 2 0 002 2h12a2 2 0 002-2V5a2 2 0 00-2-2h-3.5M10 3V1m0 2v2"/></svg>';
   static const String numbered_list_left =
@@ -1293,6 +1328,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 21h12.4a.6.6 0 00.6-.6V3.6a.6.6 0 00-.6-.6H3.6a.6.6 0 00-.6.6V16m7-10h8M6 6h1M3.5 20.5 12 12m0 0v4m0-4H8"/></svg>';
   static const String open_in_window =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 21h12.4a.6.6 0 00.6-.6V3.6a.6.6 0 00-.6-.6H3.6a.6.6 0 00-.6.6V16m.5 4.5L12 12m0 0v4m0-4H8"/></svg>';
+  static const String open_new_window =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"><path stroke-linejoin="round" d="M21 3h-6m6 0-9 9m9-9v6"/><path d="M21 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h6"/></g></svg>';
   static const String open_select_hand_gesture =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="m8 14.571-1.823-1.736a1.558 1.558 0 00-2.247.103v0a1.558 1.558 0 00.035 2.092l5.942 6.338c.379.403.906.632 1.459.632H16c2.4 0 4-2 4-4 0 0 0 0 0 0V9.429"/><path d="M17 10v-.571c0-2.286 3-2.286 3 0M14 10V8.286C14 6 17 6 17 8.286V10m-6 0V7.5c0-2.286 3-2.286 3 0 0 0 0 0 0 0V10m-6 4.571V3.5A1.5 1.5 0 019.5 2v0c.828 0 1.5.67 1.5 1.499V10"/></g></svg>';
   static const String open_vpn =
@@ -1313,6 +1350,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14 20H6a2 2 0 01-2-2V6a2 2 0 012-2h12a2 2 0 012 2v6m-8-3V4m9.167 14.5h.233a.6.6 0 01.6.6v2.3a.6.6 0 01-.6.6h-3.8a.6.6 0 01-.6-.6v-2.3a.6.6 0 01.6-.6h.233m3.334 0v-1.75c0-.583-.334-1.75-1.667-1.75s-1.667 1.167-1.667 1.75v1.75m3.334 0h-3.334"/></svg>';
   static const String packages =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 15v4a2 2 0 01-2 2H4a2 2 0 01-2-2v-4a2 2 0 012-2h4a2 2 0 012 2Zm6-10v4a2 2 0 01-2 2h-4a2 2 0 01-2-2V5a2 2 0 012-2h4a2 2 0 012 2Zm6 10v4a2 2 0 01-2 2h-4a2 2 0 01-2-2v-4a2 2 0 012-2h4a2 2 0 012 2ZM6 16v-3m6-7V3m6 13v-3"/></svg>';
+  static const String pacman =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m16 12 .011.01M19 12l.011.01M22 12l.011.01M2 12c0 5.523 4.477 10 10 10a9.985 9.985 0 008-3.999L12 12l8-6.001A9.985 9.985 0 0012 2C6.477 2 2 6.477 2 12Z"/></svg>';
   static const String page =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M4 21.4V2.6a.6.6 0 01.6-.6h11.652a.6.6 0 01.424.176l3.148 3.148A.6.6 0 0120 5.75V21.4a.6.6 0 01-.6.6H4.6a.6.6 0 01-.6-.6Z"/><path d="M16 5.4V2.354a.354.354 0 01.604-.25l3.292 3.292a.353.353 0 01-.25.604H16.6a.6.6 0 01-.6-.6ZM8 10h8m-8 8h8m-8-4h4"/></g></svg>';
   static const String page_edit =
@@ -1341,6 +1380,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m15.121 20.364 2.122-2.121m0 0 2.121-2.122m-2.121 2.122L15.12 16.12m2.122 2.122 2.121 2.121M21 13V8a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h6m1-4.99.01-.011m3.99.011.01-.011M8 11.01l.01-.011"/></svg>';
   static const String password_pass =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 13V8a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h7m2.5 2.5 2 2 4-4M12 11.01l.01-.011m3.99.011.01-.011M8 11.01l.01-.011"/></svg>';
+  static const String paste_clipboard =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"><path d="M8.5 4H6a2 2 0 00-2 2v14a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-2.5"/><path d="M8 6.4V4.5a.5.5 0 01.5-.5c.276 0 .504-.224.552-.496C9.2 2.652 9.774 1 12 1s2.8 1.652 2.948 2.504c.048.272.276.496.552.496a.5.5 0 01.5.5v1.9a.6.6 0 01-.6.6H8.6a.6.6 0 01-.6-.6Z"/></g></svg>';
   static const String pause_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="1.5" d="M6 18.4V5.6a.6.6 0 01.6-.6h2.8a.6.6 0 01.6.6v12.8a.6.6 0 01-.6.6H6.6a.6.6 0 01-.6-.6Zm8 0V5.6a.6.6 0 01.6-.6h2.8a.6.6 0 01.6.6v12.8a.6.6 0 01-.6.6h-2.8a.6.6 0 01-.6-.6Z"/></svg>';
   static const String pc_check =
@@ -1353,6 +1394,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M7 22h10"/><path d="M2 17V4a2 2 0 012-2h16a2 2 0 012 2v13a2 2 0 01-2 2H4a2 2 0 01-2-2Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M14.857 7.7a4 4 0 10-5.713 5.6m5.713-5.6a4 4 0 01-5.713 5.6m5.713-5.6-5.714 5.6"/></g></svg>';
   static const String pc_warning =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M7 22h10"/><path d="M2 17V4a2 2 0 012-2h16a2 2 0 012 2v13a2 2 0 01-2 2H4a2 2 0 01-2-2Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 7v3m0 4.01.01-.011"/></g></svg>';
+  static const String peace_hand =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"><path d="M14.149 9.472v-5.86c0-.89-.722-1.612-1.612-1.612v0c-.89 0-1.611.722-1.611 1.612v4.834"/><path d="m16.346 12.841 2.176-7.252a1.584 1.584 0 00-1.083-1.98v0a1.585 1.585 0 00-1.961 1.098l-1.33 4.764M7.62 9.25l1.055 2.341a1.612 1.612 0 01-2.938 1.325L4.68 10.575A1.612 1.612 0 017.62 9.25Z"/><path d="M11.72 12.261v0a2.322 2.322 0 00-.068-1.742l-1.073-2.38a1.584 1.584 0 00-2.101-.79v0a1.584 1.584 0 00-.764 2.14l.135.276"/><path d="m13.857 17.677.492-.984a.176.176 0 00-.108-.248l-3.55-1.044a1.537 1.537 0 01-1.095-1.635v0a1.537 1.537 0 011.67-1.37l4.788.446s3.81.586 2.49 4.395c-1.318 3.81-1.757 5.128-4.687 5.128H8.876a4.249 4.249 0 01-4.249-4.249v0L4.48 9.912"/></g></svg>';
   static const String pen_connect_bluetooth =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke-width="1.5"><g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#svgIDa)"><path d="m6.5 17.5-1 4 3.731-.933a1 1 0 00.465-.263L21.5 8.5a2.121 2.121 0 000-3v0a2.121 2.121 0 00-3 0l-4 4m3-3 3 3M5 6.6l7 5.1L8.333 15V3L12 6.3l-7 5.1"/></g><defs><clipPath id="svgIDa"><path fill="#fff" d="M0 0h24v24H0z"/></clipPath></defs></g></svg>';
   static const String pen_connect_wifi =
@@ -1401,6 +1444,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="m11.572 12.5-7.643 7.57M21.192 8.465a5.657 5.657 0 10-11.313 0 5.657 5.657 0 0011.313 0Z"/><path d="M12.903 9.5a2.829 2.829 0 013.808-3.609"/></g></svg>';
   static const String pin_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M20 10c0 4.418-8 12-8 12s-8-7.582-8-12a8 8 0 1116 0Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 11a1 1 0 100-2 1 1 0 000 2Z"/></g></svg>';
+  static const String pinterest =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M8 14.5c-3-4.5 1.462-8 4.5-8 3.038 0 5.5 1.654 5.5 5.5 0 3.038-2 5-4 5s-3-2-2.5-5m.5-2L9 21.5"/><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/></g></svg>';
   static const String pizza_slice =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="m14 9.01.01-.011M8 8.01l.01-.011M8 14.01l.01-.011"/><path d="M6 19 2.236 3.004a.6.6 0 01.754-.713L19 7"/><path stroke-linecap="round" d="M22.198 8.425a1.75 1.75 0 00-3.396-.85c-.391 1.568-1.9 4.05-4.227 6.375-2.3 2.301-5.148 4.194-7.968 4.845a1.75 1.75 0 10.787 3.41c3.68-.849 7.082-3.206 9.656-5.78 2.549-2.549 4.54-5.568 5.148-8Z"/></g></svg>';
   static const String planet =
@@ -1417,6 +1462,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18 18h2m2 0h-2m0 0v-2m0 2v2M2 11h18M2 17h12M2 5h18"/></svg>';
   static const String playlist_play =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M22 17.5 18.5 20v-5l3.5 2.5ZM2 5h18M2 11h18M2 17h12"/></svg>';
+  static const String playstation_gamepad =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M17.5 17.5c2.5 3.5 6.449.915 5.5-2.5-1.425-5.129-2.2-7.984-2.603-9.492A2.032 2.032 0 0018.438 4H5.562c-.918 0-1.718.625-1.941 1.515C2.78 8.863 2.033 11.802 1.144 15c-.948 3.415 3 6 5.5 2.5"/><path d="M16 4v2a2 2 0 01-2 2h-4a2 2 0 01-2-2V4m0 12a2 2 0 100-4 2 2 0 000 4Zm8 0a2 2 0 100-4 2 2 0 000 4Z"/></g></svg>';
   static const String plug_type_a =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10ZM9 10v4m6-4v4"/></svg>';
   static const String plug_type_c =
@@ -1429,6 +1476,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 12h6m6 0h-6m0 0V6m0 6v6"/></svg>';
   static const String pocket =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M21 6v5a9 9 0 11-18 0V6a2 2 0 012-2h14a2 2 0 012 2Z"/><path d="m8 10 4 4 4-4"/></g></svg>';
+  static const String podcast =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><defs><path id="svgIDa" d="M6 19a9.985 9.985 0 01-4-8C2 5.477 6.477 1 12 1s10 4.477 10 10a9.985 9.985 0 01-4 8"/></defs><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><use href="#svgIDa"/><use href="#svgIDa"/><path d="M7.528 15a6 6 0 118.944 0"/><path d="M12 13a2 2 0 100-4 2 2 0 000 4Zm-1.924 3.283.815-.543a2 2 0 012.218 0l.815.543a2 2 0 01.863 1.993l-.509 3.053A2 2 0 0112.306 23h-.612a2 2 0 01-1.973-1.671l-.508-3.053a2 2 0 01.863-1.993Z"/></g></svg>';
   static const String position =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 19a7 7 0 100-14 7 7 0 000 14Zm0 0v2m-7-9H3m9-7V3m7 9h2"/></svg>';
   static const String position_align =
@@ -1447,6 +1496,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.576 1.424a.6.6 0 01.848 0l10.152 10.152a.6.6 0 010 .848L12.424 22.576a.6.6 0 01-.848 0L1.424 12.424a.6.6 0 010-.848L11.576 1.424ZM12 16l4-4m-4 4-4-4.167M12 16V7"/></svg>';
   static const String priority_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.576 1.424a.6.6 0 01.848 0l10.152 10.152a.6.6 0 010 .848L12.424 22.576a.6.6 0 01-.848 0L1.424 12.424a.6.6 0 010-.848L11.576 1.424ZM12 7l4 4m-4-4-4 4.167M12 7v9"/></svg>';
+  static const String private_wifi =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m12 18.51.01-.011M2 7c6-4.5 14-4.5 20 0M5 11c4-3 10-3 14 0M8.5 14.5c2.25-1.4 4.75-1.4 7 0m5.667 4h.233a.6.6 0 01.6.6v2.3a.6.6 0 01-.6.6h-3.8a.6.6 0 01-.6-.6v-2.3a.6.6 0 01.6-.6h.233m3.334 0v-1.75c0-.583-.334-1.75-1.667-1.75s-1.667 1.167-1.667 1.75v1.75m3.334 0h-3.334"/></svg>';
   static const String profile_circled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2Z"/><path d="M4.271 18.346S6.5 15.5 12 15.5s7.73 2.846 7.73 2.846M12 12a3 3 0 100-6 3 3 0 000 6Z"/></g></svg>';
   static const String prohibition =
@@ -1733,6 +1784,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="m18 7.5.919.153a2 2 0 011.623 2.407l-.528 2.376a.602.602 0 00-.014.13V17.5s0 0 0 0c0 2-1.6 4-4 4H9.42a2 2 0 01-1.519-.698l-4.548-5.307a1.582 1.582 0 01-.034-2.018v0a1.582 1.582 0 012.426-.054L8 16v-3.5"/><path d="m9 5-.79.132a2 2 0 00-1.595 2.522L8 12.5m3 0L8.923 4.606a1.514 1.514 0 011.215-1.879v0a1.514 1.514 0 011.713 1.108L14 12m3 .5 1-5 .247-1.485a1.536 1.536 0 00-1.262-1.768v0a1.536 1.536 0 00-1.762 1.233L14 12"/></g></svg>';
   static const String square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 3.6v16.8a.6.6 0 01-.6.6H3.6a.6.6 0 01-.6-.6V3.6a.6.6 0 01.6-.6h16.8a.6.6 0 01.6.6Z"/></svg>';
+  static const String stackoverflow =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 15v6H5v-6m11 2H8m7.913-2.337L8.087 13m8.626-.62L9.463 9m8.71 1.642L12.044 5.5m7.99 3.304L15.109 2.5"/></svg>';
   static const String star_dashed =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m13.806 5-.99-1.996a.911.911 0 00-1.631 0l-.496.998m4.322 3.425.402.809 1.452.211m2.905.423 1.451.21a.902.902 0 01.503 1.542l-1.05 1.017m-2.102 2.035-1.05 1.018.248 1.437m.496 2.875.248 1.437c.127.739-.653 1.302-1.32.953l-1.298-.679M10.428 19.5 12 18.678l1.299.679m-7.628.012-.185 1.072c-.127.739.653 1.302 1.32.953l.847-.443M6.253 16l.225-1.308-.695-.673M3.699 12l-1.423-1.378a.902.902 0 01.503-1.542l1.11-.161M7 8.467l1.587-.231.804-1.618"/></svg>';
   static const String star_half_dashed =
@@ -1831,6 +1884,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 2h6m-3 8v4m0 8a8 8 0 100-16 8 8 0 000 16Z"/></svg>';
   static const String timer_off =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 2h6M5 7l14 14.5M12 10v4M6.19 8.5a8 8 0 0011.05 11.544M19.42 17A8 8 0 009.21 6.5"/></svg>';
+  static const String tournament =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 3h5v6H3m5-3h7v12H8m7-6h7M3 15h5v6H3"/></svg>';
   static const String tower =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="1.5" d="M17 22H7a2 2 0 01-2-2v-8.818a.6.6 0 00-.1-.333L3.1 8.15a.6.6 0 01-.1-.333V2.6a.6.6 0 01.6-.6h1.8a.6.6 0 01.6.6v1.8a.6.6 0 00.6.6h2.8a.6.6 0 00.6-.6V2.6a.6.6 0 01.6-.6h2.8a.6.6 0 01.6.6v1.8a.6.6 0 00.6.6h2.8a.6.6 0 00.6-.6V2.6a.6.6 0 01.6-.6h1.8a.6.6 0 01.6.6v5.218a.6.6 0 01-.1.333l-1.8 2.698a.6.6 0 00-.1.333V20a2 2 0 01-2 2Z"/></svg>';
   static const String tower_check =
@@ -2001,6 +2056,8 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m5 15 .95-10.454A.6.6 0 016.548 4h13.795a.6.6 0 01.598.654l-.891 9.8a.6.6 0 01-.598.546H5Zm0 0-.6 6"/></svg>';
   static const String wifi =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m12 19.51.01-.011M2 8c6-4.5 14-4.5 20 0M5 12c4-3 10-3 14 0M8.5 15.5c2.25-1.4 4.75-1.4 7 0"/></svg>';
+  static const String wifi_error =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m12 18.51.01-.011M2 7c6-4.5 14-4.5 20 0M5 11c4-3 10-3 14 0M8.5 14.5c2.25-1.4 4.75-1.4 7 0m1.621 6.864 2.122-2.121m2.121-2.122-2.121 2.122m0 0L17.12 17.12m2.122 2.122 2.121 2.121"/></svg>';
   static const String wifi_issue =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-width="1.5"><path d="M2.126 8.324c-.2-.262-.155-.605.086-.79C5.29 5.179 8.552 4 11.999 4c3.447 0 6.71 1.178 9.788 3.535.252.212.28.558.085.789l-9.455 11.173a.548.548 0 01-.836 0L2.126 8.324Z"/><path stroke-linecap="round" stroke-linejoin="round" d="M12 8v2m0 4.01.01-.011"/></g></svg>';
   static const String wifi_off =
@@ -2019,6 +2076,14 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M16 16.472V20a2 2 0 01-2 2h-4a2 2 0 01-2-2v-3.528m0-8.944V4a2 2 0 012-2h4a2 2 0 012 2v3.528"/><path d="M18 12a6 6 0 10-12 0 6 6 0 0012 0Z"/><path d="M14 12h-2v-2"/></g></svg>';
   static const String www =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M3.338 17A9.996 9.996 0 0012 22a9.996 9.996 0 008.662-5M3.338 7A9.996 9.996 0 0112 2a9.996 9.996 0 018.662 5"/><path d="M13 21.95s1.408-1.853 2.295-4.95M13 2.05S14.408 3.902 15.295 7M11 21.95S9.592 20.098 8.705 17M11 2.05S9.592 3.902 8.705 7M9 10l1.5 5 1.5-5 1.5 5 1.5-5M1 10l1.5 5L4 10l1.5 5L7 10m10 0 1.5 5 1.5-5 1.5 5 1.5-5"/></g></svg>';
+  static const String xbox_a =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/><path d="m15 16-3-8-3 8m5-2h-4"/></g></svg>';
+  static const String xbox_b =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"/><path d="M12.599 11.826c2.535 0 2.535 4.174 0 4.174H9.5v-4.174m3.099 0H9.5m3.099 0c2.535 0 2.535-3.826 0-3.826H9.5v3.826"/></g></svg>';
+  static const String xbox_x =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Zm3-6L9 8m0 8 6-8"/></svg>';
+  static const String xbox_y =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10ZM9 8l3 5"/><path d="M12 16v-3l3-5"/></g></svg>';
   static const String xray_view =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M21 7.353v9.294a.6.6 0 01-.309.525l-8.4 4.666a.6.6 0 01-.582 0l-8.4-4.666A.6.6 0 013 16.647V7.353a.6.6 0 01.309-.524l8.4-4.667a.6.6 0 01.582 0l8.4 4.667a.6.6 0 01.309.524Z"/><path d="m20.5 16.722-8.209-4.56a.6.6 0 00-.582 0L3.5 16.722m.028-9.428 8.18 4.544a.6.6 0 00.583 0l8.209-4.56M12 21V3"/></g></svg>';
   static const String yen =
@@ -2033,7 +2098,7 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 11h2m2 0h-2m0 0V9m0 2v2m5 3 4 4M4 11a7 7 0 1014 0 7 7 0 00-14 0Z"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 11h4m3 5 4 4M4 11a7 7 0 1014 0 7 7 0 00-14 0Z"/></svg>';
-  static const String _4x4_cell =
+  static const String i_4x4_cell =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="1.5" d="M21 3.6V12h-9V3h8.4a.6.6 0 01.6.6Zm0 16.8V12h-9v9h8.4a.6.6 0 00.6-.6ZM3 12V3.6a.6.6 0 01.6-.6H12v9H3Zm0 0v8.4a.6.6 0 00.6.6H12v-9H3Z"/></svg>';
   static const String basket_ball =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Zm0 0V2"/><path d="M21.95 11c-6.47 2.667-12.254 2.667-19.9 0"/><path d="M18.572 4.462c-2.667 4.53-2.667 9.723 0 15.076M5.428 4.462c2.667 4.53 2.667 9.723 0 15.076"/></g></svg>';
@@ -2043,15 +2108,15 @@ class Iconoir {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 16V3.6a.6.6 0 01.6-.6h8.8a.6.6 0 01.6.6V16M7 16h2m-2 0H5m12 0h-2m2 0h2m-7 0v6m0-6H9m3 0h3m-6 0v6m6-6v6"/></svg>';
   static const String keyframe_align_horizontal_1 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m15.7 12.375-3.231 4.04a.6.6 0 01-.938 0L8.3 12.374a.6.6 0 010-.75l3.231-4.04a.6.6 0 01.938 0l3.231 4.04a.6.6 0 010 .75ZM12 22v-2m0-16V2"/></svg>';
-  List iconsList = [
-    _1st_medal,
-    _2x2_cell,
-    _360_view,
-    _3d_select_edge,
-    _3d_select_face,
-    _3d_select_point,
-    _3d_select_solid,
-    _4k_display,
+  static const List iconsList = [
+    i_1st_medal,
+    i_2x2_cell,
+    i_360_view,
+    i_3d_select_edge,
+    i_3d_select_face,
+    i_3d_select_point,
+    i_3d_select_solid,
+    i_4k_display,
     accessibility,
     accessibility_sign,
     accessibility_tech,
@@ -2107,6 +2172,7 @@ class Iconoir {
     apple_swift,
     apple_wallet,
     ar_symbol,
+    arcade,
     archery,
     archive,
     area_search,
@@ -2146,6 +2212,8 @@ class Iconoir {
     bbq,
     beach_bag,
     beach_bag_big,
+    behance,
+    behance_squared,
     bell,
     bell_notification,
     bell_off,
@@ -2225,6 +2293,7 @@ class Iconoir {
     cinema_old,
     circle,
     city,
+    clipboard_check,
     clock_outline,
     closet,
     cloud,
@@ -2248,6 +2317,7 @@ class Iconoir {
     color_picker_empty,
     combine,
     compact_disc,
+    compass,
     compress,
     compress_lines,
     computer,
@@ -2306,6 +2376,13 @@ class Iconoir {
     delivery_truck,
     design_pencil,
     dialpad,
+    dice_five,
+    dice_four,
+    dice_one,
+    dice_six,
+    dice_three,
+    dice_two,
+    discord,
     dishwasher,
     divide_selection_1,
     divide_selection_2,
@@ -2364,6 +2441,7 @@ class Iconoir {
     empty_page,
     enlarge,
     enlarge_round_arrow,
+    erase,
     euro,
     euro_square,
     ev_charge,
@@ -2439,6 +2517,7 @@ class Iconoir {
     fridge,
     fx,
     fx_rounded,
+    gamepad,
     garage,
     gas,
     gas_tank,
@@ -2495,6 +2574,7 @@ class Iconoir {
     hesa_warning_outline,
     hexagon,
     hexagon_alt,
+    hexagon_dice,
     high_priority,
     historic_shield,
     historic_shield_alt,
@@ -2514,7 +2594,7 @@ class Iconoir {
     html5,
     hydrogen,
     iconoir,
-    _import,
+    i_import,
     industry,
     info_empty,
     input_field,
@@ -2641,6 +2721,7 @@ class Iconoir {
     more_horiz_circled_outline,
     more_vert,
     more_vert_circled_outline,
+    motorcycle,
     mouse_button_left,
     mouse_button_right,
     mouse_scroll_wheel,
@@ -2679,6 +2760,7 @@ class Iconoir {
     no_credit_card,
     no_lock,
     no_smoking,
+    no_smoking_circled,
     notes,
     numbered_list_left,
     numbered_list_right,
@@ -2691,6 +2773,7 @@ class Iconoir {
     open_book,
     open_in_browser,
     open_in_window,
+    open_new_window,
     open_select_hand_gesture,
     open_vpn,
     orange_half,
@@ -2701,6 +2784,7 @@ class Iconoir {
     package,
     package_lock,
     packages,
+    pacman,
     page,
     page_edit,
     page_flip,
@@ -2715,12 +2799,14 @@ class Iconoir {
     password_cursor,
     password_error,
     password_pass,
+    paste_clipboard,
     pause_outline,
     pc_check,
     pc_firewall,
     pc_mouse,
     pc_no_entry,
     pc_warning,
+    peace_hand,
     pen_connect_bluetooth,
     pen_connect_wifi,
     pen_tablet,
@@ -2745,6 +2831,7 @@ class Iconoir {
     piggy_bank,
     pin,
     pin_alt,
+    pinterest,
     pizza_slice,
     planet,
     planet_alt,
@@ -2753,12 +2840,14 @@ class Iconoir {
     playlist,
     playlist_add,
     playlist_play,
+    playstation_gamepad,
     plug_type_a,
     plug_type_c,
     plug_type_g,
     plug_type_l,
     plus,
     pocket,
+    podcast,
     position,
     position_align,
     pound,
@@ -2768,6 +2857,7 @@ class Iconoir {
     printing_page,
     priority_down,
     priority_up,
+    private_wifi,
     profile_circled,
     prohibition,
     puzzle,
@@ -2911,6 +3001,7 @@ class Iconoir {
     sound_off,
     spock_hand_gesture,
     square,
+    stackoverflow,
     star_dashed,
     star_half_dashed,
     star_outline,
@@ -2960,6 +3051,7 @@ class Iconoir {
     tiktok,
     timer,
     timer_off,
+    tournament,
     tower,
     tower_check,
     tower_no_access,
@@ -3045,6 +3137,7 @@ class Iconoir {
     weight_alt,
     white_flag,
     wifi,
+    wifi_error,
     wifi_issue,
     wifi_off,
     wifi_rounded,
@@ -3054,6 +3147,10 @@ class Iconoir {
     wrap_text,
     wristwatch,
     www,
+    xbox_a,
+    xbox_b,
+    xbox_x,
+    xbox_y,
     xray_view,
     yen,
     yen_square,
@@ -3061,7 +3158,7 @@ class Iconoir {
     youtube,
     zoom_in,
     zoom_out,
-    _4x4_cell,
+    i_4x4_cell,
     basket_ball,
     basket_ball_alt,
     electronics_transister,

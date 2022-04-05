@@ -1,7 +1,8 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/teenyicons
 class Teenyicons {
-  static const String _360_outline =
+  static const String i_360_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="m4.5 5.5.4.3a.5.5 0 00-.4-.8v.5ZM3 7.5l-.4-.3A.5.5 0 003 8v-.5Zm9.736-4.646.382.323-.382-.323ZM2 6h2.5V5H2v1Zm2.1-.8-1.5 2 .8.6 1.5-2-.8-.6ZM3 8h.5V7H3v1Zm.5 1H2v1h1.5V9Zm.5-.5a.5.5 0 01-.5.5v1A1.5 1.5 0 005 8.5H4ZM3.5 8a.5.5 0 01.5.5h1A1.5 1.5 0 003.5 7v1ZM8 5h-.5v1H8V5ZM6 6.5v1h1v-1H6Zm0 1v1h1v-1H6ZM7.5 7h-1v1h1V7ZM9 8.5A1.5 1.5 0 007.5 7v1a.5.5 0 01.5.5h1ZM7.5 10A1.5 1.5 0 009 8.5H8a.5.5 0 01-.5.5v1Zm0-1a.5.5 0 01-.5-.5H6A1.5 1.5 0 007.5 10V9Zm0-4A1.5 1.5 0 006 6.5h1a.5.5 0 01.5-.5V5ZM12 6.5v2h1v-2h-1Zm-1 2v-2h-1v2h1Zm.5.5a.5.5 0 01-.5-.5h-1a1.5 1.5 0 001.5 1.5V9Zm.5-.5a.5.5 0 01-.5.5v1A1.5 1.5 0 0013 8.5h-1ZM11.5 6a.5.5 0 01.5.5h1A1.5 1.5 0 0011.5 5v1Zm0-1A1.5 1.5 0 0010 6.5h1a.5.5 0 01.5-.5V5Zm-4 9A6.5 6.5 0 011 7.5H0A7.5 7.5 0 007.5 15v-1ZM14 7.5A6.5 6.5 0 017.5 14v1A7.5 7.5 0 0015 7.5h-1ZM7.5 0A7.5 7.5 0 000 7.5h1A6.5 6.5 0 017.5 1V0Zm6 3a.5.5 0 01.5.5h1A1.5 1.5 0 0013.5 2v1Zm0 1a.5.5 0 01-.5-.5h-1A1.5 1.5 0 0013.5 5V4Zm-.5-.5c0-.123.044-.235.118-.323l-.763-.646c-.221.261-.355.6-.355.969h1Zm.118-.323A.498.498 0 0113.5 3V2c-.46 0-.871.207-1.145.531l.763.646ZM7.5 1c1.934 0 3.671.844 4.862 2.186l.748-.664A7.483 7.483 0 007.5 0v1Zm5.854 3.67c.414.856.646 1.815.646 2.83h1c0-1.17-.268-2.277-.746-3.265l-.9.436ZM14 3.5a.5.5 0 01-.348.477l.304.952A1.5 1.5 0 0015 3.5h-1Zm-.348.477A.5.5 0 0113.5 4v1a1.5 1.5 0 00.456-.07l-.304-.953Z"/></svg>';
-  static const String _360_solid =
+  static const String i_360_solid =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M7 8.5V8h.5a.5.5 0 11-.5.5ZM11.5 6a.5.5 0 00-.5.5v2a.5.5 0 001 0v-2a.5.5 0 00-.5-.5Z"/><path fill="currentColor" fill-rule="evenodd" d="M0 7.5a7.5 7.5 0 0112.787-5.32 1.5 1.5 0 011.659 2.484A7.52 7.52 0 0115 7.5a7.5 7.5 0 01-15 0ZM13.5 3a.5.5 0 100 1 .5.5 0 000-1ZM2 6h1.5l-.9 1.2A.5.5 0 003 8h.5a.5.5 0 010 1H2v1h1.5a1.5 1.5 0 00.449-2.932L4.9 5.8a.5.5 0 00-.4-.8H2v1Zm5.5-1A1.5 1.5 0 006 6.5v2A1.5 1.5 0 107.5 7H7v-.5a.5.5 0 01.5-.5H8V5h-.5ZM10 6.5a1.5 1.5 0 013 0v2a1.5 1.5 0 01-3 0v-2Z" clip-rule="evenodd"/></svg>';
   static const String ab_testing_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" stroke="currentColor" d="M1.5 11V6.5a2 2 0 114 0V11m-4-2.5h4m6.5-1H9.5m2.5 0a1.5 1.5 0 000-3H9.5v3m2.5 0a1.5 1.5 0 010 3H9.5v-3M7.5 1v13"/></svg>';
@@ -2399,9 +2400,9 @@ class Teenyicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" stroke="currentColor" d="m14.5 14.5-4-4M4 6.5h5m-2.5 6a6 6 0 110-12 6 6 0 010 12Z"/></svg>';
   static const String zoom_out_solid =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M0 6.5a6.5 6.5 0 1111.436 4.23l3.418 3.416-.707.708-3.418-3.418A6.5 6.5 0 010 6.5ZM4 7h5V6H4v1Z" clip-rule="evenodd"/></svg>';
-  List iconsList = [
-    _360_outline,
-    _360_solid,
+  static const List iconsList = [
+    i_360_outline,
+    i_360_solid,
     ab_testing_outline,
     ab_testing_solid,
     add_outline,

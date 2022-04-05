@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/entypo
 class Entypo {
   static const String add_to_list =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M19.4 9H16V5.6c0-.6-.4-.6-1-.6s-1 0-1 .6V9h-3.4c-.6 0-.6.4-.6 1s0 1 .6 1H14v3.4c0 .6.4.6 1 .6s1 0 1-.6V11h3.4c.6 0 .6-.4.6-1s0-1-.6-1zm-12 0H.6C0 9 0 9.4 0 10s0 1 .6 1h6.8c.6 0 .6-.4.6-1s0-1-.6-1zm0 5H.6c-.6 0-.6.4-.6 1s0 1 .6 1h6.8c.6 0 .6-.4.6-1s0-1-.6-1zm0-10H.6C0 4 0 4.4 0 5s0 1 .6 1h6.8C8 6 8 5.6 8 5s0-1-.6-1z"/></svg>';
@@ -271,7 +272,7 @@ class Entypo {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M18 3H8.446c-.44 0-1.071.236-1.402.525L.248 9.473a.682.682 0 000 1.053l6.796 5.947c.331.289.962.527 1.402.527H18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2.809 11-2.557-2.557L10.078 14l-1.443-1.443L11.191 10 8.635 7.443 10.078 6l2.557 2.555L15.19 6l1.444 1.443L14.078 10l2.557 2.555L15.191 14z"/></svg>';
   static const String eraser =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="m16.998 4.18-3.154-2.425a2.01 2.01 0 00-2.807.365l-8.4 10.897a2.003 2.003 0 00.365 2.803l3.153 2.425a2.01 2.01 0 002.807-.365l8.401-10.897a2.003 2.003 0 00-.365-2.803zm-8.45 12.287-.537.681a.8.8 0 01-.639.31.793.793 0 01-.485-.164l-3.153-2.425a.792.792 0 01-.303-.53.788.788 0 01.157-.589l.537-.681a.801.801 0 01.64-.311c.124 0 .309.029.485.164l3.154 2.425a.802.802 0 01.144 1.12z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M15 15H2V6h2.595s.689-.896 2.17-2H1a1 1 0 00-1 1v11a1 1 0 001 1h15a1 1 0 001-1v-3.746l-2 1.645V15zm-1.639-6.95v3.551L20 6.4l-6.639-4.999v3.131C5.3 4.532 5.3 12.5 5.3 12.5c2.282-3.748 3.686-4.45 8.061-4.45z"/></svg>';
   static const String eye =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M10 4.4C3.439 4.4 0 9.232 0 10c0 .766 3.439 5.6 10 5.6 6.56 0 10-4.834 10-5.6 0-.768-3.44-5.6-10-5.6zm0 9.907c-2.455 0-4.445-1.928-4.445-4.307 0-2.379 1.99-4.309 4.445-4.309s4.444 1.93 4.444 4.309c0 2.379-1.989 4.307-4.444 4.307zM10 10c-.407-.447.663-2.154 0-2.154-1.228 0-2.223.965-2.223 2.154s.995 2.154 2.223 2.154c1.227 0 2.223-.965 2.223-2.154 0-.547-1.877.379-2.223 0z"/></svg>';
@@ -439,7 +440,7 @@ class Entypo {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M16 1H4a1 1 0 00-1 1v16a1 1 0 001 1h12a1 1 0 001-1V2a1 1 0 00-1-1zm-3.205 10.519c-.185.382-.373.402-.291 0C12.715 10.48 12.572 8.248 11 8v4.75c0 .973-.448 1.82-1.639 2.203-1.156.369-2.449-.016-2.752-.846-.303-.83.377-1.84 1.518-2.256.637-.232 1.375-.292 1.873-.101V5h1c0 2.355 4.065 1.839 1.795 6.519z" clip-rule="evenodd"/></svg>';
   static const String network =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M5.274 6.915c.2 0 .394.029.576.086a15.774 15.774 0 012.283-2.1 1.954 1.954 0 01.048-1.076A14.407 14.407 0 005.17 2.171a9.25 9.25 0 00-2.582 2.381c.519.92 1.136 1.777 1.838 2.557.256-.124.543-.194.848-.194zM3.316 8.872c0-.275.058-.537.159-.773A15.91 15.91 0 011.78 5.87a9.165 9.165 0 00-.98 4.131 9.16 9.16 0 001.295 4.705 15.614 15.614 0 011.62-4.652 1.947 1.947 0 01-.399-1.182zm6.72-6.383c.517 0 .985.201 1.336.529a15.578 15.578 0 013.215-.992A9.154 9.154 0 0010 .8a9.167 9.167 0 00-3.236.588 15.76 15.76 0 012.277 1.375c.292-.174.631-.274.995-.274zm2.926 9.219a1.94 1.94 0 01.509-.656 14.336 14.336 0 00-2.672-4.803 1.956 1.956 0 01-1.901-.211 14.343 14.343 0 00-1.964 1.803 1.93 1.93 0 01.207 1.617 14.252 14.252 0 005.821 2.25zm2.539 2.643a15.872 15.872 0 01-.081 3.082 9.216 9.216 0 003.347-4.639 15.39 15.39 0 01-2.181.365 1.958 1.958 0 01-1.085 1.192zm-2.997-1.327a15.643 15.643 0 01-6.21-2.484 1.953 1.953 0 01-1.423.248 14.219 14.219 0 00-1.599 5.484 9.203 9.203 0 003.145 2.205 15.662 15.662 0 016.087-5.453zm3.672-9.843a14.296 14.296 0 00-4.193 1.068 1.946 1.946 0 01-.191 1.056 15.68 15.68 0 012.969 5.291 1.961 1.961 0 011.77 1.195c.886-.09 1.748-.26 2.578-.504a9.178 9.178 0 00-2.933-8.106zm-2.687 10.888a14.291 14.291 0 00-5.723 4.856A9.187 9.187 0 0010 19.2a9.165 9.165 0 003.882-.859c.19-.928.29-1.887.29-2.869 0-.355-.016-.707-.043-1.055a1.923 1.923 0 01-.64-.348z"/></svg>';
-  static const String _new =
+  static const String i_new =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="m18.69 12.344-1.727-1.538c-.5-.445-.5-1.174 0-1.619l1.727-1.539c.5-.445.367-.859-.296-.924l-2.29-.217c-.662-.062-1.02-.633-.791-1.266l1.215-3.383c.228-.635-.051-.865-.619-.514l-2.701 1.67a1.158 1.158 0 01-1.631-.426L10.599.842C10.27.254 9.727.252 9.392.834l-.909 1.58c-.337.585-1.108.833-1.713.556l-1.6-.734c-.608-.28-1.073.042-1.037.716l.086 1.615c.037.674-.461 1.367-1.104 1.541l-1.545.414c-.642.174-.76.68-.26 1.125l1.727 1.539c.5.445.5 1.174 0 1.619L1.31 12.344c-.5.445-.368.877.293.957l2.095.254c.661.08 1.029.67.818 1.311l-1.074 3.258c-.211.641.09.889.668.555l2.463-1.426a1.321 1.321 0 011.729.408L9.324 19.2c.372.559.931.529 1.24-.068l.899-1.733a1.243 1.243 0 011.648-.543l1.734.867c.598.297 1.057-.01 1.021-.682l-.087-1.617c-.035-.674.461-1.365 1.106-1.539l1.543-.416c.644-.174.762-.68.262-1.125zM11 14H9v-2h2v2zm0-3H9V6h2v5z"/></svg>';
   static const String new_message =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M18.174 1.826c-1.102-1.102-2.082-.777-2.082-.777L7.453 9.681 6 14l4.317-1.454 8.634-8.638s.324-.98-.777-2.082zm-7.569 9.779-.471.47-1.473.5a2.216 2.216 0 00-.498-.74 2.226 2.226 0 00-.74-.498l.5-1.473.471-.47s.776-.089 1.537.673c.762.761.674 1.538.674 1.538zM16 17H3V4h5l2-2H3c-1.1 0-2 .9-2 2v13c0 1.1.9 2 2 2h13c1.1 0 2-.9 2-2v-7l-2 2v5z"/></svg>';
@@ -567,7 +568,7 @@ class Entypo {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M14 5H4V3L0 6.5 4 10V8h10V5zm6 8.5L16 10v2H6v3h10v2l4-3.5z"/></svg>';
   static const String sweden =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M18 4H9v5h10V5a1 1 0 00-1-1zM1 15c0 .553.248 1 .8 1H7v-5H1v4zm8 1h9a1 1 0 001-1v-4H9v5zM1 5v4h6V4H1.8c-.552 0-.8.447-.8 1z"/></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M13 3H7a7 7 0 100 14h6a7 7 0 100-14zm0 12a5 5 0 11.001-10.001A5 5 0 0113 15z"/></svg>';
   static const String tablet =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M16 0H4C2.9 0 2 .899 2 2v16c0 1.1.9 2 2 2h12c1.101 0 2-.9 2-2V2c0-1.101-.899-2-2-2zm-6 19c-.69 0-1.25-.447-1.25-1s.56-1 1.25-1c.689 0 1.25.447 1.25 1s-.561 1-1.25 1zm6-3H4V2h12v14z"/></svg>';
@@ -641,7 +642,7 @@ class Entypo {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M19.511 17.98 10.604 1.348a.697.697 0 00-1.208 0L.49 17.98a.675.675 0 00.005.68c.125.211.352.34.598.34h17.814a.694.694 0 00.598-.34.677.677 0 00.006-.68zM11 17H9v-2h2v2zm0-3.5H9V7h2v6.5z"/></svg>';
   static const String water =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M9.882 9.093c-.511 4.115-3.121 4.847-3.121 7.708C6.761 18.567 8.244 20 10 20c1.756 0 3.238-1.434 3.238-3.199 0-2.861-2.61-3.593-3.121-7.708-.016-.123-.219-.123-.235 0zm-5.999-9C3.372 4.208.762 4.939.762 7.801.762 9.566 2.244 11 4 11s3.238-1.434 3.238-3.199c0-2.861-2.61-3.593-3.121-7.708-.015-.123-.219-.123-.234 0zm12 0c-.511 4.115-3.121 4.847-3.121 7.708C12.762 9.566 14.244 11 16 11s3.238-1.434 3.238-3.199c0-2.861-2.61-3.593-3.121-7.708-.016-.123-.219-.123-.234 0z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     add_to_list,
     add_user,
     address,
@@ -778,7 +779,7 @@ class Entypo {
     emoji_sad,
     erase,
     eraser,
-    _export,
+    i_export,
     eye,
     eye_with_line,
     feather,
@@ -862,7 +863,7 @@ class Entypo {
     mouse,
     music,
     network,
-    _new,
+    i_new,
     new_message,
     news,
     note,
@@ -926,7 +927,7 @@ class Entypo {
     suitcase,
     swap,
     sweden,
-    _switch,
+    i_switch,
     tablet,
     tag,
     text,

@@ -1,11 +1,12 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/ri
 class Ri {
-  static const String _24_hours_fill =
+  static const String i_24_hours_fill =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 13a3 3 0 012.08 5.162L12.17 20H15v2H9v-1.724l3.693-3.555A1 1 0 1011 16H9a3 3 0 013-3zm6 0v4h2v-4h2v9h-2v-3h-4v-6h2zM4 12a7.985 7.985 0 003 6.246v2.416A9.995 9.995 0 012 12h2zm8-10c5.185 0 9.449 3.947 9.95 9h-2.012A8.001 8.001 0 005.865 6.865L8 9H2V3l2.447 2.446A9.98 9.98 0 0112 2z"/></svg>';
-  static const String _24_hours_line =
+  static const String i_24_hours_line =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 13a3 3 0 012.08 5.162L12.17 20H15v2H9v-1.724l3.693-3.555A1 1 0 1011 16H9a3 3 0 013-3zm6 0v4h2v-4h2v9h-2v-3h-4v-6h2zM4 12a7.985 7.985 0 003 6.246v2.416A9.995 9.995 0 012 12h2zm8-10c5.185 0 9.449 3.947 9.95 9h-2.012A8.001 8.001 0 005.385 7.5H8v2H2v-6h2V6a9.98 9.98 0 018-4z"/></svg>';
-  static const String _4k_fill =
+  static const String i_4k_fill =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M3 3h18a1 1 0 011 1v16a1 1 0 01-1 1H3a1 1 0 01-1-1V4a1 1 0 011-1zm8.5 10.5V12h-1V9H9v3H7.5V9H6v4.5h3V15h1.5v-1.5h1zM18 15l-2.25-3L18 9h-1.75l-1.75 2.25V9H13v6h1.5v-2.25L16.25 15H18z"/></svg>';
-  static const String _4k_line =
+  static const String i_4k_line =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M4 5v14h16V5H4zM3 3h18a1 1 0 011 1v16a1 1 0 01-1 1H3a1 1 0 01-1-1V4a1 1 0 011-1zm8.5 10.5h-1V15H9v-1.5H6V9h1.5v3H9V9h1.5v3h1v1.5zM18 15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25 9H18l-2.25 3L18 15z"/></svg>';
   static const String a_b =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M5 15v2c0 1.054.95 2 2 2h3v2H7a4 4 0 01-4-4v-2h2zm13-5 4.4 11h-2.155l-1.201-3h-4.09l-1.199 3h-2.154L16 10h2zm-1 2.885L15.753 16h2.492L17 12.885zM3 3h6a3 3 0 012.235 5A3 3 0 019 13H3V3zm6 6H5v2h4a1 1 0 000-2zm8-6a4 4 0 014 4v2h-2V7a2 2 0 00-2-2h-3V3h3zM9 5H5v2h4a1 1 0 100-2z"/></svg>';
@@ -4541,11 +4542,11 @@ class Ri {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11 11v2l-5.327 6H11v2H3v-2l5.326-6H3v-2h8zm10-8v2l-5.327 6H21v2h-8v-2l5.326-6H13V3h8z"/></svg>';
   static const String zzz_line =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11 11v2l-5.327 6H11v2H3v-2l5.326-6H3v-2h8zm10-8v2l-5.327 6H21v2h-8v-2l5.326-6H13V3h8z"/></svg>';
-  List iconsList = [
-    _24_hours_fill,
-    _24_hours_line,
-    _4k_fill,
-    _4k_line,
+  static const List iconsList = [
+    i_24_hours_fill,
+    i_24_hours_line,
+    i_4k_fill,
+    i_4k_line,
     a_b,
     account_box_fill,
     account_box_line,

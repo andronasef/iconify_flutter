@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/icons8
 class Icons8 {
   static const String add_shopping_cart =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M4 7a1 1 0 000 2h2.22l2.624 10.5c.223.89 1.02 1.5 1.937 1.5h12.47c.903 0 1.67-.6 1.907-1.47L27.75 10h-2.094l-2.406 9H10.78L8.157 8.5A1.984 1.984 0 006.22 7H4zm18 14c-1.645 0-3 1.355-3 3s1.355 3 3 3 3-1.355 3-3-1.355-3-3-3zm-9 0c-1.645 0-3 1.355-3 3s1.355 3 3 3 3-1.355 3-3-1.355-3-3-3zm3-14v3h-3v2h3v3h2v-3h3v-2h-3V7h-2zm-3 16c.564 0 1 .436 1 1 0 .564-.436 1-1 1-.564 0-1-.436-1-1 0-.564.436-1 1-1zm9 0c.564 0 1 .436 1 1 0 .564-.436 1-1 1-.564 0-1-.436-1-1 0-.564.436-1 1-1z"/></svg>';
@@ -175,7 +176,7 @@ class Icons8 {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M18 4c-4.738 0-8.587 3.887-9.688 9H6v2h2.063c-.023.328-.063.666-.063 1 0 .334.04.672.063 1H6v2h2.313c1.1 5.113 4.95 9 9.687 9 2.71 0 5.17-1.303 6.938-3.344l-1.532-1.312C21.954 25.02 20.07 26 18 26c-3.502 0-6.59-2.898-7.625-7H19v-2h-8.97c-.025-.33-.03-.66-.03-1 0-.34.005-.67.03-1H19v-2h-8.625C11.41 8.898 14.498 6 18 6c2.07 0 3.954.98 5.406 2.656l1.532-1.312C23.168 5.304 20.708 4 18 4z"/></svg>';
   static const String exclamation_mark =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M13 4v16h6V4h-6zm2 2h2v12h-2V6zm-2 16v6h6v-6h-6zm2 2h2v2h-2v-2z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M6 4v24h20v-8l-2 2v4H8V6h16v4l2 2V4H6zm16.406 7L21 12.406 23.563 15h-9.657v2h9.656L21 19.594 22.406 21l4.313-4.28.686-.72-.687-.72L22.405 11z"/></svg>';
   static const String fantasy =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m20.875 2.563-.688.75-1.687 1.78h-3.594v3.5l-1.72 1.813-.686.72.688.687 1.5 1.5L3.03 25l-.717.72.718.686 2.564 2.563.718.718.688-.72 11.688-11.655 1.5 1.5.687.687.72-.688 1.81-1.718h3.5V13.5l1.782-1.688.75-.687-.718-.72-1.814-1.81v-3.5h-3.5L21.594 3.28l-.72-.717zm.03 2.874 1.376 1.375.314.282h2.312v2.312l.282.313 1.375 1.374-1.344 1.28-.314.282v2.438h-2.312l-.282.28-1.406 1.345-.843-.845 3.843-3.813.72-.687-.72-.72-2.562-2.56-.688-.69-.718.69-3.813 3.842-.844-.843 1.345-1.406.28-.282v-2.31h2.44l.28-.313 1.28-1.343zm-.25 4.782 1.126 1.155-15.468 15.47-1.156-1.126 15.5-15.5zM19 21v1h-1v2h1v1h2v-1h1v-2h-1v-1h-2zm6 2v2h-2v2h2v2h2v-2h2v-2h-2v-2h-2z"/></svg>';
@@ -235,7 +236,7 @@ class Icons8 {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M6.813 2.406 5.405 3.812 7.5 5.906 8.906 4.5 6.812 2.406zm18.375 0L23.093 4.5 24.5 5.906l2.094-2.093-1.407-1.407zM16 3.03c-.33.004-.664.023-1 .064-.01 0-.02-.002-.03 0-4.056.465-7.284 3.742-7.845 7.78-.448 3.25.892 6.197 3.125 8.095a5.238 5.238 0 011.75 3.03v6h2.28c.348.597.983 1 1.72 1s1.372-.403 1.72-1H20v-4h.094v-1.188c0-1.466.762-2.944 2-4.093C23.75 17.06 25 14.705 25 12c0-4.94-4.066-9.016-9-8.97zm0 2c3.865-.054 7 3.11 7 6.97 0 2.094-.97 3.938-2.313 5.28l.032.032A7.792 7.792 0 0018.279 22h-4.374c-.22-1.714-.955-3.373-2.344-4.563-1.767-1.5-2.82-3.76-2.468-6.312.437-3.15 2.993-5.683 6.125-6.03a6.91 6.91 0 01.78-.064zM2 12v2h3v-2H2zm25 0v2h3v-2h-3zM7.5 20.094l-2.094 2.093 1.407 1.407L8.905 21.5 7.5 20.094zm17 0L23.094 21.5l2.093 2.094 1.407-1.407-2.094-2.093zM14 24h4v2h-4v-2z"/></svg>';
   static const String image_file =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M6 3v26h20V9.594l-.28-.313-6-6-.314-.28H6zm2 2h10v6h6v16H8V5zm12 1.438L22.563 9H20V6.437zM21.094 14a1 1 0 100 2 1 1 0 000-2zM14 15.594l-.72.687-4 4 1.44 1.44L14 18.437l2.28 2.28.72.688.72-.687L19 19.437l2.28 2.28 1.44-1.437-3-3-.72-.686-.72.687L17 18.563l-2.28-2.28-.72-.688z"/></svg>';
-  static const String _import =
+  static const String i_import =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M6 4v24h20v-9h-2v7H8V6h16v7h2V4H6zm11.5 7-4.313 4.28-.687.72.688.72L17.5 21l1.406-1.406L16.313 17H28v-2H16.312l2.594-2.594L17.5 11z"/></svg>';
   static const String indent =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M3 7v2h26V7H3zm0 4v2h19v-2H3zm26 0-5 5 5 5V11zM3 15v2h19v-2H3zm0 4v2h19v-2H3zm0 4v2h26v-2H3z"/></svg>';
@@ -267,7 +268,7 @@ class Icons8 {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M5 5v2h15v17.063l-4.28-4.282-1.44 1.44 6 6 .72.686.72-.687 6-6-1.44-1.44L22 24.063V5H5z"/></svg>';
   static const String level_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m21 4.094-.72.687-6 6 1.44 1.44L20 7.936V25H5v2h17V7.937l4.28 4.282 1.44-1.44-6-6-.72-.686z"/></svg>';
-  static const String _library =
+  static const String i_library =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="m16 3.906-.375.156-12 5L3 9.345V12h2v11H3v5h26v-5h-2V12h2V9.344l-.625-.28-12-5.002L16 3.906zm0 2.188L25.375 10H6.625L16 6.094zM7 12h2v11H7V12zm4 0h2v11h-2V12zm4 0h2v11h-2V12zm4 0h2v11h-2V12zm4 0h2v11h-2V12zM5 25h22v1H5v-1z"/></svg>';
   static const String list =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M4 5v6h6V5H4zm2 2h2v2H6V7zm6 0v2h15V7H12zm-8 6v6h6v-6H4zm2 2h2v2H6v-2zm6 0v2h15v-2H12zm-8 6v6h6v-6H4zm2 2h2v2H6v-2zm6 0v2h15v-2H12z"/></svg>';
@@ -467,7 +468,7 @@ class Icons8 {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M6 3v26h20V3H6zm2 2h16v22H8V5zm10 7v6.5c0 .217-.283.5-.5.5-.042 0 .02.048-.063-.063-.082-.11-.206-.388-.28-.687C17.006 17.652 17 17 17 17v-2h-2v4.5c0 .217-.283.5-.5.5-.217 0-.5-.283-.5-.5V13h-4v2h2v4.5c0 1.383 1.117 2.5 2.5 2.5.984 0 1.686-.644 2.094-1.47.302.187.52.47.906.47 1.383 0 2.5-1.117 2.5-2.5V14h2v-2h-4z"/></svg>';
   static const String xls =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M6 3v7h2V5h16v5h2V3H6zm2 9 2 4-2 4h2l1-2 1 2h2l-2-4 2-4h-2l-1 2-1-2H8zm7 0v8h4v-2h-2v-6h-2zm7.5 0c-1.383 0-2.5 1.117-2.5 2.5s1.117 2.5 2.5 2.5c.217 0 .5.283.5.5 0 .3-.12.5-.5.5-.368 0-.424-.08-.438-.094-.013-.013-.062-.08-.062-.312h-2c0 .566.163 1.2.625 1.687.462.488 1.143.72 1.875.72 1.42 0 2.5-1.2 2.5-2.5 0-1.383-1.117-2.5-2.5-2.5-.217 0-.5-.283-.5-.5 0-.217.283-.5.5-.5.267 0 .348.063.406.125.06.062.094.17.094.28h2c0-.587-.215-1.192-.656-1.655-.442-.463-1.11-.75-1.844-.75zM6 22v7h20v-7h-2v5H8v-5H6z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     add_shopping_cart,
     add_user,
     adventures,
@@ -556,7 +557,7 @@ class Icons8 {
     eraser,
     euro,
     exclamation_mark,
-    _export,
+    i_export,
     fantasy,
     fax,
     female,
@@ -586,7 +587,7 @@ class Icons8 {
     hospital_2,
     idea,
     image_file,
-    _import,
+    i_import,
     indent,
     info,
     insert_table,
@@ -602,7 +603,7 @@ class Icons8 {
     left_squared,
     level_down,
     level_up,
-    _library,
+    i_library,
     list,
     lock,
     lock_2,

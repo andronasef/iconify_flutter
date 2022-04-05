@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/icon-park-outline
 class IconParkOutline {
   static const String a_cane =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><g clip-path="url(#svgIDa)"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M19.557 44.768 33.641 18.28c1.174-2.207 3.812-9.299-3.252-13.055C23.326 1.47 19.157 7.181 17.75 9.83"/></g><defs><clipPath id="svgIDa"><path d="M0 0h48v48H0z"/></clipPath></defs></g></svg>';
@@ -1559,7 +1560,7 @@ class IconParkOutline {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-width="4"><path stroke-linecap="round" d="M12 4h24"/><path stroke-linecap="round" stroke-linejoin="round" d="m10.777 30 7.242-14.961V4h12.01v11.039L37.245 30"/><path stroke-linejoin="round" d="M7.794 43.673a3.273 3.273 0 01-1.52-4.372L10.777 30S18 35 24 30c6-5 13.246 0 13.246 0l4.49 9.305A3.273 3.273 0 0138.787 44H9.22c-.494 0-.981-.112-1.426-.327Z"/></g></svg>';
   static const String experiment_one =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="4"><path d="m10.777 30 7.242-14.961V4h12.01v11.039L37.245 30"/><path d="M7.794 43.673a3.273 3.273 0 01-1.52-4.372L10.777 30S18 35 24 30c6-5 13.246 0 13.246 0l4.49 9.305A3.273 3.273 0 0138.787 44H9.22c-.494 0-.981-.112-1.426-.327Z"/></g></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M42 27c0 6-4 16-18 16S6 33 6 27M24.008 5.1V33M12 17 24 5l12 12"/></svg>';
   static const String express_delivery =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="4"><path stroke-linecap="round" d="M8 31v11a2 2 0 002 2h28a2 2 0 002-2V31"/><path d="M38 14H10a2 2 0 00-2 2v6a2 2 0 002 2h28a2 2 0 002-2v-6a2 2 0 00-2-2Z"/><path stroke-linecap="round" d="M16 4v4m8-4v4m8-4v4M16 34h16"/></g></svg>';
@@ -3653,7 +3654,7 @@ class IconParkOutline {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path d="M24 26v12m0-32v20m0-22v2M8 40h26l6-6m-25 6v4m17-4v4M24 6C14.059 6 6 14.034 6 23.944V26c0-2.478 2.015-5 4.5-5s4.5 2.522 4.5 5c0-2.478 2.015-5 4.5-5s4.5 2.522 4.5 5c0-2.478 2.015-5 4.5-5s4.5 2.522 4.5 5c0-2.478 2.015-5 4.5-5s4.5 2.522 4.5 5v-2.056C42 14.034 33.941 6 24 6Z"/><path d="M15 26s-1.5-5.5 1-11c2.501-5.5 8-9 8-9m9 20s.5-4.5-2-11-7-9-7-9m0 19V6"/><path d="M28.5 21c2.485 0 4.5 2.522 4.5 5 0-2.478 2.015-5 4.5-5m-9 0c-2.485 0-4.5 2.522-4.5 5 0-2.478-2.015-5-4.5-5m-9 0c2.485 0 4.5 2.522 4.5 5 0-2.478 2.015-5 4.5-5M15.733 8C18.21 6.722 21.02 6 24 6c2.98 0 5.79.722 8.266 2"/></g></svg>';
   static const String retro_bag =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path d="M35 14c0-5.523-4.925-10-11-10S13 8.477 13 14m-6 2a2 2 0 012-2h30a2 2 0 012 2v12a2 2 0 01-2 2h-9a2 2 0 01-2-2v0a2 2 0 00-2-2h-4a2 2 0 00-2 2v0a2 2 0 01-2 2H9a2 2 0 01-2-2V16Zm3 14v14h28V30"/><path d="M20 26h8v6h-8z"/></g></svg>';
-  static const String _return =
+  static const String i_return =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path d="m13 8-7 6 7 7"/><path d="M6 14h22.994c6.883 0 12.728 5.62 12.996 12.5.284 7.27-5.723 13.5-12.996 13.5H11.998"/></g></svg>';
   static const String reverse_lens =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-width="4"><path stroke-linecap="round" stroke-linejoin="round" d="M13 25V10h6l2-3h6l2 3h6v15H13Zm7 10 4 4-4 4"/><path stroke-linecap="round" stroke-linejoin="round" d="M32 38.168C39.064 36.625 45 33.1 45 29c0-2.252-1.488-4.33-4-6.001M24 39C12.954 39 3 34.523 3 29c0-2.252 1.488-4.33 4-6.001"/><path stroke-miterlimit="10" d="M24 20a3 3 0 100-6 3 3 0 000 6Z"/></g></svg>';
@@ -4215,7 +4216,7 @@ class IconParkOutline {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" clip-path="url(#svgIDa)"><path d="M10 36c-1.999-3.5-2-10-2-19 0-3 4-4 6-1 1.108 1.662 1.816 6.264 1.816 6.264l6.495-11.25a2.52 2.52 0 014.366 2.521l.388-.671a2.52 2.52 0 114.365 2.52l-.388.672a2.52 2.52 0 114.366 2.52l-1.553 2.689a2.523 2.523 0 014.373 2.518L29.06 39.745c-.097.17-.197.337-.32.489C28.167 40.94 26.144 43 22 43c-4.659 0-9.521-2.66-12-7ZM37 5c1.379.733 3.505 1.758 5 4 1 1.5 1.5 3.5 1.79 6"/></g><defs><clipPath id="svgIDa"><path d="M0 0h48v48H0z"/></clipPath></defs></g></svg>';
   static const String swipe =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path d="m6 15 13.371 10.538C20.5 26.5 22.828 28 25 26c2.29-2.108.5-4.5 0-5l-8-6M4 8h23l11 10M9 33l35 .02"/><path d="M9 18v22h35V18H22"/></g></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M42 19H6M30 7l12 12M6.799 29h36m-36 0 12 12"/></svg>';
   static const String switch_button =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="4"><rect width="40" height="16" x="4" y="4" rx="8"/><rect width="40" height="16" x="4" y="28" rx="8"/><path d="M36 14a2 2 0 100-4 2 2 0 000 4ZM12 38a2 2 0 100-4 2 2 0 000 4Z"/></g></svg>';
@@ -4237,7 +4238,7 @@ class IconParkOutline {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="m10 4 14 14L38 4M10 44l14-14 14 14m5-34L29 24l14 14M4 10l14 14L4 38"/></svg>';
   static const String symmetry =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="4"><path d="m4 15 20-6v30L4 33V15Zm20-6 20 6v18l-20 6V9Z"/><path stroke-linecap="round" d="M24 4v40"/></g></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M30 7.979 19 8v10H4v14h17m-1 10 11-.021v-10.4h13V18H30.345"/></svg>';
   static const String system =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="4"><rect width="14" height="14" x="6" y="6" rx="2"/><rect width="14" height="14" x="6" y="28" rx="2"/><path d="M35 20a7 7 0 100-14 7 7 0 000 14Z"/><rect width="14" height="14" x="28" y="28" rx="2"/></g></svg>';
@@ -4873,7 +4874,7 @@ class IconParkOutline {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="4"><path d="M4 4h40v40H4z"/><path stroke-linecap="round" d="M16 4v12H4m32 8v12H24m12 0L24 24M4 6v20M7 4h20"/></g></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" stroke-width="4"><path d="M21 38c9.389 0 17-7.611 17-17S30.389 4 21 4 4 11.611 4 21s7.611 17 17 17Z"/><path stroke-linecap="round" d="M15 21h12m6.222 12.222 8.485 8.485"/></g></svg>';
-  List iconsList = [
+  static const List iconsList = [
     a_cane,
     abdominal,
     abnormal,
@@ -5654,7 +5655,7 @@ class IconParkOutline {
     expenses_one,
     experiment,
     experiment_one,
-    _export,
+    i_export,
     express_delivery,
     expressionless_face,
     extend,
@@ -6701,7 +6702,7 @@ class IconParkOutline {
     respect,
     resting,
     retro_bag,
-    _return,
+    i_return,
     reverse_lens,
     reverse_lens_one,
     reverse_operation_in,
@@ -6982,7 +6983,7 @@ class IconParkOutline {
     swimsuit,
     swing,
     swipe,
-    _switch,
+    i_switch,
     switch_button,
     switch_contrast,
     switch_nintendo,
@@ -6993,7 +6994,7 @@ class IconParkOutline {
     symbol,
     symbol_double_x,
     symmetry,
-    _sync,
+    i_sync,
     system,
     t_shirt,
     table,

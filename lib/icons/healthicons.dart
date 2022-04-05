@@ -1,81 +1,82 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/healthicons
 class Healthicons {
-  static const String _0 =
+  static const String i_0 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M22 14a4 4 0 00-4 4v11.38l9.25-15.18A4 4 0 0026 14h-4Zm7.96 3.436-9.814 16.11A3.98 3.98 0 0022 34h4a4 4 0 004-4V18c0-.191-.013-.38-.04-.564ZM14 18a8 8 0 018-8h4a7.98 7.98 0 015.334 2.037A7.985 7.985 0 0134 18v12a8 8 0 01-8 8h-4c-2.37 0-4.5-1.033-5.962-2.666A7.977 7.977 0 0114 30V18Z" clip-rule="evenodd"/></svg>';
-  static const String _1 =
+  static const String i_1 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M27.765 10.152A2 2 0 0129 12v24a2 2 0 01-4 0V16.828l-1.586 1.586a2 2 0 01-2.828-2.828l5-5a2 2 0 012.18-.434Z" clip-rule="evenodd"/></svg>';
-  static const String _2 =
+  static const String i_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M26 14a4 4 0 012.61 7.034l-14 13.528A2 2 0 0016 38h16a2 2 0 100-4H20.948l10.416-10.065A8 8 0 0026 10h-4a8.003 8.003 0 00-7.544 5.334 2 2 0 003.771 1.332A4.002 4.002 0 0122 14h4Z" clip-rule="evenodd"/></svg>';
-  static const String _3 =
+  static const String i_3 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M25.87 14c2.322 0 4.13 1.831 4.13 4s-1.808 4-4.13 4h-4.088a2 2 0 100 4h4.087C28.192 26 30 27.831 30 30s-1.808 4-4.13 4h-4.088c-1.823 0-3.344-1.137-3.9-2.68a2 2 0 00-3.763 1.36c1.126 3.118 4.147 5.32 7.663 5.32h4.087C30.32 38 34 34.459 34 30a7.91 7.91 0 00-2.753-6A7.91 7.91 0 0034 18c0-4.459-3.681-8-8.13-8h-4.088c-3.516 0-6.537 2.202-7.663 5.32a2 2 0 003.762 1.36c.557-1.543 2.078-2.68 3.901-2.68h4.087Z" clip-rule="evenodd"/></svg>';
-  static const String _4 =
+  static const String i_4 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M28.58 10.086A2 2 0 0130 12v16h2a2 2 0 110 4h-2v4a2 2 0 01-4 0v-4H16a2 2 0 01-1.664-3.11l12-18a2 2 0 012.244-.804ZM26 28v-9.394L19.737 28H26Z" clip-rule="evenodd"/></svg>';
-  static const String _5 =
+  static const String i_5 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M34 12a2 2 0 00-2-2H18a2 2 0 00-1.961 1.608l-2 10a2 2 0 003.07 2.056C17.781 23.216 20.395 22 24 22a6 6 0 010 12h-2.218c-1.823 0-3.344-1.137-3.901-2.68a2 2 0 10-3.762 1.36c1.126 3.118 4.147 5.32 7.663 5.32H24c5.523 0 10-4.477 10-10s-4.477-10-10-10c-2.014 0-3.815.304-5.304.72L19.64 14H32a2 2 0 002-2Z" clip-rule="evenodd"/></svg>';
-  static const String _6 =
+  static const String i_6 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M25.968 14a4.033 4.033 0 013.804 2.67 2 2 0 103.77-1.34A8.032 8.032 0 0025.967 10h-3.936C17.606 10 14 13.572 14 18v12c0 4.428 3.606 8 8.032 8h3.936C30.394 38 34 34.428 34 30s-3.606-8-8.032-8h-3.936A8.022 8.022 0 0018 23.08V18c0-2.2 1.795-4 4.032-4h3.936ZM18 30c0-2.2 1.795-4 4.032-4h3.936C28.205 26 30 27.8 30 30s-1.795 4-4.032 4h-3.936C19.795 34 18 32.2 18 30Z" clip-rule="evenodd"/></svg>';
-  static const String _7 =
+  static const String i_7 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M14 12a2 2 0 012-2h16a2 2 0 011.515 3.305c-1.76 2.044-4.362 5.723-6.678 9.977-2.327 4.272-4.267 8.946-4.858 13.006a2 2 0 01-3.958-.576c.69-4.74 2.882-9.899 5.302-14.344a73.401 73.401 0 014.6-7.368H16a2 2 0 01-2-2Z" clip-rule="evenodd"/></svg>';
-  static const String _8 =
+  static const String i_8 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M25.968 14C28.205 14 30 15.8 30 18s-1.795 4-4.032 4h-3.936C19.795 22 18 20.2 18 18s1.795-4 4.032-4h3.936Zm-9.249 10A7.963 7.963 0 0114 18c0-4.428 3.606-8 8.032-8h3.936C30.394 10 34 13.572 34 18a7.963 7.963 0 01-2.72 6A7.963 7.963 0 0134 30c0 4.428-3.606 8-8.032 8h-3.936C17.606 38 14 34.428 14 30a7.963 7.963 0 012.72-6Zm5.313 2h3.936C28.205 26 30 27.8 30 30s-1.795 4-4.032 4h-3.936C19.795 34 18 32.2 18 30s1.795-4 4.032-4Z" clip-rule="evenodd"/></svg>';
-  static const String _9 =
+  static const String i_9 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M22.032 34a4.033 4.033 0 01-3.804-2.67 2 2 0 10-3.77 1.34A8.032 8.032 0 0022.033 38h3.936C30.394 38 34 34.428 34 30V18c0-4.428-3.606-8-8.032-8h-3.936C17.606 10 14 13.572 14 18s3.606 8 8.032 8h3.936A8.022 8.022 0 0030 24.92V30c0 2.2-1.795 4-4.032 4h-3.936ZM30 18c0 2.2-1.795 4-4.032 4h-3.936C19.795 22 18 20.2 18 18s1.795-4 4.032-4h3.936C28.205 14 30 15.8 30 18Z" clip-rule="evenodd"/></svg>';
-  static const String _0_negative =
+  static const String i_0_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M18 18a4 4 0 014-4h4a4 4 0 011.25.198L18 29.381V18Zm2.146 15.546 9.815-16.11c.026.184.039.373.039.564v12a4 4 0 01-4 4h-4c-.67 0-1.3-.163-1.854-.454Z"/><path fill-rule="evenodd" d="M48 0H0v48h48V0ZM22 10a8 8 0 00-8 8v12c0 2.048.772 3.92 2.038 5.334A7.985 7.985 0 0022 38h4a8 8 0 008-8V18c0-2.37-1.033-4.5-2.666-5.963A7.977 7.977 0 0026 10h-4Z" clip-rule="evenodd"/></g></svg>';
-  static const String _0_outline =
+  static const String i_0_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M13 18a9 9 0 019-9h4c2.303 0 4.41.87 6 2.292A8.985 8.985 0 0135 18v12a9 9 0 01-9 9h-4a8.985 8.985 0 01-6.708-3A8.977 8.977 0 0113 30V18Zm9-7a7 7 0 00-7 7v12c0 1.792.675 3.43 1.783 4.667A6.985 6.985 0 0022 37h4a7 7 0 007-7V18a6.985 6.985 0 00-2.333-5.217A6.977 6.977 0 0026 11h-4Zm0 4a3 3 0 00-3 3v7.817L25.59 15H22Zm-5 3a5 5 0 015-5h4a5 5 0 011.561.248 1 1 0 01.543 1.47l-9.25 15.183a1 1 0 01-1.854-.52V18Zm13.163-1.543a1 1 0 01.788.84c.032.23.049.465.049.703v12a5 5 0 01-5 5h-4a4.98 4.98 0 01-2.318-.568 1 1 0 01-.39-1.406l9.815-16.11a1 1 0 011.056-.459Zm-8.502 16.524c.111.013.224.019.339.019h4a3 3 0 003-3v-9.065l-7.339 12.046Z" clip-rule="evenodd"/></svg>';
-  static const String _1_negative =
+  static const String i_1_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M48 0H0v48h48V0ZM29 12a2 2 0 00-3.414-1.414l-5 5a2 2 0 102.828 2.828L25 16.828V36a2 2 0 004 0V12Z" clip-rule="evenodd"/></svg>';
-  static const String _1_outline =
+  static const String i_1_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M24.879 9.879A3 3 0 0130 12v24a3 3 0 01-6 0V19.236a3 3 0 01-4.121-4.357l5-5Zm2.504 1.197a1 1 0 00-1.09.217l-5 5a1 1 0 001.414 1.414l1.586-1.586a1 1 0 011.707.707V36a1 1 0 102 0V12a1 1 0 00-.617-.924Z" clip-rule="evenodd"/></svg>';
-  static const String _2_negative =
+  static const String i_2_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M48 0H0v48h48V0ZM30 18a4 4 0 00-4-4h-4a4.002 4.002 0 00-3.773 2.666 2 2 0 01-3.771-1.332A8.003 8.003 0 0122 10h4a8 8 0 015.364 13.935L20.948 34H32a2 2 0 110 4H16a2 2 0 01-1.39-3.438l14-13.528.056-.052A3.985 3.985 0 0030 18Z" clip-rule="evenodd"/></svg>';
-  static const String _2_outline =
+  static const String i_2_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M35 18a9 9 0 00-9-9h-4a9.003 9.003 0 00-8.487 6 3 3 0 105.657 2A3.003 3.003 0 0122 15h4a3 3 0 012 5.237 2.953 2.953 0 00-.085.078l-14 13.528A3 3 0 0016 39h16a3 3 0 100-6h-8.578l8.626-8.335A8.985 8.985 0 0035 18Zm-9-7a7 7 0 014.67 12.216L20.252 33.281A1 1 0 0020.948 35H32a1 1 0 110 2H16a1 1 0 01-.695-1.72l14-13.527-.695-.719.695.72A4.985 4.985 0 0031 18a5 5 0 00-5-5.001h-4a5.002 5.002 0 00-4.716 3.333 1 1 0 11-1.885-.666A7.002 7.002 0 0122 11h4Z" clip-rule="evenodd"/></svg>';
-  static const String _2g =
+  static const String i_2g =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path fill-rule="evenodd" d="M10 29a3 3 0 013-3h22a3 3 0 013 3v12a3 3 0 01-3 3H13a3 3 0 01-3-3V29Zm8.75 2a1.25 1.25 0 01.805 2.208l-5.25 5.073A1 1 0 0015 40h6a1 1 0 100-2h-3.526l3.458-3.342A3.25 3.25 0 0018.75 29h-1.5a3.25 3.25 0 00-3.065 2.167 1 1 0 101.886.666A1.25 1.25 0 0117.25 31h1.5Zm14.003.774a1 1 0 00-.08-1.412 5.503 5.503 0 100 8.204 1 1 0 00.334-.745v-3.357a1 1 0 00-1-1h-3.002a1 1 0 100 2h2.002v1.875a3.504 3.504 0 11.334-5.486 1 1 0 001.412-.08Z" clip-rule="evenodd"/><path stroke="currentColor" stroke-width="2" d="M33.192 4.808a13 13 0 010 18.384M28.95 9.05a7 7 0 010 9.9m-9.9 0a6.999 6.999 0 010-9.9m-4.242 14.142a13 13 0 010-18.384"/><circle cx="24" cy="14" r="2"/></g></svg>';
-  static const String _2g_negative =
+  static const String i_2g_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M0 0v48h48V0H0Zm35.087 9.408a12.001 12.001 0 00-2.602-3.893L33.9 4.1a14 14 0 010 19.799l-1.415-1.415a12 12 0 002.602-13.077Zm-6.844.35a6.001 6.001 0 010 8.485l1.414 1.414a8 8 0 000-11.314l-1.414 1.414Zm-8.486 0a6.001 6.001 0 000 8.485l-1.414 1.414a8 8 0 010-11.314l1.414 1.414Zm-6.844-.35a12.001 12.001 0 012.602-3.893L14.1 4.1a14 14 0 000 19.799l1.415-1.415a12 12 0 01-2.602-13.077ZM26 14a2 2 0 11-4 0 2 2 0 014 0ZM13 26a3 3 0 00-3 3v12a3 3 0 003 3h22a3 3 0 003-3V29a3 3 0 00-3-3H13Zm7 6.25c0-.69-.56-1.25-1.25-1.25h-1.5a1.25 1.25 0 00-1.18.833 1 1 0 11-1.885-.666A3.25 3.25 0 0117.25 29h1.5a3.25 3.25 0 012.182 5.658L17.474 38H21a1 1 0 110 2h-6a1 1 0 01-.695-1.72l5.25-5.072A1.244 1.244 0 0020 32.25Zm12.674-1.888a1 1 0 11-1.333 1.49 3.503 3.503 0 10-.334 5.487v-1.875h-2.002a1 1 0 110-2h3.002a1 1 0 011 1v3.357a1 1 0 01-.333.745 5.503 5.503 0 110-8.204Z" clip-rule="evenodd"/></svg>';
-  static const String _2g_outline =
+  static const String i_2g_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M32.485 5.515a12 12 0 010 16.97L33.9 23.9a14 14 0 000-19.8l-1.415 1.415ZM18.75 31a1.25 1.25 0 01.805 2.208l-5.25 5.073A1 1 0 0015 40h6a1 1 0 100-2h-3.526l3.458-3.342A3.25 3.25 0 0018.75 29h-1.5a3.25 3.25 0 00-3.065 2.167 1 1 0 101.886.666A1.25 1.25 0 0117.25 31h1.5Zm14.003.774a1 1 0 00-.08-1.412 5.503 5.503 0 100 8.204 1 1 0 00.334-.745v-3.357a1 1 0 00-1-1h-3.002a1 1 0 000 2h2.002v1.875a3.502 3.502 0 01-5.506-2.875 3.503 3.503 0 015.84-2.611 1 1 0 001.412-.079Z"/><path fill-rule="evenodd" d="M10 28a3 3 0 013-3h22a3 3 0 013 3v13a3 3 0 01-3 3H13a3 3 0 01-3-3V28Zm2 0a1 1 0 011-1h22a1 1 0 011 1v13a1 1 0 01-1 1H13a1 1 0 01-1-1V28Z" clip-rule="evenodd"/><path d="M29.543 11.704a6 6 0 00-1.3-1.947l1.414-1.414a8 8 0 010 11.314l-1.414-1.414a6 6 0 001.3-6.539Zm-11.086 0a6 6 0 011.3-1.947l-1.414-1.414a8 8 0 000 11.314l1.414-1.414a6 6 0 01-1.3-6.539Z"/><path d="M15.515 5.515a12 12 0 000 16.97L14.1 23.9a14 14 0 010-19.8l1.415 1.415ZM24 16a2 2 0 100-4 2 2 0 000 4Z"/></g></svg>';
-  static const String _3_negative =
+  static const String i_3_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M48 0H0v48h48V0ZM30 18c0-2.169-1.808-4-4.13-4h-4.088c-1.823 0-3.344 1.137-3.9 2.68a2 2 0 01-3.763-1.36c1.126-3.118 4.147-5.32 7.663-5.32h4.087C30.32 10 34 13.541 34 18a7.91 7.91 0 01-2.753 6A7.91 7.91 0 0134 30c0 4.459-3.681 8-8.13 8h-4.088c-3.516 0-6.537-2.202-7.663-5.32a2 2 0 013.762-1.36c.557 1.543 2.078 2.68 3.901 2.68h4.087C28.192 34 30 32.169 30 30s-1.808-4-4.13-4h-4.088a2 2 0 110-4h4.087C28.192 22 30 20.169 30 18Z" clip-rule="evenodd"/></svg>';
-  static const String _3_outline =
+  static const String i_3_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M35 18c0-5.033-4.15-9-9.13-9h-4.088c-3.94 0-7.335 2.468-8.604 5.981a3 3 0 105.644 2.038c.414-1.147 1.56-2.019 2.96-2.019h4.087C27.657 15 29 16.4 29 18s-1.343 3-3.13 3h-4.088a3 3 0 100 6h4.087C27.657 27 29 28.4 29 30s-1.343 3-3.13 3h-4.088c-1.4 0-2.546-.871-2.96-2.019a3 3 0 10-5.644 2.038C14.448 36.532 17.842 39 21.782 39h4.087C30.85 39 35 35.033 35 30a8.881 8.881 0 00-2.324-6A8.881 8.881 0 0035 18Zm-9.13-7c3.918 0 7.13 3.115 7.13 7a6.91 6.91 0 01-2.408 5.244 1 1 0 000 1.512A6.91 6.91 0 0133 30c0 3.885-3.212 7-7.13 7h-4.088c-3.093 0-5.738-1.936-6.723-4.66a1 1 0 111.882-.68c.699 1.937 2.595 3.34 4.841 3.34h4.087C28.726 35 31 32.738 31 30s-2.274-5-5.13-5h-4.088a1 1 0 110-2h4.087C28.726 23 31 20.738 31 18s-2.274-5-5.13-5h-4.088c-2.246 0-4.142 1.403-4.841 3.34a1 1 0 11-1.881-.68c.984-2.724 3.63-4.66 6.722-4.66h4.087Z" clip-rule="evenodd"/></svg>';
-  static const String _3g =
+  static const String i_3g =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M12.913 9.408a12 12 0 012.602-3.893L14.1 4.1a14 14 0 000 19.799l1.415-1.415a12 12 0 01-2.602-13.077Zm19.572-3.893a12 12 0 010 16.97L33.9 23.9a14 14 0 000-19.8l-1.415 1.415Z"/><path d="M28.243 9.757a6 6 0 010 8.486l1.414 1.414a8 8 0 000-11.314l-1.414 1.414Zm-8.486 0a6 6 0 000 8.486l-1.414 1.414a8 8 0 010-11.314l1.414 1.414ZM26 14a2 2 0 11-4 0 2 2 0 014 0Z"/><path fill-rule="evenodd" d="M13 26a3 3 0 00-3 3v12a3 3 0 003 3h22a3 3 0 003-3V29a3 3 0 00-3-3H13Zm7 6.25c0-.67-.561-1.25-1.3-1.25h-1.532c-.577 0-1.054.36-1.227.84a1 1 0 11-1.882-.68A3.297 3.297 0 0117.17 29h1.53c1.803 0 3.3 1.435 3.3 3.25 0 .88-.351 1.67-.918 2.25.567.58.918 1.37.918 2.25 0 1.815-1.497 3.25-3.3 3.25h-1.532a3.297 3.297 0 01-3.108-2.16 1 1 0 111.88-.68c.174.48.65.84 1.228.84h1.533c.738 0 1.299-.58 1.299-1.25s-.561-1.25-1.3-1.25h-1.532a1 1 0 010-2h1.533c.738 0 1.299-.58 1.299-1.25Zm12.674-1.888a1 1 0 11-1.333 1.49 3.503 3.503 0 10-.334 5.487v-1.875h-2.002a1 1 0 110-2h3.002a1 1 0 011 1v3.357a1 1 0 01-.333.745 5.503 5.503 0 110-8.204Z" clip-rule="evenodd"/></g></svg>';
-  static const String _3g_negative =
+  static const String i_3g_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M0 0v48h48V0H0Zm10 29a3 3 0 013-3h22a3 3 0 013 3v12a3 3 0 01-3 3H13a3 3 0 01-3-3V29Zm22.674 1.362a1 1 0 11-1.333 1.49 3.503 3.503 0 10-.334 5.487v-1.875h-2.002a1 1 0 110-2h3.002a1 1 0 011 1v3.357a1 1 0 01-.333.745 5.503 5.503 0 110-8.204ZM20 32.25c0-.67-.561-1.25-1.3-1.25h-1.532c-.577 0-1.054.36-1.227.84a1 1 0 11-1.882-.68A3.297 3.297 0 0117.17 29h1.53c1.803 0 3.3 1.435 3.3 3.25 0 .88-.351 1.67-.918 2.25.567.58.918 1.37.918 2.25 0 1.815-1.497 3.25-3.3 3.25h-1.532a3.297 3.297 0 01-3.108-2.16 1 1 0 111.88-.68c.174.48.65.84 1.228.84h1.533c.738 0 1.299-.58 1.299-1.25s-.561-1.25-1.3-1.25h-1.532a1 1 0 010-2h1.533c.738 0 1.299-.58 1.299-1.25ZM32.485 5.515a12.001 12.001 0 010 16.97L33.9 23.9a14.001 14.001 0 000-19.8l-1.415 1.415Zm-2.942 6.189a6.001 6.001 0 00-1.3-1.947l1.414-1.414a8 8 0 010 11.314l-1.414-1.414a6 6 0 001.3-6.54Zm-11.086 0a6.001 6.001 0 011.3-1.947l-1.414-1.414a8 8 0 000 11.314l1.414-1.414a6 6 0 01-1.3-6.54Zm-2.942-6.19a12.001 12.001 0 000 16.971L14.1 23.9a14.001 14.001 0 010-19.8l1.415 1.415ZM24 16a2 2 0 100-4 2 2 0 000 4Z" clip-rule="evenodd"/></svg>';
-  static const String _3g_outline =
+  static const String i_3g_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M12.913 9.408a12 12 0 012.602-3.893L14.1 4.1a14 14 0 000 19.799l1.415-1.415a12 12 0 01-2.602-13.077Zm19.572-3.893a12 12 0 010 16.97L33.9 23.9a14 14 0 000-19.8l-1.415 1.415Z"/><path d="M28.243 9.757a6 6 0 010 8.486l1.414 1.414a8 8 0 000-11.314l-1.414 1.414Zm-8.486 0a6 6 0 000 8.486l-1.414 1.414a8 8 0 010-11.314l1.414 1.414ZM26 14a2 2 0 11-4 0 2 2 0 014 0Zm6.674 16.362a1 1 0 11-1.333 1.49 3.502 3.502 0 10-.334 5.487v-1.875h-2.002a1 1 0 010-2h3.002a1 1 0 011 1v3.356a1 1 0 01-.333.746 5.503 5.503 0 110-8.204ZM20 32.25c0-.67-.561-1.25-1.3-1.25h-1.532c-.577 0-1.054.36-1.227.84a1 1 0 11-1.882-.68A3.297 3.297 0 0117.17 29h1.53c1.803 0 3.3 1.435 3.3 3.25 0 .88-.351 1.67-.918 2.25.567.58.918 1.37.918 2.25 0 1.815-1.497 3.25-3.3 3.25h-1.532a3.297 3.297 0 01-3.108-2.16 1 1 0 111.88-.68c.174.48.65.84 1.228.84h1.533c.738 0 1.299-.58 1.299-1.25s-.561-1.25-1.3-1.25h-1.532a1 1 0 010-2h1.533c.738 0 1.299-.58 1.299-1.25Z"/><path fill-rule="evenodd" d="M10 28a3 3 0 013-3h22a3 3 0 013 3v13a3 3 0 01-3 3H13a3 3 0 01-3-3V28Zm2 0a1 1 0 011-1h22a1 1 0 011 1v13a1 1 0 01-1 1H13a1 1 0 01-1-1V28Z" clip-rule="evenodd"/></g></svg>';
-  static const String _4_negative =
+  static const String i_4_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M26 18.606V28h-6.263L26 18.606Z"/><path fill-rule="evenodd" d="M48 0H0v48h48V0ZM30 12a2 2 0 00-3.664-1.11l-12 18A2 2 0 0016 32h10v4a2 2 0 004 0v-4h2a2 2 0 100-4h-2V12Z" clip-rule="evenodd"/></g></svg>';
-  static const String _4_outline =
+  static const String i_4_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M25.504 10.336A3 3 0 0131 12v15h1a3 3 0 110 6h-1v3a3 3 0 11-6 0v-3h-9a3 3 0 01-2.645-1.584l.875-.469-.875.469a3 3 0 01.149-3.08l12-18Zm2.786.707a1 1 0 00-1.122.402l-12 18A1 1 0 0016 31h10a1 1 0 011 1v4a1 1 0 102 0v-4a1 1 0 011-1h2a1 1 0 000-2h-2a1 1 0 01-1-1V12a1 1 0 00-.71-.957Zm-2 6.606a1 1 0 01.71.957V28a1 1 0 01-1 1h-6.263a1 1 0 01-.832-1.554l6.263-9.395a1 1 0 011.122-.402ZM21.606 27H25v-5.09L21.606 27Z" clip-rule="evenodd"/></svg>';
-  static const String _4x4 =
+  static const String i_4x4 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path fill-rule="evenodd" d="M16.736 8.579a3 3 0 013.674-2.122l16.42 4.4a3 3 0 012.122 3.675l-.13.483 2.214.593a1 1 0 01.707 1.224l-.906 3.381a1 1 0 01-1.225.707l-2.213-.593-.416 1.555c.04.072.076.148.108.226l.858 2.14a2 2 0 01.076 1.263l-1.23 4.59a2 2 0 01-2.45 1.414l-5.743-1.54 1.449-5.405a1 1 0 00-.707-1.225l-8.694-2.33a1 1 0 00-1.224.708l-1.45 5.406-6.234-1.67a2 2 0 01-1.414-2.45l1.197-4.47a2 2 0 01.876-1.18l2.292-1.426.085-.05.405-1.509-2.314-.62a1 1 0 01-.707-1.224l.906-3.381a1 1 0 011.225-.707l2.313.62.13-.483Zm3.156-.19a1 1 0 00-1.224.707l-1.553 5.796 18.352 4.918 1.553-5.796a1 1 0 00-.707-1.225l-16.42-4.4Zm-4.624 15.326a1.5 1.5 0 10.777-2.898 1.5 1.5 0 00-.777 2.898Zm19.224 3.598a1.5 1.5 0 11-2.898-.777 1.5 1.5 0 012.898.777Z" clip-rule="evenodd"/><path d="M15 39c0-1.061-.474-2.078-1.318-2.829C12.838 35.421 11.693 35 10.5 35c-1.193 0-2.338.421-3.182 1.171C6.474 36.921 6 37.94 6 39v2a1 1 0 001 1h27.5a1 1 0 100-2H25a2 2 0 00-4 0 3 3 0 00-6 0v-1Zm2.645-10.055-5.796-1.553-.76 2.836a1 1 0 00.707 1.225l3.864 1.035a1 1 0 001.225-.707l.76-2.836Zm10.8 2.941 5.796 1.553-.748 2.792a1 1 0 01-1.225.707l-3.864-1.035a1 1 0 01-.707-1.225l.748-2.792Zm-8.382-4.816 1.036-3.864 2.516.675-1.128 3.839-2.424-.65Zm4.357 1.167 1.127-3.839 2.313.62-1.035 3.864-2.405-.645Z"/></g></svg>';
-  static const String _4x4_negative =
+  static const String i_4x4_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M19.892 8.39a1 1 0 00-1.224.707l-1.553 5.795 18.352 4.918 1.553-5.796a1 1 0 00-.707-1.225l-16.42-4.4Zm-4.624 15.325a1.5 1.5 0 10.777-2.898 1.5 1.5 0 00-.777 2.898Zm19.224 3.598a1.5 1.5 0 11-2.898-.776 1.5 1.5 0 012.898.776Z"/><path fill-rule="evenodd" d="M0 0v48h48V0H0Zm13.682 36.172C14.526 36.922 15 37.939 15 39v1a3 3 0 016 0 2 2 0 014 0h9.5a1 1 0 110 2H7a1 1 0 01-1-1v-2c0-1.06.474-2.078 1.318-2.828C8.162 35.422 9.307 35 10.5 35c1.194 0 2.338.421 3.182 1.172Zm3.054-27.593a3 3 0 013.674-2.121l16.42 4.4a3 3 0 012.122 3.674l-.13.483 2.214.593a1 1 0 01.707 1.224l-.906 3.381a1 1 0 01-1.225.707l-2.213-.593-.416 1.555c.04.073.076.148.108.227l.858 2.14c.16.402.187.844.075 1.262l-1.23 4.59a2 2 0 01-2.449 1.414l-5.743-1.539 1.449-5.406a1 1 0 00-.707-1.225l-8.694-2.33a1 1 0 00-1.225.708l-1.448 5.406-6.235-1.67a2 2 0 01-1.414-2.45l1.197-4.47a2 2 0 01.876-1.18l2.292-1.426.085-.05.405-1.509-2.314-.62a1 1 0 01-.707-1.224l.906-3.381a1 1 0 011.225-.707l2.313.62.13-.483Zm.909 20.366-5.796-1.552-.76 2.835a1 1 0 00.707 1.225l3.864 1.035a1 1 0 001.225-.707l.76-2.835Zm10.8 2.941 5.796 1.553-.748 2.792a1 1 0 01-1.225.707l-3.864-1.035a1 1 0 01-.707-1.225l.748-2.792Zm-8.382-4.816 1.036-3.864 2.515.675-1.127 3.839-2.424-.65Zm4.357 1.168 1.127-3.84 2.313.62-1.035 3.864-2.405-.645Z" clip-rule="evenodd"/></g></svg>';
-  static const String _4x4_outline =
+  static const String i_4x4_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M16.837 22.654a1.5 1.5 0 11-2.898-.776 1.5 1.5 0 012.898.776Zm15.549 5.72a1.5 1.5 0 10.777-2.898 1.5 1.5 0 00-.777 2.898Z"/><path fill-rule="evenodd" d="m13.207 14.953 1.448.388-.132.495-1.685 1.203a3 3 0 00-1.154 1.665l-1.29 4.812a3.001 3.001 0 001.331 3.336l-.904 3.377a1 1 0 00.707 1.224l3.864 1.036a1 1 0 001.224-.707l.873-3.259 9.515 2.55h.002l1.296.348-.873 3.258a1 1 0 00.707 1.224l3.863 1.036a1 1 0 001.225-.707l.955-3.564a3 3 0 002.295-2.163l1.32-4.927a3 3 0 00-.05-1.722l-.718-2.159a3.011 3.011 0 00-.159-.387l.005-.016 1.449.388a2 2 0 002.449-1.414l.906-3.381a2 2 0 00-1.414-2.45l-1.49-.399a3 3 0 00-2.21-3.18l-16.42-4.4a3 3 0 00-3.505 1.649l-1.49-.399a2 2 0 00-2.449 1.414l-.906 3.381a2 2 0 001.415 2.45ZM14.63 9.64l1.449.388-.906 3.38-1.449-.387.906-3.381ZM28.488 29.4l4.83 1.294a1 1 0 001.224-.707l1.32-4.927a1 1 0 00-.017-.574l-.717-2.159a1 1 0 00-.69-.65l-17.47-4.681a1 1 0 00-.84.152L14 18.666a1 1 0 00-.384.555l-1.29 4.813a1 1 0 00.707 1.225l4.83 1.294 1.294-4.83a1 1 0 011.224-.707l8.694 2.33a1 1 0 01.707 1.224l-1.294 4.83Zm-8.693-2.33 2.414.648.669-2.495a1 1 0 011.932.518l-.669 2.494 2.415.647 1.035-3.863-6.761-1.812-1.035 3.864Zm18.5-11.089 1.449.388-.906 3.381-1.449-.388.906-3.381Zm-1.544-1.966a1 1 0 00-.707-1.225l-16.42-4.4a1 1 0 00-1.225.706l-1.553 5.796 18.353 4.918 1.553-5.795Z" clip-rule="evenodd"/><path d="M11 34a5 5 0 00-5 5v2a1 1 0 102 0v-2a3 3 0 016 0v1a1 1 0 102 0 2 2 0 014 0 1 1 0 102 0 1 1 0 012 0v1a1 1 0 001.25.969 1 1 0 00.25.031h9a1 1 0 100-2H26a3 3 0 00-4.8-2.4 4 4 0 00-5.68-.738A4.997 4.997 0 0011 34Z"/></g></svg>';
-  static const String _5_negative =
+  static const String i_5_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M48 0H0v48h48V0ZM32 10a2 2 0 110 4H19.64l-.944 4.72c1.489-.416 3.29-.72 5.304-.72 5.523 0 10 4.477 10 10s-4.477 10-10 10h-2.218c-3.516 0-6.537-2.202-7.663-5.32a2 2 0 013.762-1.36c.557 1.543 2.078 2.68 3.9 2.68H24a6 6 0 000-12c-3.605 0-6.219 1.216-6.89 1.664a2 2 0 01-3.071-2.056l2-10A2 2 0 0118 10h14Z" clip-rule="evenodd"/></svg>';
-  static const String _5_outline =
+  static const String i_5_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M35 12a3 3 0 00-3-3H18a3 3 0 00-2.942 2.412l-2 10a3 3 0 004.606 3.084C18.172 24.158 20.594 23 24 23a5 5 0 010 10h-2.218c-1.4 0-2.546-.871-2.96-2.019a3 3 0 10-5.644 2.038C14.448 36.532 17.842 39 21.782 39H24c6.075 0 11-4.925 11-11s-4.925-11-11-11c-1.456 0-2.807.151-4.018.389L20.459 15H32a3 3 0 003-3Zm-3-1a1 1 0 110 2H19.64a1 1 0 00-.981.804l-.944 4.72a1 1 0 001.25 1.159A18.834 18.834 0 0124 19a9 9 0 110 18h-2.218c-3.093 0-5.738-1.936-6.723-4.66a1 1 0 111.882-.68c.699 1.937 2.595 3.34 4.84 3.34H24a7 7 0 100-14c-3.802 0-6.61 1.275-7.445 1.832a1 1 0 01-1.536-1.028l2-10A1 1 0 0118 11h14Z" clip-rule="evenodd"/></svg>';
-  static const String _6_negative =
+  static const String i_6_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M22.032 26C19.795 26 18 27.8 18 30s1.795 4 4.032 4h3.936C28.205 34 30 32.2 30 30s-1.795-4-4.032-4h-3.936Z"/><path fill-rule="evenodd" d="M48 0H0v48h48V0ZM29.772 16.67A4.033 4.033 0 0025.968 14h-3.936C19.795 14 18 15.8 18 18v5.08A8.022 8.022 0 0122.032 22h3.936C30.394 22 34 25.572 34 30s-3.606 8-8.032 8h-3.936C17.606 38 14 34.428 14 30V18c0-4.428 3.606-8 8.032-8h3.936a8.032 8.032 0 017.573 5.33 2 2 0 01-3.769 1.34Z" clip-rule="evenodd"/></g></svg>';
-  static const String _6_outline =
+  static const String i_6_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M34.484 14.995A9.033 9.033 0 0025.968 9h-3.936C17.06 9 13 13.014 13 18v12c0 4.986 4.06 9 9.032 9h3.936C30.94 39 35 34.986 35 30s-4.06-9-9.032-9h-3.936a9.046 9.046 0 00-3.032.52V18c0-1.642 1.343-3 3.032-3h3.936c1.326 0 2.449.841 2.862 2.005a3 3 0 005.654-2.01ZM25.968 11a7.032 7.032 0 016.631 4.665 1 1 0 11-1.884.67A5.033 5.033 0 0025.968 13h-3.936C19.247 13 17 15.244 17 18v5.08a1 1 0 001.501.865A7.021 7.021 0 0122.032 23h3.936C29.847 23 33 26.13 33 30s-3.153 7-7.032 7h-3.936C18.153 37 15 33.87 15 30V18c0-3.87 3.153-7 7.032-7h3.936Zm0 16C27.657 27 29 28.358 29 30s-1.343 3-3.032 3h-3.936C20.343 33 19 31.642 19 30s1.343-3 3.032-3h3.936ZM31 30c0-2.756-2.247-5-5.032-5h-3.936C19.247 25 17 27.244 17 30s2.247 5 5.032 5h3.936C28.753 35 31 32.756 31 30Z" clip-rule="evenodd"/></svg>';
-  static const String _7_negative =
+  static const String i_7_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M48 0H0v48h48V0ZM16 10a2 2 0 100 4h11.922a73.401 73.401 0 00-4.599 7.369c-2.42 4.444-4.613 9.602-5.302 14.343a2 2 0 003.958.576c.59-4.06 2.531-8.734 4.858-13.006 2.316-4.254 4.918-7.933 6.678-9.977A2 2 0 0032 10H16Z" clip-rule="evenodd"/></svg>';
-  static const String _7_outline =
+  static const String i_7_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M13 12a3 3 0 013-3h16a3 3 0 012.273 4.958c-1.708 1.982-4.27 5.601-6.558 9.802-2.303 4.229-4.18 8.783-4.746 12.672a3 3 0 01-5.938-.864c.715-4.91 2.97-10.19 5.414-14.678a75.281 75.281 0 013.57-5.89H16a3 3 0 01-3-3Zm3-1a1 1 0 100 2h11.922a1 1 0 01.815 1.58 72.375 72.375 0 00-4.535 7.267c-2.397 4.401-4.527 9.439-5.192 14.01a1 1 0 101.98.287c.615-4.23 2.618-9.026 4.968-13.34 2.345-4.307 4.986-8.046 6.8-10.151A1 1 0 0032 11H16Z" clip-rule="evenodd"/></svg>';
-  static const String _8_negative =
+  static const String i_8_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M30 18c0-2.2-1.795-4-4.032-4h-3.936C19.795 14 18 15.8 18 18s1.795 4 4.032 4h3.936C28.205 22 30 20.2 30 18Zm-4.032 8h-3.936C19.795 26 18 27.8 18 30s1.795 4 4.032 4h3.936C28.205 34 30 32.2 30 30s-1.795-4-4.032-4Z"/><path fill-rule="evenodd" d="M48 0H0v48h48V0ZM14 18a7.963 7.963 0 002.72 6A7.963 7.963 0 0014 30c0 4.428 3.606 8 8.032 8h3.936C30.394 38 34 34.428 34 30a7.963 7.963 0 00-2.72-6A7.963 7.963 0 0034 18c0-4.428-3.606-8-8.032-8h-3.936C17.606 10 14 13.572 14 18Z" clip-rule="evenodd"/></g></svg>';
-  static const String _8_outline =
+  static const String i_8_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M35 18c0-4.986-4.06-9-9.032-9h-3.936C17.06 9 13 13.014 13 18a8.95 8.95 0 002.3 6 8.948 8.948 0 00-2.3 6c0 4.986 4.06 9 9.032 9h3.936C30.94 39 35 34.986 35 30a8.95 8.95 0 00-2.3-6 8.947 8.947 0 002.3-6Zm-9.032-7C29.847 11 33 14.13 33 18c0 2.092-.92 3.966-2.38 5.249a1 1 0 000 1.502A6.963 6.963 0 0133 30c0 3.87-3.153 7-7.032 7h-3.936C18.153 37 15 33.87 15 30c0-2.092.92-3.966 2.38-5.249a1 1 0 000-1.502A6.963 6.963 0 0115 18c0-3.87 3.153-7 7.032-7h3.936Zm0 4C27.657 15 29 16.358 29 18s-1.343 3-3.032 3h-3.936C20.343 21 19 19.642 19 18s1.343-3 3.032-3h3.936ZM31 18c0-2.756-2.247-5-5.032-5h-3.936C19.247 13 17 15.244 17 18s2.247 5 5.032 5h3.936C28.753 23 31 20.756 31 18Zm-5.032 9C27.657 27 29 28.358 29 30s-1.343 3-3.032 3h-3.936C20.343 33 19 31.642 19 30s1.343-3 3.032-3h3.936ZM31 30c0-2.756-2.247-5-5.032-5h-3.936C19.247 25 17 27.244 17 30s2.247 5 5.032 5h3.936C28.753 35 31 32.756 31 30Z" clip-rule="evenodd"/></svg>';
-  static const String _9_negative =
+  static const String i_9_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M25.968 22C28.205 22 30 20.2 30 18s-1.795-4-4.032-4h-3.936C19.795 14 18 15.8 18 18s1.795 4 4.032 4h3.936Z"/><path fill-rule="evenodd" d="M48 0H0v48h48V0ZM18.228 31.33A4.033 4.033 0 0022.032 34h3.936C28.205 34 30 32.2 30 30v-5.08A8.022 8.022 0 0125.968 26h-3.936C17.606 26 14 22.428 14 18s3.606-8 8.032-8h3.936C30.394 10 34 13.572 34 18v12c0 4.428-3.606 8-8.032 8h-3.936a8.032 8.032 0 01-7.573-5.33 2 2 0 013.769-1.34Z" clip-rule="evenodd"/></g></svg>';
-  static const String _9_outline =
+  static const String i_9_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M13.516 33.005A9.033 9.033 0 0022.032 39h3.936C30.94 39 35 34.986 35 30V18c0-4.986-4.06-9-9.032-9h-3.936C17.06 9 13 13.014 13 18s4.06 9 9.032 9h3.936A9.045 9.045 0 0029 26.48V30c0 1.642-1.343 3-3.032 3h-3.936a3.033 3.033 0 01-2.862-2.005 3 3 0 00-5.654 2.01ZM22.032 37a7.032 7.032 0 01-6.631-4.665 1 1 0 111.884-.67A5.033 5.033 0 0022.032 35h3.936C28.753 35 31 32.756 31 30v-5.08a1 1 0 00-1.501-.865 7.021 7.021 0 01-3.531.945h-3.936C18.153 25 15 21.87 15 18s3.153-7 7.032-7h3.936C29.847 11 33 14.13 33 18v12c0 3.87-3.153 7-7.032 7h-3.936Zm0-16C20.343 21 19 19.642 19 18s1.343-3 3.032-3h3.936C27.657 15 29 16.358 29 18s-1.343 3-3.032 3h-3.936ZM17 18c0 2.756 2.247 5 5.032 5h3.936C28.753 23 31 20.756 31 18s-2.247-5-5.032-5h-3.936C19.247 13 17 15.244 17 18Z" clip-rule="evenodd"/></svg>';
   static const String a =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M24 10a2 2 0 011.846 1.23l7.483 17.96.035.084 2.482 5.957a2 2 0 01-3.692 1.538L30.167 32H17.833l-1.987 4.77a2 2 0 01-3.692-1.54l2.482-5.956a2.01 2.01 0 01.035-.085l7.483-17.958A2 2 0 0124 10Zm-4.5 18h9L24 17.2 19.5 28Z" clip-rule="evenodd"/></svg>';
@@ -941,7 +942,7 @@ class Healthicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M12.822 33.997c.094.003.204.005.332.005 1.02 0 1.966.232 2.765.762.802.532 1.295 1.256 1.592 1.965.42 1 .498 2.122.512 2.931.174.048.415.1.738.146 1.306.19 3.133.194 5.239.194s3.933-.005 5.24-.194a6.19 6.19 0 00.737-.146c.014-.81.093-1.93.512-2.931.297-.709.79-1.433 1.592-1.965.8-.53 1.745-.762 2.765-.762.128 0 .238-.002.332-.005 0-.091 0-.194-.002-.31-.003-.171-.01-.38-.016-.617-.014-.5-.032-1.122-.032-1.78 0-2.149.79-3.393 1.365-4.3.121-.19.232-.365.325-.53.508-.91 1.182-2.477 1.182-6.736 0-3.916-1.68-6.772-4.213-8.703C31.2 9.048 27.65 8 24 8c-3.65 0-7.2 1.048-9.787 3.021C11.68 12.952 10 15.808 10 19.724c0 4.259.674 5.826 1.182 6.735.092.166.204.341.325.532.575.906 1.365 2.15 1.365 4.3 0 .657-.018 1.28-.032 1.779-.007.237-.013.446-.016.617-.002.116-.002.219-.002.31ZM17.5 33c2.485 0 4.5-2.239 4.5-5s-2.015-5-4.5-5-4.5 2.239-4.5 5 2.015 5 4.5 5Zm9.5 3.276C27 37.17 26.327 38 25.406 38c-.639 0-1.113-.372-1.406-.9-.293.528-.767.9-1.406.9-.921 0-1.594-.83-1.594-1.724C21 34.36 24 33 24 33s3 1.279 3 3.276ZM30.5 33c2.485 0 4.5-2.239 4.5-5s-2.015-5-4.5-5-4.5 2.239-4.5 5 2.015 5 4.5 5Z"/><path d="M48 0H0v48h48V0ZM10.842 32.958c-.07 2.446-.088 3.044 2.312 3.044 2.872 0 2.872 2.57 2.872 4.284S19.898 42 24 42s7.974 0 7.974-1.714c0-1.713 0-4.284 2.872-4.284 2.4 0 2.383-.598 2.312-3.044a55.548 55.548 0 01-.03-1.668c0-1.525.45-2.246.993-3.117.83-1.33 1.879-3.012 1.879-8.45 0-18.298-32-18.298-32 0 0 5.438 1.049 7.12 1.879 8.45.543.871.993 1.592.993 3.117 0 .634-.016 1.187-.03 1.668Z"/></g></svg>';
   static const String death_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M12.822 33.997c.094.003.204.005.332.005 1.02 0 1.966.232 2.765.762.802.532 1.295 1.256 1.592 1.965.42 1 .498 2.122.512 2.931.174.048.415.1.738.146 1.306.19 3.133.194 5.239.194s3.933-.005 5.24-.194a6.19 6.19 0 00.737-.146c.014-.81.093-1.93.512-2.931.297-.709.79-1.433 1.592-1.965.8-.53 1.745-.762 2.765-.762.128 0 .238-.002.332-.005 0-.091 0-.194-.002-.31-.003-.171-.01-.38-.016-.617-.014-.499-.032-1.122-.032-1.78 0-2.149.79-3.393 1.365-4.3.121-.19.232-.365.325-.53.508-.91 1.182-2.477 1.182-6.736 0-3.916-1.68-6.772-4.213-8.703C31.2 9.048 27.65 8 24 8c-3.65 0-7.2 1.048-9.787 3.021C11.68 12.952 10 15.808 10 19.724c0 4.259.674 5.826 1.182 6.735.092.166.204.341.325.532.575.906 1.365 2.15 1.365 4.3 0 .657-.018 1.28-.032 1.779-.007.237-.013.446-.016.617-.002.116-.002.219-.002.31Zm-1.98-1.039c-.07 2.446-.088 3.044 2.312 3.044 2.872 0 2.872 2.57 2.872 4.284S19.898 42 24 42s7.974 0 7.974-1.714c0-1.713 0-4.284 2.872-4.284 2.4 0 2.383-.598 2.312-3.044a55.555 55.555 0 01-.03-1.668c0-1.525.45-2.246.993-3.117.83-1.33 1.879-3.012 1.879-8.45 0-18.298-32-18.298-32 0 0 5.438 1.049 7.12 1.879 8.45.543.871.993 1.592.993 3.117 0 .634-.016 1.187-.03 1.668Z"/><path d="M35.004 27.992c.003 2.762-2.01 5.002-4.496 5.004-2.485.002-4.501-2.235-4.504-4.996-.002-2.761 2.011-5.002 4.496-5.004 2.486-.002 4.502 2.235 4.504 4.996Zm-2 .002c.002 1.86-1.31 3.001-2.497 3.002-1.188.001-2.501-1.137-2.503-2.998-.001-1.86 1.31-3 2.498-3.002 1.188 0 2.5 1.138 2.502 2.998ZM22.001 28c0 2.761-2.014 5-4.5 5-2.485 0-4.5-2.239-4.5-5s2.014-5 4.5-5c2.485 0 4.5 2.239 4.5 5Zm-2 0c0 1.86-1.312 3-2.5 3-1.187 0-2.5-1.14-2.5-3s1.312-3 2.5-3c1.187 0 2.5 1.14 2.5 3Zm3.969 5.008.018-.008.018.008c.247.109 2.982 1.361 2.982 3.268 0 .83-.58 1.604-1.399 1.711a1.498 1.498 0 01-.194.013c-.64 0-1.114-.372-1.407-.9-.293.528-.767.9-1.406.9-.066 0-.131-.004-.194-.013-.82-.107-1.4-.88-1.4-1.711 0-1.827 2.732-3.15 2.982-3.268Zm-1.742 3.14-.001.002v-.001Zm3.52 0 .002.002-.001-.001Z"/></g></svg>';
-  static const String _default =
+  static const String i_default =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M8 9v26a3 3 0 003 3h11.832A9.966 9.966 0 0122 34c0-5.523 4.477-10 10-10 .685 0 1.354.069 2 .2V9a3 3 0 00-3-3H11a3 3 0 00-3 3Zm5 4a1 1 0 100 2h16a1 1 0 100-2H13Zm0 5a1 1 0 100 2h16a1 1 0 100-2H13Zm-1 6a1 1 0 011-1h8a1 1 0 110 2h-8a1 1 0 01-1-1Zm1 4a1 1 0 100 2h5a1 1 0 100-2h-5Z"/><path d="M32 42a8 8 0 100-16 8 8 0 000 16Zm2.567-11.707a1 1 0 011.414 1.414l-.79.791-1.415-1.414.791-.791ZM28 36.86l5.069-5.07 1.414 1.415-5.069 5.069H28V36.86Z"/></g></svg>';
   static const String default_negative =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M13 13a1 1 0 100 2h16a1 1 0 100-2H13Zm0 5a1 1 0 100 2h16a1 1 0 100-2H13Zm-1 6a1 1 0 011-1h8a1 1 0 110 2h-8a1 1 0 01-1-1Zm1 4a1 1 0 100 2h5a1 1 0 100-2h-5Zm22.981 2.293a1 1 0 00-1.414 0l-.791.79 1.414 1.415.791-.79a1 1 0 000-1.415Zm-2.912 1.497L28 36.86v1.414h1.414l5.07-5.069-1.415-1.414Z"/><path fill-rule="evenodd" d="M0 0h48v48H0V0Zm8 9v26a3 3 0 003 3h11.832A9.966 9.966 0 0122 34c0-5.523 4.477-10 10-10 .685 0 1.354.069 2 .2V9a3 3 0 00-3-3H11a3 3 0 00-3 3Zm32 25a8 8 0 11-16 0 8 8 0 0116 0Z" clip-rule="evenodd"/></g></svg>';
@@ -3507,46 +3508,46 @@ class Healthicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M0 0h48v48H0V0Zm13.928 9.048a8.748 8.748 0 00-1.56 1.948l-1.736-.992a10.736 10.736 0 011.94-2.427C13.43 6.787 14.624 6 16 6h17v2h-8v6h4a2 2 0 012 2v3h1a5 5 0 015 5v16a2 2 0 01-2 2H13a2 2 0 01-2-2V24a5 5 0 015-5h1v-3a2 2 0 012-2h4V8h-7c-.624 0-1.346.38-2.072 1.048ZM18 29h5v-5h2v5h5v2h-5v5h-2v-5h-5v-2Z" clip-rule="evenodd"/></svg>';
   static const String sanitizer_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><g fill="currentColor"><path d="M25 29h5v2h-5v5h-2v-5h-5v-2h5v-5h2v5Z"/><path fill-rule="evenodd" d="M13.927 9.048a8.75 8.75 0 00-1.559 1.948l-1.736-.992a10.74 10.74 0 011.94-2.427C13.43 6.787 14.624 6 16 6h17v2h-8v6h4a2 2 0 012 2v2h1a6 6 0 016 6v15a3 3 0 01-3 3H13a3 3 0 01-3-3V24a6 6 0 016-6h1v-2a2 2 0 012-2h4V8h-7c-.624 0-1.346.38-2.073 1.048ZM12 24a4 4 0 014-4h16a4 4 0 014 4v15a1 1 0 01-1 1H13a1 1 0 01-1-1V24Zm17-8v2H19v-2h10Z" clip-rule="evenodd"/></g></svg>';
-  List iconsList = [
-    _0,
-    _1,
-    _2,
-    _3,
-    _4,
-    _5,
-    _6,
-    _7,
-    _8,
-    _9,
-    _0_negative,
-    _0_outline,
-    _1_negative,
-    _1_outline,
-    _2_negative,
-    _2_outline,
-    _2g,
-    _2g_negative,
-    _2g_outline,
-    _3_negative,
-    _3_outline,
-    _3g,
-    _3g_negative,
-    _3g_outline,
-    _4_negative,
-    _4_outline,
-    _4x4,
-    _4x4_negative,
-    _4x4_outline,
-    _5_negative,
-    _5_outline,
-    _6_negative,
-    _6_outline,
-    _7_negative,
-    _7_outline,
-    _8_negative,
-    _8_outline,
-    _9_negative,
-    _9_outline,
+  static const List iconsList = [
+    i_0,
+    i_1,
+    i_2,
+    i_3,
+    i_4,
+    i_5,
+    i_6,
+    i_7,
+    i_8,
+    i_9,
+    i_0_negative,
+    i_0_outline,
+    i_1_negative,
+    i_1_outline,
+    i_2_negative,
+    i_2_outline,
+    i_2g,
+    i_2g_negative,
+    i_2g_outline,
+    i_3_negative,
+    i_3_outline,
+    i_3g,
+    i_3g_negative,
+    i_3g_outline,
+    i_4_negative,
+    i_4_outline,
+    i_4x4,
+    i_4x4_negative,
+    i_4x4_outline,
+    i_5_negative,
+    i_5_outline,
+    i_6_negative,
+    i_6_outline,
+    i_7_negative,
+    i_7_outline,
+    i_8_negative,
+    i_8_outline,
+    i_9_negative,
+    i_9_outline,
     a,
     a_negative,
     a_outline,
@@ -3979,7 +3980,7 @@ class Healthicons {
     death_alt2_outline,
     death_negative,
     death_outline,
-    _default,
+    i_default,
     default_negative,
     default_outline,
     defibrilator,

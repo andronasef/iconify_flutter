@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/uis
 class Uis {
   static const String airplay =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12.8 13.4c-.1-.1-.1-.2-.2-.2-.5-.3-1.1-.2-1.5.2l-4 6c0 .2-.1.4-.1.6 0 .6.4 1 1 1h8c.2 0 .4-.1.6-.2.5-.3.6-.9.3-1.4l-4.1-6zM19 3H5C3.3 3 2 4.3 2 6v9c0 1.7 1.3 3 3 3h.8c.6 0 1-.4 1-1s-.4-1-1-1H5c-.6 0-1-.4-1-1V6c0-.6.4-1 1-1h14c.6 0 1 .4 1 1v9c0 .6-.4 1-1 1h-.8c-.6 0-1 .4-1 1s.4 1 1 1h.8c1.7 0 3-1.3 3-3V6c0-1.7-1.3-3-3-3z"/></svg>';
@@ -377,7 +378,7 @@ class Uis {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 21c0 .6.4 1 1 1h5V10H2v11zm14 1h5c.6 0 1-.4 1-1V10h-6v12zm-6 0h4V10h-4v12zM21 2H3c-.6 0-1 .4-1 1v5h20V3c0-.6-.4-1-1-1z"/></svg>';
   static const String wrap_text =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M3 7.2h18c.6 0 1-.4 1-1s-.4-1-1-1H3c-.6 0-1 .4-1 1s.4 1 1 1zm6 8H3c-.6 0-1 .4-1 1s.4 1 1 1h6c.6 0 1-.4 1-1s-.4-1-1-1zm9.5-5H3c-.6 0-1 .4-1 1s.4 1 1 1h15.5c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.5 1.5h-2.8c.3-.4.4-.9 0-1.3s-1-.5-1.4-.1l-2 1.7-.1.1c-.4.4-.3 1.1.1 1.4l2 1.7c.2.1.4.2.6.2.3 0 .6-.1.8-.4.3-.4.3-.9 0-1.3h2.8c1.9 0 3.5-1.6 3.5-3.5s-1.6-3.5-3.5-3.5z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     airplay,
     align_alt,
     align_center,

@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/il
 class Il {
   static const String add_user =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="680" height="850" preserveAspectRatio="xMidYMid meet" viewBox="0 0 680 850"><path fill="currentColor" d="M535 518q27 13 42 34t21 44 8 43 0 31-8 16q-14 12-34 21t-44 16-49 11l-49 8q-56 7-118 8-63-1-119-8-24-3-49-8t-48-11-44-16-35-21q-6-5-7.5-15.5T1 639t8-43 21-44 42-34l62-28q29-13 52-28t35-35 13-48v-6q-17-14-25-33l-23-54q-18-20-27-37-8-14-8-26t17-12q-6-38-3-68 2-25 12-46t36-21q5-19 17-34 11-13 31-24t53-10q30 0 49 13t33 30 23 33 20 23q4 2 7 5t0 8q-4 14-8 41t1 50q18 1 17 12t-10 26q-10 17-28 37-7 18-11 31t-9 24-10 17-15 15v6q0 29 13 48t36 35 51 28 62 28zM663 78q11 0 11 11v23q0 12-11 12h-58v58q0 5-3 8t-9 4h-23q-5 0-8-4t-4-8v-58h-57q-12 0-12-12V89q0-11 12-11h57V20q0-5 4-9t8-3h23q12 0 12 12v58h58z"/></svg>';
@@ -167,7 +168,7 @@ class Il {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="850" preserveAspectRatio="xMidYMid meet" viewBox="0 0 750 850"><path fill="currentColor" d="M371 8q76 0 144 29t118 79 79 118 29 145-29 144-79 118-118 80-144.5 29T227 721t-118-80-80-118T0 379t29-145 80-118 118-79T371 8zM93 379q0 49 16 93t45 80 68 61 85 36q-13-19-9-35 5-20 25-40t44-29.5 41-23.5 17-23-23-24-58-22q-17-5-32-14t-28-20-21-23-12-24q-5-24-18-31t-27.5 7.5T178 372t-19 10 2-20 21-49 21-53 2-28-21-9-37-3q-3 0-4-1-24 35-37 75t-13 85zm512 150q20-32 32-70t12-80q0-36-9-70t-25-63q-1 3-5 9-9 14-26 34t-31.5 34.5T531 338t-2-14-8-21-38-2-47 15-34 20-10 23 10 23 27 10 31-10 28-10 18 10 2 33-13 48q-10 24-3 38t25 9 43 0 45 19z"/></svg>';
   static const String youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="790" preserveAspectRatio="xMidYMid meet" viewBox="0 0 840 790"><path fill="currentColor" d="M422 2q101 0 171 4t116 16 71 33 37 57 15 86 2 121l-2 121q-1 50-15 86t-37 56-71 34-116 16-171 4-171-4-116-16-71-34-37-56-14-86-3-121 3-121 14-86 37-57 71-33T251 6t171-4zm132 331q12-6 12-14t-12-14l-185-86q-12-6-20-1t-9 20v162q0 14 9 19t20 0z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     add_user,
     arrow_down,
     arrow_left,

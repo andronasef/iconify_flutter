@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/uit
 class Uit {
   static const String adobe_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9.917 2.224A.5.5 0 009.5 2h-8a.5.5 0 00-.5.5v19a.5.5 0 00.96.194l8-19a.504.504 0 00-.043-.47zM2 19.024V3h6.747L2 19.024zM22.5 2h-8a.5.5 0 00-.46.694l8 19A.5.5 0 0023 21.5v-19a.5.5 0 00-.5-.5zM22 19.024 15.253 3H22v16.024zm-9.532-9.7A.498.498 0 0012.003 9H12a.5.5 0 00-.466.318l-3.5 9A.5.5 0 008.5 19h3.191l1.362 2.724A.5.5 0 0013.5 22h3a.5.5 0 00.468-.676l-4.5-12zM13.808 21l-1.36-2.724A.501.501 0 0012 18H9.23l2.761-7.099L15.778 21h-1.97z"/></svg>';
@@ -427,7 +428,7 @@ class Uit {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2.5 7h19a.5.5 0 000-1h-19a.5.5 0 000 1zM19 11H2.5a.5.5 0 000 1H19a2 2 0 010 4h-5.074l1.386-1.11a.5.5 0 10-.624-.78l-2.5 2c-.011.008-.02.019-.03.028a.538.538 0 00-.02.02c-.009.01-.02.018-.028.029-.014.018-.019.039-.03.058a.48.48 0 00-.047.09.45.45 0 00-.02.102c-.003.021-.013.04-.013.063 0 .01.005.017.005.026.002.036.012.068.02.102.009.03.015.06.028.087.013.027.033.05.051.076a.49.49 0 00.065.078c.008.006.01.016.019.022l2.5 2a.502.502 0 00.703-.079.5.5 0 00-.078-.703L13.925 17H19a3 3 0 100-6zm-9.5 5h-7a.5.5 0 000 1h7a.5.5 0 000-1z"/></svg>';
   static const String youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m14.792 10.775-3.668-2.112A1.417 1.417 0 009 9.89v4.222c-.003.506.267.974.706 1.224a1.41 1.41 0 001.419.002l3.667-2.112a1.413 1.413 0 000-2.45zm-.5 1.582-3.666 2.113a.414.414 0 01-.419 0 .408.408 0 01-.207-.36V9.89a.408.408 0 01.207-.359.402.402 0 01.418 0l3.667 2.113a.41.41 0 010 .714zM19 4H5a3.003 3.003 0 00-3 3v10a3.003 3.003 0 003 3h14a3.003 3.003 0 003-3V7a3.003 3.003 0 00-3-3zm2 13a2.003 2.003 0 01-2 2H5a2.003 2.003 0 01-2-2V7a2.003 2.003 0 012-2h14a2.003 2.003 0 012 2v10z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     adobe_alt,
     airplay,
     align_alt,

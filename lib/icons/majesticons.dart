@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/majesticons
 class Majesticons {
   static const String academic_cap =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M11.514 3.126a1 1 0 01.972 0l9 5A1 1 0 0122 9v7a1 1 0 11-2 0v-5.3l-1 .555v.004l-6.067 3.016a2 2 0 01-1.848-.035L2.357 9.479a1 1 0 00-.284-.103 1 1 0 01.441-1.25l9-5zM5 13.199V17a1 1 0 00.553.894l6 3a1 1 0 00.894 0l6-3A1 1 0 0019 17v-3.256l-6.083 2.844a2 2 0 01-1.805-.056L5 13.2z" clip-rule="evenodd"/></svg>';
@@ -1087,7 +1088,7 @@ class Majesticons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M20.156 6.473a2.639 2.639 0 00-2.63-2.629C15.049 3.817 9.909 4.193 6.5 7.6c-2.796 2.796-2.915 7.3-.157 10.057 2.758 2.758 7.26 2.639 10.057-.157 3.407-3.408 3.783-8.548 3.756-11.027zm-4.62 1.991a1 1 0 010 1.415l-.978.977.587.195a1 1 0 01-.633 1.898l-1.535-.512-1.247 1.247.586.196a1 1 0 01-.632 1.897l-1.173-.39a3.01 3.01 0 01-.344-.14l-2.41 2.41-3.121 3.121a1 1 0 01-1.414-1.414l3.121-3.121 2.41-2.41a3.009 3.009 0 01-.14-.344l-.39-1.173a1 1 0 011.897-.632l.196.586 1.247-1.247-.512-1.535a1 1 0 011.898-.633l.195.587.977-.978a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>';
   static const String leaf_3_angled_line =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7.05 16.95c2.343 2.343 6.213 2.273 8.643-.157 3.1-3.1 3.49-7.869 3.463-10.309a1.64 1.64 0 00-1.64-1.64c-2.44-.026-7.208.363-10.309 3.463-2.43 2.43-2.5 6.3-.157 8.643zm0 0-2.12 2.12m2.12-2.12 5.657-5.657m2.121-2.121-2.12 2.12m0 0 2.12.708m-2.12-.707L12 9.172m0 5.656-1.173-.39a2 2 0 01-1.265-1.265L9.172 12"/></svg>';
-  static const String _library =
+  static const String i_library =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M11.514 3.126a1 1 0 01.972 0l9 5A1 1 0 0121 10v9a1 1 0 110 2H3a1 1 0 110-2v-9a1 1 0 01-.486-1.874l9-5zM9 13a1 1 0 10-2 0v3a1 1 0 102 0v-3zm4 0a1 1 0 10-2 0v3a1 1 0 102 0v-3zm4 0a1 1 0 10-2 0v3a1 1 0 102 0v-3z" clip-rule="evenodd"/></svg>';
   static const String library_line =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 9v11M4 9h16M4 9H3l9-5 9 5h-1M4 20h16M4 20H3m17 0V9m0 11h1M8 13v3m4 0v-3m4 0v3"/></svg>';
@@ -2089,7 +2090,7 @@ class Majesticons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M2 11a9 9 0 1116.032 5.618l3.675 3.675a1 1 0 01-1.414 1.414l-3.675-3.675A9 9 0 012 11zm6-1a1 1 0 100 2h6a1 1 0 100-2H8z" clip-rule="evenodd"/></svg>';
   static const String zoom_out_line =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M4 11a7 7 0 1114 0 7 7 0 01-14 0zm7-9a9 9 0 105.618 16.032l3.675 3.675a1 1 0 001.414-1.414l-3.675-3.675A9 9 0 0011 2zm-3 8a1 1 0 100 2h6a1 1 0 100-2H8z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     academic_cap,
     academic_cap_line,
     add_column,
@@ -2634,7 +2635,7 @@ class Majesticons {
     laptop_line,
     leaf_3_angled,
     leaf_3_angled_line,
-    _library,
+    i_library,
     library_line,
     lidquid_drop_waves_2,
     lidquid_drop_waves_2_line,

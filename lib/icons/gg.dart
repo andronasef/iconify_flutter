@@ -1,5 +1,6 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/gg
 class Gg {
-  static const String _abstract =
+  static const String i_abstract =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="M5 5h14v14h-3V8H5V5Z"/><path fill-rule="evenodd" d="M10 19a5 5 0 100-10 5 5 0 000 10Zm0-3a2 2 0 100-4 2 2 0 000 4Z" clip-rule="evenodd"/></g></svg>';
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12Zm10-8a8 8 0 100 16 8 8 0 000-16Z"/><path d="M13 7a1 1 0 10-2 0v4H7a1 1 0 100 2h4v4a1 1 0 102 0v-4h4a1 1 0 100-2h-4V7Z"/></g></svg>';
@@ -549,9 +550,9 @@ class Gg {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M14.673 17.438a6.002 6.002 0 01-6.819-1.234l14.01-6.533a10.047 10.047 0 00-.663-1.897C18.867 2.768 12.917.603 7.91 2.937 2.907 5.27.742 11.22 3.076 16.227c2.334 5.005 8.284 7.17 13.289 4.836a9.974 9.974 0 005.317-6.077h-4.339a5.972 5.972 0 01-2.669 2.452ZM9.602 6.562a6.002 6.002 0 00-3.438 6.017l10.257-4.783a6.002 6.002 0 00-6.819-1.234Z" clip-rule="evenodd"/></svg>';
   static const String expand =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m12.306 16.593-.035 2-6.999-.122.123-7 2 .036-.063 3.585 7.894-7.624-3.532-.061.035-2 6.999.122-.123 7-2-.036.064-3.638-7.948 7.676 3.585.062Z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="m16.95 5.968-1.414 1.414L13 4.846v12.196h-2V4.847L8.465 7.382 7.05 5.968 12 1.018l4.95 4.95Z"/><path d="M5 20.982v-10h4v-2H3v14h18v-14h-6v2h4v10H5Z"/></g></svg>';
-  static const String _extension =
+  static const String i_extension =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M13 3h8v8h-8V3Zm2 2h4v4h-4V5Z"/><path d="M17 21v-8h-6V7H3v14h14ZM9 9H5v4h4V9ZM5 19v-4h4v4H5Zm6 0v-4h4v4h-4Z"/></g></svg>';
   static const String extension_add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="M16 4h2v2h2v2h-2v2h-2V8h-2V6h2V4Z"/><path fill-rule="evenodd" d="M12 12V6H4v14h14v-8h-6ZM6 8h4v4H6V8Zm4 6v4H6v-4h4Zm6 0v4h-4v-4h4Z" clip-rule="evenodd"/></g></svg>';
@@ -559,7 +560,7 @@ class Gg {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M5 5v14h8v-6h6V5H5Zm6 2H7v4h4V7Zm0 6H7v4h4v-4Zm2-2h4V7h-4v4Z" clip-rule="evenodd"/></svg>';
   static const String extension_remove =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path fill-rule="evenodd" d="M12 11V5H4v14h14v-8h-6ZM6 7h4v4H6V7Zm4 6v4H6v-4h4Zm6 0v4h-4v-4h4Z" clip-rule="evenodd"/><path d="M20 7h-6v2h6V7Z"/></g></svg>';
-  static const String _external =
+  static const String i_external =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="M15.64 7.025h-3.622v-2h7v7h-2v-3.55l-4.914 4.914-1.414-1.414 4.95-4.95Z"/><path d="M10.982 6.975h-6v12h12v-6h-2v4h-8v-8h4v-2Z"/></g></svg>';
   static const String eye =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M16 12a4 4 0 11-8 0 4 4 0 018 0Zm-2 0a2 2 0 11-4 0 2 2 0 014 0Z"/><path d="M12 3c5.591 0 10.29 3.824 11.622 9-1.332 5.176-6.03 9-11.622 9S1.71 17.176.378 12C1.71 6.824 6.408 3 12 3Zm0 16c-4.476 0-8.269-2.942-9.543-7C3.731 7.942 7.524 5 12 5c4.476 0 8.269 2.942 9.543 7-1.274 4.058-5.067 7-9.543 7Z"/></g></svg>';
@@ -691,7 +692,7 @@ class Gg {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M10 5h4v14h-4V5ZM5 19v-9h4v9H5ZM7 5a2 2 0 100 4 2 2 0 000-4Zm8 0h4v4h-4V5Zm4 5h-4v4h4v-4Z"/></svg>';
   static const String image =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M7 7a3 3 0 100 6 3 3 0 000-6Zm-1 3a1 1 0 112 0 1 1 0 01-2 0Z"/><path d="M3 3a3 3 0 00-3 3v12a3 3 0 003 3h18a3 3 0 003-3V6a3 3 0 00-3-3H3Zm18 2H3a1 1 0 00-1 1v12a1 1 0 001 1h4.314l6.878-6.879a3 3 0 014.243 0L22 15.686V6a1 1 0 00-1-1Zm0 14H10.142l5.465-5.464a1 1 0 011.414 0l4.886 4.886A1 1 0 0121 19Z"/></g></svg>';
-  static const String _import =
+  static const String i_import =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="M5 9.982v10h14v-10h-4v-2h6v14H3v-14h6v2H5Z"/><path d="M13 2h-2v12.053l-2.535-2.536-1.415 1.415 4.95 4.95 4.95-4.95-1.414-1.415L13 14.053V2Z"/></g></svg>';
   static const String inbox =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M2 5a3 3 0 013-3h14a3 3 0 013 3v15a2 2 0 01-2 2H8.148a2.006 2.006 0 01-.148.005H4a2 2 0 01-2-2V5Zm3-1h14a1 1 0 011 1v9h-4a2 2 0 00-2 2v1h-4v-.995a2 2 0 00-2-2H4V5a1 1 0 011-1Z" clip-rule="evenodd"/></svg>';
@@ -1257,7 +1258,7 @@ class Gg {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M23 4H10v7h13V4Zm0 9v7H10v-7h13ZM8 13v7H1v-7h7Zm-7-2V4h7v7H1Z"/></svg>';
   static const String swiss =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M3 3v18h18V3H3Zm11 4h-4v3H7v4h3v3h4v-3h3v-4h-3V7Z" clip-rule="evenodd"/></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M4.56 10.642 6.355 3.95l1.9 1.9a9.004 9.004 0 0111.156 1.256l-1.414 1.415a7.003 7.003 0 00-8.28-1.21l1.537 1.538-6.692 1.793Zm14.88 2.716-1.794 6.692-1.9-1.9A9.003 9.003 0 014.59 16.894l1.414-1.415a7.003 7.003 0 008.28 1.21l-1.537-1.538 6.692-1.793Z"/></svg>';
   static const String tab =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M19 4a3 3 0 013 3v10a3 3 0 01-3 3H5a3 3 0 01-3-3V7a3 3 0 013-3h14Zm1 5.625h-7c-.552 0-1.156-.42-1.348-.938L10.654 6H5a1 1 0 00-1 1v10a1 1 0 001 1h14a1 1 0 001-1V9.625Z" clip-rule="evenodd"/></svg>';
@@ -1407,8 +1408,8 @@ class Gg {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M15.343 15.243a6 6 0 10-8.485-8.486 6 6 0 008.485 8.486Zm1.414-9.9a8.001 8.001 0 01.662 10.565c.016.013.03.027.046.042l4.242 4.242a1 1 0 01-1.414 1.415l-4.243-4.243a.99.99 0 01-.042-.045A8.001 8.001 0 015.444 5.343a8 8 0 0111.313 0ZM10.1 7h2v3h3v2h-3v3h-2v-3h-3v-2h3V7Z" clip-rule="evenodd"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M15.343 15.243a6 6 0 10-8.485-8.486 6 6 0 008.485 8.486Zm1.414-9.9a8.001 8.001 0 01.662 10.565c.016.013.03.027.046.042l4.242 4.242a1 1 0 01-1.414 1.415l-4.243-4.243a.99.99 0 01-.042-.045A8.001 8.001 0 015.444 5.343a8 8 0 0111.313 0ZM7.101 10v2h8v-2h-8Z" clip-rule="evenodd"/></svg>';
-  List iconsList = [
-    _abstract,
+  static const List iconsList = [
+    i_abstract,
     add,
     add_r,
     adidas,
@@ -1683,12 +1684,12 @@ class Gg {
     euro,
     eventbrite,
     expand,
-    _export,
-    _extension,
+    i_export,
+    i_extension,
     extension_add,
     extension_alt,
     extension_remove,
-    _external,
+    i_external,
     eye,
     eye_alt,
     facebook,
@@ -1754,7 +1755,7 @@ class Gg {
     icecream,
     if_design,
     image,
-    _import,
+    i_import,
     inbox,
     indie_hackers,
     infinity,
@@ -2037,7 +2038,7 @@ class Gg {
     swap_vertical,
     sweden,
     swiss,
-    _sync,
+    i_sync,
     tab,
     tag,
     tally,

@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/eva
 class Eva {
   static const String activity_fill =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14.33 20h-.21a2 2 0 01-1.76-1.58L9.68 6l-2.76 6.4A1 1 0 016 13H3a1 1 0 010-2h2.34l2.51-5.79a2 2 0 013.79.38L14.32 18l2.76-6.38A1 1 0 0118 11h3a1 1 0 010 2h-2.34l-2.51 5.79A2 2 0 0114.33 20Z"/></svg>';
@@ -979,7 +980,7 @@ class Eva {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="12" cy="19" r="1" fill="currentColor"/><path fill="currentColor" d="m12.44 11-1.9-1.89-2.46-2.44-1.55-1.55-1.82-1.83a1 1 0 00-1.42 1.42l1.38 1.37 1.46 1.46 2.23 2.24 1.55 1.54 2.74 2.74 2.79 2.8 3.85 3.85a1 1 0 001.42 0 1 1 0 000-1.42Zm9.28-3.07A13.93 13.93 0 0012 4a14.1 14.1 0 00-4.44.73l1.62 1.62a11.89 11.89 0 0111.16 3 1 1 0 00.69.28 1 1 0 00.72-.31 1 1 0 00-.03-1.39ZM3.82 6.65a14.32 14.32 0 00-1.54 1.28 1 1 0 001.38 1.44 13.09 13.09 0 011.6-1.29ZM17 13.14a1 1 0 00.71.3 1 1 0 00.72-1.69A9 9 0 0012 9h-.16l2.35 2.35A7 7 0 0117 13.14Zm-9.57-2.88a8.8 8.8 0 00-1.9 1.49A1 1 0 007 13.14a7.3 7.3 0 012-1.41Zm1.1 5.14a1 1 0 101.39 1.44 3.06 3.06 0 013.84-.25l-2.52-2.52a5 5 0 00-2.71 1.33Z"/></svg>';
   static const String wifi_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="12" cy="19" r="1" fill="currentColor"/><path fill="currentColor" d="M12 14a5 5 0 00-3.47 1.4 1 1 0 101.39 1.44 3.08 3.08 0 014.16 0 1 1 0 101.39-1.44A5 5 0 0012 14Zm0-5a9 9 0 00-6.47 2.75A1 1 0 007 13.14a7 7 0 0110.08 0 1 1 0 00.71.3 1 1 0 00.72-1.69A9 9 0 0012 9Z"/><path fill="currentColor" d="M21.72 7.93a14 14 0 00-19.44 0 1 1 0 001.38 1.44 12 12 0 0116.68 0 1 1 0 00.69.28 1 1 0 00.72-.31 1 1 0 00-.03-1.41Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     activity_fill,
     activity_outline,
     alert_circle_fill,

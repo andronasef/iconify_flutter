@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/nimbus
 class Nimbus {
   static const String accordion =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.75 5.9V3.49L11 2.5 9.44 3 8 2.51 6.57 3 5 2.5l-2.82.75a1.24 1.24 0 00-.93 1.2V5.9A1.25 1.25 0 000 7.15v1.5A1.25 1.25 0 001.25 9.9v1.65a1.24 1.24 0 00.93 1.2L5 13.5l1.57-.45 1.43.44 1.43-.44 1.57.45 3.75-1V9.9A1.25 1.25 0 0016 8.65v-1.5a1.25 1.25 0 00-1.25-1.25zm-11 6-1.25-.35v-7.1l1.25-.33zm1.25.3V3.8l1 .27v7.86zm2.21-.26V4.06L8 3.82l.79.24v7.88l-.79.24zm2.84 0V4.07L11 3.8v8.4zm3.45-.38-1.25.33V4.12l1.25.33z"/></svg>';
@@ -267,7 +268,7 @@ class Nimbus {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.25 1.5H1.75A1.25 1.25 0 00.5 2.75v1.11a1.85 1.85 0 011.25-.48v-.63h12.5v.63a1.85 1.85 0 011.25.48V2.75a1.25 1.25 0 00-1.25-1.25zm0 2.5H1.75A1.25 1.25 0 00.5 5.25v1.11a1.85 1.85 0 011.25-.48v-.63h12.5v.63a1.85 1.85 0 011.25.48V5.25A1.25 1.25 0 0014.25 4zm0 2.5H10.5A2.43 2.43 0 018 8.84 2.43 2.43 0 015.5 6.5H1.75A1.25 1.25 0 00.5 7.75v5.5a1.25 1.25 0 001.25 1.25h12.5a1.25 1.25 0 001.25-1.25v-5.5a1.25 1.25 0 00-1.25-1.25zm0 6.75H1.75v-5.5h2.73A3.76 3.76 0 008 10.09a3.75 3.75 0 003.52-2.34h2.73z"/></svg>';
   static const String whatsapp =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M11.42 9.49c-.19-.09-1.1-.54-1.27-.61s-.29-.09-.42.1-.48.6-.59.73-.21.14-.4 0a5.13 5.13 0 01-1.49-.92 5.25 5.25 0 01-1-1.29c-.11-.18 0-.28.08-.38s.18-.21.28-.32a1.39 1.39 0 00.18-.31.38.38 0 000-.33c0-.09-.42-1-.58-1.37s-.3-.32-.41-.32h-.4a.72.72 0 00-.5.23 2.1 2.1 0 00-.65 1.55A3.59 3.59 0 005 8.2 8.32 8.32 0 008.19 11c.44.19.78.3 1.05.39a2.53 2.53 0 001.17.07 1.93 1.93 0 001.26-.88 1.67 1.67 0 00.11-.88c-.05-.07-.17-.12-.36-.21z"/><path fill="currentColor" d="M13.29 2.68A7.36 7.36 0 008 .5a7.44 7.44 0 00-6.41 11.15l-1 3.85 3.94-1a7.4 7.4 0 003.55.9H8a7.44 7.44 0 005.29-12.72zM8 14.12a6.12 6.12 0 01-3.15-.87l-.22-.13-2.34.61.62-2.28-.14-.23a6.18 6.18 0 019.6-7.65 6.12 6.12 0 011.81 4.37A6.19 6.19 0 018 14.12z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     accordion,
     align_center,
     align_left,

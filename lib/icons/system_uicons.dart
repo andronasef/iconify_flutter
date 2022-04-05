@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/system-uicons
 class SystemUicons {
   static const String airplay =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m6.5 14.5-1-.035c-1.102-.003-2-.932-2-2.034V6.465a2 2 0 012-2l10-.002a2 2 0 012 2v6.002a2 2 0 01-2 2l-1 .037"/><path d="m10.5 13.5-3 3h6z"/></g></svg>';
@@ -305,7 +306,7 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M18.51 1.51H2.49m16.02 18H2.49m4.006-5.992 4 4 4.015-4m-8.015-6 4-4 4.015 4M10.51 17.51v-14"/></svg>';
   static const String expand_width =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M1.5 2.5v16.021M19.5 2.5v16.021m-5.993-4.006 4-4-4-4.015m-6 8.015-4-4 4-4.015m9.993 4h-14"/></svg>';
-  static const String _external =
+  static const String i_external =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M18.5 8.5v-5h-5m5 0-7 7m-1-7h-5a2 2 0 00-2 2v10a2 2 0 002 2h11a2 2 0 002-2v-4"/></svg>';
   static const String eye =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 16c3.13 0 5.963-1.833 8.5-5.5C16.463 6.833 13.63 5 10.5 5S4.537 6.833 2 10.5c2.537 3.667 5.37 5.5 8.5 5.5z"/><path d="M10.5 7c.185 0 .366.014.543.042a2.5 2.5 0 002.915 2.916A3.5 3.5 0 1110.5 7z"/></g></svg>';
@@ -423,7 +424,7 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m1.5 10.5 9-9 9 9"/><path d="M3.5 8.5v7a2 2 0 002 2h10a2 2 0 002-2v-7"/><path d="m7.5 11.5 2 2 4-4"/></g></svg>';
   static const String home_door =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m1.5 10.5 9-9 9 9"/><path d="M3.5 8.5v8a1 1 0 001 1h3a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1h3a1 1 0 001-1v-8"/></g></svg>';
-  static const String _import =
+  static const String i_import =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 3.5h-4a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-10"/><path d="m13.5 10.5-3 3-3-3"/><path d="M17.5 3.5h-4a3 3 0 00-3 3v7"/></g></svg>';
   static const String inbox =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M6.16 4.5h8.68a1 1 0 01.92.606L18.5 11.5v4a2 2 0 01-2 2h-12a2 2 0 01-2-2v-4l2.74-6.394a1 1 0 01.92-.606z"/><path d="M2.5 11.5h4a1 1 0 011 1v1a1 1 0 001 1h4a1 1 0 001-1v-1a1 1 0 011-1h4"/></g></svg>';
@@ -707,7 +708,7 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="8"/><circle cx="10.5" cy="10.5" r="4"/><path d="M13.5 7.5 16 5m-2.5 8.5L16 16m-8.5-2.5L5 16m2.5-8.5L5 5"/></g></svg>';
   static const String swap =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M13 8h5V3"/><path d="M18 8c-2.837-3.333-5.67-5-8.5-5S4.17 4 2 6m4.5 5.5h-5v5"/><path d="M1.5 11.5c2.837 3.333 5.67 5 8.5 5s5.33-1 7.5-3"/></g></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" transform="translate(6 3)"><path d="M1.5.5h6a1 1 0 011 1v12a1 1 0 01-1 1h-6a1 1 0 01-1-1v-12a1 1 0 011-1z"/><circle cx="4.5" cy="4" r="1.5"/><path d="M.5 7.5h8m-4 2v3"/></g></svg>';
   static const String table =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m17.498 15.498-.01-10a2 2 0 00-2-1.998h-10a2 2 0 00-1.995 1.85l-.006.152.01 10a2 2 0 002 1.998h10a2 2 0 001.995-1.85zM7.5 3.5v13.817m10-9.817h-14"/></svg>';
@@ -843,7 +844,7 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M7.23 10.23c3.264-3.79 6.687-5.033 10.27-3.73-3.552.646-6.009 2.855-7.371 6.63L12.5 15.5h-8v-8z"/></svg>';
   static const String jump_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M14.21 10.211c-3.405 3.852-6.975 5.279-10.71 4.281 3.711-.99 6.282-3.418 7.711-7.28L8.5 4.5h8v8z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     airplay,
     alarm_clock,
     align_horizontal,
@@ -997,7 +998,7 @@ class SystemUicons {
     expand,
     expand_height,
     expand_width,
-    _external,
+    i_external,
     eye,
     eye_closed,
     eye_no,
@@ -1056,7 +1057,7 @@ class SystemUicons {
     home_alt,
     home_check,
     home_door,
-    _import,
+    i_import,
     inbox,
     inbox_alt,
     info_circle,
@@ -1198,7 +1199,7 @@ class SystemUicons {
     sun,
     support,
     swap,
-    _switch,
+    i_switch,
     table,
     table_header,
     tag,

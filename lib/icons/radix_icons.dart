@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/radix-icons
 class RadixIcons {
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M.877 7.5a6.623 6.623 0 1113.246 0 6.623 6.623 0 01-13.246 0ZM7.5 1.827a5.673 5.673 0 100 11.346 5.673 5.673 0 000-11.346ZM7.125 9c-.055.127-.793 2.96-.793 2.96a.5.5 0 11-.966-.26s.88-2.827.88-3.43V6.801l-1.958-.525a.5.5 0 11.258-.966s1.654.563 2.3.563h1.309c.645 0 2.298-.563 2.298-.563a.5.5 0 11.26.966l-1.966.527V8.27c0 .603.88 3.427.88 3.427a.5.5 0 01-.966.259S7.92 9.127 7.869 9c-.05-.127-.219-.127-.219-.127h-.307s-.173 0-.218.127ZM7.5 5.12a1.125 1.125 0 100-2.25 1.125 1.125 0 000 2.25Z" clip-rule="evenodd"/></svg>';
@@ -569,7 +570,7 @@ class RadixIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M5 3.25a.5.5 0 00-1 0V7.1H2.5a.4.4 0 100 .8H4v.65a3.5 3.5 0 107 0V7.9h1.5a.4.4 0 000-.8H11V3.25a.5.5 0 10-1 0V7.1H5V3.25ZM5 7.9v.65a2.5 2.5 0 005 0V7.9H5Z" clip-rule="evenodd"/></svg>';
   static const String sun =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M7.5 0a.5.5 0 01.5.5v2a.5.5 0 01-1 0v-2a.5.5 0 01.5-.5ZM2.197 2.197a.5.5 0 01.707 0L4.318 3.61a.5.5 0 01-.707.707L2.197 2.904a.5.5 0 010-.707ZM.5 7a.5.5 0 000 1h2a.5.5 0 000-1h-2Zm1.697 5.803a.5.5 0 010-.707l1.414-1.414a.5.5 0 11.707.707l-1.414 1.414a.5.5 0 01-.707 0ZM12.5 7a.5.5 0 000 1h2a.5.5 0 000-1h-2Zm-1.818-2.682a.5.5 0 010-.707l1.414-1.414a.5.5 0 11.707.707L11.39 4.318a.5.5 0 01-.707 0ZM8 12.5a.5.5 0 00-1 0v2a.5.5 0 001 0v-2Zm2.682-1.818a.5.5 0 01.707 0l1.414 1.414a.5.5 0 11-.707.707l-1.414-1.414a.5.5 0 010-.707ZM5.5 7.5a2 2 0 114 0 2 2 0 01-4 0Zm2-3a3 3 0 100 6 3 3 0 000-6Z" clip-rule="evenodd"/></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M10.5 4a3.5 3.5 0 100 7 3.5 3.5 0 000-7Zm-2.829 7A4.491 4.491 0 016 7.5c0-1.414.652-2.675 1.671-3.5H4.5a3.5 3.5 0 100 7h3.171ZM0 7.5A4.5 4.5 0 014.5 3h6a4.5 4.5 0 110 9h-6A4.5 4.5 0 010 7.5Z" clip-rule="evenodd"/></svg>';
   static const String symbol =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M1.903 7.297c0 3.044 2.207 5.118 4.686 5.547a.521.521 0 11-.178 1.027C3.5 13.367.861 10.913.861 7.297c0-1.537.699-2.745 1.515-3.663.585-.658 1.254-1.193 1.792-1.602H2.532a.5.5 0 010-1h3a.5.5 0 01.5.5v3a.5.5 0 01-1 0V2.686l-.001.002c-.572.43-1.27.957-1.875 1.638-.715.804-1.253 1.776-1.253 2.97Zm11.108.406c0-3.012-2.16-5.073-4.607-5.533a.521.521 0 11.192-1.024c2.874.54 5.457 2.98 5.457 6.557 0 1.537-.699 2.744-1.515 3.663-.585.658-1.254 1.193-1.792 1.602h1.636a.5.5 0 110 1h-3a.5.5 0 01-.5-.5v-3a.5.5 0 111 0v1.845h.002c.571-.432 1.27-.958 1.874-1.64.715-.803 1.253-1.775 1.253-2.97Z" clip-rule="evenodd"/></svg>';
@@ -661,7 +662,7 @@ class RadixIcons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><defs><path id="svgIDa" d="M9.621 1.136a.5.5 0 01.707 0l1.061 1.06 1.414 1.415 1.06 1.06a.5.5 0 11-.706.708l-.653-.653-3.637 4.848 1.108 1.108a.5.5 0 01-.707.707L7.854 9.975l-1.061-1.06-3.27 3.27a.5.5 0 11-.708-.708l3.27-3.27-1.06-1.06-1.414-1.415a.5.5 0 11.707-.707l1.108 1.108 4.848-3.637-.653-.653a.5.5 0 010-.707Z"/></defs><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><use href="#svgIDa"/><use href="#svgIDa"/></g></svg>';
   static const String sewing_pin_solid =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M10 3.5a2.5 2.5 0 01-2 2.45v7.55a.5.5 0 01-1 0V5.95a2.5 2.5 0 113-2.45Z" clip-rule="evenodd"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     accessibility,
     activity_log,
     align_baseline,
@@ -947,7 +948,7 @@ class RadixIcons {
     stretch_vertically,
     strikethrough,
     sun,
-    _switch,
+    i_switch,
     symbol,
     table,
     target,

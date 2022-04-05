@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/gala
 class Gala {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"><circle cx="128" cy="128" r="112"/><path d="M80 128h96m-48-48v96"/></g></svg>';
@@ -101,7 +102,7 @@ class Gala {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M48 48h112c17.728 0 32 14.272 32 32v96c0 17.728-14.272 32-32 32H48c-17.728 0-32-14.272-32-32V80c0-17.728 14.272-32 32-32zm144 112 48 32V64l-48 32"/></svg>';
   static const String window =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm143.964 48.093L192 16"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     add,
     airplay,
     apple,

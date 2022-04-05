@@ -1,5 +1,6 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/icomoon-free
 class IcomoonFree {
-  static const String _500px =
+  static const String i_500px =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M3.953 10.512a5.24 5.24 0 006.996 3.141c.625-.262 1.184-.641 1.666-1.122s.859-1.041 1.122-1.666c.272-.647.412-1.331.412-2.037s-.137-1.394-.412-2.037c-.262-.625-.641-1.184-1.122-1.666s-1.041-.859-1.666-1.122a5.226 5.226 0 00-2.037-.413c-.716 0-1.431.144-2.066.413-.509.216-1.372.769-1.875 1.291l-.003.003V.984h7.241c.262-.003.262-.372.262-.491 0-.122 0-.487-.266-.491H4.377a.343.343 0 00-.344.341v6.066c0 .197.244.338.472.384.444.094.544-.047.653-.197l.016-.019c.166-.247.681-.766.688-.772a4.262 4.262 0 013.037-1.25c1.147 0 2.222.444 3.028 1.25a4.245 4.245 0 011.256 3.019 4.236 4.236 0 01-1.25 3.019 4.336 4.336 0 01-3.047 1.25 4.136 4.136 0 01-2.159-.597l.003-3.688c0-.491.213-1.028.572-1.431a2.09 2.09 0 011.588-.716c.594 0 1.15.225 1.566.634.409.406.637.95.637 1.528a2.179 2.179 0 01-2.206 2.197c-.238 0-.672-.106-.691-.109-.25-.075-.356.272-.391.387-.134.441.069.528.109.541.397.125.659.147 1.003.147a3.173 3.173 0 003.169-3.169c0-1.734-1.422-3.144-3.166-3.144-.856 0-1.659.328-2.263.919-.575.566-.903 1.319-.903 2.069v.019c-.003.094-.003 2.306-.006 3.031l-.003-.003c-.328-.363-.653-.919-.869-1.488-.084-.222-.275-.184-.534-.103-.125.034-.469.141-.391.394zm3.722-.865c0 .106.097.2.156.253l.019.019c.1.097.194.147.281.147a.181.181 0 00.131-.05c.044-.041.537-.544.588-.591l.553.55c.05.056.106.088.172.088.088 0 .184-.053.284-.156.238-.244.119-.375.063-.438l-.559-.559.584-.588c.128-.137.016-.284-.097-.397-.162-.162-.322-.206-.422-.112l-.581.581-.588-.588a.16.16 0 00-.113-.047c-.078 0-.172.053-.275.156-.181.181-.219.306-.125.406l.588.584-.584.584c-.053.05-.078.103-.075.156zm1.278-7.931c-.938 0-1.938.191-2.669.506a.207.207 0 00-.134.181.753.753 0 00.069.337c.047.116.166.425.4.334a6.689 6.689 0 012.334-.444 6.35 6.35 0 012.469.497c.622.263 1.206.644 1.844 1.194a.22.22 0 00.147.059c.125 0 .244-.122.347-.237.169-.191.287-.35.119-.509a6.858 6.858 0 00-2.1-1.356 7.326 7.326 0 00-2.825-.563zM14.006 13.3c-.113-.113-.209-.178-.294-.203s-.162-.006-.222.053l-.056.056a6.32 6.32 0 01-6.938 1.356 6.336 6.336 0 01-2.013-1.356 6.046 6.046 0 01-1.356-2.012c-.288-.713-.381-1.247-.413-1.422-.003-.016-.006-.028-.006-.037-.041-.206-.231-.222-.503-.178-.112.019-.459.072-.428.319v.006a7.261 7.261 0 002.04 3.994 7.266 7.266 0 0010.288 0l.059-.059c.069-.084.134-.225-.159-.516z"/></svg>';
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M6.5 1.5a1.5 1.5 0 113.001.001A1.5 1.5 0 016.5 1.5z"/><path fill="currentColor" d="m10 5 5.15-2.221-.371-.929L8.5 4h-1L1.221 1.85l-.371.929L6 5v4l-2.051 6.634.935.355L7.786 9.5h.429l2.902 6.489.935-.355L10.001 9z"/></svg>';
@@ -479,7 +480,7 @@ class IcomoonFree {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.5 0h-13C.675 0 0 .675 0 1.5v13c0 .825.675 1.5 1.5 1.5h13c.825 0 1.5-.675 1.5-1.5v-13c0-.825-.675-1.5-1.5-1.5zm-2.834 11.887c-2.775 0-3.737-1.25-4.25-2.806l-.513-1.603c-.384-1.172-.834-2.084-2.244-2.084-.978 0-1.972.706-1.972 2.678 0 1.541.784 2.503 1.894 2.503 1.25 0 2.084-.931 2.084-.931l.513 1.394s-.866.85-2.678.85c-2.25 0-3.5-1.313-3.5-3.75 0-2.534 1.25-4.025 3.609-4.025 2.134 0 3.206.769 3.881 2.853l.528 1.603c.384 1.172 1.059 2.022 2.678 2.022 1.091 0 1.669-.241 1.669-.834 0-.466-.272-.803-1.091-.994l-1.091-.256c-1.331-.322-1.859-1.009-1.859-2.1 0-1.747 1.412-2.294 2.853-2.294 1.634 0 2.631.594 2.759 2.038l-1.603.194c-.066-.691-.481-.978-1.25-.978-.706 0-1.137.322-1.137.866 0 .481.209.769.912.931l1.025.225c1.378.322 2.116.994 2.116 2.294 0 1.597-1.347 2.206-3.334 2.206z"/></svg>';
   static const String leaf =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M15.802 2.102C14.072.791 11.409.008 8.678.008c-3.377 0-6.129 1.179-7.549 3.235C.462 4.208.093 5.352.032 6.641c-.054 1.148.139 2.418.573 3.784C2.087 5.981 6.227 2.502 11 2.502c0 0-4.466 1.175-7.274 4.816A10.535 10.535 0 002.2 10.037 15.387 15.387 0 001 16.002h2s-.304-1.91.224-4.106a17.71 17.71 0 002.357.177c1.839 0 3.146-.398 4.115-1.252.868-.765 1.347-1.794 1.854-2.882.774-1.663 1.651-3.547 4.198-5.002a.5.5 0 00.054-.833z"/></svg>';
-  static const String _library =
+  static const String i_library =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 17 16"><path fill="currentColor" d="M16 15v-1h-1V8h1V7h-3v1h1v6h-3V8h1V7H9v1h1v6H7V8h1V7H5v1h1v6H3V8h1V7H1v1h1v6H1v1H0v1h17v-1h-1zM8 0h1l8 5v1H0V5l8-5z"/></svg>';
   static const String libreoffice =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8.354.354A1.394 1.394 0 007.5 0h-6c-.275 0-.5.225-.5.5v15c0 .275.225.5.5.5h12c.275 0 .5-.225.5-.5v-9c0-.275-.159-.659-.354-.854L8.353.353zM13 15H2V1h5.487a.545.545 0 01.169.07l5.274 5.274a.545.545 0 01.07.169V15zm.5-15h-3c-.275 0-.341.159-.146.354l3.293 3.293c.194.194.354.129.354-.146v-3c0-.275-.225-.5-.5-.5z"/></svg>';
@@ -839,7 +840,7 @@ class IcomoonFree {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="m3.032 13 .9-3h4.137l.9 3h1.775l-3-10H4.256l-3 10h1.776zm2.4-8h1.137l.9 3H4.532l.9-3zM11 13l2.5-4 2.5 4h-5zm2.5-11h-1a.5.5 0 010-1h2a.5.5 0 000-1h-2a1.502 1.502 0 00-1.117 2.5c.275.307.674.5 1.117.5h1a.5.5 0 010 1h-2a.5.5 0 000 1h2a1.502 1.502 0 001.117-2.5A1.496 1.496 0 0013.5 2z"/></svg>';
   static const String svg =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.5 6.5c-.444 0-.843.193-1.118.5h-2.968l2.099-2.099a1.5 1.5 0 10-1.414-1.414L9 5.586V2.618a1.5 1.5 0 10-2 0v2.968L4.901 3.487a1.5 1.5 0 10-1.414 1.414L5.586 7H2.618a1.5 1.5 0 100 2h2.968l-2.099 2.099a1.5 1.5 0 101.414 1.414L7 10.414v2.968a1.5 1.5 0 102 0v-2.968l2.099 2.099a1.5 1.5 0 101.414-1.414L10.414 9h2.968A1.5 1.5 0 1014.5 6.5z"/></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M10 2.29v2.124c.566.247 1.086.6 1.536 1.05C12.48 6.408 13 7.664 13 9s-.52 2.591-1.464 3.536C10.592 13.48 9.336 14 8 14s-2.591-.52-3.536-1.464C3.52 11.592 3 10.336 3 9s.52-2.591 1.464-3.536c.45-.45.97-.803 1.536-1.05V2.29a7 7 0 104 0zM7 0h2v8H7z"/></svg>';
   static const String tab =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M15 0h1v8h-1V0zM0 8h1v8H0V8zm5 3h11v2H5v2.5L1.5 12 5 8.5V11zm6-6H0V3h11V.5L14.5 4 11 7.5z"/></svg>';
@@ -981,8 +982,8 @@ class IcomoonFree {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="m15.504 13.616-3.79-3.223c-.392-.353-.811-.514-1.149-.499a6 6 0 10-.672.672c-.016.338.146.757.499 1.149l3.223 3.79c.552.613 1.453.665 2.003.115s.498-1.452-.115-2.003zM6 10a4 4 0 110-8 4 4 0 010 8zm1-7H5v2H3v2h2v2h2V7h2V5H7z"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="m15.504 13.616-3.79-3.223c-.392-.353-.811-.514-1.149-.499a6 6 0 10-.672.672c-.016.338.146.757.499 1.149l3.223 3.79c.552.613 1.453.665 2.003.115s.498-1.452-.115-2.003zM6 10a4 4 0 110-8 4 4 0 010 8zM3 5h6v2H3z"/></svg>';
-  List iconsList = [
-    _500px,
+  static const List iconsList = [
+    i_500px,
     accessibility,
     address_book,
     aid_kit,
@@ -1222,7 +1223,7 @@ class IcomoonFree {
     lastfm,
     lastfm2,
     leaf,
-    _library,
+    i_library,
     libreoffice,
     lifebuoy,
     ligature,
@@ -1402,7 +1403,7 @@ class IcomoonFree {
     superscript,
     superscript2,
     svg,
-    _switch,
+    i_switch,
     tab,
     table,
     table2,

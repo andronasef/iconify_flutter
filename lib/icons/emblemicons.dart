@@ -1,3 +1,0 @@
-class Emblemicons {
-  List iconsList = [];
-}

@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/vaadin
 class Vaadin {
   static const String abacus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M0 0v16h16V0H0zm14 2v3h-.1c-.2-.6-.8-1-1.4-1s-1.2.4-1.4 1H7.9c-.2-.6-.7-1-1.4-1s-1.2.4-1.4 1h-.2c-.2-.6-.7-1-1.4-1s-1.2.4-1.4 1H2V2h12zm-.1 8c-.2-.6-.8-1-1.4-1s-1.2.4-1.4 1h-.2c-.2-.6-.8-1-1.4-1s-1.2.4-1.4 1H4.9c-.2-.6-.7-1-1.4-1s-1.2.4-1.4 1H2V6h.1c.2.6.8 1 1.4 1s1.2-.4 1.4-1h.2c.2.6.8 1 1.4 1s1.2-.4 1.4-1h3.2c.2.6.8 1 1.4 1s1.2-.4 1.4-1h.1l-.1 4zM2 14v-3h.1c.2.6.8 1 1.4 1s1.2-.4 1.4-1h3.2c.2.6.8 1 1.4 1s1.2-.4 1.4-1h.2c.2.6.8 1 1.4 1s1.2-.4 1.4-1h.1v3H2z"/></svg>';
@@ -507,7 +508,7 @@ class Vaadin {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M7.2 16V8.5h-2V5.8h2V3.5C7.2 1.7 8.4 0 11.1 0c1.1 0 1.9.1 1.9.1l-.1 2.5h-1.7c-1 0-1.1.4-1.1 1.2v2H13l-.1 2.7h-2.8V16H7.2z"/></svg>';
   static const String facebook_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M0 0v16h16V0H0zm12.9 8.4h-2.1V14H8.7V8.4H7.2v-2h1.5V4.7c0-1.5.9-2.7 2.9-2.7.8 0 1.4.1 1.4.1V4h-1.3c-.7 0-.8.3-.8.9v1.5H13l-.1 2z"/></svg>';
-  static const String _factory =
+  static const String i_factory =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M4.4 1.3c-.6.3-.8 1.1-.4 1.5.5-.9 1.3-.6 2.5.4.8.7 1.9.1 1.9.1s.2 1.2 1.7 1.4c1.7.2 2.3-.8 2.3-.8s.4 1 1.9.4c1.1-.4.7-1.1.7-1.1s1 0 1-.7c0-.9-1.1-.8-1.1-.8s.2-1-.9-1.1c-1-.1-1.3.5-1.3.5S12.4 0 10.9 0C9.5 0 9 1.3 9 1.3S8.6.7 7.4.7c-.9 0-1.3.7-1.3.7S5 .9 4.4 1.3z"/><path fill="currentColor" d="M12 12.1V10l-4 2.1V10H5.6L5 3H3l-.6 7H0v6h16v-6l-4 2.1zM6 14H2v-2h4v2z"/></svg>';
   static const String family =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M9.5 7.5a1.5 1.5 0 11-3.001-.001A1.5 1.5 0 019.5 7.5zM14.27 4h-2.54A1.73 1.73 0 0010 5.73V9a1 1 0 001 1v6h4v-6a1 1 0 001-1V5.73A1.73 1.73 0 0014.27 4z"/><path fill="currentColor" d="M15 2a2 2 0 11-3.999.001A2 2 0 0115 2zM4.27 5H1.73a1.73 1.73 0 10.001 3.461A1.73 1.73 0 001.73 5 1.73 1.73 0 000 6.73V9a1 1 0 001 1l-1 3h1v3h4v-3h1l-1-3a1 1 0 001-1V6.73A1.73 1.73 0 004.27 5z"/><path fill="currentColor" d="M5 3a2 2 0 11-3.999.001A2 2 0 015 3zm2 10v3h2v-3a1 1 0 001-1v-1.54A1.46 1.46 0 008.54 9H7.46A1.46 1.46 0 006 10.46V12a1 1 0 001 1z"/></svg>';
@@ -1271,7 +1272,7 @@ class Vaadin {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M6.6 0h-.9l-.6 2.3L4.5 0h-1c.2.6.4 1.1.6 1.7.3.8.5 1.5.5 1.9V6h.9V3.6L6.6 0zM9 4.5V3c0-.5-.1-.8-.3-1.1s-.5-.4-.9-.4-.7.2-.9.5c-.2.2-.3.5-.3 1v1.6c0 .5.1.8.3 1 .2.3.5.4.9.4s.7-.2.9-.5c.2-.1.3-.5.3-1zm-.8.2c0 .4-.1.6-.4.6s-.4-.2-.4-.6V2.8c0-.4.1-.6.4-.6s.4.2.4.6v1.9zM12 6V1.5h-.8v3.4c-.2.3-.3.4-.5.4-.1 0-.2-.1-.2-.2V1.5h-.8V5c0 .3 0 .5.1.7 0 .2.2.3.5.3s.6-.2.9-.5V6h.8zm.4 4.5c-.3 0-.4.2-.4.6v.4h.8v-.4c0-.4-.1-.6-.4-.6zm-2.9 0c-.1 0-.3.1-.4.2v2.7c.1.1.3.2.4.2.2 0 .3-.2.3-.6v-1.9c0-.4-.1-.6-.3-.6z"/><path fill="currentColor" d="M14.4 8.3C14.2 7.6 13.6 7 13 7c-1.6-.2-3.3-.2-5-.2s-3.3 0-5 .2c-.6 0-1.2.6-1.4 1.3-.2 1-.2 2.1-.2 3.1s0 2.1.2 3.1c.2.7.7 1.2 1.4 1.3 1.7.2 3.3.2 5 .2s3.3 0 5-.2c.7-.1 1.3-.6 1.4-1.3.2-1 .2-2.1.2-3.1s0-2.1-.2-3.1zm-9.2.9h-1v5.1h-.9V9.2h-.9v-.9h2.8v.9zm2.4 5.1h-.8v-.5c-.3.4-.6.5-.9.5s-.4-.1-.5-.3c0-.1-.1-.3-.1-.7V9.8h.8v3.5c0 .1.1.2.2.2.2 0 .3-.1.5-.4V9.8h.8v4.5zm3-1.4c0 .4 0 .7-.1.9-.1.3-.3.5-.6.5s-.6-.2-.8-.5v.4h-.8V8.3h.8v1.9c.3-.3.5-.5.8-.5s.5.2.6.5c.1.2.1.5.1.9v1.8zm3-.7H12v.8c0 .4.1.6.4.6.2 0 .3-.1.4-.3v-.5h.8v.6c0 .2-.1.3-.2.5-.2.3-.5.5-1 .5-.4 0-.7-.2-1-.5-.2-.2-.3-.6-.3-1v-1.5c0-.5.1-.8.2-1 .2-.3.5-.5 1-.5.4 0 .7.2.9.5.2.2.2.6.2 1v.8z"/></svg>';
   static const String youtube_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M7.9 6c.2 0 .3-.2.3-.5V4.1c0-.3-.1-.5-.3-.5s-.3.2-.3.5v1.4c0 .3.1.5.3.5zm-.8 5.9c-.1.2-.3.3-.4.3s-.1 0-.1-.1V9.4H6V12c0 .2 0 .4.1.5.1.2.2.2.4.2s.4-.1.7-.4v.4h.6V9.4h-.7v2.5zm-3.3-3h.7v3.8h.7V8.9h.7v-.7H3.8zm5.6.4c-.2 0-.4.2-.6.4V8.2h-.6v4.4h.6v-.3c.2.2.4.4.6.4s.4-.1.5-.4c0-.1.1-.4.1-.7v-1.3c0-.3 0-.5-.1-.7-.1-.1-.2-.3-.5-.3zm0 2.4c0 .3-.1.4-.3.4-.1 0-.2 0-.3-.1v-2c.1-.1.2-.1.3-.1.2 0 .3.2.3.5v1.3zm1.9-2.4c-.3 0-.5.1-.7.3-.1.2-.2.4-.2.8v1.2c0 .4.1.6.2.8.2.2.4.3.7.3s.6-.1.7-.4c.1-.1.1-.2.1-.4v-.5h-.6v.4c0 .2-.1.2-.3.2s-.3-.2-.3-.5v-.6h1.2v-.7c0-.4-.1-.6-.2-.8 0 .1-.3-.1-.6-.1zm.3 1.3H11v-.3c0-.3.1-.5.3-.5s.3.2.3.5v.3z"/><path fill="currentColor" d="M0 0v16h16V0H0zm9.3 3.1h.6v2.7c0 .1 0 .2.1.2s.2-.1.4-.3V3.1h.6v3.3h-.6v-.3c-.2.3-.5.4-.7.4s-.3-.1-.4-.2c0-.1-.1-.3-.1-.5V3.1zM7 4.2c0-.3 0-.6.2-.8s.4-.3.7-.3c.3 0 .5.1.7.3.1.2.2.4.2.8v1.2c0 .4-.1.6-.2.8-.2.2-.4.3-.7.3s-.5-.1-.7-.3C7 6 7 5.8 7 5.4V4.2zM5.3 2l.5 1.8.5-1.8H7l-.8 2.7v1.8h-.7V4.7c-.1-.4-.2-.8-.4-1.5-.2-.4-.3-.8-.5-1.2h.7zm7.5 10.9c-.1.5-.6.9-1.1 1-1.2.1-2.5.1-3.7.1s-2.5 0-3.7-.1c-.5-.1-1-.4-1.1-1-.2-.8-.2-1.6-.2-2.4 0-.7 0-1.5.2-2.3.1-.5.6-.9 1.1-1 1.2-.1 2.5-.1 3.7-.1s2.5 0 3.7.1c.5.1 1 .4 1.1 1 .2.8.2 1.6.2 2.3 0 .8 0 1.6-.2 2.4z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     abacus,
     absolute_position,
     academy_cap,
@@ -1526,7 +1527,7 @@ class Vaadin {
     eyedropper,
     facebook,
     facebook_square,
-    _factory,
+    i_factory,
     family,
     fast_backward,
     fast_forward,

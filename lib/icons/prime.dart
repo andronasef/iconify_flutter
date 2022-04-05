@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/prime
 class Prime {
   static const String align_center =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17 10.75H7a.75.75 0 010-1.5h10a.75.75 0 010 1.5Zm3-4H4a.75.75 0 010-1.5h16a.75.75 0 010 1.5Zm0 8H4a.75.75 0 010-1.5h16a.75.75 0 010 1.5Zm-3 4H7a.75.75 0 010-1.5h10a.75.75 0 010 1.5Z"/></svg>';
@@ -409,7 +410,7 @@ class Prime {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 21a9 9 0 119-9 9 9 0 01-9 9Zm0-16.5a7.5 7.5 0 107.5 7.5A7.5 7.5 0 0012 4.5Z"/><rect width="8" height="8" x="8" y="8" fill="currentColor" rx="1.5"/></svg>';
   static const String sun =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 17.75A5.75 5.75 0 1117.75 12 5.76 5.76 0 0112 17.75Zm0-10A4.25 4.25 0 1016.25 12 4.26 4.26 0 0012 7.75ZM12 5a.76.76 0 01-.75-.75v-1.5a.75.75 0 011.5 0v1.5A.76.76 0 0112 5Zm0 17a.76.76 0 01-.75-.75v-1.5a.75.75 0 011.5 0v1.5A.76.76 0 0112 22Zm9.25-9.25h-1.5a.75.75 0 010-1.5h1.5a.75.75 0 010 1.5Zm-17 0h-1.5a.75.75 0 010-1.5h1.5a.75.75 0 010 1.5Zm2.25-5.5A.74.74 0 016 7L4.91 6A.75.75 0 116 4.91L7 6a.75.75 0 010 1 .74.74 0 01-.5.25Zm12.06 12.06a.74.74 0 01-.53-.22L17 18a.75.75 0 011-1l1.09 1a.75.75 0 010 1.06.74.74 0 01-.53.25ZM17.5 7.25A.74.74 0 0117 7a.75.75 0 010-1l1-1.09A.75.75 0 1119.09 6L18 7a.74.74 0 01-.5.25ZM5.44 19.31a.74.74 0 01-.53-.22.75.75 0 010-1.06L6 17a.75.75 0 011 1l-1 1.09a.74.74 0 01-.56.22Z"/></svg>';
-  static const String _sync =
+  static const String i_sync =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18.43 4.25a.76.76 0 00-.75.75v2.43l-.84-.84a7.24 7.24 0 00-12 2.78.74.74 0 00.46 1 .73.73 0 00.25 0 .76.76 0 00.71-.51 5.63 5.63 0 011.37-2.2 5.76 5.76 0 018.13 0l.84.84h-2.41a.75.75 0 000 1.5h4.24a.74.74 0 00.75-.75V5a.75.75 0 00-.75-.75Zm.25 9.43a.76.76 0 00-1 .47 5.63 5.63 0 01-1.37 2.2 5.76 5.76 0 01-8.13 0l-.84-.84h2.47a.75.75 0 000-1.5H5.57a.74.74 0 00-.75.75V19a.75.75 0 001.5 0v-2.43l.84.84a7.24 7.24 0 0012-2.78.74.74 0 00-.48-.95Z"/></svg>';
   static const String table =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 4.25H6A2.75 2.75 0 003.25 7v10A2.75 2.75 0 006 19.75h12A2.75 2.75 0 0020.75 17V7A2.75 2.75 0 0018 4.25ZM19.25 7v4.25h-6.5v-5.5H18A1.25 1.25 0 0119.25 7ZM6 5.75h5.25v5.5h-6.5V7A1.25 1.25 0 016 5.75ZM4.75 17v-4.25h6.5v5.5H6A1.25 1.25 0 014.75 17ZM18 18.25h-5.25v-5.5h6.5V17A1.25 1.25 0 0118 18.25Z"/></svg>';
@@ -475,7 +476,7 @@ class Prime {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 3.25H6A2.75 2.75 0 003.25 6v6a.75.75 0 001.5 0V6A1.25 1.25 0 016 4.75h12A1.25 1.25 0 0119.25 6v12A1.25 1.25 0 0118 19.25h-6a.75.75 0 000 1.5h6A2.75 2.75 0 0020.75 18V6A2.75 2.75 0 0018 3.25Z"/><path fill="currentColor" d="M11.21 13.19a.75.75 0 00.29.06h4a.75.75 0 000-1.5h-2.19l3.22-3.22a.75.75 0 00-1.06-1.06l-3.22 3.22V8.5a.75.75 0 00-1.5 0v4a.75.75 0 00.06.29.71.71 0 00.4.4ZM8 14.25H5A1.76 1.76 0 003.25 16v3A1.76 1.76 0 005 20.75h3A1.76 1.76 0 009.75 19v-3A1.76 1.76 0 008 14.25ZM8.25 19a.25.25 0 01-.25.25H5a.25.25 0 01-.25-.25v-3a.25.25 0 01.25-.25h3a.25.25 0 01.25.25Z"/></svg>';
   static const String youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M19.67 8.14a2 2 0 00-1.42-1.43A48.44 48.44 0 0012 6.38a48.44 48.44 0 00-6.25.33 2 2 0 00-1.42 1.43A21.27 21.27 0 004 12a21.42 21.42 0 00.33 3.88 2 2 0 001.42 1.4 48.44 48.44 0 006.25.33 48.44 48.44 0 006.25-.33 2 2 0 001.42-1.4A21.42 21.42 0 0020 12a21.27 21.27 0 00-.33-3.86Zm-9.31 6.25V9.63L14.55 12l-4.19 2.38Z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     align_center,
     align_justify,
     align_left,
@@ -681,7 +682,7 @@ class Prime {
     stop,
     stop_circle,
     sun,
-    _sync,
+    i_sync,
     table,
     tablet,
     tag,

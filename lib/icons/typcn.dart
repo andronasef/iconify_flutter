@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/typcn
 class Typcn {
   static const String adjust_brightness =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 6.934 13 4a1.055 1.055 0 10-2 0l1 2.934zM4 11a1.055 1.055 0 100 2l2.934-1L4 11zm8 6.066L11 20a1.055 1.055 0 102 0l-1-2.934zm9.341-5.409A1.055 1.055 0 0020 10.998l-2.934 1 2.934 1a1.057 1.057 0 001.341-1.341zM5.636 7.05l2.781 1.367L7.05 5.636A1.057 1.057 0 105.636 7.05zm-.483 10.382a1.057 1.057 0 001.896.932l1.367-2.781-2.781 1.367a1.056 1.056 0 00-.482.482zm13.21-.483-2.781-1.367 1.367 2.781a1.056 1.056 0 101.414-1.414zm.481-10.383a1.057 1.057 0 00-1.895-.933L15.58 8.416l2.782-1.368c.202-.1.375-.264.482-.482zM12 7.5c-2.481 0-4.5 2.019-4.5 4.5s2.019 4.5 4.5 4.5 4.5-2.019 4.5-4.5-2.019-4.5-4.5-4.5z"/></svg>';
@@ -215,7 +216,7 @@ class Typcn {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 7H6a2 2 0 000 4h12a2 2 0 000-4zm0 7H6a2 2 0 000 4h12a2 2 0 000-4z"/></svg>';
   static const String equals_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 12H6c-1.654 0-3-1.346-3-3s1.346-3 3-3h12c1.654 0 3 1.346 3 3s-1.346 3-3 3zM6 8a1.001 1.001 0 000 2h12a1.001 1.001 0 000-2H6zm12 11H6c-1.654 0-3-1.346-3-3s1.346-3 3-3h12c1.654 0 3 1.346 3 3s-1.346 3-3 3zM6 15a1.001 1.001 0 000 2h12a1.001 1.001 0 000-2H6z"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M8 16.5v.5c1.691-2.578 3.6-3.953 6-4v3c0 .551.511 1 1.143 1 .364 0 .675-.158.883-.391C17.959 14.58 22 10.5 22 10.5s-4.041-4.082-5.975-6.137A1.262 1.262 0 0015.143 4C14.511 4 14 4.447 14 5v3c-4.66 0-6 4.871-6 8.5zM5 21h14a1 1 0 001-1v-6.046c-.664.676-1.364 1.393-2 2.047V19H6V7h7V5H5a1 1 0 00-1 1v14a1 1 0 001 1z"/></svg>';
   static const String export_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M22.711 9.796c-.041-.041-4.055-4.096-5.982-6.146A2.277 2.277 0 0015.143 3C13.961 3 13 3.896 13 5H5a1 1 0 00-1 1v14a1 1 0 001 1h14a1 1 0 001-1v-6.045a835.426 835.426 0 012.711-2.751.999.999 0 000-1.408zm-7.432 6.145-.136.059-.144-.04V12h-1c-1.771.034-3.336.68-4.753 1.958.43-2.215 1.6-4.958 4.753-4.958h1V5.042L15.143 5l.154.05c1.436 1.525 4.051 4.187 5.297 5.45-.253.257-4.342 4.422-5.315 5.441zM6 19V7h8v1c-4.66 0-6 4.871-6 8.5v.5c1.691-2.578 3.6-3.953 6-4v3c0 .551.512 1 1.143 1 .364 0 .676-.158.883-.391.539-.565 1.242-1.291 1.976-2.043V19H6z"/></svg>';
@@ -671,7 +672,7 @@ class Typcn {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13 12H8c-.275 0-.5-.225-.5-.5s.225-.5.5-.5h5c.275 0 .5.225.5.5s-.225.5-.5.5zm6.381 3.956-2.245-2.283A6.868 6.868 0 0017.5 11.5c0-3.859-3.141-7-7-7s-7 3.141-7 7 3.141 7 7 7c.761 0 1.488-.137 2.173-.364l2.397 2.386a3.279 3.279 0 002.104.783 3.134 3.134 0 003.131-3.131c0-.84-.328-1.628-.924-2.218zm-3.901-1.11 2.492 2.531c.205.203.332.486.332.797 0 .625-.507 1.131-1.131 1.131-.312 0-.594-.127-.816-.313l-2.512-2.511a6.056 6.056 0 001.635-1.635zM5.5 11.5c0-2.757 2.243-5 5-5s5 2.243 5 5-2.243 5-5 5-5-2.243-5-5z"/></svg>';
   static const String zoom_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14 8a3.001 3.001 0 010 6 3.001 3.001 0 010-6m0-1c-2.206 0-4 1.794-4 4s1.794 4 4 4 4-1.794 4-4-1.794-4-4-4zM4.195 17.674a3.134 3.134 0 003.131 3.131c.756 0 1.503-.277 2.104-.783l2.397-2.386A6.887 6.887 0 0014 18c3.86 0 7-3.141 7-7s-3.14-7-7-7c-3.859 0-7 3.141-7 7 0 .761.136 1.486.364 2.173l-2.245 2.283a3.099 3.099 0 00-.924 2.218zm6.459-1.694-2.512 2.511a1.272 1.272 0 01-.816.313 1.131 1.131 0 01-1.131-1.131c0-.311.127-.594.332-.797l2.492-2.531c.435.645.99 1.2 1.635 1.635zM14 16c-2.757 0-5-2.243-5-5s2.243-5 5-5 5 2.243 5 5-2.243 5-5 5z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     adjust_brightness,
     adjust_contrast,
     anchor,
@@ -780,7 +781,7 @@ class Typcn {
     eject_outline,
     equals,
     equals_outline,
-    _export,
+    i_export,
     export_outline,
     eye,
     eye_outline,

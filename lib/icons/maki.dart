@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/maki
 class Maki {
   static const String aerialway =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M13 5H8V2.6a1 1 0 00.42-.46l5.08-.64a.5.5 0 000-1l-5.22.65a1 1 0 00-.78-.4 1 1 0 00-.92.62L1.5 2a.5.5 0 000 1l5.22-.65c.077.1.172.185.28.25V5H2a1 1 0 00-1 1v7a1 1 0 001 1h11a1 1 0 001-1V6a1 1 0 00-1-1zm-6 6H3V7h4v4zm5 0H8V7h4v4z"/></svg>';
@@ -367,6 +368,8 @@ class Maki {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="11" preserveAspectRatio="xMidYMid meet" viewBox="0 0 11 11"><path fill="currentColor" d="M3 1c-.277 0-.5.223-.5.5s.224.482.5.5h3v2H2.912a1.5 1.5 0 10-.39 1.596L4.5 8.5c.681 1 1.5 1 2 1h3.535s.965 0 .965-1v-1c0-.5-.5-1-.5-1l-2-2S8 4 7.5 4H7V2h3a.499.499 0 100-1H3zM1.5 4a.5.5 0 110 1 .5.5 0 010-1zm6.25 1s.25 0 .75.5L10 7H7.5S7 7 7 6.5v-1s0-.5.5-.5h.25z"/></svg>';
   static const String highway_rest_area =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M13.5 13h-3V9h3a.5.5 0 00.41-.787L11.66 5h.84a.5.5 0 00.384-.82l-2.5-3a.515.515 0 00-.768 0l-2.5 3A.5.5 0 007.5 5h.84L6.09 8.213A.5.5 0 006.5 9h3v4H4v-2h1.5a.5.5 0 000-1h-4a.5.5 0 000 1H3v2H1.5a.5.5 0 000 1h12a.5.5 0 000-1Z"/></svg>';
+  static const String historic =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M7.5 1c-1 0-1 1-2 1H2c-.545 0-1 .455-1 1v7c0 .545.455 1 1 1h5v2.5s0 .5.5.5.5-.5.5-.5V11h5c.545 0 1-.455 1-1V3c0-.545-.455-1-1-1H9.5c-1 0-1-1-2-1zM3 5V4h9v1zm0 1h4v1H3zm0 2h7v1H3z"/></svg>';
   static const String home =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M2 13.748c0 .138.112.25.25.25h3.749v-3h3v3h3.749a.25.25 0 00.25-.25v-5.75H2v5.75zm11.93-7.17-.932-.82V2a1 1 0 10-2 0v2L7.681 1.09a.25.25 0 00-.353-.011l-.011.011-6.25 5.463a.25.25 0 00.18.42L3 7h10.747a.25.25 0 00.183-.421z"/></svg>';
   static const String home_11 =
@@ -425,7 +428,7 @@ class Maki {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M8 1 6 3H3S2 3 2 4v9c0 1 1 1 1 1h9s1 0 1-1V2c0-1-1-1-1-1H8zm.5 1h2a.499.499 0 110 1h-2a.499.499 0 110-1zm-1 4a3 3 0 110 6 3 3 0 010-6z"/></svg>';
   static const String laundry_11 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="11" preserveAspectRatio="xMidYMid meet" viewBox="0 0 11 11"><path fill="currentColor" d="M5 0 4 2H2S1 2 1 3v7s0 1 1 1h7c1 0 1-1 1-1V1c0-1-1-1-1-1H5zm1 1h3v1H6V1zm-.5 3a2.5 2.5 0 110 5 2.5 2.5 0 010-5z"/></svg>';
-  static const String _library =
+  static const String i_library =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M1.082 9.939C.987 9.867 1 9.748 1 9.748L1.526 3.5s.008-.069.039-.104c.019-.022.043-.054.09-.073C2.182 3.107 5.053 1.552 6.5 3c.24.278.5.688.5 1v5.288s.006.112-.095.18a.252.252 0 01-.242.003c-2.226-1.114-4.711.154-5.338.487a.22.22 0 01-.243-.02zm12.593.019c-.627-.333-3.112-1.6-5.338-.487a.252.252 0 01-.242-.003C7.994 9.4 8 9.288 8 9.288V4c0-.312.26-.722.5-1 1.446-1.448 4.3.107 4.827.323.046.019.07.051.09.073.03.035.039.104.039.104l.543 6.248s.014.119-.08.19a.22.22 0 01-.244.02zm-4.81 2.728a.24.24 0 00.118-.077.214.214 0 00.042-.109c.05-.938 1.624-1.812 4.648-.03.077.044.166.04.242-.015.086-.063.085-.17.085-.17v-.553s0-.077-.027-.119a.227.227 0 00-.093-.085c-2.025-1.315-4.586-1.898-5.885-.16a.197.197 0 01-.073.09c-.057.045-.126.042-.126.042h-.585s-.07.003-.126-.041a.197.197 0 01-.073-.09c-1.3-1.739-3.86-1.184-5.885.131a.227.227 0 00-.093.086c-.027.042-.027.118-.027.118v.554s-.001.107.085.17a.22.22 0 00.243.015c3.023-1.782 4.598-.88 4.647.057a.214.214 0 00.043.109.24.24 0 00.118.077c.721.18 1.768.25 2.722 0z"/></svg>';
   static const String library_11 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="11" preserveAspectRatio="xMidYMid meet" viewBox="0 0 11 11"><path fill="currentColor" d="M0 1v7c3.26 0 5.49 2 5.49 2S7.76 8 11 8V1C7 1 5.49 2.725 5.49 2.725S4 1 0 1zm1 1c1.195-.031 3.053.402 4 1.348L5.5 4l.5-.652c.962-.93 2.8-1.36 4-1.348v5c-2 0-3.354.856-4.51 1.781C4.35 7.853 3 7 1 7V2zm1 1.303v.181c.823.17 2.1.687 3 1.176v-.228c-.917-.479-2.176-.972-3-1.13zm7 0c-.824.157-2.083.65-3 1.129v.228c.9-.489 2.177-1.007 3-1.176v-.181zm-7 .92v.181c.822.154 2.099.659 3 1.133v-.195c-.917-.476-2.176-.967-3-1.12zm7 0c-.824.152-2.083.643-3 1.119v.195c.901-.474 2.178-.979 3-1.133v-.181zm-7 .894V5.3c.822.155 2.098.659 3 1.133v-.196c-.918-.475-2.176-.965-3-1.119zm7 0c-.824.154-2.082.644-3 1.12v.195c.902-.474 2.178-.979 3-1.133v-.182zM2 6v.182c.82.14 2.097.629 3 1.087v-.15C4.082 6.645 2.824 6.154 2 6zm7 0c-.824.154-2.082.644-3 1.12v.15c.903-.459 2.18-.948 3-1.088V6z"/></svg>';
@@ -733,6 +736,8 @@ class Maki {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M4.5 3a1.5 1.5 0 110-3 1.5 1.5 0 010 3zM14 1.5a1.5 1.5 0 10-3 0 1.5 1.5 0 003 0zM8.86 6.64 6.38 4.15A.51.51 0 006 4H3a.51.51 0 00-.35.14L.14 6.63a.52.52 0 10.73.73L3 5.2 1 11h2v3.33a.503.503 0 000 .15.51.51 0 001 0V11h1v3.5a.51.51 0 001 0 .503.503 0 000-.15V11h2L6 5.2l2.14 2.16a.51.51 0 00.38.17A.52.52 0 009 7a.51.51 0 00-.14-.36zM14.5 4h-4a.5.5 0 00-.5.5v5a.5.5 0 001 0v5a.5.5 0 001 0v-5h1v5a.5.5 0 001 0v-5a.5.5 0 001 0v-5a.5.5 0 00-.5-.5z"/></svg>';
   static const String toilet_11 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="11" preserveAspectRatio="xMidYMid meet" viewBox="0 0 11 11"><path fill="currentColor" d="M3.33 2.19a1.1 1.1 0 111.1-1.1 1.1 1.1 0 01-1.1 1.1zm6.94-1.1a1.1 1.1 0 100 .01v-.01zM6.51 4.93 4.7 3.12A.37.37 0 004.43 3H2.22a.37.37 0 00-.25.1H2L.14 4.93a.38.38 0 10.53.53l1.58-1.58L.77 8h1.46v2.51a.38.38 0 00.75.11H3V8h.69v2.63a.38.38 0 00.75-.11V8h1.44L4.41 3.88 6 5.46a.37.37 0 00.28.12c.21 0 .38-.17.38-.38a.37.37 0 00-.15-.27zM8.62 7v3.63a.37.37 0 10.73 0V7H11V3.37a.37.37 0 00-.37-.37H7.71a.37.37 0 00-.37.37V7h1.28z"/></svg>';
+  static const String toll_booth =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M2.5 1a.5.5 0 00-.5.5V13h-.5a.5.5 0 000 1h7a.5.5 0 000-1H7v-2.901l6.776-4.553a.5.5 0 00.136-.694l-.279-.415a.5.5 0 00-.693-.136L7 8.29V2h.5a.5.5 0 000-1h-5ZM3 3.5a.5.5 0 01.5-.5h2a.5.5 0 01.5.5v4a.5.5 0 01-.5.5h-2a.5.5 0 01-.5-.5v-4Z"/></svg>';
   static const String town =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M10.651 7.121a.251.251 0 00-.314 0L8.092 8.929A.247.247 0 008 9.122v4.625a.253.253 0 00.253.253h1.494a.253.253 0 00.253-.253V12h1v1.747a.253.253 0 00.253.253h1.494a.253.253 0 00.253-.253V9.12a.25.25 0 00-.094-.2ZM10 11H9v-1h1Zm2 0h-1v-1h1ZM5.71 1.815a.252.252 0 00-.42 0L2.042 5.936a.252.252 0 00-.042.14v7.671a.252.252 0 00.251.253h2.5A.252.252 0 005 13.748V12h1v1.748a.252.252 0 00.252.252H7V8a.5.5 0 01.188-.391L9 6c0-.05-3.29-4.185-3.29-4.185ZM4 10H3V9h1Zm0-3H3V6h1Zm2 3H5V9h1Zm0-3H5V6h1Z"/></svg>';
   static const String town_11 =
@@ -1185,7 +1190,7 @@ class Maki {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M6 5 3.5 7.5l1 1L7 6v-.5l.5-.5.5.5V6l2.5 2.5 1-1L9 5h-.5L8 4.5l.5-.5H9l2.5-2.5-1-1L8 3v.5l-.5.5-.5-.5V3L4.5.5l-1 1L6 4h.5l.5.5-.5.5H6zm5.5 8h-1l-1-4-2-2-2 2-1 4h-1a.5.5 0 100 1h8a.5.5 0 000-1zM8 13H7v-1.502c0-.275.223-.498.498-.498.277 0 .502.225.502.502V13z"/></svg>';
   static const String zoo_15 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" d="M8.388 3.893S7.682 5 7 5H4.5c-.682 0-1.298.409-1.773.864L.5 8c-.269.258-.493.768-.5 1-.016.5 0 1 0 1s1 0 1-1v-.5l1-1h.5l.158.29s-.954 1.824-.954 3.528c0 .682.682.682.682.682h.682s.341 0 0-.34l-.34-.342C2.727 10.636 3.5 9.667 4 9c0 0 .017 1.158 0 2-.008.41.272 1 .682 1h.682s.34 0 0-.34l-.341-.342C4.71 10.75 5.5 8.5 5.5 8.5c1.272 0 1.5.5 3 .5l.364 2.318c.111.71.636.682.636.682H11c.34 0 .961-.311.34-.774L11 11V9c1.214-.172 2-1 2-2h1c.321 0 1 0 1-.5v-1l-1.704-1.682C12.543 3.078 12 2.5 11 2.5c-1.453 0-2.136.569-2.612 1.393z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     aerialway,
     aerialway_11,
     airfield,
@@ -1370,6 +1375,7 @@ class Maki {
     heliport,
     heliport_11,
     highway_rest_area,
+    historic,
     home,
     home_11,
     horse_riding,
@@ -1399,7 +1405,7 @@ class Maki {
     landuse_11,
     laundry,
     laundry_11,
-    _library,
+    i_library,
     library_11,
     library_15,
     lighthouse,
@@ -1553,6 +1559,7 @@ class Maki {
     theatre_11,
     toilet,
     toilet_11,
+    toll_booth,
     town,
     town_11,
     town_hall,

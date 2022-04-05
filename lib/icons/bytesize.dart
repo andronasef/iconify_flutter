@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/bytesize
 class Bytesize {
   static const String activity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16h7l3 13 4-26 3 13h7"/></svg>';
@@ -75,9 +76,9 @@ class Bytesize {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><g fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="16" cy="7" r="2"/><circle cx="16" cy="16" r="2"/><circle cx="16" cy="25" r="2"/></g></svg>';
   static const String end =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24 2v14L10 2v28l14-14v14"/></svg>';
-  static const String _export =
+  static const String i_export =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28 22v8H4v-8M16 4v20M8 12l8-8 8 8"/></svg>';
-  static const String _external =
+  static const String i_external =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 9H3v20h20V18M18 4h10v10m0-10L14 18"/></svg>';
   static const String eye =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><g fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="17" cy="15" r="1"/><circle cx="16" cy="16" r="6"/><path d="M2 16S7 6 16 6s14 10 14 10-5 10-14 10S2 16 2 16Z"/></g></svg>';
@@ -109,7 +110,7 @@ class Bytesize {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16C1 12 2 6 7 4s8 2 9 4c1-2 5-6 10-4s5 8 2 12-12 12-12 12-9-8-12-12Z"/></svg>';
   static const String home =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 20v10H4V12L16 2l12 10v18h-8V20Z"/></svg>';
-  static const String _import =
+  static const String i_import =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28 22v8H4v-8M16 4v20m-8-8 8 8 8-8"/></svg>';
   static const String inbox =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 15v10h28V15l-4-8H6Zm0 0h8s1 5 6 5 6-5 6-5h8"/></svg>';
@@ -203,7 +204,7 @@ class Bytesize {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><g fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="14" cy="14" r="12"/><path d="m23 23 7 7M10 14h8"/></g></svg>';
   static const String zoom_reset =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><g fill="currentColor" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="14" cy="14" r="12"/><path d="m23 23 7 7M9 12V9h3m4 0h3v3M9 16v3h3m7-3v3h-3"/></g></svg>';
-  List iconsList = [
+  static const List iconsList = [
     activity,
     alert,
     archive,
@@ -242,8 +243,8 @@ class Bytesize {
     ellipsis_horizontal,
     ellipsis_vertical,
     end,
-    _export,
-    _external,
+    i_export,
+    i_external,
     eye,
     feed,
     file,
@@ -259,7 +260,7 @@ class Bytesize {
     github,
     heart,
     home,
-    _import,
+    i_import,
     inbox,
     info,
     lightning,

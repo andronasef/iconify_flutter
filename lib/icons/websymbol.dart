@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/websymbol
 class Websymbol {
   static const String archive =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1217" height="1000" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1217 1000"><path fill="currentColor" d="M1217 44v131q0 18-12.5 30.5T1174 218H43q-17 0-30-12.5T0 175V44q0-17 13-30T43 1h1131q18 0 30.5 13t12.5 30zm-43 305v609q0 17-13 30t-31 13H87q-18 0-31-13t-13-30V349q0-18 13-31t31-13h1043q18 0 31 13t13 31zM870 501q0-27-19.5-46T804 436H413q-27 0-46 19t-19 46 19 46 46 19h391q27 0 46.5-19t19.5-46z"/></svg>';
@@ -169,7 +170,7 @@ class Websymbol {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1000"><path fill="currentColor" d="M1000 89v824q0 36-26 62t-62 26H88q-36 0-62-26T0 913V89q0-36 26-62T88 1h824q36 0 62 26t26 62zM760 617q0-58-32-95.5T637 472v-3q39-16 61-51t22-78q0-46-19.5-75.5T645 222t-68.5-17-77.5-4H280v600h240q47 0 88-9.5t76-29.5 55.5-57.5T760 617zM567 371q0 20-7 33t-15.5 20-26 10-27.5 3.5-31 .5h-30V311h39q18 0 27.5.5T522 315t24 9 14.5 18 6.5 29zm38 243q0 12-3 22.5t-7 18-12.5 13.5-14.5 10-18 6.5-18.5 4-21 2-20 .5H430V541h76.5l23 1 24.5 3.5 19 8 18 13 9.5 19.5 4.5 28z"/></svg>';
   static const String youtube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1000 1000"><path fill="currentColor" d="M807 111v313h-64v-35q-37 39-74 39-45 0-45-56V111h64v240q0 21 17 21t38-24V111h64zm-237 73v162q0 42-25 64t-68 22q-41 0-66.5-23.5T385 345V183q0-39 27.5-59.5T480 103q38 0 64 22t26 59zm-65 167V180q0-10-9-16.5t-19-6.5-18 6.5-8 16.5v171q0 26 26 26 28 0 28-26zM315 0h73l-55 165q-4 12-10 27.5t-10.5 28T305 248v176h-72V256q-2-12-29-85L147 0h73l46 169h5zm611 739q0 49-6 145-4 50-38.5 79.5T797 995q-99 5-297 5-199 0-297-5-50-2-84.5-31.5T80 884q-6-96-6-145t6-145q4-50 38.5-79.5T203 483q98-5 297-5t297 5q50 2 84.5 31.5T920 594q6 96 6 145zm-71 91v-19h-53q0 2 .5 13t0 15.5T800 851t-7 10-14 3q-10 0-15.5-6t-6-12-.5-17v-48h98v-64q0-35-19-55t-54-20q-34 0-56.5 20.5T703 717v113q0 36 19.5 57.5T778 909q77 0 77-79zm-191 19V709q0-63-50-63-25 0-46 23V559h-52v343h52v-20q22 23 49 23 47 0 47-56zm-250 53h51V649h-51v192q-17 19-31 19-13 0-13-17V649h-52v213q0 44 36 44 30 0 60-32v28zM258 609h61v-50H140v50h60v293h58V609zm544 105v28h-45v-28q0-27 23-27 22 0 22 27zm-191-3v133q0 21-18 21-14 0-25-11V696q10-10 22-10 21 0 21 25z"/></svg>';
-  List iconsList = [
+  static const List iconsList = [
     archive,
     arrows_cw,
     attach,

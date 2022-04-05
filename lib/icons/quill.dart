@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/quill
 class Quill {
   static const String activity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 16h6l4-11 6 22 4-11h6"/></svg>';
@@ -279,7 +280,7 @@ class Quill {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><g fill="currentColor"><path d="m4.6 24.047-.88-.476.88.476Zm22.8 0-.879.477.88-.477Zm-9.641-17.8.879-.477-.88.477Zm-3.518 0 .88.476-.88-.476ZM15 18a1 1 0 102 0h-2Zm2-6a1 1 0 10-2 0h2Zm-.12-5.277 9.641 17.8 1.759-.952-9.642-17.8-1.759.952ZM25.641 26H6.358v2h19.284v-2ZM5.48 24.524l9.64-17.801-1.759-.953L3.72 23.571l1.759.953ZM6.358 26a1 1 0 01-.88-1.476L3.72 23.57C2.637 25.571 4.085 28 6.358 28v-2Zm20.163-1.476A1 1 0 0125.642 26v2c2.273 0 3.72-2.43 2.638-4.429l-1.759.953ZM18.638 5.77c-1.135-2.095-4.141-2.095-5.276 0l1.759.953a1 1 0 011.758 0l1.759-.953ZM17 18v-6h-2v6h2Z"/><path stroke="currentColor" d="M17 21.5a1 1 0 11-2 0 1 1 0 012 0Z"/></g></svg>';
   static const String warning_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><g fill="currentColor" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 17.5v-8M29 16a13 13 0 11-26 0 13 13 0 0126 0Z"/><path d="M17 22a1 1 0 11-2 0 1 1 0 012 0Z"/></g></svg>';
-  List iconsList = [
+  static const List iconsList = [
     activity,
     add,
     alarm,

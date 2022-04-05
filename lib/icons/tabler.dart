@@ -1,12 +1,15 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/tabler
 class Tabler {
-  static const String _2fa =
+  static const String i_2fa =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16H3l3.47-4.66A2 2 0 103 9.8m7 6.2V8h4m-4 4h3m4 4v-6a2 2 0 014 0v6m-4-3h4"/></svg>';
-  static const String _3d_cube_sphere =
+  static const String i_3d_cube_sphere =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m6 17.6-2-1.1V14m0-4V7.5l2-1.1m4-2.3L12 3l2 1.1m4 2.3 2 1.1V10m0 4v2.5l-2 1.12m-4 2.28L12 21l-2-1.1m2-7.9 2-1.1m4-2.3 2-1.1M12 12v2.5m0 4V21m0-9-2-1.12M6 8.6 4 7.5"/></svg>';
-  static const String _3d_rotate =
+  static const String i_3d_rotate =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m7 15.5 4-2.5m-8 0 4 2.5V20l4-2.5V13l-4-2.5z"/><path d="M3 13v4.5L7 20m4-16a7 7 0 017 7v4l-3-3m6 0-3 3"/></g></svg>';
   static const String a_b =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 16v-5.5a2.5 2.5 0 015 0V16m0-4H3m9-6v12m4-2V8h3a2 2 0 010 4h-3m3 0a2 2 0 010 4h-3"/></svg>';
+  static const String abacus =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v18m14 0V3M5 7h14M5 15h14M8 13v4m3-4v4m5-4v4M14 5v4m-3-4v4M8 5v4M3 21h18"/></svg>';
   static const String access_point =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 12v.01m2.828-2.838a4 4 0 010 5.656m2.829-8.485a8 8 0 010 11.314m-8.489-2.829a4 4 0 010-5.656m-2.831 8.485a8 8 0 010-11.314"/></svg>';
   static const String access_point_off =
@@ -119,6 +122,14 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v10m0-10 4 4m-4-4-4 4M4 4h16"/></svg>';
   static const String arrow_bar_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v10m0-10 4 4m-4-4L8 8M4 20h16"/></svg>';
+  static const String arrow_bear_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M13 3H8v5"/><path d="m8 3 7.536 7.536A5 5 0 0117 14.07V21"/></g></svg>';
+  static const String arrow_bear_left_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M9 3H4v5"/><path d="m4 3 7.536 7.536A5 5 0 0113 14.07V21m7-16-4.5 4.5"/></g></svg>';
+  static const String arrow_bear_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 3h5v5"/><path d="m17 3-7.536 7.536A5 5 0 008 14.07V21"/></g></svg>';
+  static const String arrow_bear_right_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M15 3h5v5"/><path d="m20 3-7.536 7.536A5 5 0 0011 14.07V21M4 5l4.5 4.5"/></g></svg>';
   static const String arrow_big_down =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 4v8h3.586a1 1 0 01.707 1.707l-6.586 6.586a1 1 0 01-1.414 0l-6.586-6.586A1 1 0 015.414 12H9V4a1 1 0 011-1h4a1 1 0 011 1z"/></svg>';
   static const String arrow_big_down_line =
@@ -151,6 +162,10 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 7v14m-3-3 3 3 3-3M14 3v4h-4V3z"/></svg>';
   static const String arrow_bottom_tail =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v15m-3-3 3 3 3-3M9 3l3 3 3-3"/></svg>';
+  static const String arrow_curve_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m14 7-4-4-4 4"/><path d="M10 3v4.394A6.737 6.737 0 0013 13a6.737 6.737 0 013 5.606V21"/></g></svg>';
+  static const String arrow_curve_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m10 7 4-4 4 4"/><path d="M14 3v4.394A6.737 6.737 0 0111 13a6.737 6.737 0 00-3 5.606V21"/></g></svg>';
   static const String arrow_down =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v14m6-6-6 6m-6-6 6 6"/></svg>';
   static const String arrow_down_circle =
@@ -163,6 +178,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 7 10 10m0-9v9H8"/></svg>';
   static const String arrow_down_right_circle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M15 15H9m6-6v6L9 9"/></g></svg>';
+  static const String arrow_fork =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M16 3h5v5M8 3H3v5"/><path d="m21 3-7.536 7.536A5 5 0 0012 14.07V21M3 3l7.536 7.536A5 5 0 0112 14.07V15"/></g></svg>';
   static const String arrow_forward =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15 11 4 4-4 4m4-4H8a4 4 0 010-8h1"/></svg>';
   static const String arrow_forward_up =
@@ -173,14 +190,22 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12H3m3-3-3 3 3 3m15-6v6"/></svg>';
   static const String arrow_left_circle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M17 12H3m3-3-3 3 3 3"/><circle cx="19" cy="12" r="2"/></g></svg>';
+  static const String arrow_left_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m17 13 4-4-4-4M7 13 3 9l4-4"/><path d="M12 14a5 5 0 015-5h4m-9 10v-5a5 5 0 00-5-5H3"/></g></svg>';
   static const String arrow_left_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 12H3m3-3-3 3 3 3m15-1h-4v-4h4z"/></svg>';
   static const String arrow_left_tail =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 12H3m3-3-3 3 3 3m15-6-3 3 3 3"/></svg>';
   static const String arrow_loop_left =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M13 21V8a4 4 0 114 4H4"/><path d="m7 15-3-3 3-3"/></g></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M13 21V8a4 4 0 114 4H4"/><path d="m8 16-4-4 4-4"/></g></svg>';
+  static const String arrow_loop_left_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M13 21v-6m0-6V8a4 4 0 114 4H4"/><path d="m8 16-4-4 4-4"/></g></svg>';
   static const String arrow_loop_right =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 21V8a4 4 0 10-4 4h13"/><path d="m18 15 3-3-3-3"/></g></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 21V8a4 4 0 10-4 4h13"/><path d="m17 16 4-4-4-4"/></g></svg>';
+  static const String arrow_loop_right_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 21v-6m0-6V8a4 4 0 10-4 4h13"/><path d="m17 16 4-4-4-4"/></g></svg>';
+  static const String arrow_merge =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m8 7 4-4 4 4"/><path d="M12 3v5.394A6.737 6.737 0 019 14a6.737 6.737 0 00-3 5.606V21"/><path d="M12 3v5.394A6.737 6.737 0 0015 14a6.737 6.737 0 013 5.606V21"/></g></svg>';
   static const String arrow_narrow_down =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v14m4-4-4 4m-4-4 4 4"/></svg>';
   static const String arrow_narrow_left =
@@ -191,8 +216,16 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v14m4-10-4-4M8 9l4-4"/></svg>';
   static const String arrow_ramp_left =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M17 3v8.707M13 7l4-4 4 4M7 14l-4-4 4-4"/><path d="M17 21A11 11 0 006 10H3"/></g></svg>';
+  static const String arrow_ramp_left_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M18 3v8.707M8 14l-4-4 4-4"/><path d="M18 21c0-6.075-4.925-11-11-11H4"/></g></svg>';
+  static const String arrow_ramp_left_3 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M18 3v6M8 16l-4-4 4-4"/><path d="M18 21v-6a3 3 0 00-3-3H4"/></g></svg>';
   static const String arrow_ramp_right =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M7 3v8.707M11 7 7 3 3 7m14 7 4-4-4-4"/><path d="M7 21a11 11 0 0111-11h3"/></g></svg>';
+  static const String arrow_ramp_right_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6 3v8.707M16 14l4-4-4-4"/><path d="M6 21c0-6.075 4.925-11 11-11h3"/></g></svg>';
+  static const String arrow_ramp_right_3 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6 3v6m10 7 4-4-4-4"/><path d="M6 21v-6a3 3 0 013-3h11"/></g></svg>';
   static const String arrow_right =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14m-6 6 6-6m-6-6 6 6"/></svg>';
   static const String arrow_right_bar =
@@ -203,6 +236,24 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12h14m-3 3 3-3-3-3M3 10h4v4H3z"/></svg>';
   static const String arrow_right_tail =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m18 15 3-3-3-3M3 15l3-3-3-3m3 3h15"/></svg>';
+  static const String arrow_rotary_first_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="16" cy="7" r="3" transform="matrix(-1 0 0 1 32 0)"/><path d="M16 10v10M13.5 9.5 5 18m5 0H5v-5"/></g></svg>';
+  static const String arrow_rotary_first_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="8" cy="7" r="3"/><path d="M8 10v10m2.5-10.5L19 18m-5 0h5v-5"/></g></svg>';
+  static const String arrow_rotary_last_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="15" cy="12" r="3" transform="matrix(-1 0 0 1 30 0)"/><path d="M15 15v6M12.5 9.5 6 3m5 0H6v5"/></g></svg>';
+  static const String arrow_rotary_last_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="9" cy="12" r="3"/><path d="M9 15v6m2.5-11.5L18 3m-5 0h5v5"/></g></svg>';
+  static const String arrow_rotary_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="16" cy="7" r="3" transform="matrix(-1 0 0 1 32 0)"/><path d="M16 10v10M13 7H3m4 4L3 7l4-4"/></g></svg>';
+  static const String arrow_rotary_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="8" cy="7" r="3"/><path d="M8 10v10m9-9 4-4-4-4m-6 4h10"/></g></svg>';
+  static const String arrow_rotary_straight =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="13" cy="13" r="3"/><path d="M13 16v5m0-18v7M9 7l4-4 4 4"/></g></svg>';
+  static const String arrow_sharp_turn_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M17 18V6.69a.7.7 0 00-1.195-.495L6 16"/><path d="M11 16H6v-5"/></g></svg>';
+  static const String arrow_sharp_turn_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M7 18V6.69a.7.7 0 011.195-.495L18 16"/><path d="M13 16h5v-5"/></g></svg>';
   static const String arrow_top_bar =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21V3m3 3-3-3-3 3m0 15h6"/></svg>';
   static const String arrow_top_circle =
@@ -319,6 +370,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 13v.01M4 9v.01M4 5v.01M17 20l3-3-3-3M4 17h16"/></svg>';
   static const String axis_y =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 20h-.01M15 20h-.01M19 20h-.01M4 7l3-3 3 3M7 20V4"/></svg>';
+  static const String baby_carriage =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="8" cy="19" r="2"/><circle cx="18" cy="19" r="2"/><path d="M2 5h2.5l1.632 4.897A6 6 0 0011.825 14H14.5a5.5 5.5 0 000-11H14v6M6 9h14M9 17l1-3m6 0 1 3"/></g></svg>';
   static const String backhoe =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="4" cy="17" r="2"/><circle cx="13" cy="17" r="2"/><path d="M13 19H4m0-4h9m-5-3V7h2a3 3 0 013 3v5"/><path d="M5 15v-2a1 1 0 011-1h7m8.12-2.12L18 5l-5 5m8.12-.12A3 3 0 0119 15a3 3 0 01-2.12-.88l4.24-4.24z"/></g></svg>';
   static const String backpack =
@@ -347,6 +400,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 12a8 8 0 008 4M7.5 13.5A12 12 0 0016 20"/><path d="M12 12a8 8 0 00-7.464 4.928m8.415-9.575a12 12 0 00-9.88 4.111"/><path d="M12 12a8 8 0 00-.536-8.928m4.085 12.075a12 12 0 001.38-10.611"/></g></svg>';
   static const String ballon =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 8a2 2 0 00-2-2"/><path d="M6 8a6 6 0 1112 0c0 4.97-2.686 9-6 9s-6-4.03-6-9m6 9v1a2 2 0 01-2 2H7a2 2 0 00-2 2"/></g></svg>';
+  static const String ballpen =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m14 6 7 7-4 4"/><path d="M5.828 18.172a2.828 2.828 0 004 0L20.414 7.586a2 2 0 000-2.829l-1.171-1.171a2 2 0 00-2.829 0L5.828 14.172a2.828 2.828 0 000 4zM4 20l1.768-1.768"/></g></svg>';
   static const String ban =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="m5.7 5.7 12.6 12.6"/></g></svg>';
   static const String bandage =
@@ -355,6 +410,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 12h1m3-4H4a1 1 0 00-1 1v6a1 1 0 001 1h2m0-9v10a1 1 0 001 1h1a1 1 0 001-1V7a1 1 0 00-1-1H7a1 1 0 00-1 1zm3 5h6m0-5v10a1 1 0 001 1h1a1 1 0 001-1V7a1 1 0 00-1-1h-1a1 1 0 00-1 1zm3 1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2m4-4h-1"/></svg>';
   static const String barcode =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7V6a2 2 0 012-2h2M4 17v1a2 2 0 002 2h2m8-16h2a2 2 0 012 2v1m-4 13h2a2 2 0 002-2v-1M5 11h1v2H5zm5 0v2m4-2h1v2h-1zm5 0v2"/></svg>';
+  static const String barell =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6.222 4h11.556C19.259 6.37 20 9.037 20 12s-.74 5.63-2.222 8H6.222C4.741 17.63 4 14.963 4 12s.74-5.63 2.222-8z"/><path d="M15 4c.667 2.667 1 5.333 1 8s-.333 5.333-1 8M9 4c-.667 2.667-1 5.333-1 8s.333 5.333 1 8m-4.5-4h15m0-8h-15"/></g></svg>';
   static const String barrier_block =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="9" x="4" y="7" rx="1"/><path d="M7 16v4m.5-4 9-9m-3 9L20 9.5m-16 4L10.5 7m6.5 9v4M5 20h4m6 0h4M17 7V5M7 7V5"/></g></svg>';
   static const String baseline =
@@ -401,6 +458,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 5a2 2 0 014 0 7 7 0 014 6v3a4 4 0 002 3H4a4 4 0 002-3v-3a7 7 0 014-6M9 17v1a3 3 0 006 0v-1m6-10.273A11.05 11.05 0 0018.206 3M3 6.727A11.05 11.05 0 015.792 3"/></svg>';
   static const String bell_ringing_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M19.364 4.636a2 2 0 010 2.828 7 7 0 01-1.414 7.072l-2.122 2.12a4 4 0 00-.707 3.536L3.808 8.88a4 4 0 003.535-.707L9.464 6.05a7 7 0 017.072-1.414 2 2 0 012.828 0z"/><path d="m7.343 12.414-.707.707a3 3 0 004.243 4.243l.707-.707"/></g></svg>';
+  static const String bell_school =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="10" cy="10" r="6"/><path d="M13.5 15h.5a2 2 0 012 2v1a2 2 0 01-2 2H6a2 2 0 01-2-2v-1a2 2 0 012-2h.5m9.5 2a5.698 5.698 0 004.467-7.932L20 8m-10 2v.01"/><circle cx="20" cy="8" r="1"/></g></svg>';
   static const String bell_x =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 5a2 2 0 114 0 7 7 0 014 6v3a4 4 0 002 3H4a4 4 0 002-3v-3a7 7 0 014-6M9 17v1a3 3 0 006 0v-1m-4.5-7.5 3 3m0-3-3 3"/></svg>';
   static const String bell_z =
@@ -421,6 +480,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 8 10 8-5 4V4l5 4-10 8m-3-4h1m13 0h1"/></svg>';
   static const String bluetooth_off =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m3 3 18 18m-4.562-4.55L12 20v-8m0-4V4l5 4-2.776 2.22m-2.222 1.779-5 4"/></svg>';
+  static const String bluetooth_x =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 8 10 8-5 4V4l1.003.802m0 6.396L7 16m9-10 4 4m0-4-4 4"/></svg>';
   static const String blur =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21a9.01 9.01 0 002.32-.302 9.004 9.004 0 001.74-16.733A9 9 0 1012 21zm0-18v17m0-8h9m-9-3h8m-8-3h6m-6 12h6m-6-3h8"/></svg>';
   static const String bold =
@@ -435,6 +496,10 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 19a9 9 0 019 0 9 9 0 019 0M3 6a9 9 0 019 0 9 9 0 019 0M3 6v13m9-13v13m9-13v13"/></svg>';
   static const String book_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M19 4v16H7a2 2 0 01-2-2V6a2 2 0 012-2h12z"/><path d="M19 16H7a2 2 0 00-2 2M9 8h6"/></g></svg>';
+  static const String book_download =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 20H6a2 2 0 01-2-2V6a2 2 0 012-2h12v5"/><path d="M13 16H6a2 2 0 00-2 2m11 1 3 3 3-3m-3 3v-9"/></g></svg>';
+  static const String book_upload =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 20H6a2 2 0 01-2-2V6a2 2 0 012-2h12v5"/><path d="M11 16H6a2 2 0 00-2 2m11-2 3-3 3 3m-3-3v9"/></g></svg>';
   static const String bookmark =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 4h6a2 2 0 012 2v14l-5-3-5 3V6a2 2 0 012-2"/></svg>';
   static const String bookmark_off =
@@ -613,6 +678,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="14" cy="12" r="3"/><path d="M12 9.765a3 3 0 100 4.47"/><rect width="18" height="14" x="3" y="5" rx="2"/></g></svg>';
   static const String brand_medium =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><path d="M8 9h1l3 3 3-3h1m-8 6h2m4 0h2M9 9v6m6-6v6"/></g></svg>';
+  static const String brand_mercedes =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3v9m0 0 7 5m-7-5-7 5"/></g></svg>';
   static const String brand_messenger =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m3 20 1.3-3.9A9 8 0 117.7 19L3 20"/><path d="m8 13 3-2 2 2 3-2"/></g></svg>';
   static const String brand_meta =
@@ -771,6 +838,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 21h18M4 21V10l2.5-4.5L12 3l5.5 2.5L20 10v11"/><circle cx="12" cy="9" r="2"/><path d="M9 21v-5a1 1 0 011-1h4a1 1 0 011 1v5"/></g></svg>';
   static const String building_factory =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 21c1.147-4.02 1.983-8.027 2-12h6c.017 3.973.853 7.98 2 12"/><path d="M12.5 13H17c.025 2.612.894 5.296 2 8M9 5a2.4 2.4 0 012-1 2.4 2.4 0 012 1 2.4 2.4 0 002 1 2.4 2.4 0 002-1 2.4 2.4 0 012-1 2.4 2.4 0 012 1M3 21h19"/></g></svg>';
+  static const String building_factory_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 21h18M5 21V9l5 4V9l5 4h4"/><path d="M19 21v-8l-1.436-9.574A.5.5 0 0017.069 3h-1.145a.5.5 0 00-.494.418L14 12m-5 5h1m4 0h1"/></g></svg>';
   static const String building_fortress =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h1a1 1 0 001-1v-1h0a3 3 0 016 0m3 2h1a1 1 0 001-1V5l-3-2-3 2v6h-4V5L7 3 4 5v15a1 1 0 001 1h2m8-2v1a1 1 0 001 1h2M7 7h0v.01M7 10h0v.01M7 13h0v.01M17 7h0v.01M17 10h0v.01M17 13h0v.01"/></svg>';
   static const String building_hospital =
@@ -865,8 +934,24 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 19h.01M7 19a4 4 0 00-4-4m8 4a8 8 0 00-8-8"/><path d="M15 19h3a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-2.8 2"/></g></svg>';
   static const String ce =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a8 8 0 100 16m9-16a8 8 0 100 16m-8-8h8"/></svg>';
+  static const String cell =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 4 4 6v5l4 2 4-2V6zm4 7 4 2 4-2V6l-4-2-4 2m-4 7v5l4 2 4-2v-5"/></svg>';
+  static const String cell_signal_1 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 20H4.731a.731.731 0 01-.517-1.249L18.751 4.214A.731.731 0 0120 4.731V20z"/></svg>';
+  static const String cell_signal_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 20H4.731a.731.731 0 01-.517-1.249L18.751 4.214A.731.731 0 0120 4.731V20zM8 20v-5"/></svg>';
+  static const String cell_signal_3 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 20H4.731a.731.731 0 01-.517-1.249L18.751 4.214A.731.731 0 0120 4.731V20zm-8 0v-9"/></svg>';
+  static const String cell_signal_4 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 20H4.731a.731.731 0 01-.517-1.249L18.751 4.214A.731.731 0 0120 4.731V20zM16 7v13"/></svg>';
+  static const String cell_signal_5 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 20H4.731a.731.731 0 01-.517-1.249L18.751 4.214A.731.731 0 0120 4.731V20zM16 7v13m-4 0v-9m-4 9v-5"/></svg>';
+  static const String cell_signal_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 20H4.731a.731.731 0 01-.517-1.249l7.265-7.264m2-2.001 5.272-5.272A.731.731 0 0120 4.731V16M3 3l18 18"/></svg>';
   static const String certificate =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="15" cy="15" r="3"/><path d="M13 17.5V22l2-1.5 2 1.5v-4.5"/><path d="M10 19H5a2 2 0 01-2-2V7c0-1.1.9-2 2-2h14a2 2 0 012 2v10a2 2 0 01-1 1.73M6 9h12M6 12h3m-3 3h2"/></g></svg>';
+  static const String certificate_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="15" r="3"/><path d="M10 7h4m-4 11v4l2-1 2 1v-4"/><path d="M10 19H8a2 2 0 01-2-2V5a2 2 0 012-2h8a2 2 0 012 2v12a2 2 0 01-2 2h-2"/></g></svg>';
   static const String charging_pile =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m18 7-1 1m-3 3h1a2 2 0 012 2v3a1.5 1.5 0 003 0V9l-3-3M4 20V6a2 2 0 012-2h6a2 2 0 012 2v14"/><path d="M9 11.5 7.5 14h3L9 16.5M3 20h12M4 8h10"/></g></svg>';
   static const String chart_arcs =
@@ -917,6 +1002,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m5 12 5 5L20 7"/></svg>';
   static const String checkbox =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m9 11 3 3 8-8"/><path d="M20 12v6a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2h9"/></g></svg>';
+  static const String checklist =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.615 20H7a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v8m-3 5 2 2 4-4M9 8h4m-4 4h2"/></svg>';
   static const String checks =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 12 5 5L22 7M2 12l5 5m5-5 5-5"/></svg>';
   static const String checkup_list =
@@ -1023,6 +1110,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"/><rect width="6" height="4" x="9" y="3" rx="2"/><path d="M9 12h.01M13 12h2m-6 4h.01M13 16h2"/></g></svg>';
   static const String clipboard_plus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"/><rect width="6" height="4" x="9" y="3" rx="2"/><path d="M10 14h4m-2-2v4"/></g></svg>';
+  static const String clipboard_text =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"/><rect width="6" height="4" x="9" y="3" rx="2"/><path d="M9 12h6m-6 4h6"/></g></svg>';
   static const String clipboard_x =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"/><rect width="6" height="4" x="9" y="3" rx="2"/><path d="m10 12 4 4m0-4-4 4"/></g></svg>';
   static const String clock =
@@ -1131,6 +1220,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 18v-6a3 3 0 013-3h7"/><path d="m10 13 4-4-4-4m5 8 4-4-4-4"/></g></svg>';
   static const String cpu =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="14" x="5" y="5" rx="1"/><path d="M9 9h6v6H9zm-6 1h2m-2 4h2m5-11v2m4-2v2m7 5h-2m2 4h-2m-5 7v-2m-4 2v-2"/></g></svg>';
+  static const String cpu_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="14" x="5" y="5" rx="1"/><path d="M8 10V8h2m6 6v2h-2m-4 0H8v-2m8-4V8h-2M3 10h2m-2 4h2m5-11v2m4-2v2m7 5h-2m2 4h-2m-5 7v-2m-4 2v-2"/></g></svg>';
   static const String crane =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6 21h6m-3 0V3L3 9h18M9 3l10 6"/><path d="M17 9v4a2 2 0 11-2 2"/></g></svg>';
   static const String creative_commons =
@@ -1161,7 +1252,7 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="7"/><path d="m4 4 3 3m13-3-3 3M4 20l3-3m13 3-3-3"/></g></svg>';
   static const String currency_bahraini =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10v1a4 4 0 004 4h2a2 2 0 002-2v-3m-4 9.01V19m7-3.99V15m3 0h2.004a2 2 0 001.649-3.131L18 8"/></svg>';
-  static const String currency_bath =
+  static const String currency_baht =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 6h5a3 3 0 013 3v.143A2.857 2.857 0 0113.143 12H8m0 0h5a3 3 0 013 3v.143A2.857 2.857 0 0113.143 18H8M8 6v12m3-14v2m0 12v2"/></svg>';
   static const String currency_bitcoin =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 6h8a3 3 0 010 6 3 3 0 010 6H6M8 6v12m0-6h6M9 3v3m4-3v3M9 18v3m4-3v3"/></svg>';
@@ -1269,26 +1360,38 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6 4h10l4 4v10a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2"/><circle cx="12" cy="14" r="2"/><path d="M14 4v4H8V4"/></g></svg>';
   static const String device_gamepad =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="20" height="12" x="2" y="6" rx="2"/><path d="M6 12h4m-2-2v4m7-3v.01M18 13v.01"/></g></svg>';
+  static const String device_heart_monitor =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><path d="M4 9h6l1-2 2 4 1-2h6M4 14h16m-6 3v.01m3-.01v.01"/></g></svg>';
   static const String device_laptop =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 19h18"/><rect width="14" height="10" x="5" y="6" rx="1"/></g></svg>';
+  static const String device_laptop_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 19h16M10 6h8a1 1 0 011 1v8m-3 1H6a1 1 0 01-1-1V7a1 1 0 011-1M3 3l18 18"/></svg>';
   static const String device_mobile =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="10" height="16" x="7" y="4" rx="1"/><path d="M11 5h2m-1 12v.01"/></g></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="12" height="18" x="6" y="3" rx="2"/><path d="M11 4h2m-1 13v.01"/></g></svg>';
   static const String device_mobile_message =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M11 3h10v8h-3l-4 2v-2h-3z"/><path d="M15 16v4a1 1 0 01-1 1H6a1 1 0 01-1-1V6a1 1 0 011-1h2m2 13v.01"/></g></svg>';
+  static const String device_mobile_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7.174 3.178C7.426 3.064 7.705 3 8 3h8a2 2 0 012 2v9m0 4v1a2 2 0 01-2 2H8a2 2 0 01-2-2V6m5-2h2m-1 13v.01M3 3l18 18"/></svg>';
   static const String device_mobile_rotated =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="rotate(90 12 12)"><rect width="10" height="16" x="7" y="4" rx="1"/><path d="M11 5h2m-1 12v.01"/></g></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="12" x="3" y="6" rx="2"/><path d="M20 11v2M7 12h-.01"/></g></svg>';
   static const String device_mobile_vibration =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="10" height="16" x="4" y="4" rx="1"/><path d="M8 5h2M9 17v.01M20 6l-2 3 2 3-2 3 2 3"/></g></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="12" height="18" x="3" y="3" rx="2"/><path d="M8 4h2M9 17v.01M21 6l-2 3 2 3-2 3 2 3"/></g></svg>';
   static const String device_nintendo =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 20V4H7a4 4 0 00-4 4v8a4 4 0 004 4h3zm4 0V4h3a4 4 0 014 4v8a4 4 0 01-4 4h-3z"/><circle cx="17.5" cy="15.5" r="1"/><circle cx="6.5" cy="8.5" r="1"/></g></svg>';
   static const String device_speaker =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="18" x="5" y="3" rx="2"/><circle cx="12" cy="14" r="3"/><path d="M12 7v.01"/></g></svg>';
   static const String device_tablet =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="18" x="5" y="3" rx="1"/><circle cx="12" cy="17" r="1"/></g></svg>';
+  static const String device_tablet_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M7 3h11a1 1 0 011 1v11m0 4v1a1 1 0 01-1 1H6a1 1 0 01-1-1V5"/><circle cx="12" cy="17" r="1"/><path d="m3 3 18 18"/></g></svg>';
   static const String device_tv =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="13" x="3" y="7" rx="2"/><path d="m16 3-4 4-4-4"/></g></svg>';
+  static const String device_tv_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 7h8a2 2 0 012 2v8m-1.178 2.824c-.25.113-.529.176-.822.176H5a2 2 0 01-2-2V9a2 2 0 012-2h2m9-4-4 4-4-4M3 3l18 18"/></svg>';
   static const String device_watch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="12" height="12" x="6" y="6" rx="3"/><path d="M9 18v3h6v-3M9 6V3h6v3"/></g></svg>';
+  static const String device_watch_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 6h5a3 3 0 013 3v5m-.882 3.125A2.99 2.99 0 0115 18H9a3 3 0 01-3-3V9c0-.828.336-1.578.878-2.121"/><path d="M9 18v3h6v-3M9 5V3h6v3M3 3l18 18"/></g></svg>';
   static const String device_watch_stats =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="12" height="12" x="6" y="6" rx="3"/><path d="M9 18v3h6v-3M9 6V3h6v3m-6 8v-4m3 4v-1m3 1v-3"/></g></svg>';
   static const String device_watch_stats_2 =
@@ -1297,14 +1400,30 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="8" height="12" x="13" y="8" rx="1"/><path d="M18 8V5a1 1 0 00-1-1H4a1 1 0 00-1 1v12a1 1 0 001 1h9m3-9h2"/></g></svg>';
   static const String devices_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 15H4a1 1 0 01-1-1V6a1 1 0 011-1h6"/><rect width="8" height="16" x="13" y="4" rx="1"/><path d="M7 19h3m7-11v.01"/><circle cx="17" cy="16" r="1"/><path d="M9 15v4"/></g></svg>';
+  static const String devices_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9a1 1 0 011-1h6a1 1 0 011 1v8m-1 3h-6a1 1 0 01-1-1v-6m5-5V5a1 1 0 00-1-1H8M4 4a1 1 0 00-1 1v12a1 1 0 001 1h9m3-9h2M3 3l18 18"/></svg>';
   static const String devices_pc =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h6v14H3zm9 4h10v7H12zm2 10h6m-3-3v3M6 13v.01M6 16v.01"/></svg>';
+  static const String dialpad =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h4v4H3zm14 0h4v4h-4zm-7 0h4v4h-4zm-7 7h4v4H3zm14 0h4v4h-4zm-7 0h4v4h-4zm0 7h4v4h-4z"/></svg>';
   static const String diamond =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6 5h12l3 5-8.5 9.5a.7.7 0 01-1 0L3 10l3-5"/><path d="M10 12 8 9.8l.6-1"/></g></svg>';
   static const String diamonds =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m10.831 20.413-5.375-6.91c-.608-.783-.608-2.223 0-3.005l5.375-6.911a1.457 1.457 0 012.338 0l5.375 6.91c.608.783.608 2.223 0 3.005l-5.375 6.911a1.457 1.457 0 01-2.338 0z"/></svg>';
   static const String dice =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><circle cx="8.5" cy="8.5" r=".5"/><circle cx="15.5" cy="8.5" r=".5"/><circle cx="15.5" cy="15.5" r=".5"/><circle cx="8.5" cy="15.5" r=".5"/></g></svg>';
+  static const String dice_1 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><circle cx="12" cy="12" r=".5"/></g></svg>';
+  static const String dice_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><circle cx="9.5" cy="9.5" r=".5"/><circle cx="14.5" cy="14.5" r=".5"/></g></svg>';
+  static const String dice_3 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><circle cx="8.5" cy="8.5" r=".5"/><circle cx="15.5" cy="15.5" r=".5"/><circle cx="12" cy="12" r=".5"/></g></svg>';
+  static const String dice_4 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><circle cx="8.5" cy="8.5" r=".5"/><circle cx="15.5" cy="8.5" r=".5"/><circle cx="15.5" cy="15.5" r=".5"/><circle cx="8.5" cy="15.5" r=".5"/></g></svg>';
+  static const String dice_5 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><circle cx="8.5" cy="8.5" r=".5"/><circle cx="15.5" cy="8.5" r=".5"/><circle cx="15.5" cy="15.5" r=".5"/><circle cx="8.5" cy="15.5" r=".5"/><circle cx="12" cy="12" r=".5"/></g></svg>';
+  static const String dice_6 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><circle cx="8.5" cy="7.5" r=".5"/><circle cx="15.5" cy="7.5" r=".5"/><circle cx="8.5" cy="12" r=".5"/><circle cx="15.5" cy="12" r=".5"/><circle cx="15.5" cy="16.5" r=".5"/><circle cx="8.5" cy="16.5" r=".5"/></g></svg>';
   static const String dimensions =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 5h11m-2 2 2-2-2-2M5 3 3 5l2 2m14 3v11m-2-2 2 2 2-2m0-7-2-2-2 2"/><rect width="11" height="11" x="3" y="10" rx="2"/></g></svg>';
   static const String direction =
@@ -1312,7 +1431,7 @@ class Tabler {
   static const String direction_horizontal =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m10 9-3 3 3 3m4-6 3 3-3 3"/></svg>';
   static const String directions =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5h10l2 2-2 2H9a1 1 0 01-1-1V6a1 1 0 011-1m4 8H6l-2 2 2 2h7a1 1 0 001-1v-2a1 1 0 00-1-1m-1 9v-5m0-4V9m0-4V3"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21v-4m0-4V9m0-4V3m-2 18h4M8 5v4h11l2-2-2-2zm6 8v4H6l-2-2 2-2z"/></svg>';
   static const String disabled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="11" cy="5" r="2"/><path d="M11 7v8h4l4 5m-8-9h5m-9 .5a5 5 0 106 7.5"/></g></svg>';
   static const String disabled_2 =
@@ -1429,6 +1548,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m4 20 10-10m0-5v5h5m-9-1v5h5m-9-1v5h5m-5-5 4-4 4-4"/><path d="M19 10c.638-.636 1-1.515 1-2.486A3.515 3.515 0 0016.483 4c-.97 0-1.847.367-2.483 1m-3 13 4-4 4-4"/></g></svg>';
   static const String fence =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 12v4h16v-4zm2 4v4h4v-4m0-4V6L8 4 6 6v6m8 4v4h4v-4m0-4V6l-2-2-2 2v6"/></svg>';
+  static const String fidget_spinner =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 17a3 3 0 11-1.543-2.623l2.087-3.754A3 3 0 0112 5a3 3 0 011.457 5.623l2.087 3.754a3 3 0 11-1.538 2.8L14 17h-4zm7 0v.01M7 17v.01M12 8v.01"/></svg>';
   static const String file =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M14 3v4a1 1 0 001 1h4"/><path d="M17 21H7a2 2 0 01-2-2V5a2 2 0 012-2h7l5 5v11a2 2 0 01-2 2z"/></g></svg>';
   static const String file_3d =
@@ -1689,6 +1810,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M8 13V4.5a1.5 1.5 0 013 0V12m0-.5v-2a1.5 1.5 0 013 0V12m0-1.5a1.5 1.5 0 013 0V12"/><path d="M17 11.5a1.5 1.5 0 013 0V16a6 6 0 01-6 6h-2 .208a6 6 0 01-5.012-2.7L7 19c-.312-.479-1.407-2.388-3.286-5.728a1.5 1.5 0 01.536-2.022 1.867 1.867 0 012.28.28L8 13M5 3 4 2m0 5H3m11-4 1-1m0 4h1"/></g></svg>';
   static const String hand_finger =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M8 13V4.5a1.5 1.5 0 013 0V12m0-.5v-2a1.5 1.5 0 113 0V12m0-1.5a1.5 1.5 0 013 0V12"/><path d="M17 11.5a1.5 1.5 0 013 0V16a6 6 0 01-6 6h-2 .208a6 6 0 01-5.012-2.7A69.74 69.74 0 017 19c-.312-.479-1.407-2.388-3.286-5.728a1.5 1.5 0 01.536-2.022 1.867 1.867 0 012.28.28L8 13"/></g></svg>';
+  static const String hand_grab =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M8 11V7.5a1.5 1.5 0 013 0V10m0-.5v-3a1.5 1.5 0 013 0V10m0-2.5a1.5 1.5 0 013 0V10"/><path d="M17 9.5a1.5 1.5 0 013 0V14a6 6 0 01-6 6h-2 .208a6 6 0 01-5.012-2.7L7 17c-.312-.479-1.407-2.388-3.286-5.728A1.5 1.5 0 014.25 9.25a1.867 1.867 0 012.28.28L8 11"/></g></svg>';
   static const String hand_little_finger =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M8 13v-2.5a1.5 1.5 0 013 0V12m0-.5v-1a1.5 1.5 0 013 0V12"/><path d="M17 12V6.5a1.5 1.5 0 013 0V16a6 6 0 01-6 6h-2 .208a6 6 0 01-5.012-2.7A69.74 69.74 0 017 19c-.312-.479-1.407-2.388-3.286-5.728a1.5 1.5 0 01.536-2.022 1.867 1.867 0 012.28.28L8 13"/><path d="M14 10.5a1.5 1.5 0 013 0V12"/></g></svg>';
   static const String hand_middle_finger =
@@ -1757,6 +1880,10 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.5 10A1.5 1.5 0 017 8.5a5.5 5.5 0 0111 0V19a2 2 0 01-2 2H9a2 2 0 01-2-2v-2c0-1.38.71-2.444 1.88-3.175l4.424-2.765C14.359 10.4 15 9.744 15 8.5a2.5 2.5 0 10-5 0A1.5 1.5 0 018.5 10z"/></svg>';
   static const String hourglass =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6.5 7h11m-11 10h11M6 20v-2a6 6 0 1112 0v2a1 1 0 01-1 1H7a1 1 0 01-1-1z"/><path d="M6 4v2a6 6 0 1012 0V4a1 1 0 00-1-1H7a1 1 0 00-1 1z"/></g></svg>';
+  static const String hourglass_high =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6.5 7h11M6 20v-2a6 6 0 1112 0v2a1 1 0 01-1 1H7a1 1 0 01-1-1z"/><path d="M6 4v2a6 6 0 1012 0V4a1 1 0 00-1-1H7a1 1 0 00-1 1z"/></g></svg>';
+  static const String hourglass_low =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6.5 17h11M6 20v-2a6 6 0 1112 0v2a1 1 0 01-1 1H7a1 1 0 01-1-1z"/><path d="M6 4v2a6 6 0 1012 0V4a1 1 0 00-1-1H7a1 1 0 00-1 1z"/></g></svg>';
   static const String ice_cream =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21.5V17m-4 0h8V7a4 4 0 10-8 0v10zm0-6.5L16 7m-8 7.5 8-3.5"/></svg>';
   static const String ice_cream_2 =
@@ -1767,6 +1894,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="16" x="3" y="4" rx="3"/><circle cx="9" cy="10" r="2"/><path d="M15 8h2m-2 4h2M7 16h10"/></g></svg>';
   static const String id_badge =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="18" x="5" y="3" rx="3"/><circle cx="12" cy="13" r="2"/><path d="M10 6h4M9 18h6"/></g></svg>';
+  static const String id_badge_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M7 12h3v4H7z"/><path d="M10 6H4a1 1 0 00-1 1v12a1 1 0 001 1h16a1 1 0 001-1V7a1 1 0 00-1-1h-6"/><rect width="4" height="5" x="10" y="3" rx="1"/><path d="M14 16h2m-2-4h4"/></g></svg>';
   static const String inbox =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><path d="M4 13h3l3 3h4l3-3h3"/></g></svg>';
   static const String indent_decrease =
@@ -2009,6 +2138,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 13V5a2 2 0 012-2h1a2 2 0 012 2v8a2 2 0 006 0V5a2 2 0 012-2h1a2 2 0 012 2v8a8 8 0 01-16 0m0-5h5m6 0h4"/></svg>';
   static const String mail =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="14" x="3" y="5" rx="2"/><path d="m3 7 9 6 9-6"/></g></svg>';
+  static const String mail_fast =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 7h3m-3 4h2m4.02-2.199-.6 6A2 2 0 0010.41 17h7.98a2 2 0 001.99-1.801l.6-6A2 2 0 0018.99 7h-7.98a2 2 0 00-1.99 1.801z"/><path d="m9.8 7.5 2.982 3.28a3 3 0 004.238.202L20.3 8"/></g></svg>';
   static const String mail_forward =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 18H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v7.5"/><path d="m3 6 9 6 9-6m-6 12h6m-3-3 3 3-3 3"/></g></svg>';
   static const String mail_opened =
@@ -2073,6 +2204,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m12 20-3-3H7a3 3 0 01-3-3V8a3 3 0 013-3h10a3 3 0 013 3v6a3 3 0 01-3 3h-2l-3 3M8 9h8m-8 4h6"/></svg>';
   static const String message_2_code =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m12 20-3-3H7a3 3 0 01-3-3V8a3 3 0 013-3h10a3 3 0 013 3v6a3 3 0 01-3 3h-2l-3 3"/><path d="m10 9-2 2 2 2m4-4 2 2-2 2"/></g></svg>';
+  static const String message_2_share =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 4h4v4m-1 3v3a3 3 0 01-3 3h-2l-3 3-3-3H7a3 3 0 01-3-3V8a3 3 0 013-3h7m2 4 5-5"/></svg>';
   static const String message_circle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m3 20 1.3-3.9A9 8 0 117.7 19L3 20m9-8v.01M8 12v.01m8-.01v.01"/></svg>';
   static const String message_circle_2 =
@@ -2091,6 +2224,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 21V8a3 3 0 013-3h10a3 3 0 013 3v6a3 3 0 01-3 3H8l-4 4m6-10h4m-2-2v4"/></svg>';
   static const String message_report =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 21V8a3 3 0 013-3h10a3 3 0 013 3v6a3 3 0 01-3 3H8l-4 4m8-13v3m0 3v.01"/></svg>';
+  static const String message_share =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 11v3a3 3 0 01-3 3H8l-4 4V8a3 3 0 013-3h7m3-1h4v4m-5 1 5-5"/></svg>';
   static const String messages =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m21 14-3-3h-7a1 1 0 01-1-1V4a1 1 0 011-1h9a1 1 0 011 1v10m-7 1v2a1 1 0 01-1 1H6l-3 3V11a1 1 0 011-1h2"/></svg>';
   static const String messages_off =
@@ -2103,7 +2238,7 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m3 3 18 18M9 5a3 3 0 016 0v5a3 3 0 01-.13.874m-2 2A3 3 0 019 10.002v-1"/><path d="M5 10a7 7 0 0010.846 5.85m2.002-2A6.967 6.967 0 0019 10M8 21h8m-4-4v4"/></g></svg>';
   static const String microscope =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 21h14M6 18h2m-1 0v3m2-10 3 3 6-6-3-3zm1.5 1.5L9 14m8-11 3 3m-8 15a6 6 0 003.715-10.712"/></svg>';
-  static const String miliraty_award =
+  static const String military_award =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="13" r="4"/><path d="M9 10 8 8H3l2.48 5.788A2 2 0 007.32 15H8.5m6.5-5 1-2h5l-2.48 5.788A2 2 0 0116.68 15H15.5"/></g></svg>';
   static const String military_rank =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M17 7v13H7V7l5-3z"/><path d="m10 13 2-1 2 1m-4 4 2-1 2 1m-4-8 2-1 2 1"/></g></svg>';
@@ -2239,6 +2374,10 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 9v5a5 5 0 0010 0V9M5 5h14"/></svg>';
   static const String package =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m12 3 8 4.5v9L12 21l-8-4.5v-9L12 3m0 9 8-4.5M12 12v9m0-9L4 7.5m12-2.25-8 4.5"/></svg>';
+  static const String packge_export =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m12 21-8-4.5v-9L12 3l8 4.5V12m-8 0 8-4.5M12 12v9m0-9L4 7.5M15 18h7m-3-3 3 3-3 3"/></svg>';
+  static const String packge_import =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m12 21-8-4.5v-9L12 3l8 4.5V12m-8 0 8-4.5M12 12v9m0-9L4 7.5M22 18h-7m3-3-3 3 3 3"/></svg>';
   static const String pacman =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M5.636 5.636a9 9 0 0113.397.747L13.414 12l5.619 5.617A9 9 0 115.636 5.636z"/><circle cx="11.5" cy="7.5" r="1"/></g></svg>';
   static const String page_break =
@@ -2271,6 +2410,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 20h4L18.5 9.5a1.5 1.5 0 00-4-4L4 16v4m9.5-13.5 4 4"/></svg>';
   static const String pennant =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 21h4m-2 0V3m0 1 9 4-9 4"/></svg>';
+  static const String pennant_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 21h-4m2 0V3m0 1L5 8l9 4"/></svg>';
   static const String pentagon =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m13.2 3.394 7.033 5.237a2 2 0 01.7 2.247l-2.973 8.764A2 2 0 0116.066 21h-8.12a2 2 0 01-1.9-1.373L3.15 10.862a2 2 0 01.696-2.225L10.804 3.4a2 2 0 012.397-.006z"/></svg>';
   static const String pepper =
@@ -2579,6 +2720,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16M8 8l-4 4 4 4m8 0 4-4-4-4"/></svg>';
   static const String server =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="8" x="3" y="4" rx="3"/><rect width="18" height="8" x="3" y="12" rx="3"/><path d="M7 8v.01M7 16v.01"/></g></svg>';
+  static const String server_2 =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="8" x="3" y="4" rx="3"/><rect width="18" height="8" x="3" y="12" rx="3"/><path d="M7 8v.01M7 16v.01M11 8h6m-6 8h6"/></g></svg>';
   static const String servicemark =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 9H6.5a1.5 1.5 0 000 3h1a1.5 1.5 0 010 3H5m8 0V9l3 4 3-4v6"/></svg>';
   static const String settings =
@@ -2629,6 +2772,10 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="6" cy="19" r="2"/><circle cx="17" cy="19" r="2"/><path d="M17 17H6V3H4"/><path d="m6 5 7.999.571m5.43 4.43L19 13H6M17 3l4 4m0-4-4 4"/></g></svg>';
   static const String shredder =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="16" height="5" x="4" y="10" rx="1"/><path d="M17 10V6a2 2 0 00-2-2H9a2 2 0 00-2 2v4m5 5v5m4-5v2m-8-2v3"/></g></svg>';
+  static const String sign_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 21h-4m2 0V11m0-5V3m4 3H8L6 8.5 8 11h10z"/></svg>';
+  static const String sign_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 21h4m-2 0V11m0-5V3M6 6h10l2 2.5-2 2.5H6z"/></svg>';
   static const String signature =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 17c3.333-3.333 5-6 5-8 0-3-1-3-2-3S3.968 7.085 4 9c.034 2.048 1.658 4.877 2.5 6C8 17 9 17.5 10 16l2-3c.333 2.667 1.333 4 3 4 .53 0 2.639-2 3-2 .517 0 1.517.667 3 2"/></svg>';
   static const String sitemap =
@@ -2807,7 +2954,7 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m5 7 8 10m-8 0 8-10m8 4h-4l3.5-4A1.73 1.73 0 0017 5"/></svg>';
   static const String swimming =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="16" cy="9" r="1"/><path d="m6 11 4-2 3.5 3-1.5 2m-9 2.75A2.4 2.4 0 004 17a2.4 2.4 0 002-1 2.4 2.4 0 012-1 2.4 2.4 0 012 1 2.4 2.4 0 002 1 2.4 2.4 0 002-1 2.4 2.4 0 012-1 2.4 2.4 0 012 1 2.4 2.4 0 002 1 2.4 2.4 0 001-.25"/></g></svg>';
-  static const String _switch =
+  static const String i_switch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 4h4v4m-4.25 1.25L19 4M5 19l4-4m6 4h4v-4M5 5l14 14"/></svg>';
   static const String switch_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 17h5l1.67-2.386m3.66-5.227L15 7h6"/><path d="m18 4 3 3-3 3M3 7h5l7 10h6"/><path d="m18 20 3-3-3-3"/></g></svg>';
@@ -2849,6 +2996,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="6" x="2" y="12" rx="3"/><path d="m6 12 1-5h5l3 5m6-3h-7.8"/></g></svg>';
   static const String target =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="1"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="9"/></g></svg>';
+  static const String telescope =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m6 21 6-5 6 5m-6-8v8m-8.706-7.322.166.281c.52.88 1.624 1.265 2.605.91l14.242-5.165a1.023 1.023 0 00.565-1.456l-2.62-4.705a1.087 1.087 0 00-1.447-.42l-.056.032-12.694 7.618c-1.02.613-1.357 1.897-.76 2.905zM14 5l3 5.5"/></svg>';
   static const String temperature =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 13.5a4 4 0 104 0V5a2 2 0 00-4 0v8.5M10 9h4"/></svg>';
   static const String temperature_celsius =
@@ -2870,7 +3019,7 @@ class Tabler {
   static const String test =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 9h18M3 9v6m0-6V5a2 2 0 012-2h4m12 6v6m0-6V5a2 2 0 00-2-2h-4M3 15v4a2 2 0 002 2h4m-6-6h18m0 0v4a2 2 0 01-2 2h-4M9 3v18M9 3h6M9 21h6m0-18v18"/></svg>';
   static const String test_pipe =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16 4 3 3L6.65 19.35a1.5 1.5 0 01-3-3L16 4m-6 6h6m3 5 1.5 1.6a2 2 0 11-3 0L19 15"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 8.04 7.878 20.164a2.857 2.857 0 11-4.041-4.04L15.959 4M7 13h8m4 2 1.5 1.6a2 2 0 11-3 0L19 15zM15 3l6 6"/></svg>';
   static const String text_direction_ltr =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 19h14m-2 2 2-2-2-2M16 4H9.5a3.5 3.5 0 000 7h.5m4 4V4m-4 11V4"/></svg>';
   static const String text_direction_rtl =
@@ -2889,6 +3038,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 11v8a1 1 0 01-1 1H4a1 1 0 01-1-1v-7a1 1 0 011-1h3a4 4 0 004-4V6a2 2 0 014 0v5h3a2 2 0 012 2l-1 5a2 3 0 01-2 2h-7a3 3 0 01-3-3"/></svg>';
   static const String ticket =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 5v2m0 4v2m0 4v2M5 5h14a2 2 0 012 2v3a2 2 0 000 4v3a2 2 0 01-2 2H5a2 2 0 01-2-2v-3a2 2 0 000-4V7a2 2 0 012-2"/></svg>';
+  static const String tie =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m12 22 4-4-2.5-11 .993-2.649A1 1 0 0013.557 3h-3.114a1 1 0 00-.936 1.351L10.5 7 8 18l4 4z"/><path d="M10.5 7h3l5 5.5"/></g></svg>';
   static const String tilt_shift =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M8.56 3.69a9 9 0 00-2.92 1.95M3.69 8.56A9 9 0 003 12m.69 3.44a9 9 0 001.95 2.92m2.92 1.95A9 9 0 0012 21m3.44-.69a9 9 0 002.92-1.95m1.95-2.92A9 9 0 0021 12m-.69-3.44a9 9 0 00-1.95-2.92m-2.92-1.95A9 9 0 0012 3"/><circle cx="12" cy="12" r="2"/></g></svg>';
   static const String timeline =
@@ -3093,6 +3244,8 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 12c2.76 0 5-2.01 5-4.5S14.76 3 12 3v9zm0 0c0 2.76 2.01 5 4.5 5s4.5-2.24 4.5-5h-9zm0 0c-2.76 0-5 2.01-5 4.5S9.24 21 12 21v-9zm0 0c0-2.76-2.01-5-4.5-5S3 9.24 3 12h9z"/></svg>';
   static const String window =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3c-3.866 0-7 3.272-7 7v10a1 1 0 001 1h12a1 1 0 001-1V10c0-3.728-3.134-7-7-7zM5 13h14M12 3v18"/></svg>';
+  static const String windsock =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 3v18m0-10 12-1V6L6 5m4 .5v5M14 6v4M4 21h4"/></svg>';
   static const String wiper =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="18" r="1"/><path d="m3 9 5.5 5.5a5 5 0 017 0L21 9A12 12 0 003 9m9 9L9.8 5.2"/></g></svg>';
   static const String wiper_wash =
@@ -3149,6 +3302,10 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="10" cy="10" r="7"/><path d="m8 8 4 4m0-4-4 4m13 9-6-6"/></g></svg>';
   static const String zoom_check =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="10" cy="10" r="7"/><path d="m21 21-6-6m-8-5 2 2 4-4"/></g></svg>';
+  static const String zoom_code =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="10" cy="10" r="7"/><path d="m21 21-6-6M8 8l-2 2 2 2m4-4 2 2-2 2"/></g></svg>';
+  static const String zoom_exclamation =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="10" cy="10" r="7"/><path d="m21 21-6-6m-5-2v.01M10 7v3"/></g></svg>';
   static const String zoom_in =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="10" cy="10" r="7"/><path d="M7 10h6m-3-3v6m11 8-6-6"/></g></svg>';
   static const String zoom_money =
@@ -3161,10 +3318,14 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 17v1a2 2 0 002 2h12a2 2 0 002-2v-1M8 16h8m-7.678-3.418 7.956.836m-7.491-4.25 7.826 1.664m-6.517-5.068 7.608 2.472"/></svg>';
   static const String buldozer =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="4" cy="17" r="2"/><circle cx="13" cy="17" r="2"/><path d="M18 13v6h3m-8 0H4m0-4h9m-5-3V7h2a3 3 0 013 3v5"/><path d="M5 15v-2a1 1 0 011-1h7m5 5h-3"/></g></svg>';
+  static const String currency_bath =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 6h5a3 3 0 013 3v.143A2.857 2.857 0 0113.143 12H8m0 0h5a3 3 0 013 3v.143A2.857 2.857 0 0113.143 18H8M8 6v12m3-14v2m0 12v2"/></svg>';
   static const String electric_scooter =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="18" cy="17" r="2"/><circle cx="6" cy="17" r="2"/><path d="M8 17h5a6 6 0 015-5V7a2 2 0 00-2-2h-1"/></g></svg>';
   static const String grid =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="6" height="6" x="4" y="4" rx="1"/><rect width="6" height="6" x="14" y="4" rx="1"/><rect width="6" height="6" x="4" y="14" rx="1"/><path d="M14 17h6m-3-3v6"/></g></svg>';
+  static const String miliraty_award =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="13" r="4"/><path d="M9 10 8 8H3l2.48 5.788A2 2 0 007.32 15H8.5m6.5-5 1-2h5l-2.48 5.788A2 2 0 0116.68 15H15.5"/></g></svg>';
   static const String sthetoscope =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M6 4H5a2 2 0 00-2 2v3.5h0a5.5 5.5 0 0011 0V6a2 2 0 00-2-2h-1"/><path d="M8 15a6 6 0 1012 0v-3m-9-9v2M6 3v2"/><circle cx="20" cy="10" r="2"/></g></svg>';
   static const String sunshine =
@@ -3177,11 +3338,12 @@ class Tabler {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="4" height="4" x="3" y="14" rx="1"/><rect width="4" height="4" x="17" y="14" rx="1"/><rect width="4" height="4" x="10" y="6" rx="1"/><path d="M10 8.5A6 6 0 005 14m9-5.5a6 6 0 015 5.5m-9-6H4m16 0h-6"/><circle cx="3" cy="8" r="1"/><circle cx="21" cy="8" r="1"/></g></svg>';
   static const String wave_triangle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12h4l3 8 4-16 3 8h4"/></svg>';
-  List iconsList = [
-    _2fa,
-    _3d_cube_sphere,
-    _3d_rotate,
+  static const List iconsList = [
+    i_2fa,
+    i_3d_cube_sphere,
+    i_3d_rotate,
     a_b,
+    abacus,
     access_point,
     access_point_off,
     accessible,
@@ -3238,6 +3400,10 @@ class Tabler {
     arrow_bar_to_right,
     arrow_bar_to_up,
     arrow_bar_up,
+    arrow_bear_left,
+    arrow_bear_left_2,
+    arrow_bear_right,
+    arrow_bear_right_2,
     arrow_big_down,
     arrow_big_down_line,
     arrow_big_down_lines,
@@ -3254,32 +3420,52 @@ class Tabler {
     arrow_bottom_circle,
     arrow_bottom_square,
     arrow_bottom_tail,
+    arrow_curve_left,
+    arrow_curve_right,
     arrow_down,
     arrow_down_circle,
     arrow_down_left,
     arrow_down_left_circle,
     arrow_down_right,
     arrow_down_right_circle,
+    arrow_fork,
     arrow_forward,
     arrow_forward_up,
     arrow_left,
     arrow_left_bar,
     arrow_left_circle,
+    arrow_left_right,
     arrow_left_square,
     arrow_left_tail,
     arrow_loop_left,
+    arrow_loop_left_2,
     arrow_loop_right,
+    arrow_loop_right_2,
+    arrow_merge,
     arrow_narrow_down,
     arrow_narrow_left,
     arrow_narrow_right,
     arrow_narrow_up,
     arrow_ramp_left,
+    arrow_ramp_left_2,
+    arrow_ramp_left_3,
     arrow_ramp_right,
+    arrow_ramp_right_2,
+    arrow_ramp_right_3,
     arrow_right,
     arrow_right_bar,
     arrow_right_circle,
     arrow_right_square,
     arrow_right_tail,
+    arrow_rotary_first_left,
+    arrow_rotary_first_right,
+    arrow_rotary_last_left,
+    arrow_rotary_last_right,
+    arrow_rotary_left,
+    arrow_rotary_right,
+    arrow_rotary_straight,
+    arrow_sharp_turn_left,
+    arrow_sharp_turn_right,
     arrow_top_bar,
     arrow_top_circle,
     arrow_top_square,
@@ -3338,6 +3524,7 @@ class Tabler {
     axe,
     axis_x,
     axis_y,
+    baby_carriage,
     backhoe,
     backpack,
     backspace,
@@ -3352,10 +3539,12 @@ class Tabler {
     ball_tennis,
     ball_volleyball,
     ballon,
+    ballpen,
     ban,
     bandage,
     barbell,
     barcode,
+    barell,
     barrier_block,
     baseline,
     basket,
@@ -3379,6 +3568,7 @@ class Tabler {
     bell_plus,
     bell_ringing,
     bell_ringing_2,
+    bell_school,
     bell_x,
     bell_z,
     bible,
@@ -3389,6 +3579,7 @@ class Tabler {
     bluetooth,
     bluetooth_connected,
     bluetooth_off,
+    bluetooth_x,
     blur,
     bold,
     bolt,
@@ -3396,6 +3587,8 @@ class Tabler {
     bone,
     book,
     book_2,
+    book_download,
+    book_upload,
     bookmark,
     bookmark_off,
     bookmarks,
@@ -3485,6 +3678,7 @@ class Tabler {
     brand_loom,
     brand_mastercard,
     brand_medium,
+    brand_mercedes,
     brand_messenger,
     brand_meta,
     brand_netbeans,
@@ -3564,6 +3758,7 @@ class Tabler {
     building_community,
     building_cottage,
     building_factory,
+    building_factory_2,
     building_fortress,
     building_hospital,
     building_lighthouse,
@@ -3611,7 +3806,15 @@ class Tabler {
     cash_banknote_off,
     cast,
     ce,
+    cell,
+    cell_signal_1,
+    cell_signal_2,
+    cell_signal_3,
+    cell_signal_4,
+    cell_signal_5,
+    cell_signal_off,
     certificate,
+    certificate_2,
     charging_pile,
     chart_arcs,
     chart_arcs_3,
@@ -3637,6 +3840,7 @@ class Tabler {
     chart_radar,
     check,
     checkbox,
+    checklist,
     checks,
     checkup_list,
     cheese,
@@ -3690,6 +3894,7 @@ class Tabler {
     clipboard_check,
     clipboard_list,
     clipboard_plus,
+    clipboard_text,
     clipboard_x,
     clock,
     cloud,
@@ -3744,6 +3949,7 @@ class Tabler {
     corner_up_right,
     corner_up_right_double,
     cpu,
+    cpu_2,
     crane,
     creative_commons,
     credit_card,
@@ -3759,7 +3965,7 @@ class Tabler {
     curly_loop,
     currency,
     currency_bahraini,
-    currency_bath,
+    currency_baht,
     currency_bitcoin,
     currency_cent,
     currency_dinar,
@@ -3813,24 +4019,38 @@ class Tabler {
     device_desktop_off,
     device_floppy,
     device_gamepad,
+    device_heart_monitor,
     device_laptop,
+    device_laptop_off,
     device_mobile,
     device_mobile_message,
+    device_mobile_off,
     device_mobile_rotated,
     device_mobile_vibration,
     device_nintendo,
     device_speaker,
     device_tablet,
+    device_tablet_off,
     device_tv,
+    device_tv_off,
     device_watch,
+    device_watch_off,
     device_watch_stats,
     device_watch_stats_2,
     devices,
     devices_2,
+    devices_off,
     devices_pc,
+    dialpad,
     diamond,
     diamonds,
     dice,
+    dice_1,
+    dice_2,
+    dice_3,
+    dice_4,
+    dice_5,
+    dice_6,
     dimensions,
     direction,
     direction_horizontal,
@@ -3893,6 +4113,7 @@ class Tabler {
     fall,
     feather,
     fence,
+    fidget_spinner,
     file,
     file_3d,
     file_alert,
@@ -4023,6 +4244,7 @@ class Tabler {
     hammer,
     hand_click,
     hand_finger,
+    hand_grab,
     hand_little_finger,
     hand_middle_finger,
     hand_move,
@@ -4057,11 +4279,14 @@ class Tabler {
     home_2,
     hotel_service,
     hourglass,
+    hourglass_high,
+    hourglass_low,
     ice_cream,
     ice_cream_2,
     ice_skating,
     id,
     id_badge,
+    id_badge_2,
     inbox,
     indent_decrease,
     indent_increase,
@@ -4183,6 +4408,7 @@ class Tabler {
     macro,
     magnet,
     mail,
+    mail_fast,
     mail_forward,
     mail_opened,
     mailbox,
@@ -4215,6 +4441,7 @@ class Tabler {
     message,
     message_2,
     message_2_code,
+    message_2_share,
     message_circle,
     message_circle_2,
     message_circle_off,
@@ -4224,13 +4451,14 @@ class Tabler {
     message_off,
     message_plus,
     message_report,
+    message_share,
     messages,
     messages_off,
     microphone,
     microphone_2,
     microphone_off,
     microscope,
-    miliraty_award,
+    military_award,
     military_rank,
     milk,
     minimize,
@@ -4298,6 +4526,8 @@ class Tabler {
     oval_vertical,
     overline,
     package,
+    packge_export,
+    packge_import,
     pacman,
     page_break,
     paint,
@@ -4314,6 +4544,7 @@ class Tabler {
     peace,
     pencil,
     pennant,
+    pennant_2,
     pentagon,
     pepper,
     percentage,
@@ -4468,6 +4699,7 @@ class Tabler {
     separator_horizontal,
     separator_vertical,
     server,
+    server_2,
     servicemark,
     settings,
     settings_automation,
@@ -4493,6 +4725,8 @@ class Tabler {
     shopping_cart_plus,
     shopping_cart_x,
     shredder,
+    sign_left,
+    sign_right,
     signature,
     sitemap,
     skateboard,
@@ -4582,7 +4816,7 @@ class Tabler {
     sunset,
     superscript,
     swimming,
-    _switch,
+    i_switch,
     switch_2,
     switch_3,
     switch_horizontal,
@@ -4603,6 +4837,7 @@ class Tabler {
     tallymarks,
     tank,
     target,
+    telescope,
     temperature,
     temperature_celsius,
     temperature_fahrenheit,
@@ -4623,6 +4858,7 @@ class Tabler {
     thumb_down,
     thumb_up,
     ticket,
+    tie,
     tilt_shift,
     timeline,
     tir,
@@ -4725,6 +4961,7 @@ class Tabler {
     wind,
     windmill,
     window,
+    windsock,
     wiper,
     wiper_wash,
     woman,
@@ -4753,14 +4990,18 @@ class Tabler {
     zodiac_virgo,
     zoom_cancel,
     zoom_check,
+    zoom_code,
+    zoom_exclamation,
     zoom_in,
     zoom_money,
     zoom_out,
     zoom_question,
     brand_stack_ofverflow,
     buldozer,
+    currency_bath,
     electric_scooter,
     grid,
+    miliraty_award,
     sthetoscope,
     sunshine,
     swiming,

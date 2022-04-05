@@ -1,3 +1,4 @@
+///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/fad
 class Fad {
   static const String adr =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" fill-rule="evenodd" d="M25 184c-.47 2.68-.227 4.354 1 6s4.563 2.464 8 2c3.437-.464 5.078-.958 6-4 .922-3.042 39.818-102.423 39.818-102.423 1.205-3.08 3.034-3.022 4.08.115l16.331 48.974c1.049 3.144 4.353 6.781 7.386 8.127 0 0 108.132 48.015 111.214 48.404 3.083.389 5.414.105 7.19-1.197 1.68-1.23 3.532-3.733 4.124-6 .591-2.267-1.12-5.898-3.343-7.28-2.223-1.38-109.625-46.556-109.625-46.556-2.026-.853-4.148-3.274-4.736-5.389 0 0-12.137-43.757-14.135-49.484-1.998-5.727-6.562-10.983-14.989-10.983-8.426 0-13.23 2.387-15.315 7.692-2.086 5.305-42.53 109.32-43 112z"/></svg>';
@@ -309,7 +310,7 @@ class Fad {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><g fill="currentColor" fill-rule="evenodd"><path d="M120.46 158.29c-30.166 8.65-61.631-8.792-70.281-38.957-8.65-30.165 8.792-61.63 38.957-70.28 30.165-8.65 61.63 8.792 70.28 38.957 4.417 15.403-1.937 38.002-9.347 50.872-.614 1.067 59.212 53.064 59.212 53.064l-17.427 17.63-53.514-56.72s-10.233 3.241-17.88 5.434zM104 144c22.091 0 40-17.909 40-40s-17.909-40-40-40-40 17.909-40 40 17.909 40 40 40z"/><path d="M111.912 80.047h-15.95v16.037H80v15.992h15.962V128h15.95v-15.924H128V96.084h-16.088z"/></g></svg>';
   static const String zoomout =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><g fill="currentColor" fill-rule="evenodd"><path d="M120.46 158.29c-30.166 8.65-61.631-8.792-70.281-38.957-8.65-30.165 8.792-61.63 38.957-70.28 30.165-8.65 61.63 8.792 70.28 38.957 4.417 15.403-1.937 38.002-9.347 50.872-.614 1.067 59.212 53.064 59.212 53.064l-17.427 17.63-53.514-56.72s-10.233 3.241-17.88 5.434zM104 144c22.091 0 40-17.909 40-40s-17.909-40-40-40-40 17.909-40 40 17.909 40 40 40z"/><path d="M80 96.084v15.992h48V96.084z"/></g></svg>';
-  List iconsList = [
+  static const List iconsList = [
     adr,
     adsr,
     ahdsr,
