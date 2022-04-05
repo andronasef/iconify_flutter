@@ -8,10 +8,10 @@
     <div>
       <Icon class="p-4 text-8xl" :icon="icon" />
     </div>
-    <div class="rounded-md bg-gray-200 md:w-2/5 dark:(bg-transparent border-1)">
+    <div class="rounded-md bg-gray-200 md:w-2/5 dark:(bg-transparent border-1) ">
       <div class="relative">
         <button
-          class="rounded-md bg-[#329672] text-white py-2 px-2 transform transition top-2 right-2 absolute dark:(bg-transparent border-1) hover:scale-105 active:scale-95"
+          class="rounded-md bg-[#329672] text-white py-2 px-2 transform transition top-2 right-2 absolute dark:(bg-transparent border-1) hover:scale-105 active:scale-95 "
           @click="copy()"
         >
           <span class="iconify" data-icon="ion:copy" />
@@ -74,7 +74,7 @@ function iconName() {
   let newName = transformedId.value.replace(/-/g, '_')
   newName = newName.split(':')[1]
   if (newName === iconSetName() || /^\W|^\d/gm.test(newName) || reservedWords.includes(newName))
-    newName = `_${newName}`
+    newName = `i_${newName}`
   return newName
 }
 
