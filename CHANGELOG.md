@@ -1,3 +1,8 @@
+## 0.0.4
+
+- Fix Icons starting with .\_xxxx don't work
+- Fix accessing IconList of any icon set
+
 ## 0.0.3
 
 - Improve compatibility
