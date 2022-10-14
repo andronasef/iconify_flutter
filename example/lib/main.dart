@@ -34,7 +34,20 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: const Iconify(Zondicons.airplane, color: Colors.blue, size: 100),
+      body: GridView.builder(
+          itemCount: Zondicons.list.length,
+          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: 6),
+          itemBuilder: (context, index) {
+            return FractionallySizedBox(
+              heightFactor: .5,
+              widthFactor: .5,
+              child: Iconify(
+                Zondicons.iconsList[index],
+                size: 25,
+              ),
+            );
+          }),
       appBar: AppBar(
         title: Text(widget.title),
       ),
