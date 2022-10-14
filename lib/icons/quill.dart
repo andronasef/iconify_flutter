@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/quill
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/quill
 class Quill {
   static const String activity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 16h6l4-11 6 22 4-11h6"/></svg>';

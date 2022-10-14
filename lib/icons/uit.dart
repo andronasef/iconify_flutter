@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/uit
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/uit
 class Uit {
   static const String adobe_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9.917 2.224A.5.5 0 009.5 2h-8a.5.5 0 00-.5.5v19a.5.5 0 00.96.194l8-19a.504.504 0 00-.043-.47zM2 19.024V3h6.747L2 19.024zM22.5 2h-8a.5.5 0 00-.46.694l8 19A.5.5 0 0023 21.5v-19a.5.5 0 00-.5-.5zM22 19.024 15.253 3H22v16.024zm-9.532-9.7A.498.498 0 0012.003 9H12a.5.5 0 00-.466.318l-3.5 9A.5.5 0 008.5 19h3.191l1.362 2.724A.5.5 0 0013.5 22h3a.5.5 0 00.468-.676l-4.5-12zM13.808 21l-1.36-2.724A.501.501 0 0012 18H9.23l2.761-7.099L15.778 21h-1.97z"/></svg>';

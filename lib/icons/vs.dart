@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/vs
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/vs
 class Vs {
   static const String i_0_square =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="1792" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1792 1792"><path fill="currentColor" d="M336 0h1120q139 0 237.5 98.5T1792 336v1120q0 139-98.5 237.5T1456 1792H336q-139 0-237.5-98.5T0 1456V336Q0 197 98.5 98.5T336 0zm560 1493q150 0 276.5-80t200.5-217.5 74-299.5-74-299.5T1172.5 379 896 299t-276.5 80T419 596.5 345 896t74 299.5T619.5 1413t276.5 80zm-77-271q40 10 75 10 127 0 216.5-97t89.5-239q0-107-56-195zm154-652q-40-10-75-10-128 1-217 97.5T592 896q0 107 56 195z"/></svg>';

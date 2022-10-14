@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/gala
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/gala
 class Gala {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"><circle cx="128" cy="128" r="112"/><path d="M80 128h96m-48-48v96"/></g></svg>';
@@ -60,10 +60,6 @@ class Gala {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 80 111.947-64.025M16 80l112 64M16 176l112 64m0-224 112 64m-112 64 112-64M128 240l112-64M16 128l112 64m0 0 111.947-63.998M16 128l42.032-23.987M16 176l42.033-24.009m181.914-23.989-41.98-23.987M240 176l-42.034-24.01"/></svg>';
   static const String lock =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"><path d="M48.003 208v-63.993M208.002 208v-64M80.003 240h96m31.999-32a32 32 0 01-32 32M48.003 208a32 32 0 0032 32m48-32v-32m-80.007-31.993a16 16 0 0116-16M208.002 144a16 16 0 00-16-16m-16-64a48 48 0 00-48-48"/><path d="M80.003 64a48 48 0 0148-48m-48 112V63.907m95.999.093v64m-111.999 0h128"/></g></svg>';
-  static const String menu_left =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm48 48v176"/></svg>';
-  static const String menu_right =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm112 48v176"/></svg>';
   static const String mouse =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M63.999 64.001c0 64.001-16 48.001-16 96.002m144.002-96.002c0-16 0-22.763-16-32M128 48v32.001M79.999 32s32-16 48.001-16c16 0 48.001 16 48.001 16m16 32.001c0 64.001 16 48.001 16 96.002m.001 0A80.002 80.002 0 01168 229.286a80.002 80.002 0 01-80.002 0 80.002 80.002 0 01-40-69.283m16.001-96.002c0-16 0-22.763 16-32"/></svg>';
   static const String multi =
@@ -88,6 +84,10 @@ class Gala {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"><path d="M48 16h160c17.728 0 32 14.272 32 32v160c0 17.728-14.272 32-32 32H48c-17.728 0-32-14.272-32-32V48c0-17.728 14.272-32 32-32zm16 48h16"/><path d="M96 80a16 16 0 01-16-16 16 16 0 0116-16 16 16 0 0116 16 16 16 0 01-16 16zm16-16h80m0 64h-16m-16 16a16 16 0 0116-16 16 16 0 01-16-16 16 16 0 01-16 16 16 16 0 0116 16zm-16-16H64m0 64h16m16 16a16 16 0 01-16-16 16 16 0 0116-16 16 16 0 0116 16 16 16 0 01-16 16zm16-16h80"/></g></svg>';
   static const String shield =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M128 239.894S32.091 207.924 32.091 128m0 0V32.091S64.061 16.106 128 16.106m0 223.788s95.909-31.97 95.909-111.894m0 0V32.091S191.939 16.106 128 16.106m0 223.788V16.106"/></svg>';
+  static const String sidebar_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm48 48v176"/></svg>';
+  static const String sidebar_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm112 48v176"/></svg>';
   static const String store =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><g fill="currentColor" stroke="currentColor" stroke-width="16"><path stroke-linecap="round" stroke-linejoin="round" d="M48 207.993V128m160 80v-80.144M32 16h192m-40 84a28 28 0 01-14 24.249 28 28 0 01-28 0A28 28 0 01128 100"/><path stroke-linecap="round" stroke-linejoin="round" d="M240 100a28 28 0 01-14 24.249 28 28 0 01-28 0A28 28 0 01184 100m-112 0a28 28 0 01-14 24.25 28 28 0 01-28 0A28 28 0 0116 100"/><path stroke-linecap="round" stroke-linejoin="round" d="M128 100a28 28 0 01-14 24.25 28 28 0 01-28 0A28 28 0 0172 100"/><path d="M16 100.003 32 16m192 0 16 84m-56 .001-8-84M72 100l8-84m48 84V16"/><path stroke-linecap="round" stroke-linejoin="round" d="M32 192h192"/><path d="M80 240h96"/><path stroke-linecap="round" stroke-linejoin="round" d="M208 208a32 32 0 01-32 32M48 208a32 32 0 0032 32"/></g></svg>';
   static const String terminal =
@@ -102,6 +102,10 @@ class Gala {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M48 48h112c17.728 0 32 14.272 32 32v96c0 17.728-14.272 32-32 32H48c-17.728 0-32-14.272-32-32V80c0-17.728 14.272-32 32-32zm144 112 48 32V64l-48 32"/></svg>';
   static const String window =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm143.964 48.093L192 16"/></svg>';
+  static const String menu_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm48 48v176"/></svg>';
+  static const String menu_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m16 64 224.938.093M48 16h159.911C225.63 16 240 30.282 240 48v160c0 17.718-14.282 32-32 32H48c-17.718 0-31.93-14.27-31.938-31.987L16 48c-.007-17.718 14.282-32 32-32Zm112 48v176"/></svg>';
   static const List iconsList = [
     add,
     airplay,
@@ -133,8 +137,6 @@ class Gala {
     issue,
     layer,
     lock,
-    menu_left,
-    menu_right,
     mouse,
     multi,
     orbit,
@@ -147,6 +149,8 @@ class Gala {
     select,
     settings,
     shield,
+    sidebar_left,
+    sidebar_right,
     store,
     terminal,
     tv,
@@ -154,5 +158,7 @@ class Gala {
     usb,
     video,
     window,
+    menu_left,
+    menu_right,
   ];
 }

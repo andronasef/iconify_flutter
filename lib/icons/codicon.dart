@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/codicon
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/codicon
 class Codicon {
   static const String account =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M16 7.992C16 3.58 12.416 0 8 0S0 3.58 0 7.992c0 2.43 1.104 4.62 2.832 6.09.016.016.032.016.032.032.144.112.288.224.448.336.08.048.144.111.224.175A7.98 7.98 0 008.016 16a7.98 7.98 0 004.48-1.375c.08-.048.144-.111.224-.16.144-.111.304-.223.448-.335.016-.016.032-.016.032-.032 1.696-1.487 2.8-3.676 2.8-6.106zm-8 7.001c-1.504 0-2.88-.48-4.016-1.279.016-.128.048-.255.08-.383a4.17 4.17 0 01.416-.991c.176-.304.384-.576.64-.816.24-.24.528-.463.816-.639.304-.176.624-.304.976-.4A4.15 4.15 0 018 10.342a4.185 4.185 0 012.928 1.166c.368.368.656.8.864 1.295.112.288.192.592.24.911A7.03 7.03 0 018 14.993zm-2.448-7.4a2.49 2.49 0 01-.208-1.024c0-.351.064-.703.208-1.023.144-.32.336-.607.576-.847.24-.24.528-.431.848-.575.32-.144.672-.208 1.024-.208.368 0 .704.064 1.024.208.32.144.608.336.848.575.24.24.432.528.576.847.144.32.208.672.208 1.023 0 .368-.064.704-.208 1.023a2.84 2.84 0 01-.576.848 2.84 2.84 0 01-.848.575 2.715 2.715 0 01-2.064 0 2.84 2.84 0 01-.848-.575 2.526 2.526 0 01-.56-.848zm7.424 5.306c0-.032-.016-.048-.016-.08a5.22 5.22 0 00-.688-1.406 4.883 4.883 0 00-1.088-1.135 5.207 5.207 0 00-1.04-.608 2.82 2.82 0 00.464-.383 4.2 4.2 0 00.624-.784 3.624 3.624 0 00.528-1.934 3.71 3.71 0 00-.288-1.47 3.799 3.799 0 00-.816-1.199 3.845 3.845 0 00-1.2-.8 3.72 3.72 0 00-1.472-.287 3.72 3.72 0 00-1.472.288 3.631 3.631 0 00-1.2.815 3.84 3.84 0 00-.8 1.199 3.71 3.71 0 00-.288 1.47c0 .352.048.688.144 1.007.096.336.224.64.4.927.16.288.384.544.624.784.144.144.304.271.48.383a5.12 5.12 0 00-1.04.624c-.416.32-.784.703-1.088 1.119a4.999 4.999 0 00-.688 1.406c-.016.032-.016.064-.016.08C1.776 11.636.992 9.91.992 7.992.992 4.14 4.144.991 8 .991s7.008 3.149 7.008 7.001a6.96 6.96 0 01-2.032 4.907z"/></svg>';
@@ -47,7 +47,13 @@ class Codicon {
   static const String bell =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M13.377 10.573a7.63 7.63 0 01-.383-2.38V6.195a5.115 5.115 0 00-1.268-3.446 5.138 5.138 0 00-3.242-1.722c-.694-.072-1.4 0-2.07.227-.67.215-1.28.574-1.794 1.053a4.923 4.923 0 00-1.208 1.675 5.067 5.067 0 00-.431 2.022v2.2a7.61 7.61 0 01-.383 2.37L2 12.343l.479.658h3.505c0 .526.215 1.04.586 1.412.37.37.885.586 1.412.586.526 0 1.04-.215 1.411-.586s.587-.886.587-1.412h3.505l.478-.658-.586-1.77zm-4.69 3.147a.997.997 0 01-.705.299.997.997 0 01-.706-.3.997.997 0 01-.3-.705h1.999a.939.939 0 01-.287.706zm-5.515-1.71.371-1.114a8.633 8.633 0 00.443-2.691V6.004c0-.563.12-1.113.347-1.616.227-.514.55-.969.969-1.34.419-.382.91-.67 1.436-.837.538-.18 1.1-.24 1.65-.18a4.147 4.147 0 012.597 1.4 4.133 4.133 0 011.004 2.776v2.01c0 .909.144 1.818.443 2.691l.371 1.113h-9.63v-.012z"/></svg>';
   static const String bell_dot =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M13 8.9c.1.6.2 1.1.4 1.7l.6 1.7-.5.7H10c0 .5-.2 1-.6 1.4-.4.4-.9.6-1.4.6-.5 0-1.1-.2-1.4-.6-.4-.4-.6-.9-.6-1.4H2.5l-.5-.7.6-1.7c.2-.8.4-1.6.4-2.4V6c0-.7.1-1.4.4-2 .3-.7.7-1.2 1.2-1.7s1.1-.8 1.8-1C6.9 1.1 7.5 1 8 1c-.2.3-.4.7-.6 1.1-.2 0-.4 0-.7.2-.5.1-1 .4-1.4.8-.4.3-.8.8-1 1.3-.2.5-.3 1-.3 1.6v2.2c0 .9-.2 1.8-.4 2.7L3.2 12h9.6l-.4-1.1c-.175-.526-.274-1.13-.363-1.674L12 9c.4 0 .7 0 1-.1zM8 14c.2 0 .5-.1.7-.3.2-.2.3-.4.3-.7H7c0 .3.1.5.3.7.2.2.5.3.7.3zm7-10a3 3 0 11-6 0 3 3 0 016 0z" clip-rule="evenodd"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path fill-rule="evenodd" d="M12.994 7.875A4.008 4.008 0 0112 8h-.01v.217c0 .909.143 1.818.442 2.691l.371 1.113h-9.63v-.012l.37-1.113a8.633 8.633 0 00.443-2.691V6.004c0-.563.12-1.113.347-1.616.227-.514.55-.969.969-1.34.419-.382.91-.67 1.436-.837.538-.18 1.1-.24 1.65-.18l.12.018a4 4 0 01.673-.887 5.15 5.15 0 00-.697-.135c-.694-.072-1.4 0-2.07.227-.67.215-1.28.574-1.794 1.053a4.923 4.923 0 00-1.208 1.675 5.067 5.067 0 00-.431 2.022v2.2a7.61 7.61 0 01-.383 2.37L2 12.343l.479.658h3.505c0 .526.215 1.04.586 1.412.37.37.885.586 1.412.586.526 0 1.04-.215 1.411-.586s.587-.886.587-1.412h3.505l.478-.658-.586-1.77a7.63 7.63 0 01-.383-2.381v-.318ZM7.982 14.02a.997.997 0 00.706-.3.939.939 0 00.287-.705H6.977c0 .263.107.514.299.706a.999.999 0 00.706.299Z" clip-rule="evenodd"/><path d="M12 7a3 3 0 100-6 3 3 0 000 6Z"/></g></svg>';
+  static const String bell_slash =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path fill-rule="evenodd" d="M11.027 2.086a5.128 5.128 0 00-2.543-1.06c-.694-.071-1.4 0-2.07.228-.67.215-1.28.574-1.794 1.053a4.923 4.923 0 00-1.208 1.675 5.067 5.067 0 00-.431 2.022v2.2a7.6 7.6 0 01-.355 2.282l1.3-1.3c.04-.326.06-.654.06-.981V6.004c0-.563.12-1.113.347-1.616.227-.514.55-.969.969-1.34.419-.382.91-.67 1.436-.837.538-.18 1.1-.24 1.65-.18a4.17 4.17 0 011.92.774l.719-.72ZM7.024 12.02h5.779l-.37-1.113a8.298 8.298 0 01-.444-2.691V7.055l1.005-1.004v2.142c0 .813.132 1.615.383 2.38l.586 1.771-.478.658H9.98c0 .526-.216 1.04-.587 1.412-.37.37-.885.586-1.411.586a2.011 2.011 0 01-1.412-.586 2.014 2.014 0 01-.585-1.354l1.039-1.039Zm.958 1.998a.997.997 0 00.706-.3.939.939 0 00.287-.705H6.977c0 .263.107.514.299.706a.997.997 0 00.706.299Z" clip-rule="evenodd"/><path d="M1 14.5 15.142.358l.707.707L1.707 15.207z"/></g></svg>';
+  static const String bell_slash_dot =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path fill-rule="evenodd" d="M8.617 1.045c-.335.28-.628.607-.87.97-.34.02-.68.086-1.01.196a3.877 3.877 0 00-1.435.838 3.85 3.85 0 00-.97 1.34 3.918 3.918 0 00-.346 1.615v2.2c0 .616-.071 1.23-.206 1.834L2.268 11.55l.33-.977a7.61 7.61 0 00.383-2.368V6.004c0-.706.156-1.388.43-2.022A4.923 4.923 0 014.62 2.307a4.777 4.777 0 011.795-1.053 4.874 4.874 0 012.202-.21Zm4.397 7.694a4.475 4.475 0 01-.991.231c.058.656.193 1.307.41 1.938l.37 1.113H6.318l-.98.981h.646c0 .526.215 1.04.586 1.412.37.37.885.586 1.412.586.526 0 1.04-.215 1.411-.586s.587-.886.587-1.412h3.505l.478-.658-.586-1.77a7.655 7.655 0 01-.363-1.835Zm-4.326 4.98a.997.997 0 01-.706.3.997.997 0 01-.706-.3.997.997 0 01-.3-.705h1.999a.939.939 0 01-.287.706Zm6.561-12.053a4.024 4.024 0 00-.682-.733l.575-.575.707.707-.6.6ZM8.933 6.567 1 14.5l.707.707L9.666 7.25a4.023 4.023 0 01-.733-.682Z" clip-rule="evenodd"/><path d="M12 7a3 3 0 100-6 3 3 0 000 6Z"/></g></svg>';
+  static const String blank =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"></svg>';
   static const String bold =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M5 13V3h3.362c1.116 0 1.954.224 2.515.673.565.449.848 1.113.848 1.992 0 .467-.137.881-.41 1.243-.273.357-.645.634-1.116.831.556.151.993.44 1.314.865.325.422.487.925.487 1.511 0 .898-.299 1.603-.897 2.116-.598.513-1.443.769-2.536.769H5zm1.356-4.677v3.599h2.24c.63 0 1.127-.158 1.49-.474.367-.32.55-.76.55-1.319 0-1.204-.673-1.806-2.02-1.806h-2.26zm0-1.058h2.049c.593 0 1.066-.144 1.42-.433.357-.288.536-.68.536-1.174 0-.55-.165-.948-.494-1.195-.33-.252-.831-.378-1.505-.378H6.356v3.18z"/></svg>';
   static const String book =
@@ -96,16 +102,20 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14 8v1H3V8h11z"/></svg>';
   static const String chrome_restore =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M3 5v9h9V5H3zm8 8H4V6h7v7z"/><path fill-rule="evenodd" d="M5 5h1V4h7v7h-1v1h2V3H5v2z" clip-rule="evenodd"/></g></svg>';
+  static const String circle =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M8 12a4 4 0 100-8 4 4 0 000 8zm2.61-4a2.61 2.61 0 11-5.22 0 2.61 2.61 0 015.22 0zM8 5.246z" clip-rule="evenodd"/></svg>';
   static const String circle_filled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8 4c.367 0 .721.048 1.063.145a3.943 3.943 0 011.762 1.031 3.944 3.944 0 011.03 1.762c.097.34.145.695.145 1.062 0 .367-.048.721-.145 1.063a3.94 3.94 0 01-1.03 1.765 4.017 4.017 0 01-1.762 1.031C8.72 11.953 8.367 12 8 12s-.721-.047-1.063-.14a4.056 4.056 0 01-1.765-1.032A4.055 4.055 0 014.14 9.062 3.992 3.992 0 014 8c0-.367.047-.721.14-1.063a4.02 4.02 0 01.407-.953A4.089 4.089 0 015.98 4.546a3.94 3.94 0 01.957-.401A3.89 3.89 0 018 4z"/></svg>';
+  static const String circle_large =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M9.588 2.215A5.808 5.808 0 008 2c-.554 0-1.082.073-1.588.215l-.006.002c-.514.141-.99.342-1.432.601A6.156 6.156 0 002.82 4.98l-.002.004A5.967 5.967 0 002.21 6.41 5.986 5.986 0 002 8c0 .555.07 1.085.21 1.591a6.05 6.05 0 001.548 2.651c.37.365.774.677 1.216.94a6.1 6.1 0 001.435.609A6.02 6.02 0 008 14c.555 0 1.085-.07 1.591-.21.515-.145.99-.348 1.426-.607l.004-.002a6.16 6.16 0 002.161-2.155 5.85 5.85 0 00.6-1.432l.003-.006A5.807 5.807 0 0014 8c0-.554-.072-1.082-.215-1.588l-.002-.006a5.772 5.772 0 00-.6-1.423l-.002-.004a5.9 5.9 0 00-.942-1.21l-.008-.008a5.902 5.902 0 00-1.21-.942l-.004-.002a5.772 5.772 0 00-1.423-.6l-.006-.002zm4.455 9.32a7.157 7.157 0 01-2.516 2.508 6.966 6.966 0 01-1.668.71A6.984 6.984 0 018 15a6.984 6.984 0 01-1.86-.246 7.098 7.098 0 01-1.674-.711 7.3 7.3 0 01-1.415-1.094 7.295 7.295 0 01-1.094-1.415 7.098 7.098 0 01-.71-1.675A6.985 6.985 0 011 8c0-.643.082-1.262.246-1.86a6.968 6.968 0 01.711-1.667 7.156 7.156 0 012.509-2.516 6.895 6.895 0 011.675-.704A6.808 6.808 0 018 1a6.8 6.8 0 011.86.253 6.899 6.899 0 013.083 1.805 6.903 6.903 0 011.804 3.083C14.916 6.738 15 7.357 15 8s-.084 1.262-.253 1.86a6.9 6.9 0 01-.704 1.674z" clip-rule="evenodd"/></svg>';
   static const String circle_large_filled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8 1a6.8 6.8 0 011.86.253 6.899 6.899 0 013.083 1.805 6.903 6.903 0 011.804 3.083C14.916 6.738 15 7.357 15 8s-.084 1.262-.253 1.86a6.9 6.9 0 01-.704 1.674 7.157 7.157 0 01-2.516 2.509 6.966 6.966 0 01-1.668.71A6.984 6.984 0 018 15a6.984 6.984 0 01-1.86-.246 7.098 7.098 0 01-1.674-.711 7.3 7.3 0 01-1.415-1.094 7.295 7.295 0 01-1.094-1.415 7.098 7.098 0 01-.71-1.675A6.985 6.985 0 011 8c0-.643.082-1.262.246-1.86a6.968 6.968 0 01.711-1.667 7.156 7.156 0 012.509-2.516 6.895 6.895 0 011.675-.704A6.808 6.808 0 018 1z"/></svg>';
-  static const String circle_large_outline =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M9.588 2.215A5.808 5.808 0 008 2c-.554 0-1.082.073-1.588.215l-.006.002c-.514.141-.99.342-1.432.601A6.156 6.156 0 002.82 4.98l-.002.004A5.967 5.967 0 002.21 6.41 5.986 5.986 0 002 8c0 .555.07 1.085.21 1.591a6.05 6.05 0 001.548 2.651c.37.365.774.677 1.216.94a6.1 6.1 0 001.435.609A6.02 6.02 0 008 14c.555 0 1.085-.07 1.591-.21.515-.145.99-.348 1.426-.607l.004-.002a6.16 6.16 0 002.161-2.155 5.85 5.85 0 00.6-1.432l.003-.006A5.807 5.807 0 0014 8c0-.554-.072-1.082-.215-1.588l-.002-.006a5.772 5.772 0 00-.6-1.423l-.002-.004a5.9 5.9 0 00-.942-1.21l-.008-.008a5.902 5.902 0 00-1.21-.942l-.004-.002a5.772 5.772 0 00-1.423-.6l-.006-.002zm4.455 9.32a7.157 7.157 0 01-2.516 2.508 6.966 6.966 0 01-1.668.71A6.984 6.984 0 018 15a6.984 6.984 0 01-1.86-.246 7.098 7.098 0 01-1.674-.711 7.3 7.3 0 01-1.415-1.094 7.295 7.295 0 01-1.094-1.415 7.098 7.098 0 01-.71-1.675A6.985 6.985 0 011 8c0-.643.082-1.262.246-1.86a6.968 6.968 0 01.711-1.667 7.156 7.156 0 012.509-2.516 6.895 6.895 0 011.675-.704A6.808 6.808 0 018 1a6.8 6.8 0 011.86.253 6.899 6.899 0 013.083 1.805 6.903 6.903 0 011.804 3.083C14.916 6.738 15 7.357 15 8s-.084 1.262-.253 1.86a6.9 6.9 0 01-.704 1.674z" clip-rule="evenodd"/></svg>';
-  static const String circle_outline =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M8 12a4 4 0 100-8 4 4 0 000 8zm2.61-4a2.61 2.61 0 11-5.22 0 2.61 2.61 0 015.22 0zM8 5.246z" clip-rule="evenodd"/></svg>';
   static const String circle_slash =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8 1a7 7 0 11-7 7 7.008 7.008 0 017-7zM2 8c0 1.418.504 2.79 1.423 3.87l8.447-8.447A5.993 5.993 0 002 8zm12 0c0-1.418-.504-2.79-1.423-3.87L4.13 12.577A5.993 5.993 0 0014 8z"/></svg>';
+  static const String circle_small =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8.832 8.556a1 1 0 11-1.663-1.112 1 1 0 011.663 1.112Zm.831.555A2 2 0 106.338 6.89a2 2 0 003.325 2.22Z"/></svg>';
+  static const String circle_small_filled =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M10 8a2 2 0 11-4 0 2 2 0 014 0z"/></svg>';
   static const String circuit_board =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.5 1h-13l-.5.5v13l.5.5h13l.5-.5v-13l-.5-.5zM14 14H5v-2h2.3c.3.6 1 1 1.7 1 1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2H4v3H2V2h2v2.3c-.6.3-1 1-1 1.7 0 1.1.9 2 2 2s2-.9 2-2h2c0 1.1.9 2 2 2s2-.9 2-2-.9-2-2-2c-.7 0-1.4.4-1.7 1H6.7c-.3-.6-1-1-1.7-1V2h9v12zm-6-3c0-.6.4-1 1-1s1 .4 1 1-.4 1-1 1-1-.4-1-1zM5 5c.6 0 1 .4 1 1s-.4 1-1 1-1-.4-1-1 .4-1 1-1zm6 0c.6 0 1 .4 1 1s-.4 1-1 1-1-.4-1-1 .4-1 1-1z"/></svg>';
   static const String clear_all =
@@ -134,6 +144,8 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.5 2h-13l-.5.5v9l.5.5H4v2.5l.854.354L7.707 12H14.5l.5-.5v-9l-.5-.5zm-.5 9H7.5l-.354.146L5 13.293V11.5l-.5-.5H2V3h12v8z"/></svg>';
   static const String comment_discussion =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="m4 11.29 1-1v1.42l-1.15 1.14L3 12.5V10H1.5L1 9.5v-8l.5-.5h12l.5.5V6h-1V2H2v7h1.5l.5.5v1.79zM10.29 13l1.86 1.85.85-.35V13h1.5l.5-.5v-5l-.5-.5h-8l-.5.5v5l.5.5h3.79zm.21-1H7V8h7v4h-1.5l-.5.5v.79l-1.15-1.14-.35-.15z" clip-rule="evenodd"/></svg>';
+  static const String comment_unresolved =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path fill-rule="evenodd" d="M1.5 2h13l.5.5v6.854a4.019 4.019 0 00-1-.819V3H2v8h2.5l.5.5v1.793l2.146-2.147L7.5 11h.626c-.082.32-.126.655-.126 1h-.293l-2.853 2.854L4 14.5V12H1.5l-.5-.5v-9l.5-.5Z" clip-rule="evenodd"/><path d="M12 9a3 3 0 100 6 3 3 0 000-6Z"/></g></svg>';
   static const String compass =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="m9.009 6.991 2.024 4.042L6.991 9.01 4.967 4.967 9.009 6.99Zm.426 2.444L8.481 7.52l-1.916-.955.954 1.917 1.916.954Z"/><path fill-rule="evenodd" d="M13.98 8.5a6.002 6.002 0 01-5.48 5.48V13h-1v.98a6.001 6.001 0 01-5.482-5.518H3v-1h-.976A6.001 6.001 0 017.5 2.02V3h1v-.98a6.001 6.001 0 015.48 5.48H13v1h.98ZM8 15A7 7 0 108 1a7 7 0 000 14Z" clip-rule="evenodd"/></g></svg>';
   static const String compass_active =
@@ -202,8 +214,6 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="m14.5 7.15-4.26-4.74L9.31 2H4.25L3 3.25v9.48l1.25 1.25h5.06l.93-.42 4.26-4.74V7.15zm-5.19 5.58H4.25V3.25h5.06l4.26 4.73-4.26 4.75z"/></svg>';
   static const String debug_stackframe_active =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M10 8a2 2 0 11-4 0 2 2 0 014 0z"/><path d="m14.5 7.15-4.26-4.74L9.31 2H4.25L3 3.25v9.48l1.25 1.25h5.06l.93-.42 4.26-4.74V7.15zm-5.19 5.58H4.25V3.25h5.06l4.26 4.73-4.26 4.75z"/></g></svg>';
-  static const String debug_stackframe_dot =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M10 8a2 2 0 11-4 0 2 2 0 014 0z"/></svg>';
   static const String debug_start =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="m4.25 3 1.166-.624 8 5.333v1.248l-8 5.334-1.166-.624V3zm1.5 1.401v7.864l5.898-3.932L5.75 4.401z" clip-rule="evenodd"/></svg>';
   static const String debug_step_back =
@@ -259,9 +269,9 @@ class Codicon {
   static const String extensions =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M13.5 1.5 15 0h7.5L24 1.5V9l-1.5 1.5H15L13.5 9V1.5zm1.5 0V9h7.5V1.5H15zM0 15V6l1.5-1.5H9L10.5 6v7.5H18l1.5 1.5v7.5L18 24H1.5L0 22.5V15zm9-1.5V6H1.5v7.5H9zM9 15H1.5v7.5H9V15zm1.5 7.5H18V15h-7.5v7.5z" clip-rule="evenodd"/></svg>';
   static const String eye =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M1 9.5c0-3.9 3.1-7 7-7s7 3.1 7 7h-1c0-3.3-2.7-6-6-6s-6 2.7-6 6H1Zm4 0c0-1.7 1.3-3 3-3s3 1.3 3 3-1.3 3-3 3-3-1.3-3-3Zm1 0c0 1.1.9 2 2 2s2-.9 2-2-.9-2-2-2-2 .9-2 2Z" clip-rule="evenodd"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8 6.003a2.667 2.667 0 110 5.334 2.667 2.667 0 010-5.334Zm0 1a1.667 1.667 0 100 3.334 1.667 1.667 0 000-3.334Zm0-3.336c3.076 0 5.73 2.1 6.467 5.043a.5.5 0 11-.97.242 5.67 5.67 0 00-10.995.004.5.5 0 01-.97-.243A6.669 6.669 0 018 3.667Z"/></svg>';
   static const String eye_closed =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M8 2.5c-1.5 0-2.8.4-3.9 1.2l.8.7c.9-.6 1.9-.9 3.1-.9 3.3 0 6 2.7 6 6h1c0-3.9-3.1-7-7-7Zm-7 1L2.6 5C1.6 6.2 1 7.8 1 9.5h1c0-1.5.5-2.8 1.4-3.8l2.2 2c-.4.5-.6 1.1-.6 1.8 0 1.7 1.3 3 3 3 .8 0 1.5-.3 2-.8l3 2.8.7-.7-12-11-.7.7Zm5.3 4.9 2.9 2.7c-.3.2-.7.4-1.2.4-1.1 0-2-.9-2-2 0-.4.1-.8.3-1.1ZM11 10l-1-.9c-.2-.8-.9-1.5-1.8-1.6l-1-.9c.3-.1.5-.1.8-.1 1.7 0 3 1.3 3 3v.5Z" clip-rule="evenodd"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M1.48 1.48a.5.5 0 00-.049.65l.049.057 2.69 2.69A6.657 6.657 0 001.533 8.71a.5.5 0 00.97.242 5.66 5.66 0 012.386-3.356l1.207 1.207a2.667 2.667 0 003.771 3.771l3.946 3.946a.5.5 0 00.756-.65l-.049-.057-4.075-4.076v-.001l-.8-.799-1.913-1.913h.001l-1.92-1.919v-.001l-.755-.754-2.871-2.87a.5.5 0 00-.707 0Zm5.323 6.03 2.356 2.357A1.667 1.667 0 016.802 7.51ZM8 3.667c-.667 0-1.314.098-1.926.283l.825.824a5.669 5.669 0 016.6 4.181.5.5 0 00.97-.242A6.669 6.669 0 008 3.667Zm.13 2.34 2.534 2.533A2.668 2.668 0 008.13 6.006Z"/></svg>';
   static const String feedback =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M7.549 10.078c.46.182.88.424 1.258.725.378.3.701.65.97 1.046a4.829 4.829 0 01.848 2.714V15H9.75v-.438a3.894 3.894 0 00-1.155-2.782 4.054 4.054 0 00-1.251-.84 3.898 3.898 0 00-1.532-.315A3.894 3.894 0 003.03 11.78a4.06 4.06 0 00-.84 1.251c-.206.474-.31.985-.315 1.531V15H1v-.438a4.724 4.724 0 01.848-2.713 4.918 4.918 0 012.229-1.77 2.994 2.994 0 01-.555-.493 3.156 3.156 0 01-.417-.602 2.942 2.942 0 01-.26-.683 3.345 3.345 0 01-.095-.739c0-.423.08-.82.24-1.189a3.095 3.095 0 011.626-1.627 3.067 3.067 0 012.386-.007 3.095 3.095 0 011.627 1.627 3.067 3.067 0 01.157 1.928c-.06.237-.148.465-.266.684a3.506 3.506 0 01-.417.608c-.16.187-.345.35-.554.492zM5.812 9.75c.301 0 .584-.057.848-.17a2.194 2.194 0 001.162-1.163c.119-.269.178-.554.178-.854a2.138 2.138 0 00-.643-1.538 2.383 2.383 0 00-.697-.472 2.048 2.048 0 00-.848-.178c-.3 0-.583.057-.847.17a2.218 2.218 0 00-1.17 1.17c-.113.264-.17.547-.17.848 0 .3.057.583.17.847.115.264.27.497.466.697a2.168 2.168 0 001.552.643zM15 1v7h-1.75l-2.625 2.625V8H9.75v-.875h1.75v1.388l1.388-1.388h1.237v-5.25h-8.75v1.572a7.255 7.255 0 00-.438.069 2.62 2.62 0 00-.437.123V1H15z"/></svg>';
   static const String file =
@@ -313,7 +323,7 @@ class Codicon {
   static const String gist_secret =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M3 14h4v.91l.09.09H2.5l-.5-.5v-13l.5-.5h7.72l.35.14 3.28 3.3.15.36v2.54a3.1 3.1 0 00-1-.94V6H9.5L9 5.5V2H3v12zm10-9-3-3v3h3zm.5 4v1h1l.5.5v4l-.5.5h-6l-.5-.5v-4l.5-.5h1V9a2 2 0 014 0zm-2.707-.707A1 1 0 0010.5 9v1h2V9a1 1 0 00-1.707-.707zM9 11v3h5v-3H9z" clip-rule="evenodd"/></svg>';
   static const String git_commit =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M10.979 5a3.42 3.42 0 00-2-1V0h-1v4a3.5 3.5 0 00-.18 6.89h.18v4h1v-4a3.08 3.08 0 00.84-.23 3.42 3.42 0 001.57-1.29 3.46 3.46 0 00-.41-4.37zm-.7 4.24a2.51 2.51 0 01-3.159.31 2.5 2.5 0 01-.92-1.12 2.49 2.49 0 011.82-3.41 2.72 2.72 0 01.49 0 2.5 2.5 0 012.54 2.5 2.51 2.51 0 01-.8 1.75l.03-.03z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M7.5 0h1v4.03a4 4 0 010 7.94V16h-1v-4.03a4 4 0 010-7.94V0ZM8 10.6a2.6 2.6 0 100-5.2 2.6 2.6 0 000 5.2Z"/></svg>';
   static const String git_compare =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="m7.389 12.99-1.27-1.27.67-.7 2.13 2.13v.7l-2.13 2.13-.71-.71L7.349 14h-1.85a2.49 2.49 0 01-2.5-2.5V5.95a2.59 2.59 0 01-1.27-.68 2.52 2.52 0 01-.54-2.73A2.5 2.5 0 013.499 1a2.45 2.45 0 011 .19 2.48 2.48 0 011.35 1.35c.133.317.197.658.19 1a2.5 2.5 0 01-2 2.45v5.5a1.5 1.5 0 001.5 1.5h1.85zm-4.68-8.25a1.5 1.5 0 002.08-2.08 1.55 1.55 0 00-.68-.56 1.49 1.49 0 00-.86-.08 1.49 1.49 0 00-1.18 1.18 1.49 1.49 0 00.08.86c.117.277.311.513.56.68zm10.33 6.3c.48.098.922.335 1.27.68a2.51 2.51 0 01.31 3.159 2.5 2.5 0 11-3.47-3.468c.269-.182.571-.308.89-.37V5.49a1.5 1.5 0 00-1.5-1.5h-1.85l1.27 1.27-.71.71-2.13-2.13v-.7l2.13-2.13.71.71-1.27 1.27h1.85a2.49 2.49 0 012.5 2.5v5.55zm-.351 3.943a1.5 1.5 0 001.1-2.322 1.55 1.55 0 00-.68-.56 1.49 1.49 0 00-.859-.08 1.49 1.49 0 00-1.18 1.18 1.49 1.49 0 00.08.86 1.5 1.5 0 001.539.922z" clip-rule="evenodd"/></svg>';
   static const String git_merge =
@@ -326,6 +336,10 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M5.616 4.928a2.487 2.487 0 01-1.119.922c-.148.06-.458.138-.458.138v5.008a2.51 2.51 0 011.579 1.062c.273.412.419.895.419 1.388.008.343-.057.684-.19 1A2.485 2.485 0 013.5 15.984a2.482 2.482 0 01-1.388-.419A2.487 2.487 0 011.05 13c.095-.486.331-.932.68-1.283.349-.343.79-.579 1.269-.68V5.949a2.6 2.6 0 01-1.269-.68 2.503 2.503 0 01-.68-1.283 2.487 2.487 0 011.06-2.565A2.49 2.49 0 013.5 1a2.504 2.504 0 011.807.729 2.493 2.493 0 01.729 1.81c.002.494-.144.978-.42 1.389zm-.756 7.861a1.5 1.5 0 00-.552-.579 1.45 1.45 0 00-.77-.21 1.495 1.495 0 00-1.47 1.79 1.493 1.493 0 001.18 1.179c.288.058.586.03.86-.08.276-.117.512-.312.68-.56.15-.226.235-.49.249-.76a1.51 1.51 0 00-.177-.78zM2.708 4.741c.247.161.536.25.83.25.271 0 .538-.075.77-.211a1.514 1.514 0 00.729-1.359 1.513 1.513 0 00-.25-.76 1.551 1.551 0 00-.68-.56 1.49 1.49 0 00-.86-.08 1.494 1.494 0 00-1.179 1.18c-.058.288-.03.586.08.86.117.276.312.512.56.68zM13.037 7h-1.002V5.49a1.5 1.5 0 00-1.5-1.5H8.687l1.269 1.27-.71.709L7.117 3.84v-.7l2.13-2.13.71.711-1.269 1.27h1.85a2.484 2.484 0 012.312 1.541c.125.302.189.628.187.957V7zM13 16h-1v-3H9v-1h3V9h1v3h3v1h-3v3z" clip-rule="evenodd"/></svg>';
   static const String git_pull_request_draft =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M4.497 5.85a2.496 2.496 0 001.538-2.31 2.493 2.493 0 00-1.538-2.35A2.504 2.504 0 003.499 1a2.49 2.49 0 00-1.388.42A2.487 2.487 0 001.05 3.987c.095.486.331.932.68 1.283a2.6 2.6 0 001.269.68v5.088c-.48.101-.92.337-1.269.68-.349.35-.585.797-.68 1.283a2.486 2.486 0 001.062 2.565 2.48 2.48 0 001.388.419 2.44 2.44 0 001-.19 2.485 2.485 0 001.538-2.349 2.51 2.51 0 00-1.998-2.45V5.989s.31-.078.458-.138Zm-.189 6.36a1.5 1.5 0 01.48 2.12 1.551 1.551 0 01-.68.559 1.492 1.492 0 01-.86.08 1.487 1.487 0 01-1.18-1.18 1.49 1.49 0 01.08-.86c.117-.276.312-.512.56-.68a1.49 1.49 0 01.83-.25c.271-.003.538.07.77.211Zm-.77-7.22a1.52 1.52 0 01-.83-.25 1.551 1.551 0 01-.56-.68 1.491 1.491 0 01-.08-.86 1.486 1.486 0 011.18-1.179 1.49 1.49 0 01.86.08c.276.117.512.312.68.56A1.49 1.49 0 014.86 4.2a1.52 1.52 0 01-.552.579c-.232.136-.499.21-.77.21Z"/><path fill-rule="evenodd" d="M15.054 13.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0Zm-2.5 1.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3Z" clip-rule="evenodd"/><circle cx="12.554" cy="7.751" r="1"/><circle cx="12.554" cy="3.501" r="1"/></g></svg>';
+  static const String git_pull_request_go_to_changes =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"><path d="M3 10v4l1 1h9l1-1V5l-.29-.71-3-3L10 1H8v1h2l3 3v9H4v-4H3Zm8-4H9V4H8v2H6v1h2v2h1V7h2V6Zm-5 5h5v1H6v-1Z"/><path d="M7.06 3.854 4.915 6l-.707-.707L5.5 4h-3a1.5 1.5 0 000 3H3v1h-.5a2.5 2.5 0 110-5h3L4.207 1.707 4.914 1l2.147 2.146v.708Z"/></g></svg>';
+  static const String git_pull_request_new_changes =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path fill-rule="evenodd" d="m13.71 4.29-3-3L10 1H4L3 2v12l1 1h5.354a4.019 4.019 0 01-.819-1H4V2h6l3 3v3.126c.355.091.69.23 1 .41V5l-.29-.71ZM8.126 11H6v1h2c0-.345.044-.68.126-1ZM6 6h2V4h1v2h2v1H9v2H8V7H6V6Z" clip-rule="evenodd"/><path d="M12 9a3 3 0 100 6 3 3 0 000-6Z"/></g></svg>';
   static const String github =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 0a12 12 0 100 24 12 12 0 000-24zm3.163 21.783h-.093a.513.513 0 01-.382-.14.513.513 0 01-.14-.372v-1.406c.006-.467.01-.94.01-1.416a3.693 3.693 0 00-.151-1.028 1.832 1.832 0 00-.542-.875 8.014 8.014 0 002.038-.471 4.051 4.051 0 001.466-.964c.407-.427.71-.943.885-1.506a6.77 6.77 0 00.3-2.13 4.138 4.138 0 00-.26-1.476 3.892 3.892 0 00-.795-1.284 2.81 2.81 0 00.162-.582c.033-.2.05-.402.05-.604 0-.26-.03-.52-.09-.773a5.309 5.309 0 00-.221-.763.293.293 0 00-.111-.02h-.11c-.23.002-.456.04-.674.111a5.34 5.34 0 00-.703.26 6.503 6.503 0 00-.661.343c-.215.127-.405.249-.573.362a9.578 9.578 0 00-5.143 0 13.507 13.507 0 00-.572-.362 6.022 6.022 0 00-.672-.342 4.516 4.516 0 00-.705-.261 2.203 2.203 0 00-.662-.111h-.11a.29.29 0 00-.11.02 5.844 5.844 0 00-.23.763c-.054.254-.08.513-.081.773 0 .202.017.404.051.604.033.199.086.394.16.582A3.888 3.888 0 005.702 10a4.142 4.142 0 00-.263 1.476 6.871 6.871 0 00.292 2.12c.181.563.483 1.08.884 1.516.415.422.915.75 1.466.964.653.25 1.337.41 2.033.476a1.828 1.828 0 00-.452.633 2.99 2.99 0 00-.2.744 2.754 2.754 0 01-1.175.27 1.788 1.788 0 01-1.065-.3 2.904 2.904 0 01-.752-.824 3.1 3.1 0 00-.292-.382 2.693 2.693 0 00-.372-.343 1.841 1.841 0 00-.432-.24 1.2 1.2 0 00-.481-.101c-.04.001-.08.005-.12.01a.649.649 0 00-.162.02.408.408 0 00-.13.06.116.116 0 00-.06.1.33.33 0 00.14.242c.093.074.17.131.232.171l.03.021c.133.103.261.214.382.333.112.098.213.209.3.33.09.119.168.246.231.381.073.134.15.288.231.463.188.474.522.875.954 1.145.453.243.961.364 1.476.351.174 0 .349-.01.522-.03.172-.028.343-.057.515-.091v1.743a.5.5 0 01-.533.521h-.062a10.286 10.286 0 116.324 0v.005z"/></svg>';
   static const String github_action =
@@ -354,6 +368,8 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M1.5 1h2v1H2v12h1.5v1h-2l-.5-.5v-13l.5-.5zm6 6h-2L5 6.5v-2l.5-.5h2l.5.5v2l-.5.5zM6 6h1V5H6v1zm7.5 1h-3l-.5-.5v-3l.5-.5h3l.5.5v3l-.5.5zM11 6h2V4h-2v2zm-3.5 6h-2l-.5-.5v-2l.5-.5h2l.5.5v2l-.5.5zM6 11h1v-1H6v1zm7.5 2h-3l-.5-.5v-3l.5-.5h3l.5.5v3l-.5.5zM11 12h2v-2h-2v2zm-1-2H8v1h2v-1zm0-5H8v1h2V5z" clip-rule="evenodd"/></svg>';
   static const String heart =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.88 4.78a3.489 3.489 0 00-.37-.9 3.24 3.24 0 00-.6-.79 3.78 3.78 0 00-1.21-.81 3.74 3.74 0 00-2.84 0 4 4 0 00-1.16.75l-.05.06-.65.65-.65-.65-.05-.06a4 4 0 00-1.16-.75 3.74 3.74 0 00-2.84 0 3.78 3.78 0 00-1.21.81 3.55 3.55 0 00-.97 1.69 3.75 3.75 0 00-.12 1c0 .317.04.633.12.94a4 4 0 00.36.89 3.8 3.8 0 00.61.79L8 14.31l5.91-5.91c.237-.233.44-.5.6-.79A3.578 3.578 0 0015 5.78a3.747 3.747 0 00-.12-1zm-1 1.63a2.69 2.69 0 01-.69 1.21l-5.21 5.2-5.21-5.2a2.9 2.9 0 01-.44-.57 3 3 0 01-.27-.65 3.25 3.25 0 01-.08-.69A3.36 3.36 0 012.06 5a2.8 2.8 0 01.27-.65c.12-.21.268-.4.44-.57a2.91 2.91 0 01.89-.6 2.8 2.8 0 012.08 0c.33.137.628.338.88.59l1.36 1.37 1.36-1.37a2.72 2.72 0 01.88-.59 2.8 2.8 0 012.08 0c.331.143.633.347.89.6.174.165.32.357.43.57a2.69 2.69 0 01.35 1.34 2.6 2.6 0 01-.06.72h-.03z"/></svg>';
+  static const String heart_filled =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.88 4.78a3.489 3.489 0 00-.37-.9 3.24 3.24 0 00-.6-.79 3.78 3.78 0 00-1.21-.81 3.74 3.74 0 00-2.84 0 4 4 0 00-1.16.75l-.05.06-.65.65-.65-.65-.05-.06a4 4 0 00-1.16-.75 3.74 3.74 0 00-2.84 0 3.78 3.78 0 00-1.21.81 3.55 3.55 0 00-.97 1.69 3.75 3.75 0 00-.12 1c0 .318.04.634.12.94a4 4 0 00.36.89 3.8 3.8 0 00.61.79L8 14.31l5.91-5.91c.237-.232.44-.498.6-.79A3.578 3.578 0 0015 5.78a3.747 3.747 0 00-.12-1Z"/></svg>';
   static const String history =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M13.507 12.324a7 7 0 00.065-8.56A7 7 0 002 4.393V2H1v3.5l.5.5H5V5H2.811a6.008 6.008 0 11-.135 5.77l-.887.462a7 7 0 0011.718 1.092zm-3.361-.97.708-.707L8 7.792V4H7v4l.146.354 3 3z" clip-rule="evenodd"/></svg>';
   static const String home =
@@ -414,12 +430,18 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2 1 1 2v12l1 1h12l1-1V2l-1-1H2Zm0 9V2h2v8H2Zm3 0V2h6v8H5Zm7 0V2h2v8h-2Z"/></svg>';
   static const String layout_panel_left =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="m1 2 1-1h12l1 1v12l-1 1H2l-1-1V2Zm1 0v8h8V2H2Zm9 0v12h3V2h-3Z"/></svg>';
+  static const String layout_panel_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2 1 1 2v12l1 1h12l1-1V2l-1-1H2Zm0 9V2h12v8H2Zm0 1h12v3H2v-3Z"/></svg>';
   static const String layout_panel_right =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="m1 2 1-1h12l1 1v12l-1 1H2l-1-1V2Zm1 0v12h3V2H2Zm4 0v8h8V2H6Z"/></svg>';
   static const String layout_sidebar_left =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M2 1 1 2v12l1 1h12l1-1V2l-1-1H2Zm12 13H7V2h7v12Z" clip-rule="evenodd"/></svg>';
+  static const String layout_sidebar_left_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2 1 1 2v12l1 1h12l1-1V2l-1-1H2Zm0 13V2h4v12H2Zm5 0V2h7v12H7Z"/></svg>';
   static const String layout_sidebar_right =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M2 1 1 2v12l1 1h12l1-1V2l-1-1H2Zm0 13V2h7v12H2Z" clip-rule="evenodd"/></svg>';
+  static const String layout_sidebar_right_off =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2 1 1 2v12l1 1h12l1-1V2l-1-1H2Zm0 13V2h7v12H2Zm8 0V2h4v12h-4Z"/></svg>';
   static const String layout_statusbar =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M2 1 1 2v12l1 1h12l1-1V2l-1-1H2Zm0 12V2h12v11H2Z" clip-rule="evenodd"/></svg>';
   static const String i_library =
@@ -435,13 +457,13 @@ class Codicon {
   static const String list_filter =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M6 12v-1h4v1H6zM4 7h8v1H4V7zm10-4v1H2V3h12z"/></svg>';
   static const String list_flat =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2 10V9h12v1H2zm0-4h12v1H2V6zm12-3v1H2V3h12zM2 12v1h12v-1H2z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2 9h9v1H2zm0 3h8v1H2zm0-6h12v1H2zm0-3h11v1H2z"/></svg>';
   static const String list_ordered =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M2.287 2.326 2.692 2h.677v3h-.708V2.792l-.374.281v-.747zM5 3h10v1H5V3zm0 4h10v1H5V7zm10 4H5v1h10v-1zM3.742 7.626l.029-.039.065-.09a.84.84 0 00.156-.507c0-.12-.02-.24-.057-.354a.848.848 0 00-.492-.529 1.123 1.123 0 00-.452-.082 1.094 1.094 0 00-.458.087.867.867 0 00-.479.522A1.038 1.038 0 002 6.957v.05h.81v-.05a.3.3 0 01.046-.157.174.174 0 01.057-.054.19.19 0 01.172 0 .188.188 0 01.056.06.24.24 0 01.031.081.445.445 0 01-.036.29 1.309 1.309 0 01-.12.182l-1 1.138-.012.013v.54h1.988v-.7h-.9l.65-.724zm-.037 3.817c.046.032.086.07.12.114a.841.841 0 01.167.55c0 .107-.017.213-.05.314a.792.792 0 01-.487.5 1.288 1.288 0 01-.48.079c-.115 0-.23-.016-.341-.049a.94.94 0 01-.258-.123.751.751 0 01-.182-.177 1.063 1.063 0 01-.116-.2A1.038 1.038 0 012 12.078v-.049h.814v.049c0 .027.003.055.009.082a.207.207 0 00.03.074.14.14 0 00.053.052.2.2 0 00.157.008.159.159 0 00.056-.039.22.22 0 00.042-.075.417.417 0 00.017-.126.483.483 0 00-.022-.163.2.2 0 00-.051-.08.138.138 0 00-.06-.029.537.537 0 00-.077-.007h-.161v-.645h.168a.241.241 0 00.069-.011.164.164 0 00.065-.034.175.175 0 00.048-.067.286.286 0 00.021-.121.28.28 0 00-.016-.1.166.166 0 00-.097-.099.2.2 0 00-.156.007.164.164 0 00-.055.053.344.344 0 00-.04.156v.049H2v-.049a.987.987 0 01.18-.544.8.8 0 01.179-.186.87.87 0 01.262-.133c.114-.036.234-.053.354-.051.116-.001.231.01.344.036.092.021.18.055.263.1a.757.757 0 01.32.318.73.73 0 01.09.347.81.81 0 01-.167.528.562.562 0 01-.12.114z" clip-rule="evenodd"/></svg>';
   static const String list_selection =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M1 12v-1h9v1H1zm0-5h14v1H1V7zm11-4v1H1V3h11z"/></svg>';
   static const String list_tree =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M14 3v1H2V3h12zm-1 3v1H6V6h7zm0 3v1H5V9h8zm0 3v1H5v-1h8z"/><path d="M5 4h1v9H5z"/></g></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="currentColor"><path d="M4 9h9v1H4zm0 3h7v1H4zm0-6h10v1H4zM1 3h11v1H1z"/><path d="M4 4h1v9H4z"/></g></svg>';
   static const String list_unordered =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M2 3H1v1h1V3zm0 3H1v1h1V6zM1 9h1v1H1V9zm1 3H1v1h1v-1zm2-9h11v1H4V3zm11 3H4v1h11V6zM4 9h11v1H4V9zm11 3H4v1h11v-1z" clip-rule="evenodd"/></svg>';
   static const String live_share =
@@ -460,6 +482,10 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="m1 3.5.5-.5h13l.5.5v9l-.5.5h-13l-.5-.5v-9zm1 1.035V12h12V4.536L8.31 8.9H7.7L2 4.535zM13.03 4H2.97L8 7.869 13.03 4z" clip-rule="evenodd"/></svg>';
   static const String mail_read =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8.25 1.57h-.51L1 5.56v7.94l.5.5h13l.5-.5V5.56L8.25 1.57zM8 2.58l5.63 3.32-1.37 1.59H3.74L2.43 5.9 8 2.58zM14 13H2V6.92L3.11 8.3l.39.19h9l.39-.19L14 6.92V13z"/></svg>';
+  static const String map =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2.5 5.777v6.32l3-1.874V3.902l-3 1.875Zm4-1.875v6.32l3 1.876V5.777l-3-1.875ZM6 11.09l-3.735 2.334L1.5 13V5.5l.235-.424 4-2.5h.53L10 4.91l3.735-2.334L14.5 3v7.5l-.235.424-4 2.5h-.53L6 11.09Zm4.5-5.313v6.32l3-1.874V3.902l-3 1.875Z"/></svg>';
+  static const String map_filled =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M2 5.5V13l3.5-2.188v-7.5L2 5.5Zm7.5 7.188v-7.5l-3-1.875v7.5l3 1.874Zm1 0v-7.5L14 3v7.5l-3.5 2.188Z"/></svg>';
   static const String markdown =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M6.345 5h2.1v6.533H6.993l.055-5.31-1.774 5.31H4.072l-1.805-5.31c.04.644.06 5.31.06 5.31H1V5h2.156s1.528 4.493 1.577 4.807L6.345 5zm6.71 3.617v-3.5H11.11v3.5H9.166l2.917 2.916L15 8.617h-1.945z"/></svg>';
   static const String megaphone =
@@ -624,6 +650,8 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M3.5 4H1V3h2V1h1v2.5l-.5.5zM13 3V1h-1v2.5l.5.5H15V3h-2zm-1 9.5V15h1v-2h2v-1h-2.5l-.5.5zM1 12v1h2v2h1v-2.5l-.5-.5H1zm11-1.5-.5.5h-7l-.5-.5v-5l.5-.5h7l.5.5v5zM10 7H6v2h4V7z"/></svg>';
   static const String search =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M15.25 0a8.25 8.25 0 00-6.18 13.72L1 22.88l1.12 1 8.05-9.12A8.251 8.251 0 1015.25.01V0zm0 15a6.75 6.75 0 110-13.5 6.75 6.75 0 010 13.5z"/></svg>';
+  static const String search_fuzzy =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M8 1.5a4.5 4.5 0 00-3.263 7.6l-3.694 3.694.707.707 3.755-3.755A4.5 4.5 0 108 1.5ZM4.5 6a3.5 3.5 0 117 0 3.5 3.5 0 01-7 0ZM9 13.855 6.854 16h-.708l-1.5-1.5.708-.707L6.5 14.94l2.146-2.146h.708L11.5 14.94l2.146-2.146h.707L16 14.44v1.415l-2-2L11.854 16h-.708L9 13.855Z"/></svg>';
   static const String search_stop =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M5.738 3.318a4.5 4.5 0 00-.877 5.123A4.48 4.48 0 006.1 10a4.62 4.62 0 00-.1 1v.17c-.16-.11-.32-.22-.47-.34L1.75 14.5 1 13.84l3.8-3.69a5.5 5.5 0 119.62-3.65c0 .268-.02.535-.06.8a5.232 5.232 0 00-.94-.68V6.5a4.5 4.5 0 00-7.682-3.182zm3.04 4.356a4 4 0 114.444 6.652 4 4 0 01-4.444-6.652zm.1 5.447A3 3 0 0011 14a3 3 0 001.74-.55L8.55 9.26A3 3 0 008 11a3 3 0 00.879 2.121zm.382-4.57 4.19 4.189A3 3 0 0014 11a3 3 0 00-3-3 3 3 0 00-1.74.55z" clip-rule="evenodd"/></svg>';
   static const String server =
@@ -822,6 +850,12 @@ class Codicon {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M12.027 6.149a5.52 5.52 0 01-1.27 3.908l4.26 4.26-.7.71-4.26-4.27a5.52 5.52 0 111.97-4.608zm-5.45 4.888a4.51 4.51 0 003.18-1.32l-.04.02a4.51 4.51 0 001.36-3.2 4.5 4.5 0 10-4.5 4.5zm2.44-4v-1h-2v-2h-1v2h-2v1h2v2h1v-2h2z" clip-rule="evenodd"/></svg>';
   static const String zoom_out =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M12.027 6.149a5.52 5.52 0 01-1.27 3.908l4.26 4.26-.7.71-4.26-4.27a5.52 5.52 0 111.97-4.608zm-5.45 4.888a4.51 4.51 0 003.18-1.32l-.04.02a4.51 4.51 0 001.36-3.2 4.5 4.5 0 10-4.5 4.5zm-2.54-4.98h5v1h-5v-1z" clip-rule="evenodd"/></svg>';
+  static const String circle_large_outline =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M9.588 2.215A5.808 5.808 0 008 2c-.554 0-1.082.073-1.588.215l-.006.002c-.514.141-.99.342-1.432.601A6.156 6.156 0 002.82 4.98l-.002.004A5.967 5.967 0 002.21 6.41 5.986 5.986 0 002 8c0 .555.07 1.085.21 1.591a6.05 6.05 0 001.548 2.651c.37.365.774.677 1.216.94a6.1 6.1 0 001.435.609A6.02 6.02 0 008 14c.555 0 1.085-.07 1.591-.21.515-.145.99-.348 1.426-.607l.004-.002a6.16 6.16 0 002.161-2.155 5.85 5.85 0 00.6-1.432l.003-.006A5.807 5.807 0 0014 8c0-.554-.072-1.082-.215-1.588l-.002-.006a5.772 5.772 0 00-.6-1.423l-.002-.004a5.9 5.9 0 00-.942-1.21l-.008-.008a5.902 5.902 0 00-1.21-.942l-.004-.002a5.772 5.772 0 00-1.423-.6l-.006-.002zm4.455 9.32a7.157 7.157 0 01-2.516 2.508 6.966 6.966 0 01-1.668.71A6.984 6.984 0 018 15a6.984 6.984 0 01-1.86-.246 7.098 7.098 0 01-1.674-.711 7.3 7.3 0 01-1.415-1.094 7.295 7.295 0 01-1.094-1.415 7.098 7.098 0 01-.71-1.675A6.985 6.985 0 011 8c0-.643.082-1.262.246-1.86a6.968 6.968 0 01.711-1.667 7.156 7.156 0 012.509-2.516 6.895 6.895 0 011.675-.704A6.808 6.808 0 018 1a6.8 6.8 0 011.86.253 6.899 6.899 0 013.083 1.805 6.903 6.903 0 011.804 3.083C14.916 6.738 15 7.357 15 8s-.084 1.262-.253 1.86a6.9 6.9 0 01-.704 1.674z" clip-rule="evenodd"/></svg>';
+  static const String circle_outline =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M8 12a4 4 0 100-8 4 4 0 000 8zm2.61-4a2.61 2.61 0 11-5.22 0 2.61 2.61 0 015.22 0zM8 5.246z" clip-rule="evenodd"/></svg>';
+  static const String debug_stackframe_dot =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M10 8a2 2 0 11-4 0 2 2 0 014 0z"/></svg>';
   static const List iconsList = [
     account,
     activate_breakpoints,
@@ -847,6 +881,9 @@ class Codicon {
     beaker_stop,
     bell,
     bell_dot,
+    bell_slash,
+    bell_slash_dot,
+    blank,
     bold,
     book,
     bookmark,
@@ -871,11 +908,13 @@ class Codicon {
     chrome_maximize,
     chrome_minimize,
     chrome_restore,
+    circle,
     circle_filled,
+    circle_large,
     circle_large_filled,
-    circle_large_outline,
-    circle_outline,
     circle_slash,
+    circle_small,
+    circle_small_filled,
     circuit_board,
     clear_all,
     clippy,
@@ -890,6 +929,7 @@ class Codicon {
     combine,
     comment,
     comment_discussion,
+    comment_unresolved,
     compass,
     compass_active,
     compass_dot,
@@ -924,7 +964,6 @@ class Codicon {
     debug_reverse_continue,
     debug_stackframe,
     debug_stackframe_active,
-    debug_stackframe_dot,
     debug_start,
     debug_step_back,
     debug_step_into,
@@ -986,6 +1025,8 @@ class Codicon {
     git_pull_request_closed,
     git_pull_request_create,
     git_pull_request_draft,
+    git_pull_request_go_to_changes,
+    git_pull_request_new_changes,
     github,
     github_action,
     github_alt,
@@ -1000,6 +1041,7 @@ class Codicon {
     gripper,
     group_by_ref_type,
     heart,
+    heart_filled,
     history,
     home,
     horizontal_rule,
@@ -1030,9 +1072,12 @@ class Codicon {
     layout_panel_center,
     layout_panel_justify,
     layout_panel_left,
+    layout_panel_off,
     layout_panel_right,
     layout_sidebar_left,
+    layout_sidebar_left_off,
     layout_sidebar_right,
+    layout_sidebar_right_off,
     layout_statusbar,
     i_library,
     lightbulb,
@@ -1053,6 +1098,8 @@ class Codicon {
     magnet,
     mail,
     mail_read,
+    map,
+    map_filled,
     markdown,
     megaphone,
     mention,
@@ -1135,6 +1182,7 @@ class Codicon {
     screen_full,
     screen_normal,
     search,
+    search_fuzzy,
     search_stop,
     server,
     server_environment,
@@ -1234,5 +1282,8 @@ class Codicon {
     workspace_untrusted,
     zoom_in,
     zoom_out,
+    circle_large_outline,
+    circle_outline,
+    debug_stackframe_dot,
   ];
 }

@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/whh
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/whh
 class Whh {
   static const String i_0 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="1024" preserveAspectRatio="xMidYMid meet" viewBox="0 0 768 1024"><path fill="currentColor" d="M512 1024H256q-106 0-181-75T0 768V256Q0 150 75 75T256 0h256q106 0 181 75t75 181v512q0 106-75 181t-181 75zM256 896h256q31 0 61-16L128 267v501q0 53 37.5 90.5T256 896zm256-768H256q-32 0-61 16l445 613V256q0-53-37.5-90.5T512 128z"/></svg>';

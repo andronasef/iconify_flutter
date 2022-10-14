@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/geo
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/geo
 class Geo {
   static const String turf_along =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" preserveAspectRatio="xMidYMid meet" viewBox="0 0 100 100"><path fill="currentColor" d="M10.658 91.166a2 2 0 01-1.414-3.414l7.071-7.071a2 2 0 112.828 2.828l-7.071 7.071c-.39.391-.903.586-1.414.586zM53.084 48.74a2 2 0 01-1.414-3.414l7.071-7.071a2 2 0 112.828 2.828l-7.071 7.071c-.391.39-.902.586-1.414.586zm14.143-14.142a2 2 0 01-1.414-3.414l7.071-7.071a2 2 0 112.828 2.828l-7.071 7.071c-.391.39-.903.586-1.414.586zm14.141-14.142a2 2 0 01-1.414-3.414l7.071-7.071a2 2 0 112.828 2.828l-7.071 7.071c-.39.39-.902.586-1.414.586zM27.655 69.34l-4.27 4.269a2 2 0 102.828 2.828l4.27-4.269a9.152 9.152 0 01-2.828-2.828zm19.772-16.944a2 2 0 00-2.828 0l-4.421 4.421a9.14 9.14 0 012.828 2.828l4.421-4.421a2 2 0 000-2.828z"/><circle cx="35.331" cy="64.493" r="6.845" fill="currentColor"/></svg>';

@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/typcn
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/typcn
 class Typcn {
   static const String adjust_brightness =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 6.934 13 4a1.055 1.055 0 10-2 0l1 2.934zM4 11a1.055 1.055 0 100 2l2.934-1L4 11zm8 6.066L11 20a1.055 1.055 0 102 0l-1-2.934zm9.341-5.409A1.055 1.055 0 0020 10.998l-2.934 1 2.934 1a1.057 1.057 0 001.341-1.341zM5.636 7.05l2.781 1.367L7.05 5.636A1.057 1.057 0 105.636 7.05zm-.483 10.382a1.057 1.057 0 001.896.932l1.367-2.781-2.781 1.367a1.056 1.056 0 00-.482.482zm13.21-.483-2.781-1.367 1.367 2.781a1.056 1.056 0 101.414-1.414zm.481-10.383a1.057 1.057 0 00-1.895-.933L15.58 8.416l2.782-1.368c.202-.1.375-.264.482-.482zM12 7.5c-2.481 0-4.5 2.019-4.5 4.5s2.019 4.5 4.5 4.5 4.5-2.019 4.5-4.5-2.019-4.5-4.5-4.5z"/></svg>';

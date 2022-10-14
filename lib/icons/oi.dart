@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/oi
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/oi
 class Oi {
   static const String account_login =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="8" preserveAspectRatio="xMidYMid meet" viewBox="0 0 8 8"><path fill="currentColor" d="M3 0v1h4v5H3v1h5V0H3zm1 2v1H0v1h4v1l2-1.5L4 2z"/></svg>';

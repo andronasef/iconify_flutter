@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/ooui
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/ooui
 class Ooui {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M11 9V4H9v5H4v2h5v5h2v-5h5V9z"/></svg>';
@@ -59,7 +59,7 @@ class Ooui {
   static const String block =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M10 1a9 9 0 109 9 9 9 0 00-9-9zm5 10H5V9h10z"/></svg>';
   static const String bold_a =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="m15 19-1.5-4h-7L5 19H1L8 1h4l7 18h-4Zm-2.5-7c-.14-.45-2.41-7.67-2.5-8-.09.34-2.5 8-2.5 8h5Z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M13.5 15h-7L5 19H1L8 1h4l7 18h-4Zm-6-3h5L10 4Z"/></svg>';
   static const String bold_arab_ain =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M6.89 11.9c0 1.57 1.61 2.44 4.85 2.63l2.55-.04.37.05c-.03.14-.29.4-.77.76l-.1.07A6.97 6.97 0 019.63 17a4.3 4.3 0 01-3.16-1.16 4.3 4.3 0 01-1.13-3.15c0-1.58.66-3 1.96-4.27v-.05l-.7-.64A1.11 1.11 0 016.33 7c0-.58.28-1.3.84-2.18C7.93 3.6 8.7 3 9.46 3c1.03 0 1.89.49 2.56 1.45.38.56-.03.65-1.24.26-.98-.38-1.78-.06-2.4.96l.02.1 1.31 1h.06c1.64-.57 2.82-.86 3.55-.84a5.5 5.5 0 00-.28.86 32.4 32.4 0 01-.36 1.14l-.14.44-.45.05c-2.04.28-3.5.84-4.37 1.67a2.5 2.5 0 00-.83 1.78"/></svg>';
   static const String bold_arab_dad =
@@ -126,6 +126,14 @@ class Ooui {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path id="svgIDa" fill="currentColor" d="M1 10.08V8.92h1.15c1.15 0 1.15 0 1.15-1.15V5a7.42 7.42 0 01.09-1.3 2 2 0 01.3-.7 1.84 1.84 0 01.93-.68A6.44 6.44 0 016.74 2h1.18v1.15h-.86A1.32 1.32 0 006 3.62a1.71 1.71 0 00-.36 1.23V7a3.22 3.22 0 01-.28 1.72 2 2 0 01-1.26.77 2.15 2.15 0 011.26.79A3.26 3.26 0 015.62 12v3.15A1.67 1.67 0 006 16.37a1.31 1.31 0 001.08.47h.87V18H6.74a6.3 6.3 0 01-2.12-.29 1.82 1.82 0 01-.93-.71 1.94 1.94 0 01-.3-.72A7.46 7.46 0 013.31 15v-3.77c0-1.15 0-1.15-1.15-1.15zm18 0V8.92h-1.15c-1.15 0-1.15 0-1.15-1.15V5a7.42 7.42 0 00-.08-1.32 2 2 0 00-.3-.73 1.84 1.84 0 00-.93-.68A6.44 6.44 0 0013.26 2h-1.18v1.15h.87a1.32 1.32 0 011.05.47 1.71 1.71 0 01.36 1.23V7a3.22 3.22 0 00.28 1.72 2 2 0 001.26.77 2.15 2.15 0 00-1.26.79 3.26 3.26 0 00-.26 1.72v3.15a1.67 1.67 0 01-.38 1.22 1.31 1.31 0 01-1.08.47h-.87V18h1.19a6.3 6.3 0 002.12-.29 1.82 1.82 0 00.93-.68 1.94 1.94 0 00.3-.72 7.46 7.46 0 00.1-1.31v-3.77c0-1.15 0-1.15 1.15-1.15z"/><use href="#svgIDa" transform="matrix(-1 0 0 1 20 0)"/></svg>';
   static const String collapse =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="m2.5 15.25 7.5-7.5 7.5 7.5 1.5-1.5-9-9-9 9z"/></svg>';
+  static const String copy_ltr =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M3 3h8v2h2V3c0-1.1-.895-2-2-2H3c-1.1 0-2 .895-2 2v8c0 1.1.895 2 2 2h2v-2H3z"/><path fill="currentColor" d="M9 9h8v8H9zm0-2c-1.1 0-2 .895-2 2v8c0 1.1.895 2 2 2h8c1.1 0 2-.895 2-2V9c0-1.1-.895-2-2-2z"/></svg>';
+  static const String copy_rtl =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M17 3H9v2H7V3c0-1.1.895-2 2-2h8c1.1 0 2 .895 2 2v8c0 1.1-.895 2-2 2h-2v-2h2z"/><path fill="currentColor" d="M3 9v8h8V9zm8-2c1.1 0 2 .895 2 2v8c0 1.1-.895 2-2 2H3c-1.1 0-2-.895-2-2V9c0-1.1.895-2 2-2z"/></svg>';
+  static const String cut_ltr =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M9.97 0c-1.66 0-3 1.34-3 3v3l-2.4-1.5a3.003 3.003 0 00-3 5.2 3.003 3.003 0 004.452-2.051l.952.55v6.8h2v-5.65l4.01 2.32.988-1.73-5-2.94v-1.17a2.996 2.996 0 004-2.829c0-1.66-1.34-3-3-3zM9 3a1 1 0 012 0 1 1 0 01-2 0zM2 7a1 1 0 012 0 1 1 0 01-2 0zm15 12h-2v-2h2V9h-3V7h3c1.1 0 2 .895 2 2v8c0 1.1-.895 2-2 2zm-6 0h2v-2h-2zm-4-2c0 1.1.895 2 2 2v-2z"/></svg>';
+  static const String cut_rtl =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M10 0c1.66 0 3 1.34 3 3v3l2.4-1.5a3.003 3.003 0 013 5.2 3.003 3.003 0 01-4.452-2.051l-.952.55v6.8h-2v-5.65l-4.01 2.32-.988-1.73 5-2.94v-1.17a2.996 2.996 0 01-4-2.829c0-1.66 1.34-3 3-3zM9 3a1 1 0 002 0 1 1 0 00-2 0zm7 4a1 1 0 002 0 1 1 0 00-2 0zM2.97 19h2v-2h-2V9h3V7h-3c-1.1 0-2 .895-2 2v8c0 1.1.895 2 2 2zm6 0h-2v-2h2zm4-2c0 1.1-.895 2-2 2v-2z"/></svg>';
   static const String database =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M4 1h12l2 2v2H2V3zM2 8h16v4H2zm16 9v-2H2v2l2 2h12z"/></svg>';
   static const String die =
@@ -239,7 +247,7 @@ class Ooui {
   static const String indent_rtl =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M1 16h18v2H1zm0-9h10v2H1zm0 4h10v2H1zm0-9h18v2H1zm18 4v8l-5-4z"/></svg>';
   static const String info =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M9.5 16A6.61 6.61 0 013 9.5 6.61 6.61 0 019.5 3 6.61 6.61 0 0116 9.5 6.63 6.63 0 019.5 16zm0-14A7.5 7.5 0 1017 9.5 7.5 7.5 0 009.5 2zm.5 6v4.08h1V13H8.07v-.92H9V9H8V8zM9 6h1v1H9z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M4 10a6 6 0 1012 0 6 6 0 00-12 0m6-8a8 8 0 110 16 8 8 0 010-16m1 7v5H9V9zm0-1V6H9v2z"/></svg>';
   static const String info_filled =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M10 0C4.477 0 0 4.477 0 10s4.477 10 10 10 10-4.477 10-10S15.523 0 10 0zM9 5h2v2H9zm0 4h2v6H9z"/></svg>';
   static const String italic_a =
@@ -404,6 +412,14 @@ class Ooui {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M1 12h18v7H1zM11 1v8h8V1zm2 2h4v4h-4z"/></svg>';
   static const String page_settings =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><circle cx="10" cy="10" r="1.75" fill="currentColor"/><path fill="currentColor" d="M15 1H5a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V3a2 2 0 00-2-2zm0 9.75-1.37.25a3.73 3.73 0 01-.38.93l.82 1.07L13 14.07l-1.12-.82a3.73 3.73 0 01-.93.38l-.2 1.37h-1.5L9 13.63a3.73 3.73 0 01-.93-.38L7 14.07 5.93 13l.82-1.12a3.73 3.73 0 01-.38-.88L5 10.75v-1.5L6.37 9a3.72 3.72 0 01.38-.93L5.93 7 7 5.93l1.12.82A3.73 3.73 0 019 6.37L9.25 5h1.5L11 6.37a3.74 3.74 0 01.93.38L13 5.93 14.07 7l-.82 1.12a3.73 3.73 0 01.38.93l1.37.2z"/></svg>';
+  static const String palette_ltr =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M20 10a5 5 0 01-5 5h-2v2a3 3 0 01-3 3 10 10 0 1110-10Zm-6-5.5a1.5 1.5 0 10-3 0 1.5 1.5 0 003 0Zm1.5 5.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3ZM9 4.5a1.5 1.5 0 10-3 0 1.5 1.5 0 003 0ZM4.5 10a1.5 1.5 0 100-3 1.5 1.5 0 000 3Z"/></svg>';
+  static const String palette_rtl =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M0 10a5 5 0 005 5h2v2a3 3 0 003 3A10 10 0 100 10Zm6-5.5a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0ZM4.5 10a1.5 1.5 0 110-3 1.5 1.5 0 010 3ZM11 4.5a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0Zm4.5 5.5a1.5 1.5 0 110-3 1.5 1.5 0 010 3Z"/></svg>';
+  static const String paste_ltr =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M3 3h8v2h2V3c0-1.1-.895-2-2-2H3c-1.1 0-2 .895-2 2v8c0 1.1.895 2 2 2h2v-2H3zm4 12v2c0 1.1.895 2 2 2h8c1.1 0 2-.895 2-2V9c0-1.1-.895-2-2-2h-2v2h2v8H9v-2z"/><path fill="currentColor" d="M10 5H8v3H5v2h3v3h2v-3h3V8h-3z"/></svg>';
+  static const String paste_rtl =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M17 3H9v2H7V3c0-1.1.895-2 2-2h8c1.1 0 2 .895 2 2v8c0 1.1-.895 2-2 2h-2v-2h2zm-4 12v2c0 1.1-.895 2-2 2H3c-1.1 0-2-.895-2-2V9c0-1.1.895-2 2-2h2v2H3v8h8v-2z"/><path fill="currentColor" d="M10 5h2v3h3v2h-3v3h-2v-3H7V8h3z"/></svg>';
   static const String pause =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><rect width="6" height="16" x="3" y="2" fill="currentColor" rx="1"/><rect width="6" height="16" x="11" y="2" fill="currentColor" rx="1"/></svg>';
   static const String play =
@@ -451,7 +467,7 @@ class Ooui {
   static const String sandbox =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M8 12V9l6-6 3 3-6 6H8zm10-7-3-3 2-2 3 3-2 2zM8 2h2v2H8zM4 2h2v2H4zM0 3a1 1 0 011-1h1v2H0V3zm0 3h2v2H0zm0 4h2v2H0zm0 4h2v2H0zm0 4h2v2H1a1 1 0 01-1-1v-1zm4 0h2v2H4zm4 0h2v2H8zm4 0h2v1a1 1 0 01-1 1h-1v-2zm0-4h2v2h-2z"/></svg>';
   static const String search =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M12.2 13.6a7 7 0 111.4-1.4l5.4 5.4-1.4 1.4-5.4-5.4zM3 8a5 5 0 1010 0A5 5 0 103 8z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M12.2 13.6a7 7 0 111.4-1.4l5.4 5.4-1.4 1.4zM3 8a5 5 0 1010 0A5 5 0 003 8z"/></svg>';
   static const String search_case_sensitive =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M11.59 15.87h-1.52a.64.64 0 01-.42-.13.84.84 0 01-.24-.32l-1-2.67H3.18l-1 2.67a.8.8 0 01-.23.31.63.63 0 01-.42.14H0L4.8 3.76h2zm-3.72-4.54L6.2 6.91a12.12 12.12 0 01-.41-1.3q-.09.4-.2.73c-.07.22-.14.42-.2.58l-1.67 4.41zm5.58-2.84a4.91 4.91 0 013.46-1.35 3.41 3.41 0 011.32.24 2.62 2.62 0 011 .68 3 3 0 01.6 1 4.08 4.08 0 01.17 1.36v5.45h-.81a.78.78 0 01-.39-.08.61.61 0 01-.23-.32l-.18-.7a7.87 7.87 0 01-.65.53 4.12 4.12 0 01-.66.39 3.3 3.3 0 01-.73.24 4.3 4.3 0 01-.86.08 3.18 3.18 0 01-1-.14 2.12 2.12 0 01-.78-.43 2 2 0 01-.52-.72 2.48 2.48 0 01-.19-1 2 2 0 01.26-1 2.42 2.42 0 01.87-.85 5.66 5.66 0 011.6-.62 11.7 11.7 0 012.51-.25v-.57A2.06 2.06 0 0017.85 9a1.46 1.46 0 00-1.16-.45 2.53 2.53 0 00-.87.13 3.9 3.9 0 00-.62.32l-.46.28a.77.77 0 01-.43.13.52.52 0 01-.32-.1.81.81 0 01-.21-.24zm4.79 3.63a11.49 11.49 0 00-1.63.15 4.61 4.61 0 00-1.08.31 1.42 1.42 0 00-.59.45 1 1 0 00-.18.57 1.25 1.25 0 00.1.52.94.94 0 00.27.35 1.08 1.08 0 00.4.2 1.93 1.93 0 00.51.06 2.59 2.59 0 001.21-.27 3.79 3.79 0 001-.77z"/></svg>';
   static const String search_diacritics =
@@ -633,7 +649,7 @@ class Ooui {
   static const String volume_up_rtl =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M16 6v8l-5.2 3.9c-.3.3-.8 0-.8-.5V2.6c0-.5.5-.8.8-.5zm0 8h3a1 1 0 001-1V7a1 1 0 00-1-1h-3M3.6 17.4a1 1 0 00.7-1.7 8 8 0 010-11.4A1 1 0 003 3a10 10 0 000 14.2 1 1 0 00.7.3z"/><path fill="currentColor" d="M6.5 14.5a1 1 0 00.7-.3 1 1 0 000-1.4 4 4 0 010-5.6 1 1 0 00-1.4-1.4 6 6 0 000 8.4 1 1 0 00.7.3z"/></svg>';
   static const String watchlist_ltr =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M1 3h16v2H1V3Zm0 6h6v2H1V9Zm0 6h8v2H1v-2Zm8-4.24h3.85L14.5 7l1.65 3.76H20l-3 3.17.9 4.05-3.4-2.14L11.1 18l.9-4.05-3-3.19Z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M1 3h16v2H1Zm0 6h6v2H1Zm0 6h8v2H1Zm8-4.24h3.85L14.5 7l1.65 3.76H20l-3 3.17.9 4.05-3.4-2.14L11.1 18l.9-4.05Z"/></svg>';
   static const String watchlist_rtl =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M19 3H3v2h16zm0 6h-6v2h6zm0 6h-8v2h8zm-8-4.24H7.15L5.5 7l-1.65 3.76H0l3 3.17-.9 4.05 3.4-2.14L8.9 18 8 13.95Z"/></svg>';
   static const String wiki_text =
@@ -641,9 +657,9 @@ class Ooui {
   static const String window =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M2 2a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V4a2 2 0 00-2-2zm0 2h16v12H2z"/><path fill="currentColor" d="M4 6h12v2H4z"/></svg>';
   static const String zoom_in =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M8 15a7 7 0 004.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 108 15Zm0-2A5 5 0 108 3a5 5 0 000 10Zm1-6h2v2H9v2H7V9H5V7h2V5h2v2Z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M8 15a7 7 0 004.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 108 15Zm0-2A5 5 0 118 3a5 5 0 010 10Zm1-6h2v2H9v2H7V9H5V7h2V5h2Z"/></svg>';
   static const String zoom_out =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M8 15a7 7 0 004.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 108 15Zm0-2A5 5 0 108 3a5 5 0 000 10Zm3-6H5v2h6V7Z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M8 15a7 7 0 004.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 108 15Zm0-2A5 5 0 118 3a5 5 0 010 10ZM5 7h6v2H5Z"/></svg>';
   static const List iconsList = [
     add,
     alert,
@@ -708,6 +724,10 @@ class Ooui {
     close,
     code,
     collapse,
+    copy_ltr,
+    copy_rtl,
+    cut_ltr,
+    cut_rtl,
     database,
     die,
     double_chevron_end_ltr,
@@ -847,6 +867,10 @@ class Ooui {
     outline_ltr,
     outline_rtl,
     page_settings,
+    palette_ltr,
+    palette_rtl,
+    paste_ltr,
+    paste_rtl,
     pause,
     play,
     previous_ltr,

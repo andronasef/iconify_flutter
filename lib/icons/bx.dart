@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/bx
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/bx
 class Bx {
   static const String abacus =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 3h2v18H2zm18 0h2v18h-2zM5 13h2v1h2v-1h2v1h2v-1h4v1h2v-4h-2v1h-4v-1h-2v1H9v-1H7v1H5zm0-9v4h2V7h8v1h2V7h2V5h-2V4h-2v1H7V4zm0 13v3h2v-1h2v1h2v-1h8v-2h-8v-1H9v1H7v-1H5z"/></svg>';
@@ -1984,6 +1984,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M10.296 7.71 14.621 12l-4.325 4.29 1.408 1.42L17.461 12l-5.757-5.71z"/><path fill="currentColor" d="M6.704 6.29 5.296 7.71 9.621 12l-4.325 4.29 1.408 1.42L12.461 12z"/></svg>';
   static const String chevrons_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m6.293 11.293 1.414 1.414L12 8.414l4.293 4.293 1.414-1.414L12 5.586z"/><path fill="currentColor" d="m6.293 16.293 1.414 1.414L12 13.414l4.293 4.293 1.414-1.414L12 10.586z"/></svg>';
+  static const String child =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="12" cy="6" r="2" fill="currentColor"/><path fill="currentColor" d="M14 9h-4a1 1 0 00-.8.4l-3 4 1.6 1.2L9 13v7h2v-4h2v4h2v-7l1.2 1.6 1.6-1.2-3-4A1 1 0 0014 9z"/></svg>';
   static const String chip =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9 9h6v6H9z"/><path fill="currentColor" d="M20 6c0-1.103-.897-2-2-2h-2V2h-2v2h-4V2H8v2H6c-1.103 0-2 .897-2 2v2H2v2h2v4H2v2h2v2c0 1.103.897 2 2 2h2v2h2v-2h4v2h2v-2h2c1.103 0 2-.897 2-2v-2h2v-2h-2v-4h2V8h-2V6zM6 18V6h12l.002 12H6z"/></svg>';
   static const String church =
@@ -2392,6 +2394,10 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M3 13h1v7c0 1.103.897 2 2 2h12c1.103 0 2-.897 2-2v-7h1a1 1 0 00.707-1.707l-9-9a.999.999 0 00-1.414 0l-9 9A1 1 0 003 13zm9-8.586 6 6V15l.001 5H6v-9.586l6-6z"/><path fill="currentColor" d="M12 18c3.703 0 4.901-3.539 4.95-3.689l-1.9-.621c-.008.023-.781 2.31-3.05 2.31-2.238 0-3.02-2.221-3.051-2.316l-1.899.627C7.099 14.461 8.297 18 12 18z"/></svg>';
   static const String horizontal_center =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m5.005 15.995 4-4-4-4v3h-3v2h3zm14-5v-3l-4 4 4 4v-3h3v-2h-2.072zm-8 7h2v3h-2zm0-5h2v3h-2zm0-5h2v3h-2zm0-5h2v3h-2z"/></svg>';
+  static const String horizontal_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m11 8-4 4 4 4v-3h8v-2h-8V8zM3 18h2v3H3zm0-5h2v3H3zm0-5h2v3H3zm0-5h2v3H3z"/></svg>';
+  static const String horizontal_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13 11H5v2h8v3l4-4-4-4v3zm6-8h2v3h-2zm0 5h2v3h-2zm0 5h2v3h-2zm0 5h2v3h-2z"/></svg>';
   static const String hotel =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="7.5" cy="11.5" r="2.5" fill="currentColor"/><path fill="currentColor" d="M17.205 7H12a1 1 0 00-1 1v7H4V6H2v14h2v-3h16v3h2v-8.205A4.8 4.8 0 0017.205 7zM13 15V9h4.205A2.798 2.798 0 0120 11.795V15h-7z"/></svg>';
   static const String hourglass =
@@ -2690,6 +2696,18 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="18" cy="6" r="3" fill="currentColor"/><path fill="currentColor" d="M18 19H5V6h8c0-.712.153-1.387.422-2H5c-1.103 0-2 .897-2 2v13c0 1.103.897 2 2 2h13c1.103 0 2-.897 2-2v-8.422A4.962 4.962 0 0118 11v8z"/></svg>';
   static const String notification_off =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m21.71 20.296-1.786-1.786c.045-.163.076-.332.076-.51v-7h-2v5.586L7.414 6H13V4H6c-.178 0-.347.031-.51.076l-1.78-1.78L2.296 3.71l18 18 1.414-1.414zM4 8.121V18c0 1.103.897 2 2 2h9.879l-2-2H6v-7.879l-2-2z"/><circle cx="18" cy="6" r="3" fill="currentColor"/></svg>';
+  static const String objects_horizontal_center =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M5 20h6v2h2v-2h6a1 1 0 001-1v-5a1 1 0 00-1-1h-6v-2h4a1 1 0 001-1V5a1 1 0 00-1-1h-4V2h-2v2H7a1 1 0 00-1 1v5a1 1 0 001 1h4v2H5a1 1 0 00-1 1v5a1 1 0 001 1zM8 6h8v3H8zm-2 9h12v3H6z"/></svg>';
+  static const String objects_horizontal_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 2h2v20H2zm19 11H7a1 1 0 00-1 1v5a1 1 0 001 1h14a1 1 0 001-1v-5a1 1 0 00-1-1zm-1 5H8v-3h12zM7 11h10a1 1 0 001-1V5a1 1 0 00-1-1H7a1 1 0 00-1 1v5a1 1 0 001 1zm1-5h8v3H8z"/></svg>';
+  static const String objects_horizontal_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20 2h2v20h-2zm-2 12a1 1 0 00-1-1H3a1 1 0 00-1 1v5a1 1 0 001 1h14a1 1 0 001-1zm-2 4H4v-3h12zm-9-7h10a1 1 0 001-1V5a1 1 0 00-1-1H7a1 1 0 00-1 1v5a1 1 0 001 1zm1-5h8v3H8z"/></svg>';
+  static const String objects_vertical_bottom =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 20h20v2H2zM4 3v14a1 1 0 001 1h5a1 1 0 001-1V3a1 1 0 00-1-1H5a1 1 0 00-1 1zm2 1h3v12H6zm7 13a1 1 0 001 1h5a1 1 0 001-1V7a1 1 0 00-1-1h-5a1 1 0 00-1 1zm2-9h3v8h-3z"/></svg>';
+  static const String objects_vertical_center =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20 7a1 1 0 00-1-1h-5a1 1 0 00-1 1v4h-2V5a1 1 0 00-1-1H5a1 1 0 00-1 1v6H2v2h2v6a1 1 0 001 1h5a1 1 0 001-1v-6h2v4a1 1 0 001 1h5a1 1 0 001-1v-4h2v-2h-2zM9 18H6V6h3zm9-2h-3V8h3z"/></svg>';
+  static const String objects_vertical_top =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 2h20v2H2zm9 19V7a1 1 0 00-1-1H5a1 1 0 00-1 1v14a1 1 0 001 1h5a1 1 0 001-1zm-2-1H6V8h3zM19 6h-5a1 1 0 00-1 1v10a1 1 0 001 1h5a1 1 0 001-1V7a1 1 0 00-1-1zm-1 10h-3V8h3z"/></svg>';
   static const String outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21 19v-9c0-1.103-.897-2-2-2h-3V5c0-1.103-.897-2-2-2H5c-1.103 0-2 .897-2 2v9c0 1.103.897 2 2 2h3v3c0 1.103.897 2 2 2h9c1.103 0 2-.897 2-2zM5 14V5h9v3h-4c-1.103 0-2 .897-2 2v4H5zm9.001 0H10v-4h4.001v4zM10 16h4c1.103 0 2-.897 2-2v-4h3l.001 9H10v-3z"/></svg>';
   static const String package =
@@ -2701,7 +2719,7 @@ class Bx {
   static const String palette =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13.4 2.096a10.08 10.08 0 00-8.937 3.331A10.054 10.054 0 002.096 13.4c.53 3.894 3.458 7.207 7.285 8.246a9.982 9.982 0 002.618.354l.142-.001a3.001 3.001 0 002.516-1.426 2.989 2.989 0 00.153-2.879l-.199-.416a1.919 1.919 0 01.094-1.912 2.004 2.004 0 012.576-.755l.412.197c.412.198.85.299 1.301.299A3.022 3.022 0 0022 12.14a9.935 9.935 0 00-.353-2.76c-1.04-3.826-4.353-6.754-8.247-7.284zm5.158 10.909-.412-.197c-1.828-.878-4.07-.198-5.135 1.494-.738 1.176-.813 2.576-.204 3.842l.199.416a.983.983 0 01-.051.961.992.992 0 01-.844.479h-.112a8.061 8.061 0 01-2.095-.283c-3.063-.831-5.403-3.479-5.826-6.586-.321-2.355.352-4.623 1.893-6.389a8.002 8.002 0 017.16-2.664c3.107.423 5.755 2.764 6.586 5.826.198.73.293 1.474.282 2.207-.012.807-.845 1.183-1.441.894z"/><circle cx="7.5" cy="14.5" r="1.5" fill="currentColor"/><circle cx="7.5" cy="10.5" r="1.5" fill="currentColor"/><circle cx="10.5" cy="7.5" r="1.5" fill="currentColor"/><circle cx="14.5" cy="7.5" r="1.5" fill="currentColor"/></svg>';
   static const String paper_plane =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20.563 3.34a1.002 1.002 0 00-.989-.079l-17 8a1 1 0 00.026 1.821L8 15.445v6.722l5.836-4.168 4.764 2.084a1 1 0 001.399-.85l1-15a1.005 1.005 0 00-.436-.893zm-2.466 14.34-5.269-2.306L16 9.167l-7.649 4.25-2.932-1.283 13.471-6.34-.793 11.886z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20.56 3.34a1 1 0 00-1-.08l-17 8a1 1 0 00-.57.92 1 1 0 00.6.9L8 15.45v6.72L13.84 18l4.76 2.08a.93.93 0 00.4.09 1 1 0 00.52-.15 1 1 0 00.48-.79l1-15a1 1 0 00-.44-.89ZM18.1 17.68l-5.27-2.31L16 9.17l-7.65 4.25-2.93-1.29 13.47-6.34Z"/></svg>';
   static const String paperclip =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17.004 5H9c-1.838 0-3.586.737-4.924 2.076C2.737 8.415 2 10.163 2 12c0 1.838.737 3.586 2.076 4.924C5.414 18.263 7.162 19 9 19h8v-2H9c-1.303 0-2.55-.529-3.51-1.49C4.529 14.55 4 13.303 4 12c0-1.302.529-2.549 1.49-3.51C6.45 7.529 7.697 7 9 7h8V6l.001 1h.003c.79 0 1.539.314 2.109.886.571.571.886 1.322.887 2.116a2.966 2.966 0 01-.884 2.11A2.988 2.988 0 0117 13H9a.99.99 0 01-.698-.3A.991.991 0 018 12c0-.252.11-.507.301-.698A.987.987 0 019 11h8V9H9c-.79 0-1.541.315-2.114.889C6.314 10.461 6 11.211 6 12s.314 1.54.888 2.114A2.974 2.974 0 009 15h8.001a4.97 4.97 0 003.528-1.473 4.967 4.967 0 00-.001-7.055A4.95 4.95 0 0017.004 5z"/></svg>';
   static const String paragraph =
@@ -2826,6 +2844,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 12V7l-7 5 7 5zm7-5-7 5 7 5z"/></svg>';
   static const String rewind_circle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8z"/><path fill="currentColor" d="M11 16V8l-5 4zm6 0V8l-5 4z"/></svg>';
+  static const String rfid =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M4 22h16a1 1 0 001-1v-8h-2v7H5V4h5V2H4a1 1 0 00-1 1v18a1 1 0 001 1z"/><circle cx="12" cy="11" r="1" fill="currentColor"/><path fill="currentColor" d="M15 11h2a5 5 0 00-5-5v2a3 3 0 013 3z"/><path fill="currentColor" d="M19 11h2a9 9 0 00-9-9v2a7 7 0 017 7zm-9.35 4.67a1 1 0 00-.14-.51.76.76 0 00-.38-.31 2.3 2.3 0 00-.75-.09H7V18h.65v-1.35h.14a1.31 1.31 0 01.33 0 .58.58 0 01.19.14 4.72 4.72 0 01.35.48l.47.7h.78l-.39-.63a3.56 3.56 0 00-.38-.53 1.25 1.25 0 00-.35-.27 1 1 0 00.64-.3.84.84 0 00.22-.57zm-.74.33a.4.4 0 01-.18.14 2.36 2.36 0 01-.59 0h-.49v-.82h1a.4.4 0 01.25.13.36.36 0 01.09.26.43.43 0 01-.08.29zm2.01.62h1.36v-.54h-1.36v-.77h1.57v-.55h-2.22V18h.65v-1.38zm2.09-1.86h.65V18h-.65zm3.09.06a2.48 2.48 0 00-.62-.06h-1.2V18h1.24a1.76 1.76 0 00.57-.07 1.07 1.07 0 00.46-.26 1.35 1.35 0 00.35-.57 2 2 0 00.1-.69 2.35 2.35 0 00-.11-.76 1.33 1.33 0 00-.31-.53 1.09 1.09 0 00-.48-.3zm.16 2.18a.74.74 0 01-.17.31.57.57 0 01-.27.13 1.79 1.79 0 01-.39 0h-.49v-2.13h.29a3.06 3.06 0 01.54 0 .71.71 0 01.3.15.82.82 0 01.19.32 2.05 2.05 0 01.06.57 2.41 2.41 0 01-.06.65z"/></svg>';
   static const String right_arrow =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M5.536 21.886a1.004 1.004 0 001.033-.064l13-9a1 1 0 000-1.644l-13-9A.998.998 0 005 3v18a1 1 0 00.536.886zM7 4.909 17.243 12 7 19.091V4.909z"/></svg>';
   static const String right_arrow_alt =
@@ -2898,6 +2918,10 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m20.342 8.447 1.105-.553A.998.998 0 0021.8 6.4l-3-4A1 1 0 0018 2H6a1 1 0 00-.8.4l-3 4a1 1 0 00.352 1.494l1.105.553-1.131 2.262A5.052 5.052 0 002 12.944v.591a6.028 6.028 0 003.894 5.618l3.431 1.286a5.488 5.488 0 011.969 1.268.997.997 0 001.413 0 5.486 5.486 0 011.969-1.267l3.432-1.287A6.03 6.03 0 0022 13.535v-.591c0-.771-.183-1.545-.527-2.236l-1.131-2.261zM20 13.535a4.019 4.019 0 01-2.596 3.745l-3.431 1.287a7.5 7.5 0 00-1.974 1.101 7.515 7.515 0 00-1.974-1.102L6.596 17.28A4.019 4.019 0 014 13.535v-.591c0-.463.109-.928.316-1.342l1.131-2.261a2.003 2.003 0 00-.895-2.684l-.033-.015L6.5 4h11l1.981 2.642-.034.017a2.004 2.004 0 00-.895 2.684l1.131 2.26c.208.414.317.878.317 1.341v.591z"/></svg>';
   static const String shield_alt_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21.438 5.089a1.002 1.002 0 00-.959.015c-.684.389-1.355.577-2.053.577-2.035 0-3.952-1.629-5.722-3.39-.375-.373-1.063-.373-1.438 0C9.592 3.959 7.598 5.663 5.51 5.663c-.69 0-1.351-.184-2.018-.561-.298-.166-.658-.171-.96-.012s-.501.461-.528.801c-.011.129-.944 12.872 9.683 16.041a.99.99 0 00.286.042H12c.097 0 .192-.014.285-.041 10.657-3.17 9.695-15.916 9.684-16.044a1 1 0 00-.531-.8zm-9.452 14.842c-6.979-2.255-7.934-9.412-8.014-12.477.505.14 1.019.209 1.537.209 2.492 0 4.65-1.567 6.476-3.283 1.893 1.788 3.983 3.301 6.442 3.301.53 0 1.057-.074 1.575-.22-.074 3.065-1.021 10.217-8.016 12.47z"/></svg>';
+  static const String shield_minus =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m20.41 6.11-8-4a.94.94 0 00-.89 0l-8 4A1 1 0 003 6.9c0 .11-1 10.77 8.59 15a1 1 0 00.41.1.93.93 0 00.4-.09C21.92 17.67 21 7 21 6.9a1 1 0 00-.59-.79zM12 19.9C5.2 16.63 4.88 9.64 4.93 7.63l7-3.51 7 3.51c.13 2.01-.19 9-6.93 12.27z"/><path fill="currentColor" d="M8 11h8v2H8z"/></svg>';
+  static const String shield_plus =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11.63 21.91A.9.9 0 0012 22a1 1 0 00.41-.09C22 17.67 21 7 21 6.9a1 1 0 00-.55-.79l-8-4a1 1 0 00-.9 0l-8 4A1 1 0 003 6.9c0 .1-.92 10.77 8.63 15.01zM5 7.63l7-3.51 7 3.51c.05 2-.27 9-7 12.27C5.26 16.63 4.94 9.64 5 7.63z"/><path fill="currentColor" d="M11.06 16h2v-3h3.01v-2h-3.01V8h-2v3h-3v2h3v3z"/></svg>';
   static const String shield_quarter =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20.995 6.9a.998.998 0 00-.548-.795l-8-4a1 1 0 00-.895 0l-8 4a1.002 1.002 0 00-.547.795c-.011.107-.961 10.767 8.589 15.014a.987.987 0 00.812 0c9.55-4.247 8.6-14.906 8.589-15.014zM12 19.897V12H5.51a15.473 15.473 0 01-.544-4.365L12 4.118V12h6.46c-.759 2.74-2.498 5.979-6.46 7.897z"/></svg>';
   static const String shield_x =
@@ -2910,6 +2934,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 9a3.02 3.02 0 00-3 3c0 1.642 1.358 3 3 3 1.641 0 3-1.358 3-3 0-1.641-1.359-3-3-3z"/><path fill="currentColor" d="M12 5c-7.633 0-9.927 6.617-9.948 6.684L1.946 12l.105.316C2.073 12.383 4.367 19 12 19s9.927-6.617 9.948-6.684l.106-.316-.105-.316C21.927 11.617 19.633 5 12 5zm0 12c-5.351 0-7.424-3.846-7.926-5C4.578 10.842 6.652 7 12 7c5.351 0 7.424 3.846 7.926 5-.504 1.158-2.578 5-7.926 5z"/></svg>';
   static const String show_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14 12c-1.095 0-2-.905-2-2 0-.354.103-.683.268-.973C12.178 9.02 12.092 9 12 9a3.02 3.02 0 00-3 3c0 1.642 1.358 3 3 3 1.641 0 3-1.358 3-3 0-.092-.02-.178-.027-.268-.29.165-.619.268-.973.268z"/><path fill="currentColor" d="M12 5c-7.633 0-9.927 6.617-9.948 6.684L1.946 12l.105.316C2.073 12.383 4.367 19 12 19s9.927-6.617 9.948-6.684l.106-.316-.105-.316C21.927 11.617 19.633 5 12 5zm0 12c-5.351 0-7.424-3.846-7.926-5C4.578 10.842 6.652 7 12 7c5.351 0 7.424 3.846 7.926 5-.504 1.158-2.578 5-7.926 5z"/></svg>';
+  static const String shower =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21 18.33A6.78 6.78 0 0019.5 15a6.73 6.73 0 00-1.5 3.33 1.51 1.51 0 103 0zm-10 2A6.78 6.78 0 009.5 17 6.73 6.73 0 008 20.33 1.59 1.59 0 009.5 22a1.59 1.59 0 001.5-1.67zM14.5 22a1.59 1.59 0 001.5-1.67A6.78 6.78 0 0014.5 17a6.73 6.73 0 00-1.5 3.33A1.59 1.59 0 0014.5 22zM3 18.33A1.59 1.59 0 004.5 20 1.59 1.59 0 006 18.33 6.78 6.78 0 004.5 15 6.73 6.73 0 003 18.33zM13 4.07V2h-2v2.07A8 8 0 004 12H2v2h20v-2h-2a8 8 0 00-7-7.93zM6 12a6 6 0 0112 0z"/></svg>';
   static const String shuffle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17 17h-1.559l-9.7-10.673A1 1 0 005.001 6H2v2h2.559l4.09 4.5-4.09 4.501H2v2h3.001a1 1 0 00.74-.327L10 13.987l4.259 4.686a1 1 0 00.74.327H17v3l5-4-5-4v3z"/><path fill="currentColor" d="M15.441 8H17v3l5-3.938L17 3v3h-2.001a1 1 0 00-.74.327l-3.368 3.707 1.48 1.346L15.441 8z"/></svg>';
   static const String sidebar =
@@ -3000,6 +3026,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M6.993 12c0 2.761 2.246 5.007 5.007 5.007s5.007-2.246 5.007-5.007S14.761 6.993 12 6.993 6.993 9.239 6.993 12zM12 8.993c1.658 0 3.007 1.349 3.007 3.007S13.658 15.007 12 15.007 8.993 13.658 8.993 12 10.342 8.993 12 8.993zM10.998 19h2v3h-2zm0-17h2v3h-2zm-9 9h3v2h-3zm17 0h3v2h-3zM4.219 18.363l2.12-2.122 1.415 1.414-2.12 2.122zM16.24 6.344l2.122-2.122 1.414 1.414-2.122 2.122zM6.342 7.759 4.22 5.637l1.415-1.414 2.12 2.122zm13.434 10.605-1.414 1.414-2.122-2.122 1.414-1.414z"/></svg>';
   static const String support =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.486 2 2 6.486 2 12v4.143C2 17.167 2.897 18 4 18h1a1 1 0 001-1v-5.143a1 1 0 00-1-1h-.908C4.648 6.987 7.978 4 12 4s7.352 2.987 7.908 6.857H19a1 1 0 00-1 1V18c0 1.103-.897 2-2 2h-2v-1h-4v3h6c2.206 0 4-1.794 4-4 1.103 0 2-.833 2-1.857V12c0-5.514-4.486-10-10-10z"/></svg>';
+  static const String sushi =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C7.51 2 4 4.2 4 7v10c0 2.8 3.51 5 8 5s8-2.2 8-5V7c0-2.8-3.51-5-8-5zm0 18c-3.54 0-6-1.58-6-3v-6.67A10.52 10.52 0 0012 12a10.52 10.52 0 006-1.67V17c0 1.42-2.46 3-6 3zm0-10c-3.54 0-6-1.58-6-3s2.46-3 6-3 6 1.58 6 3-2.46 3-6 3z"/><ellipse cx="12" cy="7" fill="currentColor" rx="3" ry="1.71"/></svg>';
   static const String swim =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="19.003" cy="6.002" r="2.002" fill="currentColor"/><path fill="currentColor" d="M18.875 13.219c-.567.453-.978.781-1.878.781-.899 0-1.288-.311-1.876-.781-.68-.543-1.525-1.219-3.127-1.219-1.601 0-2.445.676-3.124 1.219-.588.47-.975.781-1.875.781-.898 0-1.286-.311-1.873-.78C4.443 12.676 3.6 12 2 12v2c.897 0 1.285.311 1.872.78.679.544 1.523 1.22 3.123 1.22s2.446-.676 3.125-1.22c.587-.47.976-.78 1.874-.78.9 0 1.311.328 1.878.781.679.543 1.524 1.219 3.125 1.219 1.602 0 2.447-.676 3.127-1.219.588-.47.977-.781 1.876-.781v-2c-1.601 0-2.446.676-3.125 1.219zM16.997 19c-.899 0-1.288-.311-1.876-.781-.68-.543-1.525-1.219-3.127-1.219-1.601 0-2.445.676-3.124 1.219-.588.47-.975.781-1.875.781-.898 0-1.286-.311-1.873-.78C4.443 17.676 3.6 17 2 17v2c.897 0 1.285.311 1.872.78.679.544 1.523 1.22 3.123 1.22s2.446-.676 3.125-1.22c.587-.47.976-.78 1.874-.78.9 0 1.311.328 1.878.781.679.543 1.524 1.219 3.125 1.219 1.602 0 2.447-.676 3.127-1.219.588-.47.977-.781 1.876-.781v-2c-1.601 0-2.446.676-3.125 1.219-.567.453-.978.781-1.878.781zM11 5.419l2.104 2.104-2.057 2.57c.286-.056.596-.093.947-.093 1.602 0 2.447.676 3.127 1.219.588.47.977.781 1.876.781.9 0 1.311-.328 1.878-.781.132-.105.274-.217.423-.326l-2.096-2.09.005-.005-5.5-5.5a.999.999 0 00-1.414 0l-4 4 1.414 1.414L11 5.419z"/></svg>';
   static const String i_sync =
@@ -3074,6 +3102,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9 10h6c1.654 0 3 1.346 3 3s-1.346 3-3 3h-3v2h3c2.757 0 5-2.243 5-5s-2.243-5-5-5H9V5L4 9l5 4v-3z"/></svg>';
   static const String unite =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M15 16a1 1 0 001-1V9a1 1 0 00-1-1H9a1 1 0 00-1 1v6a1 1 0 001 1h6z"/><path fill="currentColor" d="M5 16h1V8a2 2 0 012-2h8V5a2 2 0 00-2-2H5a2 2 0 00-2 2v9a2 2 0 002 2zm3 3a2 2 0 002 2h9a2 2 0 002-2v-9a2 2 0 00-2-2h-1v8a2 2 0 01-2 2H8v1z"/></svg>';
+  static const String universal_access =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="12" cy="7.5" r="1.5" fill="currentColor"/><path fill="currentColor" d="M12 2a10 10 0 1010 10A10 10 0 0012 2zm0 18a8 8 0 118-8 8 8 0 01-8 8z"/><path fill="currentColor" d="M16.5 10.5 16 9l-3 1h-2L8 9l-.5 1.5 3 1V13L9 17.25l1.5.75 1.25-3.5h.5L13.5 18l1.5-.75L13.5 13v-1.5l3-1z"/></svg>';
   static const String unlink =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M16.949 14.121 19.071 12a5.008 5.008 0 000-7.071 5.006 5.006 0 00-7.071 0l-.707.707 1.414 1.414.707-.707a3.007 3.007 0 014.243 0 3.005 3.005 0 010 4.243l-2.122 2.121a2.723 2.723 0 01-.844.57L13.414 12l1.414-1.414-.707-.707a4.965 4.965 0 00-3.535-1.465c-.235 0-.464.032-.691.066L3.707 2.293 2.293 3.707l18 18 1.414-1.414-5.536-5.536c.277-.184.538-.396.778-.636zm-6.363 3.536a3.007 3.007 0 01-4.243 0 3.005 3.005 0 010-4.243l1.476-1.475-1.414-1.414L4.929 12a5.008 5.008 0 000 7.071 4.983 4.983 0 003.535 1.462A4.982 4.982 0 0012 19.071l.707-.707-1.414-1.414-.707.707z"/></svg>';
   static const String up_arrow =
@@ -3108,8 +3138,12 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m15.71 15.71 2.29-2.3 2.29 2.3 1.42-1.42-2.3-2.29 2.3-2.29-1.42-1.42-2.29 2.3-2.29-2.3-1.42 1.42L16.58 12l-2.29 2.29zM12 8a3.91 3.91 0 00-4-4 3.91 3.91 0 00-4 4 3.91 3.91 0 004 4 3.91 3.91 0 004-4zM6 8a1.91 1.91 0 012-2 1.91 1.91 0 012 2 1.91 1.91 0 01-2 2 1.91 1.91 0 01-2-2zM4 18a3 3 0 013-3h2a3 3 0 013 3v1h2v-1a5 5 0 00-5-5H7a5 5 0 00-5 5v1h2z"/></svg>';
   static const String vector =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18.277 8c.347.596.985 1 1.723 1a2 2 0 000-4c-.738 0-1.376.404-1.723 1H16V4a1 1 0 00-1-1H9a1 1 0 00-1 1v2H5.723C5.376 5.404 4.738 5 4 5a2 2 0 000 4c.738 0 1.376-.404 1.723-1H8v.369C5.133 9.84 4.318 12.534 4.091 14H3a1 1 0 00-1 1v4a1 1 0 001 1h4a1 1 0 001-1v-4a1 1 0 00-1-1h-.877c.197-.959.718-2.406 2.085-3.418A.984.984 0 009 11h6a.98.98 0 00.792-.419c1.373 1.013 1.895 2.458 2.089 3.419H17a1 1 0 00-1 1v4a1 1 0 001 1h4a1 1 0 001-1v-4a1 1 0 00-1-1h-1.092c-.227-1.466-1.042-4.161-3.908-5.632V8h2.277zM6 18H4v-2h2v2zm14 0h-2v-2h2v2zm-6-9h-4V5h4v4z"/></svg>';
+  static const String vertical_bottom =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 19h3v2h-3zm-5 0h3v2h-3zm-5 0h3v2H8zm-5 0h3v2H3zM13 5h-2v8H8l4 4 4-4h-3V5z"/></svg>';
   static const String vertical_center =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13 5V2h-2v3H8l4 4 4-4zm0 17v-3h3l-4-4-4 4h3v3zM3 11h3v2H3zm5 0h3v2H8zm5 0h3v2h-3zm5 0h3v2h-3z"/></svg>';
+  static const String vertical_top =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m12 7-4 4h3v8h2v-8h3l-4-4zM3 3h3v2H3zm5 0h3v2H8zm5 0h3v2h-3zm5 0h3v2h-3z"/></svg>';
   static const String vial =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m11.95 3.564.708.707-9.193 9.193C2.521 14.408 2 15.664 2 17s.521 2.592 1.465 3.535C4.408 21.479 5.664 22 7 22s2.592-.521 3.535-1.465l9.193-9.193.707.708 1.414-1.414-8.485-8.486-1.414 1.414zM9.121 19.121c-1.133 1.133-3.109 1.133-4.242 0C4.313 18.555 4 17.802 4 17s.313-1.555.879-2.121L5.758 14h8.484l-5.121 5.121zM16.242 12H7.758l6.314-6.314 4.242 4.242L16.242 12z"/></svg>';
   static const String video =
@@ -3578,6 +3612,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M10.296 7.71 14.621 12l-4.325 4.29 1.408 1.42L17.461 12l-5.757-5.71z"/><path fill="currentColor" d="M6.704 6.29 5.296 7.71 9.621 12l-4.325 4.29 1.408 1.42L12.461 12z"/></svg>';
   static const String bx_chevrons_up =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m6.293 11.293 1.414 1.414L12 8.414l4.293 4.293 1.414-1.414L12 5.586z"/><path fill="currentColor" d="m6.293 16.293 1.414 1.414L12 13.414l4.293 4.293 1.414-1.414L12 10.586z"/></svg>';
+  static const String bx_child =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="12" cy="6" r="2" fill="currentColor"/><path fill="currentColor" d="M14 9h-4a1 1 0 00-.8.4l-3 4 1.6 1.2L9 13v7h2v-4h2v4h2v-7l1.2 1.6 1.6-1.2-3-4A1 1 0 0014 9z"/></svg>';
   static const String bx_chip =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9 9h6v6H9z"/><path fill="currentColor" d="M20 6c0-1.103-.897-2-2-2h-2V2h-2v2h-4V2H8v2H6c-1.103 0-2 .897-2 2v2H2v2h2v4H2v2h2v2c0 1.103.897 2 2 2h2v2h2v-2h4v2h2v-2h2c1.103 0 2-.897 2-2v-2h2v-2h-2v-4h2V8h-2V6zM6 18V6h12l.002 12H6z"/></svg>';
   static const String bx_church =
@@ -3986,6 +4022,10 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M3 13h1v7c0 1.103.897 2 2 2h12c1.103 0 2-.897 2-2v-7h1a1 1 0 00.707-1.707l-9-9a.999.999 0 00-1.414 0l-9 9A1 1 0 003 13zm9-8.586 6 6V15l.001 5H6v-9.586l6-6z"/><path fill="currentColor" d="M12 18c3.703 0 4.901-3.539 4.95-3.689l-1.9-.621c-.008.023-.781 2.31-3.05 2.31-2.238 0-3.02-2.221-3.051-2.316l-1.899.627C7.099 14.461 8.297 18 12 18z"/></svg>';
   static const String bx_horizontal_center =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m5.005 15.995 4-4-4-4v3h-3v2h3zm14-5v-3l-4 4 4 4v-3h3v-2h-2.072zm-8 7h2v3h-2zm0-5h2v3h-2zm0-5h2v3h-2zm0-5h2v3h-2z"/></svg>';
+  static const String bx_horizontal_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m11 8-4 4 4 4v-3h8v-2h-8V8zM3 18h2v3H3zm0-5h2v3H3zm0-5h2v3H3zm0-5h2v3H3z"/></svg>';
+  static const String bx_horizontal_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13 11H5v2h8v3l4-4-4-4v3zm6-8h2v3h-2zm0 5h2v3h-2zm0 5h2v3h-2zm0 5h2v3h-2z"/></svg>';
   static const String bx_hotel =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="7.5" cy="11.5" r="2.5" fill="currentColor"/><path fill="currentColor" d="M17.205 7H12a1 1 0 00-1 1v7H4V6H2v14h2v-3h16v3h2v-8.205A4.8 4.8 0 0017.205 7zM13 15V9h4.205A2.798 2.798 0 0120 11.795V15h-7z"/></svg>';
   static const String bx_hourglass =
@@ -4284,6 +4324,18 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="18" cy="6" r="3" fill="currentColor"/><path fill="currentColor" d="M18 19H5V6h8c0-.712.153-1.387.422-2H5c-1.103 0-2 .897-2 2v13c0 1.103.897 2 2 2h13c1.103 0 2-.897 2-2v-8.422A4.962 4.962 0 0118 11v8z"/></svg>';
   static const String bx_notification_off =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m21.71 20.296-1.786-1.786c.045-.163.076-.332.076-.51v-7h-2v5.586L7.414 6H13V4H6c-.178 0-.347.031-.51.076l-1.78-1.78L2.296 3.71l18 18 1.414-1.414zM4 8.121V18c0 1.103.897 2 2 2h9.879l-2-2H6v-7.879l-2-2z"/><circle cx="18" cy="6" r="3" fill="currentColor"/></svg>';
+  static const String bx_objects_horizontal_center =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M5 20h6v2h2v-2h6a1 1 0 001-1v-5a1 1 0 00-1-1h-6v-2h4a1 1 0 001-1V5a1 1 0 00-1-1h-4V2h-2v2H7a1 1 0 00-1 1v5a1 1 0 001 1h4v2H5a1 1 0 00-1 1v5a1 1 0 001 1zM8 6h8v3H8zm-2 9h12v3H6z"/></svg>';
+  static const String bx_objects_horizontal_left =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 2h2v20H2zm19 11H7a1 1 0 00-1 1v5a1 1 0 001 1h14a1 1 0 001-1v-5a1 1 0 00-1-1zm-1 5H8v-3h12zM7 11h10a1 1 0 001-1V5a1 1 0 00-1-1H7a1 1 0 00-1 1v5a1 1 0 001 1zm1-5h8v3H8z"/></svg>';
+  static const String bx_objects_horizontal_right =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20 2h2v20h-2zm-2 12a1 1 0 00-1-1H3a1 1 0 00-1 1v5a1 1 0 001 1h14a1 1 0 001-1zm-2 4H4v-3h12zm-9-7h10a1 1 0 001-1V5a1 1 0 00-1-1H7a1 1 0 00-1 1v5a1 1 0 001 1zm1-5h8v3H8z"/></svg>';
+  static const String bx_objects_vertical_bottom =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 20h20v2H2zM4 3v14a1 1 0 001 1h5a1 1 0 001-1V3a1 1 0 00-1-1H5a1 1 0 00-1 1zm2 1h3v12H6zm7 13a1 1 0 001 1h5a1 1 0 001-1V7a1 1 0 00-1-1h-5a1 1 0 00-1 1zm2-9h3v8h-3z"/></svg>';
+  static const String bx_objects_vertical_center =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20 7a1 1 0 00-1-1h-5a1 1 0 00-1 1v4h-2V5a1 1 0 00-1-1H5a1 1 0 00-1 1v6H2v2h2v6a1 1 0 001 1h5a1 1 0 001-1v-6h2v4a1 1 0 001 1h5a1 1 0 001-1v-4h2v-2h-2zM9 18H6V6h3zm9-2h-3V8h3z"/></svg>';
+  static const String bx_objects_vertical_top =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M2 2h20v2H2zm9 19V7a1 1 0 00-1-1H5a1 1 0 00-1 1v14a1 1 0 001 1h5a1 1 0 001-1zm-2-1H6V8h3zM19 6h-5a1 1 0 00-1 1v10a1 1 0 001 1h5a1 1 0 001-1V7a1 1 0 00-1-1zm-1 10h-3V8h3z"/></svg>';
   static const String bx_outline =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21 19v-9c0-1.103-.897-2-2-2h-3V5c0-1.103-.897-2-2-2H5c-1.103 0-2 .897-2 2v9c0 1.103.897 2 2 2h3v3c0 1.103.897 2 2 2h9c1.103 0 2-.897 2-2zM5 14V5h9v3h-4c-1.103 0-2 .897-2 2v4H5zm9.001 0H10v-4h4.001v4zM10 16h4c1.103 0 2-.897 2-2v-4h3l.001 9H10v-3z"/></svg>';
   static const String bx_package =
@@ -4295,7 +4347,7 @@ class Bx {
   static const String bx_palette =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13.4 2.096a10.08 10.08 0 00-8.937 3.331A10.054 10.054 0 002.096 13.4c.53 3.894 3.458 7.207 7.285 8.246a9.982 9.982 0 002.618.354l.142-.001a3.001 3.001 0 002.516-1.426 2.989 2.989 0 00.153-2.879l-.199-.416a1.919 1.919 0 01.094-1.912 2.004 2.004 0 012.576-.755l.412.197c.412.198.85.299 1.301.299A3.022 3.022 0 0022 12.14a9.935 9.935 0 00-.353-2.76c-1.04-3.826-4.353-6.754-8.247-7.284zm5.158 10.909-.412-.197c-1.828-.878-4.07-.198-5.135 1.494-.738 1.176-.813 2.576-.204 3.842l.199.416a.983.983 0 01-.051.961.992.992 0 01-.844.479h-.112a8.061 8.061 0 01-2.095-.283c-3.063-.831-5.403-3.479-5.826-6.586-.321-2.355.352-4.623 1.893-6.389a8.002 8.002 0 017.16-2.664c3.107.423 5.755 2.764 6.586 5.826.198.73.293 1.474.282 2.207-.012.807-.845 1.183-1.441.894z"/><circle cx="7.5" cy="14.5" r="1.5" fill="currentColor"/><circle cx="7.5" cy="10.5" r="1.5" fill="currentColor"/><circle cx="10.5" cy="7.5" r="1.5" fill="currentColor"/><circle cx="14.5" cy="7.5" r="1.5" fill="currentColor"/></svg>';
   static const String bx_paper_plane =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20.563 3.34a1.002 1.002 0 00-.989-.079l-17 8a1 1 0 00.026 1.821L8 15.445v6.722l5.836-4.168 4.764 2.084a1 1 0 001.399-.85l1-15a1.005 1.005 0 00-.436-.893zm-2.466 14.34-5.269-2.306L16 9.167l-7.649 4.25-2.932-1.283 13.471-6.34-.793 11.886z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20.56 3.34a1 1 0 00-1-.08l-17 8a1 1 0 00-.57.92 1 1 0 00.6.9L8 15.45v6.72L13.84 18l4.76 2.08a.93.93 0 00.4.09 1 1 0 00.52-.15 1 1 0 00.48-.79l1-15a1 1 0 00-.44-.89ZM18.1 17.68l-5.27-2.31L16 9.17l-7.65 4.25-2.93-1.29 13.47-6.34Z"/></svg>';
   static const String bx_paperclip =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17.004 5H9c-1.838 0-3.586.737-4.924 2.076C2.737 8.415 2 10.163 2 12c0 1.838.737 3.586 2.076 4.924C5.414 18.263 7.162 19 9 19h8v-2H9c-1.303 0-2.55-.529-3.51-1.49C4.529 14.55 4 13.303 4 12c0-1.302.529-2.549 1.49-3.51C6.45 7.529 7.697 7 9 7h8V6l.001 1h.003c.79 0 1.539.314 2.109.886.571.571.886 1.322.887 2.116a2.966 2.966 0 01-.884 2.11A2.988 2.988 0 0117 13H9a.99.99 0 01-.698-.3A.991.991 0 018 12c0-.252.11-.507.301-.698A.987.987 0 019 11h8V9H9c-.79 0-1.541.315-2.114.889C6.314 10.461 6 11.211 6 12s.314 1.54.888 2.114A2.974 2.974 0 009 15h8.001a4.97 4.97 0 003.528-1.473 4.967 4.967 0 00-.001-7.055A4.95 4.95 0 0017.004 5z"/></svg>';
   static const String bx_paragraph =
@@ -4420,6 +4472,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 12V7l-7 5 7 5zm7-5-7 5 7 5z"/></svg>';
   static const String bx_rewind_circle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8z"/><path fill="currentColor" d="M11 16V8l-5 4zm6 0V8l-5 4z"/></svg>';
+  static const String bx_rfid =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M4 22h16a1 1 0 001-1v-8h-2v7H5V4h5V2H4a1 1 0 00-1 1v18a1 1 0 001 1z"/><circle cx="12" cy="11" r="1" fill="currentColor"/><path fill="currentColor" d="M15 11h2a5 5 0 00-5-5v2a3 3 0 013 3z"/><path fill="currentColor" d="M19 11h2a9 9 0 00-9-9v2a7 7 0 017 7zm-9.35 4.67a1 1 0 00-.14-.51.76.76 0 00-.38-.31 2.3 2.3 0 00-.75-.09H7V18h.65v-1.35h.14a1.31 1.31 0 01.33 0 .58.58 0 01.19.14 4.72 4.72 0 01.35.48l.47.7h.78l-.39-.63a3.56 3.56 0 00-.38-.53 1.25 1.25 0 00-.35-.27 1 1 0 00.64-.3.84.84 0 00.22-.57zm-.74.33a.4.4 0 01-.18.14 2.36 2.36 0 01-.59 0h-.49v-.82h1a.4.4 0 01.25.13.36.36 0 01.09.26.43.43 0 01-.08.29zm2.01.62h1.36v-.54h-1.36v-.77h1.57v-.55h-2.22V18h.65v-1.38zm2.09-1.86h.65V18h-.65zm3.09.06a2.48 2.48 0 00-.62-.06h-1.2V18h1.24a1.76 1.76 0 00.57-.07 1.07 1.07 0 00.46-.26 1.35 1.35 0 00.35-.57 2 2 0 00.1-.69 2.35 2.35 0 00-.11-.76 1.33 1.33 0 00-.31-.53 1.09 1.09 0 00-.48-.3zm.16 2.18a.74.74 0 01-.17.31.57.57 0 01-.27.13 1.79 1.79 0 01-.39 0h-.49v-2.13h.29a3.06 3.06 0 01.54 0 .71.71 0 01.3.15.82.82 0 01.19.32 2.05 2.05 0 01.06.57 2.41 2.41 0 01-.06.65z"/></svg>';
   static const String bx_right_arrow =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M5.536 21.886a1.004 1.004 0 001.033-.064l13-9a1 1 0 000-1.644l-13-9A.998.998 0 005 3v18a1 1 0 00.536.886zM7 4.909 17.243 12 7 19.091V4.909z"/></svg>';
   static const String bx_right_arrow_alt =
@@ -4492,6 +4546,10 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m20.342 8.447 1.105-.553A.998.998 0 0021.8 6.4l-3-4A1 1 0 0018 2H6a1 1 0 00-.8.4l-3 4a1 1 0 00.352 1.494l1.105.553-1.131 2.262A5.052 5.052 0 002 12.944v.591a6.028 6.028 0 003.894 5.618l3.431 1.286a5.488 5.488 0 011.969 1.268.997.997 0 001.413 0 5.486 5.486 0 011.969-1.267l3.432-1.287A6.03 6.03 0 0022 13.535v-.591c0-.771-.183-1.545-.527-2.236l-1.131-2.261zM20 13.535a4.019 4.019 0 01-2.596 3.745l-3.431 1.287a7.5 7.5 0 00-1.974 1.101 7.515 7.515 0 00-1.974-1.102L6.596 17.28A4.019 4.019 0 014 13.535v-.591c0-.463.109-.928.316-1.342l1.131-2.261a2.003 2.003 0 00-.895-2.684l-.033-.015L6.5 4h11l1.981 2.642-.034.017a2.004 2.004 0 00-.895 2.684l1.131 2.26c.208.414.317.878.317 1.341v.591z"/></svg>';
   static const String bx_shield_alt_2 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21.438 5.089a1.002 1.002 0 00-.959.015c-.684.389-1.355.577-2.053.577-2.035 0-3.952-1.629-5.722-3.39-.375-.373-1.063-.373-1.438 0C9.592 3.959 7.598 5.663 5.51 5.663c-.69 0-1.351-.184-2.018-.561-.298-.166-.658-.171-.96-.012s-.501.461-.528.801c-.011.129-.944 12.872 9.683 16.041a.99.99 0 00.286.042H12c.097 0 .192-.014.285-.041 10.657-3.17 9.695-15.916 9.684-16.044a1 1 0 00-.531-.8zm-9.452 14.842c-6.979-2.255-7.934-9.412-8.014-12.477.505.14 1.019.209 1.537.209 2.492 0 4.65-1.567 6.476-3.283 1.893 1.788 3.983 3.301 6.442 3.301.53 0 1.057-.074 1.575-.22-.074 3.065-1.021 10.217-8.016 12.47z"/></svg>';
+  static const String bx_shield_minus =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m20.41 6.11-8-4a.94.94 0 00-.89 0l-8 4A1 1 0 003 6.9c0 .11-1 10.77 8.59 15a1 1 0 00.41.1.93.93 0 00.4-.09C21.92 17.67 21 7 21 6.9a1 1 0 00-.59-.79zM12 19.9C5.2 16.63 4.88 9.64 4.93 7.63l7-3.51 7 3.51c.13 2.01-.19 9-6.93 12.27z"/><path fill="currentColor" d="M8 11h8v2H8z"/></svg>';
+  static const String bx_shield_plus =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11.63 21.91A.9.9 0 0012 22a1 1 0 00.41-.09C22 17.67 21 7 21 6.9a1 1 0 00-.55-.79l-8-4a1 1 0 00-.9 0l-8 4A1 1 0 003 6.9c0 .1-.92 10.77 8.63 15.01zM5 7.63l7-3.51 7 3.51c.05 2-.27 9-7 12.27C5.26 16.63 4.94 9.64 5 7.63z"/><path fill="currentColor" d="M11.06 16h2v-3h3.01v-2h-3.01V8h-2v3h-3v2h3v3z"/></svg>';
   static const String bx_shield_quarter =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20.995 6.9a.998.998 0 00-.548-.795l-8-4a1 1 0 00-.895 0l-8 4a1.002 1.002 0 00-.547.795c-.011.107-.961 10.767 8.589 15.014a.987.987 0 00.812 0c9.55-4.247 8.6-14.906 8.589-15.014zM12 19.897V12H5.51a15.473 15.473 0 01-.544-4.365L12 4.118V12h6.46c-.759 2.74-2.498 5.979-6.46 7.897z"/></svg>';
   static const String bx_shield_x =
@@ -4504,6 +4562,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 9a3.02 3.02 0 00-3 3c0 1.642 1.358 3 3 3 1.641 0 3-1.358 3-3 0-1.641-1.359-3-3-3z"/><path fill="currentColor" d="M12 5c-7.633 0-9.927 6.617-9.948 6.684L1.946 12l.105.316C2.073 12.383 4.367 19 12 19s9.927-6.617 9.948-6.684l.106-.316-.105-.316C21.927 11.617 19.633 5 12 5zm0 12c-5.351 0-7.424-3.846-7.926-5C4.578 10.842 6.652 7 12 7c5.351 0 7.424 3.846 7.926 5-.504 1.158-2.578 5-7.926 5z"/></svg>';
   static const String bx_show_alt =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14 12c-1.095 0-2-.905-2-2 0-.354.103-.683.268-.973C12.178 9.02 12.092 9 12 9a3.02 3.02 0 00-3 3c0 1.642 1.358 3 3 3 1.641 0 3-1.358 3-3 0-.092-.02-.178-.027-.268-.29.165-.619.268-.973.268z"/><path fill="currentColor" d="M12 5c-7.633 0-9.927 6.617-9.948 6.684L1.946 12l.105.316C2.073 12.383 4.367 19 12 19s9.927-6.617 9.948-6.684l.106-.316-.105-.316C21.927 11.617 19.633 5 12 5zm0 12c-5.351 0-7.424-3.846-7.926-5C4.578 10.842 6.652 7 12 7c5.351 0 7.424 3.846 7.926 5-.504 1.158-2.578 5-7.926 5z"/></svg>';
+  static const String bx_shower =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M21 18.33A6.78 6.78 0 0019.5 15a6.73 6.73 0 00-1.5 3.33 1.51 1.51 0 103 0zm-10 2A6.78 6.78 0 009.5 17 6.73 6.73 0 008 20.33 1.59 1.59 0 009.5 22a1.59 1.59 0 001.5-1.67zM14.5 22a1.59 1.59 0 001.5-1.67A6.78 6.78 0 0014.5 17a6.73 6.73 0 00-1.5 3.33A1.59 1.59 0 0014.5 22zM3 18.33A1.59 1.59 0 004.5 20 1.59 1.59 0 006 18.33 6.78 6.78 0 004.5 15 6.73 6.73 0 003 18.33zM13 4.07V2h-2v2.07A8 8 0 004 12H2v2h20v-2h-2a8 8 0 00-7-7.93zM6 12a6 6 0 0112 0z"/></svg>';
   static const String bx_shuffle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17 17h-1.559l-9.7-10.673A1 1 0 005.001 6H2v2h2.559l4.09 4.5-4.09 4.501H2v2h3.001a1 1 0 00.74-.327L10 13.987l4.259 4.686a1 1 0 00.74.327H17v3l5-4-5-4v3z"/><path fill="currentColor" d="M15.441 8H17v3l5-3.938L17 3v3h-2.001a1 1 0 00-.74.327l-3.368 3.707 1.48 1.346L15.441 8z"/></svg>';
   static const String bx_sidebar =
@@ -4594,6 +4654,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M6.993 12c0 2.761 2.246 5.007 5.007 5.007s5.007-2.246 5.007-5.007S14.761 6.993 12 6.993 6.993 9.239 6.993 12zM12 8.993c1.658 0 3.007 1.349 3.007 3.007S13.658 15.007 12 15.007 8.993 13.658 8.993 12 10.342 8.993 12 8.993zM10.998 19h2v3h-2zm0-17h2v3h-2zm-9 9h3v2h-3zm17 0h3v2h-3zM4.219 18.363l2.12-2.122 1.415 1.414-2.12 2.122zM16.24 6.344l2.122-2.122 1.414 1.414-2.122 2.122zM6.342 7.759 4.22 5.637l1.415-1.414 2.12 2.122zm13.434 10.605-1.414 1.414-2.122-2.122 1.414-1.414z"/></svg>';
   static const String bx_support =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.486 2 2 6.486 2 12v4.143C2 17.167 2.897 18 4 18h1a1 1 0 001-1v-5.143a1 1 0 00-1-1h-.908C4.648 6.987 7.978 4 12 4s7.352 2.987 7.908 6.857H19a1 1 0 00-1 1V18c0 1.103-.897 2-2 2h-2v-1h-4v3h6c2.206 0 4-1.794 4-4 1.103 0 2-.833 2-1.857V12c0-5.514-4.486-10-10-10z"/></svg>';
+  static const String bx_sushi =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C7.51 2 4 4.2 4 7v10c0 2.8 3.51 5 8 5s8-2.2 8-5V7c0-2.8-3.51-5-8-5zm0 18c-3.54 0-6-1.58-6-3v-6.67A10.52 10.52 0 0012 12a10.52 10.52 0 006-1.67V17c0 1.42-2.46 3-6 3zm0-10c-3.54 0-6-1.58-6-3s2.46-3 6-3 6 1.58 6 3-2.46 3-6 3z"/><ellipse cx="12" cy="7" fill="currentColor" rx="3" ry="1.71"/></svg>';
   static const String bx_swim =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="19.003" cy="6.002" r="2.002" fill="currentColor"/><path fill="currentColor" d="M18.875 13.219c-.567.453-.978.781-1.878.781-.899 0-1.288-.311-1.876-.781-.68-.543-1.525-1.219-3.127-1.219-1.601 0-2.445.676-3.124 1.219-.588.47-.975.781-1.875.781-.898 0-1.286-.311-1.873-.78C4.443 12.676 3.6 12 2 12v2c.897 0 1.285.311 1.872.78.679.544 1.523 1.22 3.123 1.22s2.446-.676 3.125-1.22c.587-.47.976-.78 1.874-.78.9 0 1.311.328 1.878.781.679.543 1.524 1.219 3.125 1.219 1.602 0 2.447-.676 3.127-1.219.588-.47.977-.781 1.876-.781v-2c-1.601 0-2.446.676-3.125 1.219zM16.997 19c-.899 0-1.288-.311-1.876-.781-.68-.543-1.525-1.219-3.127-1.219-1.601 0-2.445.676-3.124 1.219-.588.47-.975.781-1.875.781-.898 0-1.286-.311-1.873-.78C4.443 17.676 3.6 17 2 17v2c.897 0 1.285.311 1.872.78.679.544 1.523 1.22 3.123 1.22s2.446-.676 3.125-1.22c.587-.47.976-.78 1.874-.78.9 0 1.311.328 1.878.781.679.543 1.524 1.219 3.125 1.219 1.602 0 2.447-.676 3.127-1.219.588-.47.977-.781 1.876-.781v-2c-1.601 0-2.446.676-3.125 1.219-.567.453-.978.781-1.878.781zM11 5.419l2.104 2.104-2.057 2.57c.286-.056.596-.093.947-.093 1.602 0 2.447.676 3.127 1.219.588.47.977.781 1.876.781.9 0 1.311-.328 1.878-.781.132-.105.274-.217.423-.326l-2.096-2.09.005-.005-5.5-5.5a.999.999 0 00-1.414 0l-4 4 1.414 1.414L11 5.419z"/></svg>';
   static const String bx_sync =
@@ -4668,6 +4730,8 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9 10h6c1.654 0 3 1.346 3 3s-1.346 3-3 3h-3v2h3c2.757 0 5-2.243 5-5s-2.243-5-5-5H9V5L4 9l5 4v-3z"/></svg>';
   static const String bx_unite =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M15 16a1 1 0 001-1V9a1 1 0 00-1-1H9a1 1 0 00-1 1v6a1 1 0 001 1h6z"/><path fill="currentColor" d="M5 16h1V8a2 2 0 012-2h8V5a2 2 0 00-2-2H5a2 2 0 00-2 2v9a2 2 0 002 2zm3 3a2 2 0 002 2h9a2 2 0 002-2v-9a2 2 0 00-2-2h-1v8a2 2 0 01-2 2H8v1z"/></svg>';
+  static const String bx_universal_access =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><circle cx="12" cy="7.5" r="1.5" fill="currentColor"/><path fill="currentColor" d="M12 2a10 10 0 1010 10A10 10 0 0012 2zm0 18a8 8 0 118-8 8 8 0 01-8 8z"/><path fill="currentColor" d="M16.5 10.5 16 9l-3 1h-2L8 9l-.5 1.5 3 1V13L9 17.25l1.5.75 1.25-3.5h.5L13.5 18l1.5-.75L13.5 13v-1.5l3-1z"/></svg>';
   static const String bx_unlink =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M16.949 14.121 19.071 12a5.008 5.008 0 000-7.071 5.006 5.006 0 00-7.071 0l-.707.707 1.414 1.414.707-.707a3.007 3.007 0 014.243 0 3.005 3.005 0 010 4.243l-2.122 2.121a2.723 2.723 0 01-.844.57L13.414 12l1.414-1.414-.707-.707a4.965 4.965 0 00-3.535-1.465c-.235 0-.464.032-.691.066L3.707 2.293 2.293 3.707l18 18 1.414-1.414-5.536-5.536c.277-.184.538-.396.778-.636zm-6.363 3.536a3.007 3.007 0 01-4.243 0 3.005 3.005 0 010-4.243l1.476-1.475-1.414-1.414L4.929 12a5.008 5.008 0 000 7.071 4.983 4.983 0 003.535 1.462A4.982 4.982 0 0012 19.071l.707-.707-1.414-1.414-.707.707z"/></svg>';
   static const String bx_up_arrow =
@@ -4702,8 +4766,12 @@ class Bx {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m15.71 15.71 2.29-2.3 2.29 2.3 1.42-1.42-2.3-2.29 2.3-2.29-1.42-1.42-2.29 2.3-2.29-2.3-1.42 1.42L16.58 12l-2.29 2.29zM12 8a3.91 3.91 0 00-4-4 3.91 3.91 0 00-4 4 3.91 3.91 0 004 4 3.91 3.91 0 004-4zM6 8a1.91 1.91 0 012-2 1.91 1.91 0 012 2 1.91 1.91 0 01-2 2 1.91 1.91 0 01-2-2zM4 18a3 3 0 013-3h2a3 3 0 013 3v1h2v-1a5 5 0 00-5-5H7a5 5 0 00-5 5v1h2z"/></svg>';
   static const String bx_vector =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18.277 8c.347.596.985 1 1.723 1a2 2 0 000-4c-.738 0-1.376.404-1.723 1H16V4a1 1 0 00-1-1H9a1 1 0 00-1 1v2H5.723C5.376 5.404 4.738 5 4 5a2 2 0 000 4c.738 0 1.376-.404 1.723-1H8v.369C5.133 9.84 4.318 12.534 4.091 14H3a1 1 0 00-1 1v4a1 1 0 001 1h4a1 1 0 001-1v-4a1 1 0 00-1-1h-.877c.197-.959.718-2.406 2.085-3.418A.984.984 0 009 11h6a.98.98 0 00.792-.419c1.373 1.013 1.895 2.458 2.089 3.419H17a1 1 0 00-1 1v4a1 1 0 001 1h4a1 1 0 001-1v-4a1 1 0 00-1-1h-1.092c-.227-1.466-1.042-4.161-3.908-5.632V8h2.277zM6 18H4v-2h2v2zm14 0h-2v-2h2v2zm-6-9h-4V5h4v4z"/></svg>';
+  static const String bx_vertical_bottom =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M18 19h3v2h-3zm-5 0h3v2h-3zm-5 0h3v2H8zm-5 0h3v2H3zM13 5h-2v8H8l4 4 4-4h-3V5z"/></svg>';
   static const String bx_vertical_center =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M13 5V2h-2v3H8l4 4 4-4zm0 17v-3h3l-4-4-4 4h3v3zM3 11h3v2H3zm5 0h3v2H8zm5 0h3v2h-3zm5 0h3v2h-3z"/></svg>';
+  static const String bx_vertical_top =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m12 7-4 4h3v8h2v-8h3l-4-4zM3 3h3v2H3zm5 0h3v2H8zm5 0h3v2h-3zm5 0h3v2h-3z"/></svg>';
   static const String bx_vial =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m11.95 3.564.708.707-9.193 9.193C2.521 14.408 2 15.664 2 17s.521 2.592 1.465 3.535C4.408 21.479 5.664 22 7 22s2.592-.521 3.535-1.465l9.193-9.193.707.708 1.414-1.414-8.485-8.486-1.414 1.414zM9.121 19.121c-1.133 1.133-3.109 1.133-4.242 0C4.313 18.555 4 17.802 4 17s.313-1.555.879-2.121L5.758 14h8.484l-5.121 5.121zM16.242 12H7.758l6.314-6.314 4.242 4.242L16.242 12z"/></svg>';
   static const String bx_video =
@@ -5771,6 +5839,7 @@ class Bx {
     chevrons_left,
     chevrons_right,
     chevrons_up,
+    child,
     chip,
     church,
     circle,
@@ -5975,6 +6044,8 @@ class Bx {
     home_heart,
     home_smile,
     horizontal_center,
+    horizontal_left,
+    horizontal_right,
     hotel,
     hourglass,
     id_card,
@@ -6124,6 +6195,12 @@ class Bx {
     notepad,
     notification,
     notification_off,
+    objects_horizontal_center,
+    objects_horizontal_left,
+    objects_horizontal_right,
+    objects_vertical_bottom,
+    objects_vertical_center,
+    objects_vertical_top,
     outline,
     package,
     paint,
@@ -6192,6 +6269,7 @@ class Bx {
     revision,
     rewind,
     rewind_circle,
+    rfid,
     right_arrow,
     right_arrow_alt,
     right_arrow_circle,
@@ -6228,12 +6306,15 @@ class Bx {
     shield,
     shield_alt,
     shield_alt_2,
+    shield_minus,
+    shield_plus,
     shield_quarter,
     shield_x,
     shocked,
     shopping_bag,
     i_show,
     show_alt,
+    shower,
     shuffle,
     sidebar,
     signal_1,
@@ -6279,6 +6360,7 @@ class Bx {
     subdirectory_right,
     sun,
     support,
+    sushi,
     swim,
     i_sync,
     tab,
@@ -6316,6 +6398,7 @@ class Bx {
     underline,
     undo,
     unite,
+    universal_access,
     unlink,
     up_arrow,
     up_arrow_alt,
@@ -6333,7 +6416,9 @@ class Bx {
     user_voice,
     user_x,
     vector,
+    vertical_bottom,
     vertical_center,
+    vertical_top,
     vial,
     video,
     video_off,
@@ -6568,6 +6653,7 @@ class Bx {
     bx_chevrons_left,
     bx_chevrons_right,
     bx_chevrons_up,
+    bx_child,
     bx_chip,
     bx_church,
     bx_circle,
@@ -6772,6 +6858,8 @@ class Bx {
     bx_home_heart,
     bx_home_smile,
     bx_horizontal_center,
+    bx_horizontal_left,
+    bx_horizontal_right,
     bx_hotel,
     bx_hourglass,
     bx_id_card,
@@ -6921,6 +7009,12 @@ class Bx {
     bx_notepad,
     bx_notification,
     bx_notification_off,
+    bx_objects_horizontal_center,
+    bx_objects_horizontal_left,
+    bx_objects_horizontal_right,
+    bx_objects_vertical_bottom,
+    bx_objects_vertical_center,
+    bx_objects_vertical_top,
     bx_outline,
     bx_package,
     bx_paint,
@@ -6989,6 +7083,7 @@ class Bx {
     bx_revision,
     bx_rewind,
     bx_rewind_circle,
+    bx_rfid,
     bx_right_arrow,
     bx_right_arrow_alt,
     bx_right_arrow_circle,
@@ -7025,12 +7120,15 @@ class Bx {
     bx_shield,
     bx_shield_alt,
     bx_shield_alt_2,
+    bx_shield_minus,
+    bx_shield_plus,
     bx_shield_quarter,
     bx_shield_x,
     bx_shocked,
     bx_shopping_bag,
     bx_show,
     bx_show_alt,
+    bx_shower,
     bx_shuffle,
     bx_sidebar,
     bx_signal_1,
@@ -7076,6 +7174,7 @@ class Bx {
     bx_subdirectory_right,
     bx_sun,
     bx_support,
+    bx_sushi,
     bx_swim,
     bx_sync,
     bx_tab,
@@ -7113,6 +7212,7 @@ class Bx {
     bx_underline,
     bx_undo,
     bx_unite,
+    bx_universal_access,
     bx_unlink,
     bx_up_arrow,
     bx_up_arrow_alt,
@@ -7130,7 +7230,9 @@ class Bx {
     bx_user_voice,
     bx_user_x,
     bx_vector,
+    bx_vertical_bottom,
     bx_vertical_center,
+    bx_vertical_top,
     bx_vial,
     bx_video,
     bx_video_off,

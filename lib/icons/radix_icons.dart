@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/radix-icons
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/radix-icons
 class RadixIcons {
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" preserveAspectRatio="xMidYMid meet" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M.877 7.5a6.623 6.623 0 1113.246 0 6.623 6.623 0 01-13.246 0ZM7.5 1.827a5.673 5.673 0 100 11.346 5.673 5.673 0 000-11.346ZM7.125 9c-.055.127-.793 2.96-.793 2.96a.5.5 0 11-.966-.26s.88-2.827.88-3.43V6.801l-1.958-.525a.5.5 0 11.258-.966s1.654.563 2.3.563h1.309c.645 0 2.298-.563 2.298-.563a.5.5 0 11.26.966l-1.966.527V8.27c0 .603.88 3.427.88 3.427a.5.5 0 01-.966.259S7.92 9.127 7.869 9c-.05-.127-.219-.127-.219-.127h-.307s-.173 0-.218.127ZM7.5 5.12a1.125 1.125 0 100-2.25 1.125 1.125 0 000 2.25Z" clip-rule="evenodd"/></svg>';

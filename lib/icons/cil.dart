@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/cil
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/cil
 class Cil {
   static const String i_3d =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="m68.983 382.642 171.35 98.928a32.082 32.082 0 0032 0l171.352-98.929a32.093 32.093 0 0016-27.713V157.071a32.092 32.092 0 00-16-27.713L272.334 30.429a32.086 32.086 0 00-32 0L68.983 129.358a32.09 32.09 0 00-16 27.713v197.858a32.09 32.09 0 0016 27.713ZM272.333 67.38l155.351 89.691v177.378l-155.351-87.807Zm-16.051 206.947 157.155 88.828-157.1 90.7-157.158-90.73ZM84.983 157.071l155.35-89.691v179.2l-155.35 87.81Z"/></svg>';
