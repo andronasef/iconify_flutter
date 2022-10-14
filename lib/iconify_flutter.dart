@@ -3,6 +3,9 @@ library iconify_flutter;
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
+// ignore: unused_import
+import 'icons.dart';
+
 /// Similarly to Material Icons, use [Iconify] Widget to display Iconify.
 ///
 ///
