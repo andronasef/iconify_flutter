@@ -1,8 +1,8 @@
-import type { IconifyJSON } from '@iconify/iconify'
 import { notNullish } from '@antfu/utils'
+import type { IconifyJSON } from '@iconify/iconify'
 import Iconify from '@purge-icons/generated'
-import { favoritedCollections, inProgress, isFavorited, progressMessage } from '../store'
 import { isLocalMode, staticPath } from '../env'
+import { favoritedCollections, inProgress, isFavorited, progressMessage } from '../store'
 import { loadCollection, saveCollection } from '../store/indexedDB'
 import infoJSON from './collections-info.json'
 
@@ -41,7 +41,7 @@ export const sortedCollectionsInfo = computed(() => {
     .sort(
       (a, b) =>
         favoritedCollections.value.indexOf(b.id)
-      - favoritedCollections.value.indexOf(a.id),
+        - favoritedCollections.value.indexOf(a.id),
     )
 })
 

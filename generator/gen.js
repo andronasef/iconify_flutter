@@ -41,12 +41,8 @@ import { promises as fs } from 'fs';
   const inputIconSetsPath = 'generator/icon-sets/json/';
   const iconsets = await fs.readdir(inputIconSetsPath);
 
-  for (const i in iconsets) {
+  for (const iconset of iconsets) {
     // Skip Colored Iconsets
-    // TODO: Check This
-    if (parseInt(i) > 55) continue;
-
-    const iconset = iconsets[i];
     let makeit = false;
     makeIconsList.forEach((item) => {
       if (item[0] == iconset.split('.')[0])
@@ -56,6 +52,7 @@ import { promises as fs } from 'fs';
       console.log('skip ' + iconset);
       continue;
     }
+    if (iconset == 'fluent') continue;
 
     // Read file
     // if (iconset == "flat-color-icons.json") {

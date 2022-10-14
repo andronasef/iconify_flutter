@@ -18,8 +18,8 @@ jobs:
       - name: Building Icons
         run: node generator/gen.js
 
-      - name: Exporting Icons
-        run: node generator/export.js
+      # - name: Exporting Icons
+      #   run: node generator/export.js
 
       - name: Formating the Package
         run: flutter format .
