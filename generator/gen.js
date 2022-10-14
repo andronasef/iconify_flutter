@@ -69,7 +69,7 @@ import { exec } from "child_process";
         const outputPath = `./lib/icons/${iconSetNameFile}.dart`;
 
         // make new file with (iconset name).dart (File Head)
-        fs.writeFile(outputPath, `///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/${iconSet.prefix} \n class ${iconSetName} {`);
+        fs.writeFile(outputPath, `///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/${iconSet.prefix} \n class ${iconSetName} {`);
 
         // Validate, clean up, fix palette and optimise
         await iconSet.forEach(async (name, type) => {

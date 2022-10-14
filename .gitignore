@@ -42,4 +42,6 @@ website/public/lib
 release
 collections-info.json
 collections-meta.json
+.fvm/flutter_sdk
 
+.fvm/fvm_config.json

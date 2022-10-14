@@ -1,5 +1,10 @@
 ## 0.0.4
 
+- Flutter 3.0 support
+- Upgrade dependencies (flutter_svg < 1.1.5)
+
+## 0.0.4
+
 - Fix Icons starting with .\_xxxx don't work
 - Fix accessing IconList of any icon set
 
