@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/mdi-light
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/mdi-light
 class MdiLight {
   static const String account =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M11.5 14c4.142 0 7.5 1.567 7.5 3.5V20H4v-2.5c0-1.933 3.358-3.5 7.5-3.5Zm6.5 3.5c0-1.38-2.91-2.5-6.5-2.5S5 16.12 5 17.5V19h13v-1.5ZM11.5 5a3.5 3.5 0 110 7 3.5 3.5 0 010-7Zm0 1a2.5 2.5 0 100 5 2.5 2.5 0 000-5Z"/></svg>';

@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/gridicons
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/gridicons
 class Gridicons {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/></svg>';
@@ -286,14 +286,22 @@ class Gridicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M9 12h6v-2H9zm-7 0h5v-2H2zm15 0h5v-2h-5zm3 2v2l-6 6H6a2 2 0 01-2-2v-6h2v6h6v-4a2 2 0 012-2h6zM4 8V4a2 2 0 012-2h12a2 2 0 012 2v4h-2V4H6v4z"/></svg>';
   static const String reader =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M3 4v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V4H3zm7 11H5v-1h5v1zm2-2H5v-1h7v1zm0-2H5v-1h7v1zm7 4h-5v-5h5v5zm0-7H5V6h14v2z"/></svg>';
+  static const String reader_comment =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-width="1.5" d="M12.528 14.556v-.75h-8.75c-.568 0-1.028-.46-1.028-1.028v-8c0-.568.46-1.028 1.028-1.028h12.444c.568 0 1.028.46 1.028 1.028v7.948c0 .905-.438 1.756-1.175 2.282l-3.547 2.534z"/></svg>';
+  static const String reader_external =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M11.376 2.016h6.608v6.608h-1.5V4.577l-5.87 5.87-.53.53-1.061-1.06.53-.53 5.87-5.87h-4.047zM5 5.5h4V4H5a2 2 0 00-2 2v9a2 2 0 002 2h9a2 2 0 002-2v-4h-1.5v4a.5.5 0 01-.5.5H5a.5.5 0 01-.5-.5V6a.5.5 0 01.5-.5z" clip-rule="evenodd"/></svg>';
   static const String reader_follow =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M4 4.5h12V11h1.5V3h-15v12a2 2 0 002 2h7v-1.5h-7A.5.5 0 014 15zm10.5 2h-9V8h9zm-5 3h-4V11h4zM13 11h-1v1h1zm-1-1.5h-1.5v4h4v-4H13zM9.5 12h-4v1.5h4zm6.5 1.25h1.5v2.25h2.25V17H17.5v2.25H16V17h-2.25v-1.5H16z" clip-rule="evenodd"/></svg>';
   static const String reader_follow_conversation =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M20 14v-3h-2v3h-3v2h3v3h2v-3h3v-2z"/><path fill="currentColor" d="M13 16h-2l-5 5v-5H4c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h14c1.1 0 2 .9 2 2v4h-4v3h-3v4z"/></svg>';
   static const String reader_following =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M23 13.482 15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.889V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.094 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></svg>';
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><mask id="svgIDa" width="21" height="19" x="3" y="3" maskUnits="userSpaceOnUse"><path fill-rule="evenodd" d="m21 11.889-4.455 4.455-2.094-2.176L9.538 19H5c-1.1 0-2-.9-2-2V3h18v8.889zM16.508 22 24 14.482l-1.388-1.376-6.094 6.094-2.106-2.188L13 18.4l3.508 3.6zM9 14H5v-1h4v1zm-4-2h7v-1H5v1zm7-2H5V9h7v1zM5 7h14V5H5v2z" clip-rule="evenodd"/></mask><g mask="url(#svgIDa)"><path fill="currentColor" d="M1-1h24v24H1z"/></g></svg>';
   static const String reader_following_conversation =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="m16.8 14.5 3.2-3.2V5c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v9c0 1.1.9 2 2 2h2v5l8.7-8.7 2.1 2.2z"/><path fill="currentColor" d="m22.6 11.1-6.1 6.1-2.1-2.2-1.4 1.4 3.5 3.6 7.5-7.6z"/></svg>';
+  static const String reader_share =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><clipPath id="svgIDa"><path d="M0 0h20v20H0z"/></clipPath><g clip-path="url(#svgIDa)"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M11.867 6.8V3l6.8 6.65-6.8 6.65v-3.8s-10.2-.884-10.2 4.5c0-10.77 10.2-10.2 10.2-10.2z"/></g></svg>';
+  static const String reader_star =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m10 2.5 2.446 5.335h5.47l-4.582 4.24 1.559 5.425L10 14.687 5.108 17.5l1.559-5.426-4.584-4.239h5.471z"/></svg>';
   static const String reblog =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M22.086 9.914 20 7.828V18a2 2 0 01-2 2h-7v-2h7V7.828l-2.086 2.086L14.5 8.5 19 4l4.5 4.5-1.414 1.414zM6 16.172V6h7V4H6a2 2 0 00-2 2v10.172l-2.086-2.086L.5 15.5 5 20l4.5-4.5-1.414-1.414L6 16.172z"/></svg>';
   static const String recent =
@@ -546,10 +554,14 @@ class Gridicons {
     quote,
     read_more,
     reader,
+    reader_comment,
+    reader_external,
     reader_follow,
     reader_follow_conversation,
     reader_following,
     reader_following_conversation,
+    reader_share,
+    reader_star,
     reblog,
     recent,
     redo,

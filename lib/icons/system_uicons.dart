@@ -1,13 +1,13 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/system-uicons
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/system-uicons
 class SystemUicons {
   static const String airplay =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m6.5 14.5-1-.035c-1.102-.003-2-.932-2-2.034V6.465a2 2 0 012-2l10-.002a2 2 0 012 2v6.002a2 2 0 01-2 2l-1 .037"/><path d="m10.5 13.5-3 3h6z"/></g></svg>';
   static const String alarm_clock =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M11.5 4.565h-2a6 6 0 00-6 6V12.5a6 6 0 006 6h2a6 6 0 006-6v-1.935a6 6 0 00-6-6zm3.032-1.068c.884-.639 2.089-.71 2.968.003.906.734 1.258 1.96.822 2.969M6.532 3.544C5.642 2.862 4.4 2.77 3.5 3.5c-.906.734-1.258 1.96-.822 2.97"/><path d="M10.5 7.5v4H14M5 17l-2 2m13-2 2 2"/></g></svg>';
   static const String align_horizontal =
-      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m15.5 7.5-3 3 3 3m4-3h-7m-7-3 3 3-3 3m3-3h-7m9-7v14"/></svg>';
-  static const String align_vertical =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m7.5 5.5 3 3 3-3m-3-4v7m-3 7 3-3 3 3m-3-3v7m-7-9h14"/></svg>';
+  static const String align_vertical =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m15.5 7.5-3 3 3 3m4-3h-7m-7-3 3 3-3 3m3-3h-7m9-7v14"/></svg>';
   static const String angle =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 16.5a5 5 0 00-5-5"/><path d="M5.5 5.5v11h11"/></g></svg>';
   static const String archive =
@@ -78,10 +78,16 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M6.5 3.5h8a2 2 0 012 2v10a2 2 0 01-2 2h-8a2 2 0 01-2-2v-10a2 2 0 012-2z"/><path d="M7.5 3.5h4v5.012L9.5 6.5l-2 2.012z"/></g></svg>';
   static const String box =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m11.492 4.067 5 2.857A2 2 0 0117.5 8.661v4.678a2 2 0 01-1.008 1.737l-5 2.857a2 2 0 01-1.984 0l-5-2.857A2 2 0 013.5 13.339V8.661a2 2 0 011.008-1.737l5-2.857a2 2 0 011.984 0zM14 9.5l-7-4"/><path d="m4 8 5.552 2.99a2 2 0 001.896 0L17 8m-6.5 3.5V18"/></g></svg>';
+  static const String box_add =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m11.492 4.067 5 2.857A2 2 0 0117.5 8.661v4.678a2 2 0 01-1.008 1.737l-5 2.857a2 2 0 01-1.984 0l-5-2.857A2 2 0 013.5 13.339V8.661a2 2 0 011.008-1.737l5-2.857a2 2 0 011.984 0zM17.5 1.5v4m2-2h-4m-1.5 6-7-4"/><path d="m4 8 5.552 2.99a2 2 0 001.896 0L17 8m-6.5 3.5V18"/></g></svg>';
   static const String box_download =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 13.5v-8a2 2 0 00-2-2h-3a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-10a2 2 0 00-2-2h-3"/><path d="m7.5 10.5 3 3 3-3"/></g></svg>';
   static const String box_open =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m3.5 7.5 7-4 5.992 3.424A2 2 0 0117.5 8.661v4.678a2 2 0 01-1.008 1.737l-5 2.857a2 2 0 01-1.984 0l-5-2.857A2 2 0 013.5 13.339v-2.802"/><path d="M9.552 10.99a2 2 0 001.896 0L17 8m-6.5 3.5V18"/><path d="m3.5 7.5 7 4-3 1-7-4zm7-4 7 4 2-2-7-4z"/></g></svg>';
+  static const String box_remove =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m11.492 4.067 5 2.857A2 2 0 0117.5 8.661v4.678a2 2 0 01-1.008 1.737l-5 2.857a2 2 0 01-1.984 0l-5-2.857A2 2 0 013.5 13.339V8.661a2 2 0 011.008-1.737l5-2.857a2 2 0 011.984 0zM19.5 3.5h-4m-1.5 6-7-4"/><path d="m4 8 5.552 2.99a2 2 0 001.896 0L17 8m-6.5 3.5V18"/></g></svg>';
+  static const String boxes =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m10.5 15.429 3.548 1.837a1 1 0 00.907.006l2.992-1.496a1 1 0 00.553-.894v-2.764a1 1 0 00-.553-.894L14.5 9.5l-3.46 1.792a1 1 0 00-.54.888v3.249z"/><path d="m3.04 15.708 3.008 1.558a1 1 0 00.907.006L10.5 15.5v-3.382a1 1 0 00-.553-.894L6.5 9.5l-3.46 1.792a1 1 0 00-.54.888v2.64a1 1 0 00.54.888zM6.5 9.429l3.548 1.837a1 1 0 00.907.006L14.5 9.5V6.118a1 1 0 00-.553-.894l-2.992-1.496a1 1 0 00-.907.006L7.04 5.292a1 1 0 00-.54.888v3.249z"/><path d="m6.846 5.673 3.207 1.603a1 1 0 00.894 0L14.12 5.69h0M8.799 4.649 12.5 6.5m.299 4.149L16.5 12.5M4.799 10.649 8.5 12.5m2.346-.827 3.207 1.603a1 1 0 00.894 0l3.172-1.586h0m-15.273-.017 3.207 1.603a1 1 0 00.894 0l3.172-1.586h0M10.5 7.5v4m4 2V17m-8-3.5V17"/></g></svg>';
   static const String branch =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 8.5v-5h5"/><path d="m4.5 3.5 6 6v8m2-10 4-4"/></g></svg>';
   static const String briefcase =
@@ -246,6 +252,8 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M10.5 16.5c3.329 0 6-2.645 6-5.973S13.829 4.5 10.5 4.5s-6 2.698-6 6.027 2.671 5.973 6 5.973zm-6-6h2m8 0h2m-6-6v2m0 8v2"/></svg>';
   static const String cube =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m11.492 4.067 5 2.857A2 2 0 0117.5 8.661v4.678a2 2 0 01-1.008 1.737l-5 2.857a2 2 0 01-1.984 0l-5-2.857A2 2 0 013.5 13.339V8.661a2 2 0 011.008-1.737l5-2.857a2 2 0 011.984 0zM10.5 11.5V18"/><path d="m4 8 5.552 2.99a2 2 0 001.896 0L17 8"/></g></svg>';
+  static const String cubes =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m10.5 15.429 3.548 1.837a1 1 0 00.907.006l2.992-1.496a1 1 0 00.553-.894v-2.764a1 1 0 00-.553-.894L14.5 9.5l-3.46 1.792a1 1 0 00-.54.888v3.249z"/><path d="m3.04 15.708 3.008 1.558a1 1 0 00.907.006L10.5 15.5v-3.382a1 1 0 00-.553-.894L6.5 9.5l-3.46 1.792a1 1 0 00-.54.888v2.64a1 1 0 00.54.888zM6.5 9.429l3.548 1.837a1 1 0 00.907.006L14.5 9.5V6.118a1 1 0 00-.553-.894l-2.992-1.496a1 1 0 00-.907.006L7.04 5.292a1 1 0 00-.54.888v3.249z"/><path d="m6.846 5.673 3.207 1.603a1 1 0 00.894 0L14.12 5.69h0m-3.274 5.983 3.207 1.603a1 1 0 00.894 0l3.172-1.586h0m-15.273-.017 3.207 1.603a1 1 0 00.894 0l3.172-1.586h0M10.5 7.5v4m4 2V17m-8-3.5V17"/></g></svg>';
   static const String cylinder =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M5.5 5.353c0-1.3 2-2.853 5-2.853s5 1.553 5 2.853v10.294c0 1.3-2 2.853-5 2.853s-5-1.553-5-2.853V5.353z"/><path d="M5.5 5.5c0 1.38 2 3 5 3s5-1.62 5-3"/></g></svg>';
   static const String database =
@@ -588,6 +596,8 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M8.519 2.747a8 8 0 109.705 9.845"/><path d="M18.5 10.5a8 8 0 00-8-8v8z"/></g></svg>';
   static const String pie_third =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.519 2.747a8.013 8.013 0 00-5.791 5.849M10.5 2.5a8 8 0 110 16c-4.418 0-8-3.5-8-8h8v-8z"/></svg>';
+  static const String pill =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M10.5 7.5v5.817m-7-2.817a3 3 0 003 3h8a3 3 0 000-6h-8a3 3 0 00-3 3z"/></svg>';
   static const String play_button =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m4.494 5.535 12-.038a2 2 0 012 1.845l.006.155V13.5a2 2 0 01-2 2h-12a2 2 0 01-2-2V7.535a2 2 0 011.994-2z"/><path d="m9.5 12.5 3-2-3-2z"/></g></svg>';
   static const String plus =
@@ -680,6 +690,14 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m8.501 11.5-3.001 3 3.001 3"/><path d="M16.5 9.5v2a3 3 0 01-3 3h-8m6.999-5 3.001-3-3.001-3"/><path d="M4.5 11.5v-2a3 3 0 013-3h8"/></g></svg>';
   static const String side_menu =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M7.5 6.5h8m-8 3.998h5m-5 4.002h8"/><path d="M4.499 7.5c.5 0 1-.5 1-1s-.5-1-1-1-.999.5-.999 1 .499 1 .999 1zm0 4c.5 0 1-.5 1-1s-.5-1-1-1-.999.5-.999 1 .499 1 .999 1zm0 4c.5 0 1-.5 1-1s-.5-1-1-1-.999.5-.999 1 .499 1 .999 1z"/></g></svg>';
+  static const String signal_full =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M5.5 16.5v-3a1 1 0 112 0v3a1 1 0 01-2 0zm4 0v-6a1 1 0 112 0v6a1 1 0 01-2 0zm4 0v-9a1 1 0 112 0v9a1 1 0 01-2 0z"/></svg>';
+  static const String signal_low =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M5.5 16.5v-3a1 1 0 112 0v3a1 1 0 01-2 0zm4 0v-6a1 1 0 112 0v6a1 1 0 01-2 0zm4 0v-9a1 1 0 112 0v9a1 1 0 01-2 0z"/></svg>';
+  static const String signal_medium =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M5.5 16.5v-3a1 1 0 112 0v3a1 1 0 01-2 0zm4 0v-6a1 1 0 112 0v6a1 1 0 01-2 0zm4 0v-9a1 1 0 112 0v9a1 1 0 01-2 0z"/></svg>';
+  static const String signal_none =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M5.5 16.5v-3a1 1 0 112 0v3a1 1 0 01-2 0zm4 0v-6a1 1 0 112 0v6a1 1 0 01-2 0zm4 0v-9a1 1 0 112 0v9a1 1 0 01-2 0z"/></svg>';
   static const String slash_backward =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m8.5 3.5 4 14"/></svg>';
   static const String slash_forward =
@@ -722,6 +740,8 @@ class SystemUicons {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" transform="translate(1 3)"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M11.914.5H15.5a2 2 0 012 2v3.586a1 1 0 01-.293.707l-6.793 6.793a2 2 0 01-2.828 0l-3.172-3.172a2 2 0 010-2.828L11.207.793A1 1 0 0111.914.5z"/><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="m7.5 13.5-2.013 1.006A2 2 0 012.72 13.42L1.105 9.114a2 2 0 01.901-2.45L9.5 2.5"/><rect width="2" height="2" x="14" y="2" rx="1"/></g></svg>';
   static const String target =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="8"/><circle cx="10.5" cy="10.5" r="2"/><circle cx="10.5" cy="10.5" r="5"/></g></svg>';
+  static const String terminal =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M5.5 4.5h10a2 2 0 012 2v8a2 2 0 01-2 2h-10a2 2 0 01-2-2v-8a2 2 0 012-2zm5 9h3"/><path d="m6.5 12.5 2-2-2-2"/></g></svg>';
   static const String thread =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 5.5a3 3 0 00-3 3v5a3 3 0 003 3l2.468-.001 1.715 2.43a1 1 0 00.696.415l.121.008a1 1 0 00.993-.884l.007-.116.001-1.853.999.001a3 3 0 003-3v-5a3 3 0 00-3-3z"/><path d="m6.5 13.5-2 2v-4h-.906a2 2 0 01-2-1.977l-.07-6a2 2 0 012-2.023H12.5a2 2 0 012 2v2"/></g></svg>';
   static const String thumbs_down =
@@ -884,8 +904,11 @@ class SystemUicons {
     bookmark,
     bookmark_book,
     box,
+    box_add,
     box_download,
     box_open,
+    box_remove,
+    boxes,
     branch,
     briefcase,
     browser,
@@ -968,6 +991,7 @@ class SystemUicons {
     cross_circle,
     crosshair,
     cube,
+    cubes,
     cylinder,
     database,
     diamond,
@@ -1139,6 +1163,7 @@ class SystemUicons {
     pie_half,
     pie_quarter,
     pie_third,
+    pill,
     play_button,
     plus,
     plus_circle,
@@ -1185,6 +1210,10 @@ class SystemUicons {
     share_alt,
     shuffle,
     side_menu,
+    signal_full,
+    signal_low,
+    signal_medium,
+    signal_none,
     slash_backward,
     slash_forward,
     sliders,
@@ -1206,6 +1235,7 @@ class SystemUicons {
     tag_milestone,
     tags,
     target,
+    terminal,
     thread,
     thumbs_down,
     thumbs_up,

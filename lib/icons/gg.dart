@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/gg
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/gg
 class Gg {
   static const String i_abstract =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="M5 5h14v14h-3V8H5V5Z"/><path fill-rule="evenodd" d="M10 19a5 5 0 100-10 5 5 0 000 10Zm0-3a2 2 0 100-4 2 2 0 000 4Z" clip-rule="evenodd"/></g></svg>';

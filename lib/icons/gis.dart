@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/gis
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/gis
 class Gis {
   static const String i_360 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" preserveAspectRatio="xMidYMid meet" viewBox="0 0 100 100"><path fill="currentColor" d="M0 21.127v57.746c.001 1.82 1.886 3.03 3.541 2.272 0 0 3.455-1.604 11.104-3.297 7.649-1.693 19.34-3.405 35.355-3.405 16.015 0 27.706 1.712 35.355 3.405 7.65 1.693 11.104 3.297 11.104 3.297 1.655.757 3.54-.451 3.541-2.272V21.127c-.001-1.79-1.827-2.998-3.475-2.3 0 0-15.746 6.73-46.525 6.73-30.779 0-46.525-6.73-46.525-6.73-1.688-.603-3.434.953-3.475 2.3Zm5 3.504c6.39 2.027 21.643 5.926 45 5.926s38.61-3.899 45-5.926v44.426c-7.977.228-16.18-.56-24.992-4.09L51.795 44.604 36.416 57.508l-7.424-4.95L14.4 68.042c-3.017 1.35-5.923 3.034-9.4 3.004Zm70.04 12.846a6.718 6.718 0 00-6.628 6.716 6.718 6.718 0 106.627-6.716z" color="currentColor"/></svg>';

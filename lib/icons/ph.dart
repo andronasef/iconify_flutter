@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/ph
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/ph
 class Ph {
   static const String activity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256"><path fill="currentColor" d="M160 216h-.4a8.1 8.1 0 01-7.1-5.2l-57.2-150-32 70.5A8 8 0 0156 136H24a8 8 0 010-16h26.8l37.9-83.3a8.2 8.2 0 017.6-4.7 8 8 0 017.2 5.2L161 188.1l31.8-63.7a8.2 8.2 0 017.2-4.4h32a8 8 0 010 16h-27.1l-37.7 75.6a8.2 8.2 0 01-7.2 4.4Z"/></svg>';

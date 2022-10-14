@@ -1,4 +1,4 @@
-///Discover all icons of this package at https://andronasef.ninja/iconify_flutter/collection/fa6-regular
+///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/fa6-regular
 class Fa6Regular {
   static const String address_book =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M272 288h-64c-44.2 0-80 35.8-80 80 0 8.8 7.2 16 16 16h192c8.836 0 16-7.164 16-16 0-44.2-35.8-80-80-80zm-32-32c35.35 0 64-28.65 64-64s-28.65-64-64-64c-35.34 0-64 28.65-64 64s28.7 64 64 64zm256 64h-16v96h16c8.836 0 16-7.164 16-16v-64c0-8.8-7.2-16-16-16zm0-256h-16v96h16c8.8 0 16-7.2 16-16V80c0-8.84-7.2-16-16-16zm0 128h-16v96h16c8.8 0 16-7.2 16-16v-64c0-8.8-7.2-16-16-16zM384 0H96C60.65 0 32 28.65 32 64v384c0 35.35 28.65 64 64 64h288c35.35 0 64-28.65 64-64V64c0-35.35-28.7-64-64-64zm16 448c0 8.836-7.164 16-16 16H96c-8.836 0-16-7.164-16-16V64c0-8.838 7.164-16 16-16h288c8.836 0 16 7.162 16 16v384z"/></svg>';
@@ -235,6 +235,8 @@ class Fa6Regular {
   static const String hospital =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 512"><path fill="currentColor" d="M296 96c0-8.84 7.2-16 16-16h16c8.8 0 16 7.16 16 16v24h24c8.8 0 16 7.2 16 16v16c0 8.8-7.2 16-16 16h-24v24c0 8.8-7.2 16-16 16h-16c-8.8 0-16-7.2-16-16v-24h-24c-8.8 0-16-7.2-16-16v-16c0-8.8 7.2-16 16-16h24V96zM408 0c39.8 0 72 32.24 72 72v8h88c39.8 0 72 32.2 72 72v288c0 39.8-32.2 72-72 72H71.98C32.19 512 0 479.8 0 440V152c0-39.8 32.24-72 72-72h88v-8c0-39.76 32.2-72 72-72h176zm72 128v336h88c13.3 0 24-10.7 24-24V336h-56c-13.3 0-24-10.7-24-24s10.7-24 24-24h56v-48h-56c-13.3 0-24-10.7-24-24s10.7-24 24-24h56v-40c0-13.3-10.7-24-24-24h-88zM48 152v40h56c13.3 0 24 10.7 24 24s-10.7 24-24 24H48v48h56c13.3 0 24 10.7 24 24s-10.7 24-24 24H48v104c0 13.3 10.74 24 23.98 24H160V128H72c-13.25 0-24 10.7-24 24zm160 312h64v-64c0-26.5 21.5-48 48-48s48 21.5 48 48v64h64V72c0-13.25-10.7-24-24-24H232c-13.3 0-24 10.75-24 24v392z"/></svg>';
   static const String hourglass =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 384 512"><path fill="currentColor" d="M360 0c13.3 0 24 10.75 24 24s-10.7 24-24 24h-8v18.98c0 40.32-16.9 78.12-44.5 107.52L225.9 256l81.6 81.5C335.1 366 352 404.7 352 445v19h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H24c-13.25 0-24-10.7-24-24s10.75-24 24-24h8v-19c0-40.3 16.01-79 44.52-107.5L158.1 256l-81.58-81.5C48.01 145.1 32 107.3 32 66.98V48h-8C10.75 48 0 37.25 0 24S10.75 0 24 0h336zM192 289.9l-81.5 81.6C90.96 390.1 80 417.4 80 445v19h224v-19c0-27.6-11-54.9-30.5-73.5L192 289.9zm0-67.8 81.5-81.6C293 121 304 94.56 304 66.98V47.1H80v19.88c0 27.58 10.96 54.02 30.5 73.52l81.5 81.6z"/></svg>';
+  static const String hourglass_half =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 384 512"><path fill="currentColor" d="M0 24C0 10.75 10.75 0 24 0h336c13.3 0 24 10.75 24 24s-10.7 24-24 24h-8v18.98c0 40.32-16.9 78.12-44.5 107.52L225.9 256l81.6 81.5C335.1 366 352 404.7 352 445v19h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H24c-13.25 0-24-10.7-24-24s10.75-24 24-24h8v-19c0-40.3 16.01-79 44.52-107.5L158.1 256l-81.58-81.5C48.01 145.1 32 107.3 32 66.98V48h-8C10.75 48 0 37.25 0 24zm99.78 360H284.2c-3.2-4.4-6.8-8.6-10.7-12.5L192 289.9l-81.5 81.6c-3.9 3.9-8.4 8.1-10.72 12.5zM284.2 128c11.9-17.6 19.8-38.97 19.8-61.02V48H80v18.98c0 22.05 7 43.42 19.78 61.02H284.2z"/></svg>';
   static const String id_badge =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 384 512"><path fill="currentColor" d="M320 0H64C28.65 0 0 28.65 0 64v384c0 35.35 28.65 64 64 64h256c35.35 0 64-28.65 64-64V64c0-35.35-28.7-64-64-64zm16 448c0 8.836-7.164 16-16 16H64c-8.836 0-16-7.164-16-16V64c0-8.838 7.164-16 16-16h64v16c0 17.67 14.33 32 32 32h64c17.67 0 32-14.33 32-32V48h64c8.836 0 16 7.162 16 16v384zM192 288c35.35 0 64-28.65 64-64s-28.65-64-64-64c-35.3 0-64 28.7-64 64s28.7 64 64 64zm32 32h-64c-44.18 0-80 35.82-80 80 0 8.8 7.16 16 16 16h192c8.836 0 16-7.164 16-16 0-44.2-35.8-80-80-80z"/></svg>';
@@ -262,6 +264,8 @@ class Fa6Regular {
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M421.6 379.9c-.664 0-1.35.063-2.049.195a177.696 177.696 0 01-33.32 3.17c-94.81 0-174.1-77.14-174.1-175.5 0-63.19 33.79-121.3 88.73-152.6 8.467-4.812 6.339-17.66-3.279-19.44-11.2-2.078-29.53-3.746-40.9-3.746C132.3 31.1 32 132.2 32 256c0 123.6 100.1 224 223.8 224 69.04 0 132.1-31.45 173.8-82.93 5.7-7.97-.5-17.17-8-17.17zM255.8 432C158.9 432 80 353 80 256c0-76.32 48.77-141.4 116.7-165.8-21.5 34.8-33.5 75.4-33.5 117.6 0 99.44 65.13 183.9 154.9 212.8-19.6 7.5-40.7 11.4-62.3 11.4z"/></svg>';
   static const String newspaper =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M456 32H152c-30.9 0-56 25.13-56 56v320c0 13.22-10.77 24-24 24s-24-10.8-24-24V112c0-13.25-10.75-24-24-24S0 98.75 0 112v296c0 39.7 32.3 72 72 72h352c48.53 0 88-39.47 88-88V88c0-30.87-25.1-56-56-56zm8 360c0 22.06-17.94 40-40 40H139.9c2.6-7.5 4.1-15.6 4.1-24V88c0-4.406 3.594-8 8-8h304c4.406 0 8 3.594 8 8v304zM264 272h-64c-13.2 0-24 10.8-24 24s10.8 24 24 24h64c13.3 0 24-10.7 24-24s-10.7-24-24-24zm144 0h-64c-13.2 0-24 10.8-24 24s10.8 24 24 24h64c13.25 0 24-10.75 24-24s-10.7-24-24-24zm-144 80h-64c-13.25 0-24 10.75-24 24s10.75 24 24 24h64c13.25 0 24-10.75 24-24s-10.7-24-24-24zm144 0h-64c-13.2 0-24 10.8-24 24s10.75 24 24 24h64c13.25 0 24-10.75 24-24s-10.7-24-24-24zm-8-240H208c-17.67 0-32 14.33-32 32v64c0 17.67 14.33 32 32 32h192c17.67 0 32-14.33 32-32v-64c0-17.7-14.3-32-32-32z"/></svg>';
+  static const String notdef =
+      '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 384 512"><path fill="currentColor" d="M336 0H48C21.49 0 0 21.49 0 48v416c0 26.5 21.49 48 48 48h288c26.51 0 48-21.49 48-48V48c0-26.51-21.5-48-48-48zm0 90.16V421.8L221.2 256 336 90.16zM192 213.8 77.19 48h229.6L192 213.8zM162.8 256 48 421.8V90.16L162.8 256zm29.2 42.2L306.8 464H77.19L192 298.2z"/></svg>';
   static const String note_sticky =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="448" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 448 512"><path fill="currentColor" d="M384 32H64.01C28.66 32 .008 60.65.006 96L0 415.1C-.002 451.3 28.65 480 64 480h232.1c25.46 0 49.88-10.12 67.89-28.12l55.88-55.89C437.9 377.1 448 353.6 448 328.1V96c0-35.2-28.8-64-64-64zM52.69 427.3C50.94 425.6 48 421.8 48 416l.02-319.1c0-9.72 7.18-16.9 16-16.9H384c8.674 0 16 7.328 16 16v192h-88c-30.9 0-56 25.1-56 56v88H64c-5.77 0-9.56-2.9-11.31-4.7zm277.41-9.4c-7.2 7.2-16.3 11.7-26.1 13.3V344c0-4.406 3.594-8 8-8h87.23c-1.617 9.812-6.115 18.88-13.29 26.05L330.1 417.9z"/></svg>';
   static const String object_group =
@@ -443,6 +447,7 @@ class Fa6Regular {
     heart,
     hospital,
     hourglass,
+    hourglass_half,
     id_badge,
     id_card,
     image,
@@ -456,6 +461,7 @@ class Fa6Regular {
     money_bill_1,
     moon,
     newspaper,
+    notdef,
     note_sticky,
     object_group,
     object_ungroup,
