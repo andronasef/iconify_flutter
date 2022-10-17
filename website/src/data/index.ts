@@ -27,7 +27,7 @@ export interface CollectionMeta extends CollectionInfo {
 const loadedMeta = ref<CollectionMeta[]>([])
 const installed = ref<string[]>([])
 
-export const collections = infoJSON.map(c => Object.freeze(c as any as CollectionInfo))
+export const collections = infoJSON.map(c => Object.freeze(c as any as CollectionInfo)).filter(v => v.id !== 'fluent' || 'noto-v1' || 'fluent-emoji-flat')
 export const categories = Array.from(new Set(collections.map(i => i.category).filter(notNullish)))
 export const categoryFilter = ref<string | undefined>(undefined)
 
