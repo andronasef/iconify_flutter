@@ -39,10 +39,12 @@ packages:
   colorful_iconify_flutter:
     dependency: transitive
     description:
-      name: colorful_iconify_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.1"
+      path: "."
+      ref: HEAD
+      resolved-ref: "99584cd6219bdcc44af4ac8b5cd86a8057ab3b73"
+      url: "https://github.com/imhafeez/colorful_iconify_flutter.git"
+    source: git
+    version: "0.0.3"
   fake_async:
     dependency: transitive
     description:
