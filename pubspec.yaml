@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ^1.1.5
-  colorful_iconify_flutter: null
+  colorful_iconify_flutter: 
+    git: https://github.com/imhafeez/colorful_iconify_flutter.git
 
 dev_dependencies:
   flutter_test:
