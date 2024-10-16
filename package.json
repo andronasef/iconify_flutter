@@ -9,7 +9,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gen": "bun generator/gen.js && generator/export.js"
   },
   "author": "",
   "license": "ISC",

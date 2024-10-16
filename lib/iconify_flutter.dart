@@ -27,7 +27,7 @@ class Iconify extends StatelessWidget {
   Widget build(BuildContext context) {
     return SvgPicture.string(
       icon,
-      color: color,
+      colorFilter: color != null ? ColorFilter.mode(color!, BlendMode.srcIn): null,
       width: size,
       height: size,
       alignment: Alignment.center,
