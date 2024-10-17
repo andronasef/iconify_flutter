@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/mi
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/mi
 class Mi {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M12 4a1 1 0 011 1v6h6a1 1 0 110 2h-6v6a1 1 0 11-2 0v-6H5a1 1 0 110-2h6V5a1 1 0 011-1z"/></svg>';

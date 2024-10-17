@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/system-uicons
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/system-uicons
 class SystemUicons {
   static const String airplay =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" preserveAspectRatio="xMidYMid meet" viewBox="0 0 21 21"><g fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="m6.5 14.5-1-.035c-1.102-.003-2-.932-2-2.034V6.465a2 2 0 012-2l10-.002a2 2 0 012 2v6.002a2 2 0 01-2 2l-1 .037"/><path d="m10.5 13.5-3 3h6z"/></g></svg>';

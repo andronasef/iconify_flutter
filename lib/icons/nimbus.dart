@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/nimbus
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/nimbus
 class Nimbus {
   static const String accordion =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="currentColor" d="M14.75 5.9V3.49L11 2.5 9.44 3 8 2.51 6.57 3 5 2.5l-2.82.75a1.24 1.24 0 00-.93 1.2V5.9A1.25 1.25 0 000 7.15v1.5A1.25 1.25 0 001.25 9.9v1.65a1.24 1.24 0 00.93 1.2L5 13.5l1.57-.45 1.43.44 1.43-.44 1.57.45 3.75-1V9.9A1.25 1.25 0 0016 8.65v-1.5a1.25 1.25 0 00-1.25-1.25zm-11 6-1.25-.35v-7.1l1.25-.33zm1.25.3V3.8l1 .27v7.86zm2.21-.26V4.06L8 3.82l.79.24v7.88l-.79.24zm2.84 0V4.07L11 3.8v8.4zm3.45-.38-1.25.33V4.12l1.25.33z"/></svg>';

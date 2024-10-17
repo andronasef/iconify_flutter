@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/ls
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/ls
 class Ls {
   static const String i_0 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="502" height="772" preserveAspectRatio="xMidYMid meet" viewBox="0 0 502 772"><path fill="currentColor" d="M247 0c205 0 255 224 255 386s-50 386-255 386S0 546 0 386 41 0 247 0zm3 706c157 0 183-201 183-319 0-117-26-318-183-318C88 69 70 269 70 387s18 319 180 319z"/></svg>';

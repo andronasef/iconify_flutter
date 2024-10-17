@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/healthicons
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/healthicons
 class Healthicons {
   static const String i_0 =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" preserveAspectRatio="xMidYMid meet" viewBox="0 0 48 48"><path fill="currentColor" fill-rule="evenodd" d="M22 14a4 4 0 00-4 4v11.38l9.25-15.18A4 4 0 0026 14h-4Zm7.96 3.436-9.814 16.11A3.98 3.98 0 0022 34h4a4 4 0 004-4V18c0-.191-.013-.38-.04-.564ZM14 18a8 8 0 018-8h4a7.98 7.98 0 015.334 2.037A7.985 7.985 0 0134 18v12a8 8 0 01-8 8h-4c-2.37 0-4.5-1.033-5.962-2.666A7.977 7.977 0 0114 30V18Z" clip-rule="evenodd"/></svg>';

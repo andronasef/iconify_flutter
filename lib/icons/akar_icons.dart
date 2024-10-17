@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/akar-icons
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/akar-icons
 class AkarIcons {
   static const String air =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8h7a3 3 0 10-3-3M4 16h11a3 3 0 11-3 3M2 12h17a3 3 0 10-3-3"/></svg>';

@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/bpmn
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/bpmn
 class Bpmn {
   static const String ad_hoc_marker =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="2000" preserveAspectRatio="xMidYMid meet" viewBox="0 0 2000 2000"><path fill="currentColor" d="M300 1039.87c58.332-138.228 134.894-282.23 266.546-360.085 97.784-58.392 218.701-22.42 308.428 34.819 138.188 85.207 246.292 211.842 382.606 299.507 82.335 48.265 184.733 8.718 244.748-58.056 72.401-84.446 155.215-164.023 197.672-269.981v330.038c-61.331 121.67-140.231 248.152-266.392 307.169-103.228 44.44-223.148 17.789-312.524-46.586-131.02-87.979-227.486-223.69-369.854-294.78-69.172-36.004-157.377-27.545-215.331 26.623C431.412 1101.042 371.534 1231.858 300 1350v-310.13z"/></svg>';

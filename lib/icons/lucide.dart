@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/lucide
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/lucide
 class Lucide {
   static const String accessibility =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="16" cy="4" r="1"/><path d="m18 19 1-7-5.87.94M5 8l3-3 5.5 3-2.21 3.1m-7.05 3.38c-.19.58-.27 1.2-.23 1.84a5 5 0 005.31 4.67c.65-.04 1.25-.2 1.8-.46"/><path d="M13.76 17.52c.19-.58.27-1.2.23-1.84a5 5 0 00-5.31-4.67c-.65.04-1.25.2-1.8.46"/></g></svg>';

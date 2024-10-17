@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/carbon
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/carbon
 class Carbon {
   static const String i_3d_cursor =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="currentColor" d="M13 4H4v9.01h2V6h7V4zm16.49 9.12-9-5a1 1 0 00-1 0l-9 5A1 1 0 0010 14v10a1 1 0 00.52.87l9 5A1 1 0 0020 30a1.05 1.05 0 00.49-.13l9-5A1 1 0 0030 24V14a1 1 0 00-.51-.88zM19 27.3l-7-3.89v-7.72l7 3.89zm1-9.45L13.06 14 20 10.14 26.94 14zm8 5.56-7 3.89v-7.72l7-3.89z"/></svg>';

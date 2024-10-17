@@ -1,7 +1,7 @@
 Before starting ✋. I want to tell you that every star 🌟 added to my space shines my world and motivate me 💪 to make more awesome things like this one so please don't forget to give me a star and like the project.
 
 <h1 align="center">Iconify Flutter</h1>
-<a href="https://andronasef.ninja/iconify_flutter/"><img src="https://github.com/andronasef/iconify_flutter/raw/master/website/screenshots/1.png"/></a>
+<a href="https://andronasef.github.io/iconify_flutter/"><img src="https://github.com/andronasef/iconify_flutter/raw/master/website/screenshots/1.png"/></a>
 
 <div align="center" style="margin-top:10px"> 
   

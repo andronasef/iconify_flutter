@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/fluent-mdl2
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/fluent-mdl2
 class FluentMdl2 {
   static const String accept =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="2048" preserveAspectRatio="xMidYMid meet" viewBox="0 0 2048 2048"><path fill="currentColor" d="M640 1755 19 1133l90-90 531 530L1939 275l90 90L640 1755z"/></svg>';

@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/eos-icons
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/eos-icons
 class EosIcons {
   static const String i_3d_print =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M22 2v20H2V2h20Zm0-2H2a2 2 0 00-2 2v20a2 2 0 002 2h20a2 2 0 002-2V2a2 2 0 00-2-2Z"/><path fill="currentColor" d="M18 17H6v2h12v-2Zm-5 2h-2v3h2v-3Z"/><path fill="currentColor" fill-rule="evenodd" d="M9.327 7.089A1.99 1.99 0 019.272 7H2V5h7.266A1.995 1.995 0 0111 4h2a2.002 2.002 0 011.731 1H23v2h-8.272a1.997 1.997 0 01-1.186.916L12 11l-1.542-3.084a1.995 1.995 0 01-1.131-.827ZM12 7h-1.004 2.008H12Zm1-1a1 1 0 11-2 0 1 1 0 012 0Z" clip-rule="evenodd"/></svg>';

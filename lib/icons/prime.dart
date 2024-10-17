@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/prime
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/prime
 class Prime {
   static const String align_center =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M17 10.75H7a.75.75 0 010-1.5h10a.75.75 0 010 1.5Zm3-4H4a.75.75 0 010-1.5h16a.75.75 0 010 1.5Zm0 8H4a.75.75 0 010-1.5h16a.75.75 0 010 1.5Zm-3 4H7a.75.75 0 010-1.5h10a.75.75 0 010 1.5Z"/></svg>';

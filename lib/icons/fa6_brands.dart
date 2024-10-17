@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/fa6-brands
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/fa6-brands
 class Fa6Brands {
   static const String i_42_group =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="512" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 512"><path fill="currentColor" d="M320 96v320a160.019 160.019 0 00113.138-46.862 160.019 160.019 0 0034.683-174.367 160.006 160.006 0 00-86.591-86.592A160.019 160.019 0 00320 96ZM0 256l160.002 160 160.001-160L160.002 96 0 256Zm480 0a160 160 0 00160 160V96a160.002 160.002 0 00-160 160Z"/></svg>';

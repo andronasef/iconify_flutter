@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/fe
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/fe
 class Fe {
   static const String activity =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M11 19a1 1 0 01-2 0V8a1 1 0 112 0v11Zm-4 0a1 1 0 01-2 0v-7a1 1 0 012 0v7Zm6 0v-9a1 1 0 012 0v9a1 1 0 01-2 0Zm4-14a1 1 0 012 0v14a1 1 0 01-2 0V5Z"/></svg>';

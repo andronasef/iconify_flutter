@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/ci
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/ci
 class Ci {
   static const String add_column =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="currentColor" d="M14 4v8.101a7.018 7.018 0 00-2-1.427V4a2 2 0 012-2h4a2 2 0 012 2v16a2 2 0 01-2 2h-4c-.033 0-.066 0-.099-.002A7.017 7.017 0 0015.326 20H18V4h-4Z"/><path fill="currentColor" d="M14 17a5 5 0 11-10 0 5 5 0 0110 0Zm-4 3v-2h2v-2h-2v-2H8v2H6v2h2v2h2Z"/></svg>';

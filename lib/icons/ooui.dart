@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/ooui
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/ooui
 class Ooui {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 20 20"><path fill="currentColor" d="M11 9V4H9v5H4v2h5v5h2v-5h5V9z"/></svg>';

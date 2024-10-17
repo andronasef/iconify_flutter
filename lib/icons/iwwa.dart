@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/iwwa
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/iwwa
 class Iwwa {
   static const String add =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" preserveAspectRatio="xMidYMid meet" viewBox="0 0 40 40"><path fill="currentColor" d="m36.495 19.226-15.732.012.012-15.732a.763.763 0 00-1.525 0l-.012 15.733-15.733.011a.763.763 0 000 1.525l15.732-.012-.012 15.732c0 .204.082.4.223.538a.764.764 0 001.303-.538l.012-15.732 15.732-.012a.763.763 0 100-1.525z"/></svg>';

@@ -1,4 +1,4 @@
-///Discover all icons of this iconset at https://andronasef.ninja/iconify_flutter/collection/mingcute
+///Discover all icons of this iconset at https://andronasef.github.io/iconify_flutter/collection/mingcute
 class Mingcute {
   static const String add_circle_fill =
       '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="currentColor"><path d="M0 0h24v24H0z"/><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2Zm0 5a1 1 0 00-.993.883L11 8v3H8a1 1 0 00-.117 1.993L8 13h3v3a1 1 0 001.993.117L13 16v-3h3a1 1 0 00.117-1.993L16 11h-3V8a1 1 0 00-1-1Z"/></g></svg>';
