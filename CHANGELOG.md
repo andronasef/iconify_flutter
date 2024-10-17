@@ -1,3 +1,7 @@
+## 0.0.7
+
+- Fix broken icons viewr link
+
 ## 0.0.6
 
 - Upgrade dependencies
