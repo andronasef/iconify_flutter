@@ -45,3 +45,6 @@ collections-meta.json
 .fvm/flutter_sdk
 
 .fvm/fvm_config.json
+
+generator/generator
+generator/lib
